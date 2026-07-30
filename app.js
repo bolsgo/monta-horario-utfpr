@@ -6,7 +6,22 @@
    ================================================================== */
 (function () {
   "use strict";
-
+   /* ============== REMOVEDOR DE DUPLICATAS ==============
+     Lê os dados do DATA e remove blocos de horários 
+     exatamente iguais antes de montar os índices,
+     preservando salas com hífen (ex: CD-108). */
+  DATA.forEach(disciplina => {
+    disciplina.turmas.forEach(turma => {
+      if (turma.h) {
+        // Usa RegEx para capturar os blocos "5T2(CD-108)" em vez de split('-')
+        const blocos = turma.h.match(/\d[MTN]\d\s*\([^)]*\)/g);
+        if (blocos) {
+          // Remove as duplicatas exatas e junta com hífen novamente
+          turma.h = [...new Set(blocos)].join('-');
+        }
+      }
+    });
+  });
   /* ============== ÍNDICE AUXILIAR (derivado dos dados de data.js) ============== */
   const AULA_INDEX = {};
   AULAS.forEach((a, i) => { AULA_INDEX[a.code] = i; });

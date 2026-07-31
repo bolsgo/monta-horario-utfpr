@@ -1,3 +1,7 @@
+@font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap;}
+@font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Medium.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap;}
+@font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-SemiBold.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap;}
+@font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Bold.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap;}
 :root{
     --bg:#f6f1e7; --panel:#fbf8f2; --panel2:#eee6d6; --border:rgba(43,38,32,.10);
     --text:#2b2621; --muted:#83766a; --accent:#8a3324; --accent2:#33564a;
@@ -11,7 +15,7 @@
     --preview-ring:rgba(43,38,32,.4); --other-campus:#a8342a; --room-other:#8a3324;
     --danger-hover-bg:rgba(168,52,42,.1); --hover-bg:#e4d9c2; --accent-hover:#6f2a1e;
     --mini-last:#2f6fb0;
-    --font-display:'Fraunces',Georgia,serif; --font-body:'Work Sans',-apple-system,Helvetica,Arial,sans-serif;
+    --font-display:'Lexend',-apple-system,Helvetica,Arial,sans-serif; --font-body:'Lexend',-apple-system,Helvetica,Arial,sans-serif;
     
     /* New variable for the soft lines */
     --stripe: rgba(43,38,32,.04); 

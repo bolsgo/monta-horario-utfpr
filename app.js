@@ -82,6 +82,7 @@ function subjectColor(code) {
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
     let redoStack = [];
+    let lastSelectedCode = null;    // código da última matéria escolhida (destaque azul na mini-grade)
     const STORAGE_KEY = "utfpr_horario_v2";
 
     function snapshot() { return JSON.stringify(selected); }
@@ -98,24 +99,29 @@ function subjectColor(code) {
           color: subjectColor(sub.code),
           enq: t.enq, vt: t.vt, vc: t.vc, res: t.res, prio: t.prio, opt: t.opt
         };
+        lastSelectedCode = sub.code;
         this.save();
       },
+      getLastSelected() { return lastSelectedCode; },
       removeSubject(code) {
         this.pushUndo();
         delete selected[code];
         openInfo.delete(code);
+        if (lastSelectedCode === code) lastSelectedCode = null;
         this.save();
       },
       replaceSelection(newSelected) {
         this.pushUndo();
         selected = newSelected;
         openInfo.clear();
+        lastSelectedCode = null;
         this.save();
       },
       clearSelection() {
         this.pushUndo();
         selected = {};
         openInfo.clear();
+        lastSelectedCode = null;
         this.save();
       },
       // Usado só na inicialização: remove entradas cujo código/turma não
@@ -255,7 +261,7 @@ function subjectColor(code) {
       head.setAttribute("tabindex", "0");
       head.setAttribute("aria-expanded", State.isOpen(sub.code) ? "true" : "false");
       head.innerHTML = `
-        <div>
+        <div class="subject-head-text">
           <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)}</div>
           <div class="subject-code">${esc(sub.code)} ${isSelected ? `<span class="badge selected-badge">${esc(selected[sub.code].turma)}</span> <span class="subject-prof">${esc(selected[sub.code].prof || "-")}</span>` : ""}</div>
         </div>
@@ -377,7 +383,7 @@ function subjectColor(code) {
     const selected = State.getSelected();
     let html = `<caption class="visually-hidden">Grade horária semanal — as linhas são os horários de aula e as colunas os dias da semana; cada célula mostra as disciplinas alocadas naquele horário.</caption>`;
     html += "<thead><tr><th scope=\"col\" style='width:70px;'>Aula</th>";
-    DAYS.forEach(d => html += `<th scope="col">${esc(d.label)}</th>`);
+    DAYS.forEach(d => html += `<th scope="col"><span class="day-full">${esc(d.label)}</span><span class="day-med">${esc(d.label.slice(0, 3))}</span><span class="day-abbr">${esc(d.label.slice(0, 1))}</span></th>`);
     html += "</tr></thead><tbody>";
 
     let lastTurno = null;
@@ -503,12 +509,52 @@ function subjectColor(code) {
     if (rbtn) rbtn.disabled = !State.canRedo();
   }
 
+  /* ============== MINI-PRÉVIA DA GRADE (celular) ==============
+     Espelha a grade real em miniatura (uma célula por aula x dia, sem
+     texto): verde onde há uma disciplina alocada, vermelho quando dois ou
+     mais horários colidem na mesma célula. A última matéria escolhida
+     aparece em azul para ficar fácil de achar — a não ser que ela própria
+     tenha algum conflito (em qualquer horário seu), caso em que todas as
+     suas células ficam vermelhas, não só a que colide. Preenche o canto
+     vazio do cabeçalho no celular, quando a barra de ferramentas quebra
+     de linha. */
+  function renderMiniGrid() {
+    const miniGrid = document.getElementById("miniGrid");
+    if (!miniGrid) return;
+    const occ = computeOccupancy();
+    const lastCode = State.getLastSelected();
+    const conflictCodes = computeConflictCodes();
+    const lastHasConflict = !!(lastCode && conflictCodes.has(lastCode));
+    let html = "";
+    AULAS.forEach(a => {
+      DAYS.forEach(d => {
+        const occupants = occ[d.n + "-" + a.code] || [];
+        let cls = "mini-cell";
+        if (occupants.length > 1) {
+          cls += " mini-conflict";
+        } else if (occupants.length === 1) {
+          const code = occupants[0];
+          if (code === lastCode) {
+            cls += lastHasConflict ? " mini-conflict" : " mini-last";
+          } else {
+            cls += " mini-filled";
+          }
+        }
+        html += `<div class="${cls}"></div>`;
+      });
+    });
+    miniGrid.style.gridTemplateColumns = `repeat(${DAYS.length}, 1fr)`;
+    miniGrid.style.gridTemplateRows = `repeat(${AULAS.length}, 1fr)`;
+    miniGrid.innerHTML = html;
+  }
+
   function renderAll() {
     renderSubjectList();
     renderGrid();
     renderStats();
     renderLegend();
     updateUndoButton();
+    renderMiniGrid();
   }
 
   /* ============== TOAST ============== */
@@ -671,6 +717,40 @@ function subjectColor(code) {
   });
   applyTheme(localStorage.getItem(THEME_KEY) || "system");
 
+  /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular) ==============
+     A mini-grade fica fixa na tela (ver CSS) exceto em dois casos, em que
+     ela some para não duplicar informação já visível:
+     1) quando a tabela grande já está visível na tela; e
+     2) quando a página é rolada até o final (ali só há rodapé/legenda,
+        e sem isso a mini-grade "reaparecia" ao passar da tabela grande). */
+  function initMiniGridVisibility() {
+    const miniGrid = document.getElementById("miniGrid");
+    const gridWrap = document.querySelector(".grid-wrap");
+    if (!miniGrid) return;
+    let gridVisible = false;
+    let atBottom = false;
+    const applyVisibility = () => {
+      miniGrid.classList.toggle("mini-hidden", gridVisible || atBottom);
+    };
+    if (gridWrap && "IntersectionObserver" in window) {
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          gridVisible = entry.isIntersecting;
+          applyVisibility();
+        });
+      }, { threshold: 0.2 });
+      io.observe(gridWrap);
+    }
+    const checkBottom = () => {
+      const scrollBottom = window.scrollY + window.innerHeight;
+      atBottom = scrollBottom >= document.documentElement.scrollHeight - 24;
+      applyVisibility();
+    };
+    window.addEventListener("scroll", checkBottom, { passive: true });
+    window.addEventListener("resize", checkBottom);
+    checkBottom();
+  }
+
   /* ============== INIT ============== */
   State.load();
   State.pruneAndRefresh((code, sel) => {
@@ -681,4 +761,5 @@ function subjectColor(code) {
     return { slots: parseHorario(t.h), color: subjectColor(code) };
   });
   renderAll();
+  initMiniGridVisibility();
 })();

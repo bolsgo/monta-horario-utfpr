@@ -10,6 +10,7 @@
     --preview-ok-bg:rgba(51,86,74,.5); --preview-conflict-bg:rgba(168,52,42,.55);
     --preview-ring:rgba(43,38,32,.4); --other-campus:#a8342a; --room-other:#8a3324;
     --danger-hover-bg:rgba(168,52,42,.1); --hover-bg:#e4d9c2; --accent-hover:#6f2a1e;
+    --mini-last:#2f6fb0;
     --font-display:'Fraunces',Georgia,serif; --font-body:'Work Sans',-apple-system,Helvetica,Arial,sans-serif;
     
     /* New variable for the soft lines */
@@ -27,18 +28,49 @@
     --preview-ok-bg:rgba(92,147,132,.45); --preview-conflict-bg:rgba(221,115,98,.5);
     --preview-ring:rgba(0,0,0,.5); --other-campus:#e58b7e; --room-other:#e58b7e;
     --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#3a3226; --accent-hover:#a84f33;
+    --mini-last:#6fa8dc;
     
     /* New variable for the soft lines in dark mode */
     --stripe: rgba(238,230,214,.03); 
   }
   *{box-sizing:border-box;}
+  /* overflow-x:hidden (sozinho) faz o navegador computar overflow-y como
+     "auto" por baixo dos panos em vários motores — isso é regra do próprio
+     CSS quando só um dos dois eixos é definido — e isso quebra
+     position:sticky dos descendentes, especialmente em Safari/iOS (é por
+     isso que a barra de ações + mini-tabela não estavam "descendo juntas"
+     de forma confiável no celular). overflow-x:clip evita esse efeito
+     colateral mantendo o mesmo objetivo (sem scroll horizontal). */
+  html,body{overflow-x:clip;overflow-y:visible;max-width:100%;}
   body{margin:0;font-family:var(--font-body);
     background:var(--bg);color:var(--text);min-height:100vh;transition:background .15s,color .15s;}
-  header{padding:14px 26px;display:flex;align-items:center;
-    justify-content:space-between;flex-wrap:wrap;gap:10px;position:sticky;top:0;background:var(--bg);
-    z-index:100;min-height:var(--header-h);}
+  header{padding:14px 26px 6px;display:flex;align-items:center;
+    justify-content:space-between;flex-wrap:wrap;gap:10px;background:var(--bg);
+    min-height:var(--header-h);}
+  .header-title-row{display:flex;align-items:center;justify-content:space-between;gap:12px;min-width:0;width:100%;}
   header h1{font-family:var(--font-display);font-size:22px;margin:0;font-weight:600;letter-spacing:-.2px;white-space:nowrap;}
   header h1 span{color:var(--accent);font-style:italic;}
+  .header-extras{display:flex;align-items:center;gap:8px;flex-shrink:0;}
+
+  /* ============== BARRA DE AÇÕES FIXA ==============
+     Diferente do header (título, tema, github), que rola normalmente com
+     a página, esta barra com desfazer/refazer/copiar/colar/limpar fica
+     grudada no topo da tela o tempo todo via position:sticky. */
+  .action-bar{position:sticky;top:0;z-index:100;background:var(--bg);
+    padding:10px 26px;display:flex;align-items:center;gap:10px;
+    border-bottom:1px solid var(--border);}
+
+  /* ============== MINI-PRÉVIA DA GRADE (só no celular) ==============
+     Um resuminho puramente visual — sem texto — espelhando a grade real
+     (uma célula por aula x dia): verde onde há aula, vermelho só em
+     conflito. Preenche o canto vazio do topo quando a barra de
+     ferramentas quebra para a linha de baixo. */
+  /* Ancorada à barra de ações (sticky): como um elemento sticky também
+     funciona como bloco de referência para descendentes com position
+     absolute, a mini-grade acompanha a barra perfeitamente ao rolar,
+     sem precisar de cálculo via JS nem ficar "pulando" de posição. */
+  .mini-grid{display:none;position:absolute;top:100%;right:10px;}
+  .day-med,.day-abbr{display:none;}
   .toolbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;}
   button{cursor:pointer;border:none;background:var(--panel2);color:var(--text);
     padding:9px 14px;border-radius:6px;font-size:12.5px;font-weight:600;font-family:var(--font-body);
@@ -52,6 +84,11 @@
   button.danger:hover{background:var(--danger-hover-bg);}
   button:disabled{opacity:.4;cursor:not-allowed;}
   main{display:grid;grid-template-columns:320px 1fr;gap:20px;padding:20px 26px;max-width:1650px;margin:0 auto;}
+  /* Sem isso, um item de grid encolhe apenas até o tamanho do seu conteúdo
+     (min-width:auto por padrão) — como a tabela da grade tem min-width
+     próprio, a coluna do grid (e a página inteira) era empurrada para
+     além da viewport no celular, mesmo com overflow-x:hidden no body. */
+  main > *{min-width:0;}
   @media(max-width:980px){main{grid-template-columns:1fr;}}
   .panel{background:var(--panel);border-radius:10px;padding:16px;}
   .search{width:100%;padding:10px 22px 10px 4px;border-radius:0;border:none;border-bottom:1px solid var(--border);background:transparent;
@@ -69,9 +106,10 @@
   .subject.selected{box-shadow:inset 2px 0 0 var(--accent);}
   .subject-head{padding:11px 12px;display:flex;justify-content:space-between;align-items:center;cursor:pointer;gap:8px;}
   .subject-head:hover{background:var(--hover-bg);}
-  .subject-title{font-family:var(--font-display);font-size:14.5px;font-weight:600;line-height:1.3;}
-  .subject-code{color:var(--muted);font-size:11px;font-weight:500;}
-  .subject-prof{color:var(--muted);font-size:10.5px;font-weight:500;font-style:italic;}
+  .subject-head-text{min-width:0;flex:1;}
+  .subject-title{font-family:var(--font-display);font-size:14.5px;font-weight:600;line-height:1.3;overflow-wrap:break-word;}
+  .subject-code{color:var(--muted);font-size:11px;font-weight:500;display:flex;flex-wrap:wrap;align-items:center;gap:4px;}
+  .subject-prof{color:var(--muted);font-size:10.5px;font-weight:500;font-style:italic;min-width:0;overflow-wrap:anywhere;}
   /* No escuro, as cores de disciplinas selecionadas (vindas da paleta, pensada
      para fundo escuro nos blocos da grade) ficam pouco legíveis como texto
      sobre o painel escuro — clareamos e saturamos um pouco só o texto aqui. */
@@ -186,3 +224,82 @@
   .cell-block:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
   .theme-switch button:focus-visible,
   button:focus-visible{outline:2px solid var(--accent);outline-offset:1px;}
+
+  /* ============== CELULAR: grade compacta sem scroll lateral ==============
+     Colocado no final do arquivo de propósito: várias regras base de
+     table.grid/.grid-wrap/.cell-block estão espalhadas pelo CSS com a
+     mesma especificidade destas aqui, então, para garantir que estas
+     realmente vençam a cascata (não dependendo só do media query), elas
+     precisam vir depois no arquivo. */
+  @media(max-width:700px){
+    main{padding:12px 10px;gap:12px;}
+    .header-title-row{width:100%;justify-content:space-between;flex-wrap:wrap;}
+    header h1{white-space:normal;font-size:17px;line-height:1.25;}
+
+    /* Botões de ação (desfazer/refazer, copiar/colar, limpar) na barra fixa
+       (.action-bar, sticky no topo). Em vez de rolar horizontalmente,
+       agora quebram para uma segunda linha se faltar espaço — assim a
+       barra nunca ganha scroll lateral, só cresce um pouco em altura. */
+    .action-bar{padding:8px 10px;gap:6px;}
+    .action-bar .toolbar{flex-wrap:wrap;row-gap:6px;}
+    .action-bar .toolbar button{padding:7px 10px;font-size:11.5px;}
+    .action-bar .toolbar .icon-btn{width:30px;height:30px;padding:0;}
+
+    /* Mini-grade flutuante: presa logo abaixo da barra de ações fixa,
+       ancorada via CSS (position:absolute dentro do .action-bar, que é
+       sticky) — acompanha a barra sem "pular" ao rolar e sem depender de
+       cálculo via JS. Some tanto quando a tabela grande está visível na
+       tela quanto quando a página é rolada até o final (ver app.js), para
+       não duplicar informação nem sobrar flutuando sobre o rodapé. */
+    .mini-grid{
+      display:grid;width:64px;height:96px;gap:1px;padding:4px;margin-top:8px;
+      border-radius:8px;background:var(--panel2);
+      box-shadow:0 4px 14px rgba(0,0,0,.28),0 0 0 1px var(--border);
+      z-index:90;opacity:.78;
+      pointer-events:none;transition:opacity .25s ease,transform .25s ease;
+    }
+    .mini-grid.mini-hidden{opacity:0;transform:translateY(-10px) scale(.9);}
+    .mini-cell{border-radius:1px;background:var(--stripe);}
+    .mini-cell.mini-filled{background:var(--ok);}
+    .mini-cell.mini-last{background:var(--mini-last);}
+    .mini-cell.mini-conflict{background:var(--danger);}
+
+    /* Busca um pouco mais estreita: a mini-grade flutuante fica presa no
+       canto superior direito da tela, e sem essa margem seu botão de
+       limpar (x) ficava embaixo dela, impossível de clicar. */
+    .search-wrap{margin-right:76px;}
+
+    /* Mesmo problema no botão "Com conflito" (o mais à direita da linha de
+       filtros): em vez de deslocar a linha toda, encolhemos só este botão
+       (largura máxima fixa em vez de flex:1) para que sua ponta direita
+       não fique embaixo da mini-grade flutuante. Os outros dois botões
+       continuam com flex:1 e absorvem o espaço que sobra. */
+    #filterConflict{flex:0 1 auto;max-width:72px;font-size:9.5px;padding:6px 4px;white-space:normal;line-height:1.15;}
+
+    /* Nomes dos dias reduzidos a uma única letra (S, T, Q...) e a tabela
+       forçada a ocupar exatamente 100% da largura disponível, para caber
+       inteira na tela sem precisar de scroll lateral. */
+    .day-full,.day-med{display:none;}
+    .day-abbr{display:inline;}
+    .grid-wrap{overflow-x:hidden;border-radius:8px;}
+    table.grid{min-width:0;width:100%;table-layout:fixed;border-radius:8px;}
+    table.grid thead th{padding:4px 0;font-size:10px;}
+    table.grid thead th:first-child{width:26px;}
+    td.time-col{font-size:7px;padding:2px 1px;line-height:1.1;word-break:break-word;white-space:normal;}
+    table.grid td{height:26px;}
+    .cell-block{padding:1px 2px;inset:1px;border-radius:3px;}
+    .cell-block .b-name{font-size:7.5px;line-height:1.1;}
+    .cell-block .b-sub{font-size:6px;}
+    .cell-block .b-room{display:none;}
+    .legend-item{font-size:9px;}
+    .stats{gap:10px;font-size:11px;}
+  }
+  @media(max-width:420px){
+    main{padding:10px 6px;}
+    table.grid thead th{padding:3px 0;font-size:9px;}
+    table.grid thead th:first-child{width:22px;}
+    td.time-col{font-size:6.5px;}
+    table.grid td{height:23px;}
+    .cell-block .b-name{font-size:7px;}
+    .cell-block .b-sub{font-size:5.5px;}
+  }

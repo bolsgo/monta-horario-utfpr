@@ -77,6 +77,7 @@ function subjectColor(code) {
   const State = (function () {
     let selected = {};              // {codigo: {..dados da turma escolhida..}}
     let openSubjects = new Set();   // códigos de disciplinas expandidas na lista
+    let openInfo = new Set();       // códigos com o painel de detalhes da turma ativa aberto
     let filterMode = "all";         // "all" | "selected" | "conflict"
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
@@ -102,16 +103,19 @@ function subjectColor(code) {
       removeSubject(code) {
         this.pushUndo();
         delete selected[code];
+        openInfo.delete(code);
         this.save();
       },
       replaceSelection(newSelected) {
         this.pushUndo();
         selected = newSelected;
+        openInfo.clear();
         this.save();
       },
       clearSelection() {
         this.pushUndo();
         selected = {};
+        openInfo.clear();
         this.save();
       },
       // Usado só na inicialização: remove entradas cujo código/turma não
@@ -129,6 +133,14 @@ function subjectColor(code) {
       isOpen(code) { return openSubjects.has(code); },
       toggleOpen(code) {
         if (openSubjects.has(code)) openSubjects.delete(code); else openSubjects.add(code);
+      },
+
+      // Controla se o painel de detalhes (horário, vagas, etc.) de uma
+      // turma ativa está expandido. É puramente de exibição — não entra
+      // na pilha de desfazer/refazer nem é persistido.
+      isInfoOpen(code) { return openInfo.has(code); },
+      toggleInfo(code) {
+        if (openInfo.has(code)) openInfo.delete(code); else openInfo.add(code);
       },
 
       getFilterMode() { return filterMode; },
@@ -244,8 +256,8 @@ function subjectColor(code) {
       head.setAttribute("aria-expanded", State.isOpen(sub.code) ? "true" : "false");
       head.innerHTML = `
         <div>
-          <div class="subject-title" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)}</div>
-          <div class="subject-code">${esc(sub.code)} ${isSelected ? `<span class="badge selected-badge">${esc(selected[sub.code].turma)}</span>` : ""}</div>
+          <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)}</div>
+          <div class="subject-code">${esc(sub.code)} ${isSelected ? `<span class="badge selected-badge">${esc(selected[sub.code].turma)}</span> <span class="subject-prof">${esc(selected[sub.code].prof || "-")}</span>` : ""}</div>
         </div>
         <div class="chev" aria-hidden="true">▶</div>`;
       const toggleOpen = () => {
@@ -275,6 +287,7 @@ function subjectColor(code) {
         optDiv.setAttribute("aria-pressed", isActive ? "true" : "false");
         const hasOther = slots.some(s => s.otherCampus);
         optDiv.innerHTML = `
+          ${isActive ? `<button type="button" class="t-info-btn" title="Ver informações da turma" aria-label="Ver informações da turma" aria-expanded="${State.isInfoOpen(sub.code) ? "true" : "false"}">i</button>` : ""}
           <div class="t-left">
             <div class="t-turma">Turma ${esc(t.turma)} ${hasOther ? '<span class="other-campus">*</span>' : ""}</div>
             <div class="t-prof">${esc(t.prof)}</div>
@@ -285,6 +298,8 @@ function subjectColor(code) {
         const activate = (e) => {
           if (e && e.target && e.target.classList && e.target.classList.contains("t-remove")) {
             State.removeSubject(sub.code);
+          } else if (e && e.target && e.target.classList && e.target.classList.contains("t-info-btn")) {
+            State.toggleInfo(sub.code);
           } else {
             State.selectTurma(sub, t, slots);
           }
@@ -309,7 +324,7 @@ function subjectColor(code) {
         };
         tp.appendChild(optDiv);
 
-        if (isActive) {
+        if (isActive && State.isInfoOpen(sub.code)) {
           const info = document.createElement("div");
           info.className = "turma-info";
           info.innerHTML = `
@@ -581,7 +596,20 @@ function subjectColor(code) {
     }
   });
 
-  searchBox.oninput = renderSubjectList;
+  const searchClearBtn = document.getElementById("searchClear");
+  function updateSearchClearVisibility() {
+    if (searchClearBtn) searchClearBtn.hidden = searchBox.value.length === 0;
+  }
+  searchBox.oninput = () => { updateSearchClearVisibility(); renderSubjectList(); };
+  if (searchClearBtn) {
+    searchClearBtn.onclick = () => {
+      searchBox.value = "";
+      updateSearchClearVisibility();
+      renderSubjectList();
+      searchBox.focus();
+    };
+  }
+  updateSearchClearVisibility();
 
   document.getElementById("filterAll").onclick = (e) => { setFilter("all", e.target); };
   document.getElementById("filterSelected").onclick = (e) => { setFilter("selected", e.target); };
@@ -605,22 +633,39 @@ function subjectColor(code) {
   const THEME_KEY = "utfpr_theme";
   const mqDark = window.matchMedia("(prefers-color-scheme: dark)");
 
+  const SUN_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="1.5" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22.5"></line><line x1="3.5" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="20.5" y2="12"></line><line x1="5.6" y1="5.6" x2="7.4" y2="7.4"></line><line x1="16.6" y1="16.6" x2="18.4" y2="18.4"></line><line x1="16.6" y1="7.4" x2="18.4" y2="5.6"></line><line x1="5.6" y1="18.4" x2="7.4" y2="16.6"></line></svg>';
+  const MOON_SVG = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.6 15.3A8.6 8.6 0 0 1 8.7 3.4a.8.8 0 0 0-1-1A10.2 10.2 0 1 0 21.6 16.3a.8.8 0 0 0-1-1z"></path></svg>';
+
+  // A preferência guardada pode ser "light", "dark" ou "system". O botão
+  // deslizante não tem uma posição própria para "sistema": quando a
+  // preferência é "system", o slider apenas espelha a aparência atual do
+  // SO (mostrando sol ou lua) — mas continua reagindo a mudanças do SO em
+  // tempo real, já que a preferência salva continua sendo "system".
   function applyTheme(pref) {
     const isDark = pref === "dark" || (pref === "system" && mqDark.matches);
     document.documentElement.setAttribute("data-theme", isDark ? "dark" : "light");
-    document.querySelectorAll("#themeSwitch [data-theme-choice]").forEach(b => {
-      const active = b.dataset.themeChoice === pref;
-      b.classList.toggle("active", active);
-      b.setAttribute("aria-pressed", active ? "true" : "false");
-    });
+    const toggle = document.getElementById("themeToggle");
+    const thumb = document.getElementById("ttThumb");
+    if (thumb) thumb.innerHTML = isDark ? MOON_SVG : SUN_SVG;
+    if (toggle) {
+      toggle.setAttribute("aria-pressed", isDark ? "true" : "false");
+      toggle.title = isDark ? "Modo escuro (clique para mudar para claro)" : "Modo claro (clique para mudar para escuro)";
+    }
   }
   function setThemePref(pref) {
     localStorage.setItem(THEME_KEY, pref);
     applyTheme(pref);
   }
-  document.querySelectorAll("#themeSwitch [data-theme-choice]").forEach(btn => {
-    btn.addEventListener("click", () => setThemePref(btn.dataset.themeChoice));
-  });
+  const themeToggleBtn = document.getElementById("themeToggle");
+  if (themeToggleBtn) {
+    themeToggleBtn.addEventListener("click", () => {
+      const isDarkNow = document.documentElement.getAttribute("data-theme") === "dark";
+      // Um clique sempre define uma preferência explícita (claro/escuro),
+      // saindo do modo "sistema" — que permanece disponível para quem
+      // nunca clicou, mas não tem um controle visível dedicado.
+      setThemePref(isDarkNow ? "light" : "dark");
+    });
+  }
   mqDark.addEventListener("change", () => {
     if ((localStorage.getItem(THEME_KEY) || "system") === "system") applyTheme("system");
   });

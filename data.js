@@ -1,13 +1,25 @@
 /* ============================================================
    data.js — Dataset de disciplinas e configuração da grade
-   Gerado a partir do relatório oficial "Turmas Abertas —
-   2º Semestre de 2026" (UTFPR). Este arquivo contém apenas
-   dados estáticos, sem nenhuma lógica de aplicação.
+   Gerado automaticamente pelo conversor de relatórios.
    ============================================================ */
 
 const DATA = [
 {code:"ET7DA",name:"Acionamento Eletrônico De Máquinas Elétricas",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Ind Automação, 1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N1(CC-007)-5N2(CC-007)-5N3(CC-007)-5N4(CC-007)",prof:"Walter Denis Cruz Sanchez",opt:"Matriz:708, Matriz:709"}
+]},
+{code:"MAT7AL",name:"Álgebra Linear",turmas:[
+{turma:"S11",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",prof:"Kennedy Martins Pedroso",opt:"Não"},
+{turma:"S15",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
+{turma:"S21",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",prof:"Kennedy Martins Pedroso",opt:"Não"},
+{turma:"S23",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",prof:"Kennedy Martins Pedroso",opt:"Não"},
+{turma:"S25",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",prof:"Kennedy Martins Pedroso",opt:"Não"},
+{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",prof:"Mari Sano",opt:"Não"},
+{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",prof:"Paula Olga Gneri",opt:"Não"},
+{turma:"S51",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Civil",h:"2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",prof:"Mari Sano",opt:"Não"},
+{turma:"S55",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",prof:"Paula Olga Gneri",opt:"Não"},
+{turma:"S71",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
+{turma:"S73",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
+{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"}
 ]},
 {code:"ELT74E",name:"Amplificadores Operacionais E Semicondutores",turmas:[
 {turma:"S21",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"2N2(CA-101)-2N3(CA-101)-3N2(CA-011)-3N3(CA-011)-4N4(CE-202)-4N5(CE-202)",prof:"Jair Urbanetz Junior, Alceu Andre Badin",opt:"Não"},
@@ -47,9 +59,38 @@ const DATA = [
 {code:"ELTA2",name:"Bioengenharia",turmas:[
 {turma:"S11",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T2(D-PTO)-6T3(D-PTO)-6T4(D-PTO)-6T5(D-PTO)",prof:"Sergio Francisco Pichorim",opt:"Matriz:973, Matriz:968, Matriz:962, Matriz:906"}
 ]},
+{code:"MAT7C1",name:"Cálculo Diferencial E Integral 1",turmas:[
+{turma:"S11",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"2T2(CE-108)-2T3(CE-108)-5T4(CE-101)-5T5(CE-101)-6T2(CE-108)-6T3(CE-108)",prof:"Priscila Savulski Ferreira De Miranda",opt:"Não"},
+{turma:"S15",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T5(CE-208)-2T6(CE-208)-3T5(CE-201)-3T6(CE-201)-4T5(CE-308)-4T6(CE-308)",prof:"Christian Manuel Surco Chuno",opt:"Não"},
+{turma:"S21",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2N4(CE-307)-2N5(CE-307)-3N4(CE-207)-3N5(CE-207)-5N2(CE-207)-5N3(CE-207)",prof:"Andres David Baez Sanchez",opt:"Não"},
+{turma:"S23",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4M3(CE-107)-4M4(CE-107)-5T2(CE-101)-5T3(CE-101)-6M5(CE-308)-6M6(CE-308)",prof:"Francismar Ferreira Lima",opt:"Não"},
+{turma:"S25",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"2M5(CE-308)-2M6(CE-308)-3M5(CE-108)-3M6(CE-108)-5M4(CE-308)-5M5(CE-308)",prof:"Francismar Ferreira Lima",opt:"Não"},
+{turma:"S55",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M4(*EK-204)-2M5(*EK-204)-3T1(*EK-204)-3T2(*EK-204)-5M4(*EL-102)-5M5(*EL-102)",prof:"Paula Olga Gneri",opt:"Não"},
+{turma:"S73",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"2T1(CE-308)-2T2(CE-308)-2T3(CE-308)-4T1(CE-108)-4T2(CE-108)-4T3(CE-108)",prof:"Christian Manuel Surco Chuno",opt:"Não"},
+{turma:"S81",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",prof:"Priscila Savulski Ferreira De Miranda",opt:"Não"}
+]},
+{code:"MAT7C2",name:"Cálculo Diferencial E Integral 2",turmas:[
+{turma:"S01",enq:"Presencial",vt:"60",vc:"0",res:"Sem Reserva",prio:"",h:"2T3(CE-101)-2T4(CE-101)-3T3(CE-201)-3T4(CE-201)-5T3(CE-301)-5T4(CE-301)",prof:"Jorge Luis Torrejon Matos",opt:"Não"},
+{turma:"S02",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",prof:"Joao Luis Goncalves",opt:"Não"},
+{turma:"S11",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",prof:"Inacio Andruski Guimaraes",opt:"Não"},
+{turma:"S15",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",prof:"Jorge Luis Torrejon Matos",opt:"Não"},
+{turma:"S21",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",prof:"Joao Luis Goncalves",opt:"Não"},
+{turma:"S23",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",prof:"Roy Wilhelm Probst",opt:"Não"},
+{turma:"S25",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",prof:"Roy Wilhelm Probst",opt:"Não"},
+{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Não"},
+{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",prof:"Mari Sano",opt:"Não"},
+{turma:"S51",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Civil",h:"3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Não"},
+{turma:"S55",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",prof:"Mari Sano",opt:"Não"},
+{turma:"S71",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",prof:"Inacio Andruski Guimaraes",opt:"Não"},
+{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",prof:"Jorge Luis Torrejon Matos",opt:"Não"}
+]},
+{code:"MAT7N1",name:"Cálculo Numérico",turmas:[
+{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"5T1(*EK-307)-5T2(*EK-307)-6T5(*EK-307)-6T6(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"},
+{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"5T1(*EK-303)-5T2(*EK-303)-6T5(*EK-303)-6T6(*EK-303)",prof:"Luiz Pedro Palacio Daniel",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"}
+]},
 {code:"FCH7HC",name:"Capitalismo Contemporâneo E Economia Política",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, 973, 957, 981, 978, 979, 960, 845, 784, 873, 888, 806, 982, 968, 985, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 974, 980"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, 973, 957, 981, 978, 979, 960, 845, 784, 873, 888, 806, 982, 968, 985, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 974, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"}
 ]},
 {code:"ELT7BL",name:"Comercialização De Energia Elétrica",turmas:[
 {turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"6N2(CE-103)-6N3(CE-103)",prof:"Alvaro Augusto Waldrigues De Almeida",opt:"Matriz:979, Matriz:978"}
@@ -68,20 +109,20 @@ const DATA = [
 {turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"2M1(CB-005)-2M2(CB-005)-2M3(CB-005)-2M4(CB-005)",prof:"Roberto Zanetti Freire",opt:"Não"}
 ]},
 {code:"COE70A",name:"Comunicação Oral E Escrita",turmas:[
-{turma:"E11",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",h:"4N1(CE-108)-4N2(CE-108)",prof:"Jamea Cristina Batista Silva Franklin",opt:"Matriz:995, 983, 981, 985, 959, 962, 970, 974"},
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"3N2(CE-204)-3N3(CE-204)",prof:"Lucas Roecker Lazarin",opt:"Matriz:995, 983, 981, 985, 959, 962, 970, 974"},
-{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2M5(CE-204)-2M6(CE-204)",prof:"Denise Regina Stacheski",opt:"Matriz:995, 983, 981, 985, 959, 962, 970, 974"},
-{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"5M3(CC-206)-5M4(CC-206)",prof:"Gabriella Hauber Pimentel",opt:"Matriz:995, 983, 981, 985, 959, 962, 970, 974"},
-{turma:"S55",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"4M3(CE-204)-4M4(CE-204)",prof:"Cora Catalina Gaete Quinteros",opt:"Matriz:995, 983, 981, 985, 959, 962, 970, 974"}
+{turma:"E11",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",h:"4N1(CE-108)-4N2(CE-108)",prof:"Jamea Cristina Batista Silva Franklin",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"},
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"3N2(CE-204)-3N3(CE-204)",prof:"Lucas Roecker Lazarin",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"},
+{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2M5(CE-204)-2M6(CE-204)",prof:"Denise Regina Stacheski",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"},
+{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"5M3(CC-206)-5M4(CC-206)",prof:"Gabriella Hauber Pimentel",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"},
+{turma:"S55",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"4M3(CE-204)-4M4(CE-204)",prof:"Cora Catalina Gaete Quinteros",opt:"Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"}
 ]},
 {code:"ELF73",name:"Comunicações Digitais",turmas:[
 {turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 3 - Eng Elétrica, 3 - Eng Contr/Automação",h:"5T4(CQ-201)-5T5(CQ-201)-6T4(CQ-203)-6T5(CQ-203)-6T6(CQ-203)",prof:"Bruno Sens Chang",opt:"Matriz:968, Matriz:906"}
 ]},
-{code:"ELTB3",name:"Comunicações Sem Fio",turmas:[
-{turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 3 - Eng Elétrica, 3 - Eng Contr/Automação",h:"2N2(CB-304)-2N3(CB-304)-2N4(CB-304)-2N5(CB-304)",prof:"Joao Luiz Rebelatto",opt:"Matriz:968, Matriz:906, Matriz:962"}
-]},
 {code:"ELTB4",name:"Comunicações Ópticas",turmas:[
 {turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 3 - Eng Elétrica, 3 - Eng Contr/Automação",h:"6N1(CQ-206)-6T4(CQ-206)-6T5(CQ-206)-6T6(CQ-206)",prof:"Alexandre De Almeida Prado Pohl",opt:"Matriz:968, Matriz:962, Matriz:906"}
+]},
+{code:"ELTB3",name:"Comunicações Sem Fio",turmas:[
+{turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 3 - Eng Elétrica, 3 - Eng Contr/Automação",h:"2N2(CB-304)-2N3(CB-304)-2N4(CB-304)-2N5(CB-304)",prof:"Joao Luiz Rebelatto",opt:"Matriz:968, Matriz:906, Matriz:962"}
 ]},
 {code:"ELT77D",name:"Controladores Lógicos Programáveis",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"2M1(D-PTO)-2M2(D-PTO)-2M3(D-PTO)-2M4(D-PTO)",prof:"Paulo Rogerio Da Silveira",opt:"Não"},
@@ -122,38 +163,9 @@ const DATA = [
 {turma:"S23",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2M1(CC-005)-2M2(CC-005)-2M3(CC-005)-2M4(CC-005)",prof:"Clider Adriane De Sousa Silva",opt:"Não"},
 {turma:"S25",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"4M2(CC-005)-4M3(CC-005)-4M4(CC-005)-4M5(CC-005)",prof:"Carlos Henrique Mariano",opt:"Não"}
 ]},
-{code:"MAT7C1",name:"Cálculo Diferencial E Integral 1",turmas:[
-{turma:"S11",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"2T2(CE-108)-2T3(CE-108)-5T4(CE-101)-5T5(CE-101)-6T2(CE-108)-6T3(CE-108)",prof:"Priscila Savulski Ferreira De Miranda",opt:"Não"},
-{turma:"S15",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T5(CE-208)-2T6(CE-208)-3T5(CE-201)-3T6(CE-201)-4T5(CE-308)-4T6(CE-308)",prof:"Christian Manuel Surco Chuno",opt:"Não"},
-{turma:"S21",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2N4(CE-307)-2N5(CE-307)-3N4(CE-207)-3N5(CE-207)-5N2(CE-207)-5N3(CE-207)",prof:"Andres David Baez Sanchez",opt:"Não"},
-{turma:"S23",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4M3(CE-107)-4M4(CE-107)-5T2(CE-101)-5T3(CE-101)-6M5(CE-308)-6M6(CE-308)",prof:"Francismar Ferreira Lima",opt:"Não"},
-{turma:"S25",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"2M5(CE-308)-2M6(CE-308)-3M5(CE-108)-3M6(CE-108)-5M4(CE-308)-5M5(CE-308)",prof:"Francismar Ferreira Lima",opt:"Não"},
-{turma:"S55",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M4(*EK-204)-2M5(*EK-204)-3T1(*EK-204)-3T2(*EK-204)-5M4(*EL-102)-5M5(*EL-102)",prof:"Paula Olga Gneri",opt:"Não"},
-{turma:"S73",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"2T1(CE-308)-2T2(CE-308)-2T3(CE-308)-4T1(CE-108)-4T2(CE-108)-4T3(CE-108)",prof:"Christian Manuel Surco Chuno",opt:"Não"},
-{turma:"S81",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",prof:"Priscila Savulski Ferreira De Miranda",opt:"Não"}
-]},
-{code:"MAT7C2",name:"Cálculo Diferencial E Integral 2",turmas:[
-{turma:"S01",enq:"Presencial",vt:"60",vc:"0",res:"Sem Reserva",prio:"",h:"2T3(CE-101)-2T4(CE-101)-3T3(CE-201)-3T4(CE-201)-5T3(CE-301)-5T4(CE-301)",prof:"Jorge Luis Torrejon Matos",opt:"Não"},
-{turma:"S02",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",prof:"Joao Luis Goncalves",opt:"Não"},
-{turma:"S11",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",prof:"Inacio Andruski Guimaraes",opt:"Não"},
-{turma:"S15",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",prof:"Jorge Luis Torrejon Matos",opt:"Não"},
-{turma:"S21",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",prof:"Joao Luis Goncalves",opt:"Não"},
-{turma:"S23",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",prof:"Roy Wilhelm Probst",opt:"Não"},
-{turma:"S25",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",prof:"Roy Wilhelm Probst",opt:"Não"},
-{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Não"},
-{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",prof:"Mari Sano",opt:"Não"},
-{turma:"S51",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Civil",h:"3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Não"},
-{turma:"S55",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",prof:"Mari Sano",opt:"Não"},
-{turma:"S71",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",prof:"Inacio Andruski Guimaraes",opt:"Não"},
-{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",prof:"Jorge Luis Torrejon Matos",opt:"Não"}
-]},
-{code:"MAT7N1",name:"Cálculo Numérico",turmas:[
-{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"5T1(*EK-307)-5T2(*EK-307)-6T5(*EK-307)-6T6(*EK-307)",prof:"Luiz Pedro Palacio Daniel",opt:"Matriz:995, 983, 981, 959, 962"},
-{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"5T1(*EK-303)-5T2(*EK-303)-6T5(*EK-303)-6T6(*EK-303)",prof:"Luiz Pedro Palacio Daniel",opt:"Matriz:995, 983, 981, 959, 962"}
-]},
 {code:"FCH7AA",name:"Dança E Tecnologia",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2M3(CE-207)-2M4(CE-207)-2M5(CE-207)",prof:"Juliana Maria Greca",opt:"Matriz:980, 957, 978, 979, 960, 982, 985, 945, 961, 962, 973"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M3(CE-105)-4M4(CE-105)-4M5(CE-105)",prof:"Juliana Maria Greca",opt:"Matriz:980, 957, 978, 979, 960, 982, 985, 945, 961, 962, 973"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2M3(CE-207)-2M4(CE-207)-2M5(CE-207)",prof:"Juliana Maria Greca",opt:"Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M3(CE-105)-4M4(CE-105)-4M5(CE-105)",prof:"Juliana Maria Greca",opt:"Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"}
 ]},
 {code:"ELT71B",name:"Desenho Elétrico",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5T3(CA-201)-5T4(CA-201)-5T5(CA-201)",prof:"Luiz Gustavo Trevisan",opt:"Não"},
@@ -165,18 +177,18 @@ const DATA = [
 {turma:"S26",enq:"Presencial",vt:"24",vc:"22",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2M3(CA-201)-2M4(CA-201)-2M5(CA-201)",prof:"Daniel Junghans",opt:"Não"}
 ]},
 {code:"FCH7XF",name:"Dimensão Ambiental Na Gestão Urbana",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"2 - Química Ambiental",h:"6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, 957, 981, 976, 972, 978, 979, 960, 967, 845, 784, 873, 888, 806, 982, 968, 985, 973, 959, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 980, 977, 948"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, 957, 981, 976, 972, 978, 979, 960, 967, 845, 784, 873, 888, 806, 982, 968, 985, 973, 959, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 980, 977, 948"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"2 - Química Ambiental",h:"6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"}
 ]},
 {code:"FCH7XD",name:"Direitos Humanos, Segurança E Diversidade",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, 948, 985, 963, 957, 959, 976, 972, 978, 979, 960, 967, 982, 945, 961, 962, 970, 974, 980, 973, 977"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"2 - Química Ambiental",h:"5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, 948, 985, 963, 957, 959, 976, 972, 978, 979, 960, 967, 982, 945, 961, 962, 970, 974, 980, 973, 977"}
-]},
-{code:"ET7CB",name:"Eficiência Energética 2",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CE-202)-5N3(CE-202)-5N4(CE-202)-5N5(CE-202)",prof:"Saul Hirsch",opt:"Matriz:616, Matriz:708, Matriz:709"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"2 - Química Ambiental",h:"5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"}
 ]},
 {code:"ELT7CA",name:"Eficiência Energética Em Edificações",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N1(CE-306)-5T5(CE-306)-5T6(CE-306)",prof:"Gerson Maximo Tiepolo",opt:"Matriz:979, Matriz:978"}
+]},
+{code:"ET7CB",name:"Eficiência Energética 2",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CE-202)-5N3(CE-202)-5N4(CE-202)-5N5(CE-202)",prof:"Saul Hirsch",opt:"Matriz:616, Matriz:708, Matriz:709"}
 ]},
 {code:"ELT75B",name:"Elementos De Mecânica",turmas:[
 {turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"4N1(CB-005)-4T6(CB-005)-5N1(CB-005)-5T6(CB-005)",prof:"Carlo Alessandro Zanetti Pece",opt:"Não"},
@@ -216,6 +228,9 @@ const DATA = [
 {turma:"S71",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"3M2(CE-207)-3M3(CE-207)-5M4(CE-301)-5M5(CE-301)",prof:"Felix Pedro Quispe Gomez",opt:"Matriz:959"},
 {turma:"S83",enq:"Presencial",vt:"10",vc:"0",res:"Aberta",prio:"1 - Lic Matemática",h:"4M5(CE-101)-4M6(CE-101)-6M5(CE-101)-6M6(CE-101)",prof:"Kennedy Martins Pedroso",opt:"Matriz:959"}
 ]},
+{code:"ET70H",name:"Ética, Profissão E Cidadania",turmas:[
+{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CE-105)-5N3(CE-105)",prof:"Paulo Sergio Walenia",opt:"Não"}
+]},
 {code:"ELT72C",name:"Fenômenos Eletromagnéticos",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"4T3(CQ-301)-4T4(CQ-301)-4T5(CQ-207)-4T6(CQ-207)",prof:"Antonio Carlos Pinho",opt:"Não"},
 {turma:"S02",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"4T3(CQ-301)-4T4(CQ-301)-5T5(CQ-207)-5T6(CQ-207)",prof:"Antonio Carlos Pinho",opt:"Não"},
@@ -227,62 +242,13 @@ const DATA = [
 {turma:"S26",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica, 3 - Eng Eletrônica",h:"4M5(CQ-310)-4M6(CQ-310)-6M2(CQ-207)-6M3(CQ-207)",prof:"Antonio Carlos Pinho, Hebert Douglas Pereira",opt:"Não"}
 ]},
 {code:"FCH7FA",name:"Filosofia Da Ciência E Da Tecnologia",turmas:[
-{turma:"S63",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",prof:"Alex Calazans",opt:"Matriz:990, 995, 973, 983, 957, 976, 972, 979, 978, 960, 920, 968, 985, 982, 961, 974, 980"},
-{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",prof:"Veronica Ferreira Bahr Calazans",opt:"Matriz:990, 995, 973, 983, 957, 976, 972, 979, 978, 960, 920, 968, 985, 982, 961, 974, 980"},
-{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",prof:"Alex Calazans",opt:"Matriz:990, 995, 973, 983, 957, 976, 972, 979, 978, 960, 920, 968, 985, 982, 961, 974, 980"},
-{turma:"S93",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Educação Física",h:"5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",prof:"Marcio Luiz Miotto",opt:"Matriz:990, 995, 973, 983, 957, 976, 972, 979, 978, 960, 920, 968, 985, 982, 961, 974, 980"}
+{turma:"S63",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",prof:"Alex Calazans",opt:"Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"},
+{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",prof:"Veronica Ferreira Bahr Calazans",opt:"Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"},
+{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",prof:"Alex Calazans",opt:"Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"},
+{turma:"S93",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Educação Física",h:"5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",prof:"Marcio Luiz Miotto",opt:"Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"}
 ]},
 {code:"ELT7ED",name:"Filtros Estocásticos Aplicados Na Engenharia",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3N2(CD-106)-3N3(CD-106)",prof:"Victor Baptista Frencl",opt:"Matriz:979, Matriz:978"}
-]},
-{code:"ET7EC",name:"Fontes Alternativas De Energia",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CA-103)-2N3(CA-103)-2N4(CA-103)-2N5(CA-103)",prof:"Saul Hirsch",opt:"Matriz:709, Matriz:708"}
-]},
-{code:"FCH7FB",name:"Fundamentos Da Ética",turmas:[
-{turma:"S31",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Design, 1 - Química Ambiental",h:"6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",prof:"Marcio Luiz Miotto",opt:"Matriz:957, 948, 981, 972, 978, 979, 960, 985, 982, 945, 959, 961, 962, 970, 974, 980, 977"},
-{turma:"S32",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Design",h:"5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",prof:"Andrea Maila Voss",opt:"Matriz:957, 948, 981, 972, 978, 979, 960, 985, 982, 945, 959, 961, 962, 970, 974, 980, 977"}
-]},
-{code:"GEE7E3",name:"Fundamentos De Economia",turmas:[
-{turma:"S21",enq:"Presencial",vt:"60",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",h:"5T4(CA-301)-5T5(CA-301)",prof:"Christian Luiz Da Silva",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"},
-{turma:"S23",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",h:"6M5(CA-301)-6M6(CA-301)",prof:"Maria Lucia Figueiredo Gomes De Meza",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"},
-{turma:"S25",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"6M5(CA-301)-6M6(CA-301)",prof:"Maria Lucia Figueiredo Gomes De Meza",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"},
-{turma:"S41",enq:"Presencial",vt:"22",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",h:"2T4(*EK-201)-2T5(*EK-201)",prof:"",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"},
-{turma:"S43",enq:"Presencial",vt:"22",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",h:"2T4(*EK-201)-2T5(*EK-201)",prof:"",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"},
-{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Eng De Computação, 2 - Eng Eletrônica",h:"3T4(CE-206)-3T5(CE-206)",prof:"Andrea De Souza",opt:"Matriz:960, 980, 982, 957, 920, 968, 985, 906, 948, 961, 972"}
-]},
-{code:"GEE7E1",name:"Fundamentos De Empreendedorismo",turmas:[
-{turma:"N21",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Tecn Automação Ind, 2 - Eng Elétrica, 2 - Eng Contr/Automação",h:"4N4(CE-204)-4N5(CE-204)",prof:"Paulo Apelles Camboim De Oliveira",opt:"Matriz:976, 982, 959, 948, 961, 972, 974"},
-{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N2(CE-204)-4N3(CE-204)",prof:"Paulo Apelles Camboim De Oliveira",opt:"Matriz:976, 982, 959, 948, 961, 972, 974"}
-]},
-{code:"ELT7BQ",name:"Fundamentos De Energia Eólica. Medições E Teses",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N2(CA-010)-4N3(CA-010)",prof:"Eloi Rufato Junior",opt:"Matriz:979, Matriz:978"}
-]},
-{code:"ELT74A",name:"Fundamentos De Fenômenos De Transporte",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"3N1(CE-208)-3N2(CE-208)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"4N1(CE-101)-4T6(CE-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",h:"4N2(CE-101)-4N3(CE-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
-{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",h:"3M5(CC-206)-3M6(CC-206)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
-{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica, 3 - Eng Eletrônica",h:"2M3(CA-101)-2M4(CA-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"}
-]},
-{code:"GEE7G3",name:"Fundamentos De Gestão Da Produção",turmas:[
-{turma:"N21",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Tecn Automação Ind",h:"4N1(CE-104)-4N2(CE-104)-4N3(CE-104)",prof:"Paula Caldas Brognoli",opt:"Matriz:957, 976, 968, 906, 948, 962, 972, 980"}
-]},
-{code:"GEE7G4",name:"Fundamentos De Gestão Da Produção",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CA-203)-5N3(CA-203)",prof:"Gilberto Wolff",opt:"Matriz:978, Matriz:979"}
-]},
-{code:"GEE7G1",name:"Fundamentos De Gestão De Pessoas",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",prof:"Ney Nakazato Miyahira",opt:"Matriz:960, 957, 973, 920, 981, 968, 985, 982, 906, 948, 962, 972, 980"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",prof:"Rejane Cioli",opt:"Matriz:960, 957, 973, 920, 981, 968, 985, 982, 906, 948, 962, 972, 980"}
-]},
-{code:"ELT72A",name:"Fundamentos De Gestão De Projetos",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N1(CA-103)-4N2(CA-103)-4N3(CA-103)",prof:"Gilberto Wolff",opt:"Não"},
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N1(CA-103)-3N2(CA-103)-3N3(CA-103)",prof:"Gilberto Wolff",opt:"Não"},
-{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3M1(CC-206)-3M2(CC-206)-3M3(CC-206)",prof:"Ricardo Manica",opt:"Não"},
-{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"5M1(CC-205)-5M2(CC-205)-5M3(CC-205)",prof:"Higor Vinicius Dos Reis Leite",opt:"Não"}
-]},
-{code:"GEE7M1",name:"Fundamentos De Marketing",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",prof:"",opt:"Matriz:960, 973, 957, 976, 920, 968, 985, 906, 948, 961, 962, 972, 980, 977"},
-{turma:"S95",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Comunic Organizacional",h:"2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",prof:"Ney Nakazato Miyahira",opt:"Matriz:960, 973, 957, 976, 920, 968, 985, 906, 948, 961, 962, 972, 980, 977"}
 ]},
 {code:"FIS7E1",name:"Física Experimental 1",turmas:[
 {turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"3N1(CN-137)-3T6(CN-137)",prof:"Cristovao Renato Morais Rincoski",opt:"Matriz:920, Matriz:959"},
@@ -337,6 +303,58 @@ const DATA = [
 {turma:"S61",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Química",h:"2N1(*EB-311)-2N2(*EB-311)-4N1(*EB-311)-4N2(*EB-311)",prof:"Felipe Braga Ribas",opt:"Matriz:985"},
 {turma:"S71",enq:"Presencial",vt:"60",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2M4(CE-208)-2M5(CE-208)-3M4(CE-208)-3M5(CE-208)",prof:"Rafael Carvalho Barreto",opt:"Matriz:985"}
 ]},
+{code:"ET7EC",name:"Fontes Alternativas De Energia",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CA-103)-2N3(CA-103)-2N4(CA-103)-2N5(CA-103)",prof:"Saul Hirsch",opt:"Matriz:709, Matriz:708"}
+]},
+{code:"FCH7FB",name:"Fundamentos Da Ética",turmas:[
+{turma:"S31",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Design, 1 - Química Ambiental",h:"6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",prof:"Marcio Luiz Miotto",opt:"Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S32",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Design",h:"5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",prof:"Andrea Maila Voss",opt:"Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"}
+]},
+{code:"GEE7E3",name:"Fundamentos De Economia",turmas:[
+{turma:"S21",enq:"Presencial",vt:"60",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",h:"5T4(CA-301)-5T5(CA-301)",prof:"Christian Luiz Da Silva",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"},
+{turma:"S23",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",h:"6M5(CA-301)-6M6(CA-301)",prof:"Maria Lucia Figueiredo Gomes De Meza",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"},
+{turma:"S25",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"6M5(CA-301)-6M6(CA-301)",prof:"Maria Lucia Figueiredo Gomes De Meza",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"},
+{turma:"S41",enq:"Presencial",vt:"22",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",h:"2T4(*EK-201)-2T5(*EK-201)",prof:"",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"},
+{turma:"S43",enq:"Presencial",vt:"22",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",h:"2T4(*EK-201)-2T5(*EK-201)",prof:"",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"},
+{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Eng De Computação, 2 - Eng Eletrônica",h:"3T4(CE-206)-3T5(CE-206)",prof:"Andrea De Souza",opt:"Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"}
+]},
+{code:"GEE7E1",name:"Fundamentos De Empreendedorismo",turmas:[
+{turma:"N21",enq:"Presencial",vt:"35",vc:"0",res:"Fechada",prio:"1 - Tecn Automação Ind, 2 - Eng Elétrica, 2 - Eng Contr/Automação",h:"4N4(CE-204)-4N5(CE-204)",prof:"Paulo Apelles Camboim De Oliveira",opt:"Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"},
+{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N2(CE-204)-4N3(CE-204)",prof:"Paulo Apelles Camboim De Oliveira",opt:"Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"}
+]},
+{code:"ELT7BQ",name:"Fundamentos De Energia Eólica. Medições E Teses",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N2(CA-010)-4N3(CA-010)",prof:"Eloi Rufato Junior",opt:"Matriz:979, Matriz:978"}
+]},
+{code:"ELT74A",name:"Fundamentos De Fenômenos De Transporte",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"3N1(CE-208)-3N2(CE-208)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",h:"4N1(CE-101)-4T6(CE-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",h:"4N2(CE-101)-4N3(CE-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
+{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",h:"3M5(CC-206)-3M6(CC-206)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"},
+{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica, 3 - Eng Eletrônica",h:"2M3(CA-101)-2M4(CA-101)",prof:"Antonio Gomes De Araujo",opt:"Matriz:968"}
+]},
+{code:"GEE7F1",name:"Fundamentos De Finanças",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",prof:"Armando Rasoto",opt:"Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"}
+]},
+{code:"GEE7G3",name:"Fundamentos De Gestão Da Produção",turmas:[
+{turma:"N21",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Tecn Automação Ind",h:"4N1(CE-104)-4N2(CE-104)-4N3(CE-104)",prof:"Paula Caldas Brognoli",opt:"Matriz:957, Matriz:976, Matriz:968, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"}
+]},
+{code:"GEE7G4",name:"Fundamentos De Gestão Da Produção",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CA-203)-5N3(CA-203)",prof:"Gilberto Wolff",opt:"Matriz:978, Matriz:979"}
+]},
+{code:"GEE7G1",name:"Fundamentos De Gestão De Pessoas",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",prof:"Ney Nakazato Miyahira",opt:"Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",prof:"Rejane Cioli",opt:"Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"}
+]},
+{code:"ELT72A",name:"Fundamentos De Gestão De Projetos",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N1(CA-103)-4N2(CA-103)-4N3(CA-103)",prof:"Gilberto Wolff",opt:"Não"},
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N1(CA-103)-3N2(CA-103)-3N3(CA-103)",prof:"Gilberto Wolff",opt:"Não"},
+{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3M1(CC-206)-3M2(CC-206)-3M3(CC-206)",prof:"Ricardo Manica",opt:"Não"},
+{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"5M1(CC-205)-5M2(CC-205)-5M3(CC-205)",prof:"Higor Vinicius Dos Reis Leite",opt:"Não"}
+]},
+{code:"GEE7M1",name:"Fundamentos De Marketing",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",prof:"",opt:"Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"},
+{turma:"S95",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Comunic Organizacional",h:"2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",prof:"Ney Nakazato Miyahira",opt:"Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"}
+]},
 {code:"MAT7GA",name:"Geometria Analítica",turmas:[
 {turma:"S01",enq:"Presencial",vt:"60",vc:"0",res:"Sem Reserva",prio:"",h:"5T1(CE-108)-5T2(CE-108)-6T1(CE-301)-6T2(CE-301)",prof:"Aline Cristina Da Rocha",opt:"Não"},
 {turma:"S21",enq:"Presencial",vt:"60",vc:"44",res:"Fechada",prio:"1 - Eng Elétrica",h:"3N2(CE-101)-3N3(CE-101)-5N1(CE-101)-5T6(CE-101)",prof:"Gustavo Henrique Labegalini Boska",opt:"Não"},
@@ -352,14 +370,17 @@ const DATA = [
 {code:"ELT7CH",name:"Gestão De Energia",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CD-107)-2N3(CD-107)",prof:"Clider Adriane De Sousa Silva",opt:"Matriz:979, Matriz:978"}
 ]},
+{code:"GE70H",name:"Gestão Financeira",turmas:[
+{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng De Computação, 2 - Eng Mecatrônica",h:"2M4(CA-203)-2M5(CA-203)",prof:"Armando Rasoto",opt:"Matriz:708, Matriz:709"}
+]},
 {code:"FCH7HA",name:"História Da Técnica E Da Tecnologia",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, 995, 983, 957, 948, 976, 978, 979, 960, 967, 982, 981, 968, 985, 961, 962, 970, 972, 974, 980, 973"},
-{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, 995, 983, 957, 948, 976, 978, 979, 960, 967, 982, 981, 968, 985, 961, 962, 970, 972, 974, 980, 973"},
-{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, 995, 983, 957, 948, 976, 978, 979, 960, 967, 982, 981, 968, 985, 961, 962, 970, 972, 974, 980, 973"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"},
+{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"},
+{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",prof:"Elena Camargo Shizuno",opt:"Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"}
 ]},
 {code:"FCH7HB",name:"História Geral Da Economia",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T4(*EL-211)-6T5(*EL-211)-6T6(*EL-211)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, 973, 985, 957, 981, 978, 979, 960, 845, 784, 873, 888, 806, 982, 968, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 980"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, 973, 985, 957, 981, 978, 979, 960, 845, 784, 873, 888, 806, 982, 968, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T4(*EL-211)-6T5(*EL-211)-6T6(*EL-211)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",prof:"Sandro Marlus Wambier",opt:"Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"}
 ]},
 {code:"ELT7CG",name:"Iluminação Elétrica",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4T5(CQ-007)-4T6(CQ-007)",prof:"Carlos Alberto Dallabona",opt:"Matriz:961, Matriz:979, Matriz:978"}
@@ -422,16 +443,16 @@ const DATA = [
 {turma:"S24",enq:"Presencial",vt:"23",vc:"22",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4M2(CQ-209)-4M3(CQ-209)-4M4(CQ-209)",prof:"Jorge Assade Leludak",opt:"Não"}
 ]},
 {code:"EDU70J",name:"Libras",turmas:[
-{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",h:"4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",prof:"Leticia Fernandes",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S02",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",prof:"Rita De Cassia Maestri",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S03",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",prof:"Leticia Fernandes",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S04",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",prof:"Rita De Cassia Maestri",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",h:"5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",prof:"Leticia Fernandes",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S83",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",prof:"Silvia Andreis Witkoski",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"},
-{turma:"S85",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",prof:"Silvia Andreis Witkoski",opt:"Matriz:990, 985, 957, 948, 981, 976, 978, 979, 960, 968, 920, 967, 982, 961, 962, 970, 945, 972, 973, 980, 977"}
+{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",h:"4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",prof:"Leticia Fernandes",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S02",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",prof:"Rita De Cassia Maestri",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S03",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",prof:"Leticia Fernandes",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S04",enq:"Presencial",vt:"30",vc:"0",res:"Sem Reserva",prio:"",h:"5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",prof:"Rita De Cassia Maestri",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",h:"5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",prof:"Leticia Fernandes",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S83",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",prof:"Silvia Andreis Witkoski",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"},
+{turma:"S85",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",prof:"Silvia Andreis Witkoski",opt:"Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"}
 ]},
 {code:"ED70U",name:"Libras B",turmas:[
-{turma:"S83",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"3M3(CE-102)-3M4(CE-102)",prof:"Rita De Cassia Maestri",opt:"Matriz:547, 906, 867, 844, 616, 678, 919, 843"}
+{turma:"S83",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",h:"3M3(CE-102)-3M4(CE-102)",prof:"Rita De Cassia Maestri",opt:"Matriz:547, Matriz:906, Matriz:867, Matriz:844, Matriz:616, Matriz:678, Matriz:919, Matriz:843"}
 ]},
 {code:"ELT7BH",name:"Linhas De Transmissão De Energia Elétrica",turmas:[
 {turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N1(CE-206)-2T6(CE-206)",prof:"Nastasha Salame Da Silva",opt:"Matriz:979, Matriz:978"}
@@ -458,17 +479,17 @@ const DATA = [
 {turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5M2(CC-206)",prof:"Annemarlen Gehrke Castagna",opt:"Não"},
 {turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5M2(CC-206)",prof:"Annemarlen Gehrke Castagna",opt:"Não"}
 ]},
+{code:"ELT7AE",name:"Métodos De Avaliação E Tomada De Decisão Em Automação Industrial (Indústria 4.0)",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3N4(CB-010)-3N5(CB-010)",prof:"Eduardo De Freitas Rocha Loures",opt:"Matriz:979, Matriz:978"}
+]},
 {code:"ET7DF",name:"Metrologia Elétrica",turmas:[
 {turma:"S01",enq:"Presencial",vt:"11",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N1(CD-105)-4N2(CD-105)-4T5(CD-105)-4T6(CD-105)",prof:"Uilian Jose Dreyer",opt:"Matriz:708, Matriz:709"}
 ]},
 {code:"FCH7GA",name:"Metropolização Contemporânea: Tecnologia E Território",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3T2(CQ-304)-3T3(CQ-304)-3T4(CQ-304)",prof:"Marcos Antonio Silverio",opt:"Matriz:990, 973, 980, 957, 981, 976, 978, 979, 960, 823, 845, 784, 873, 888, 806, 982, 968, 985, 961, 867, 870, 844, 708, 709, 906, 919, 962, 755, 948"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3T2(CQ-304)-3T3(CQ-304)-3T4(CQ-304)",prof:"Marcos Antonio Silverio",opt:"Matriz:990, Matriz:973, Matriz:980, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:823, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:962, Matriz:755, Matriz:948"}
 ]},
 {code:"ELF75",name:"Modelagem E Simulação",turmas:[
 {turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Mecatrônica",h:"3N2(CQ-205)-3N3(CQ-205)-3N4(CQ-205)-3N5(CQ-205)",prof:"Elder Oroski",opt:"Matriz:616, Matriz:973, Matriz:906"}
-]},
-{code:"ELT7AE",name:"Métodos De Avaliação E Tomada De Decisão Em Automação Industrial",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3N4(CB-010)-3N5(CB-010)",prof:"Eduardo De Freitas Rocha Loures",opt:"Matriz:979, Matriz:978"}
 ]},
 {code:"EST70B",name:"Noções De Estatística",turmas:[
 {turma:"S01",enq:"EaD",vt:"60",vc:"0",res:"Sem Reserva",prio:"",h:"",prof:"Wesley Bertoli Da Silva",opt:"Não"},
@@ -484,29 +505,33 @@ const DATA = [
 {turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"6T4(CE-201)-6T4(CE-201)-6T5(CE-201)-6T5(CE-201)",prof:"Carlos Henrique Mariano, Daniel Gustavo Castellain",opt:"Não"},
 {turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"6M4(CE-204)-6M5(CE-204)",prof:"Daniel Gustavo Castellain",opt:"Não"}
 ]},
+{code:"ELT78B",name:"Oficina De Integração, Pesquisa E Extensão Iii",turmas:[
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"6N1(CE-201)-6T6(CE-201)",prof:"Roberto Candido",opt:"Não"},
+{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"6T2(CE-201)-6T3(CE-201)",prof:"Roberto Candido",opt:"Não"}
+]},
 {code:"ELT74F",name:"Oficina De Integração, Pesquisa E Extensão 1",turmas:[
 {turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"5N1(CE-301)-5T6(CE-301)",prof:"Marcelo Barcik",opt:"Não"},
 {turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"5M5(CQ-302)-5M6(CQ-302)",prof:"Annemarlen Gehrke Castagna",opt:"Não"},
 {turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"5M5(CQ-304)-5M6(CQ-304)",prof:"Narco Afonso Ravazzoli Maciejewski",opt:"Não"}
 ]},
-{code:"ELT78B",name:"Oficina De Integração, Pesquisa E Extensão Iii",turmas:[
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"6N1(CE-201)-6T6(CE-201)",prof:"Roberto Candido",opt:"Não"},
-{turma:"S25",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"6T2(CE-201)-6T3(CE-201)",prof:"Roberto Candido",opt:"Não"}
-]},
 {code:"ELT7DC",name:"Otimização Da Confiabilidade De Sistemas",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CQ-302)",prof:"Carlos Henrique Mariano",opt:"Matriz:979, Matriz:978"}
 ]},
 {code:"FCH7PC",name:"Planejamento De Carreira",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",prof:"Maria Sara De Lima Dias",opt:"Matriz:973, 957, 948, 981, 972, 978, 979, 960, 920, 967, 982, 945, 961, 962, 980, 977"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",prof:"Maria Sara De Lima Dias",opt:"Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"}
 ]},
 {code:"FCH7SF",name:"Política, Instituições E Cidadania No Paraná",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M3(CC-205)-3M4(CC-205)-3M5(CC-205)-3M6(CC-205)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, 973, 983, 957, 978, 979, 960, 982, 985, 962, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M3(CC-205)-3M4(CC-205)-3M5(CC-205)-3M6(CC-205)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:962, Matriz:980"}
 ]},
 {code:"FCH7XE",name:"Políticas Públicas",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, 995, 973, 948, 983, 957, 972, 978, 979, 960, 982, 945, 961, 962, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",prof:"Maria Jose Menezes Lourega Belli",opt:"Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"}
+]},
+{code:"MAT7PC",name:"Pré-Cálculo",turmas:[
+{turma:"S21",enq:"Presencial",vt:"60",vc:"44",res:"Fechada",prio:"1 - Eng Elétrica",h:"3T4(CE-207)-3T5(CE-207)-6T4(CE-208)-6T5(CE-208)",prof:"Moises Aparecido Do Nascimento",opt:"Matriz:985"},
+{turma:"S23",enq:"Presencial",vt:"60",vc:"44",res:"Fechada",prio:"1 - Eng Elétrica",h:"3T1(CE-108)-3T2(CE-108)-4M5(CE-107)-4M6(CE-107)",prof:"",opt:"Matriz:985"}
 ]},
 {code:"FCH7XC",name:"Presença Africana No Brasil",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(CE-302)-2T3(CE-302)",prof:"Andrea Maila Voss",opt:"Matriz:990, 995, 983, 957, 976, 978, 979, 960, 920, 968, 985, 945, 959, 962, 974, 980, 973"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(CE-302)-2T3(CE-302)",prof:"Andrea Maila Voss",opt:"Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"}
 ]},
 {code:"ELP73",name:"Princípios De Comunicações",turmas:[
 {turma:"S11",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 3 - Eng Elétrica, 3 - Eng Contr/Automação",h:"4N1(CC-206)-4T4(CC-206)-4T5(CC-206)-4T6(CC-206)",prof:"Emilio Carlos Gomes Wille",opt:"Matriz:968, Matriz:957, Matriz:906"},
@@ -532,24 +557,20 @@ const DATA = [
 {code:"ELT7BS",name:"Proteção De Sistemas Elétricos De Potência",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"4N4(CA-010)-4N5(CA-010)",prof:"Eloi Rufato Junior",opt:"Matriz:979, Matriz:978"}
 ]},
-{code:"MAT7PC",name:"Pré-Cálculo",turmas:[
-{turma:"S21",enq:"Presencial",vt:"60",vc:"44",res:"Fechada",prio:"1 - Eng Elétrica",h:"3T4(CE-207)-3T5(CE-207)-6T4(CE-208)-6T5(CE-208)",prof:"Moises Aparecido Do Nascimento",opt:"Matriz:985"},
-{turma:"S23",enq:"Presencial",vt:"60",vc:"44",res:"Fechada",prio:"1 - Eng Elétrica",h:"3T1(CE-108)-3T2(CE-108)-4M5(CE-107)-4M6(CE-107)",prof:"",opt:"Matriz:985"}
-]},
 {code:"FCH7PA",name:"Psicologia Do Trabalho",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5N1(CC-203)-5N2(CC-203)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T4(CA-202)-5T5(CA-202)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S04",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S05",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T2(CA-202)-5T3(CA-202)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S51",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Civil, 1 - Química Ambiental",h:"2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S63",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",prof:"Maria Sara De Lima Dias",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"},
-{turma:"T81",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Tecnol.Em Radiologia, 1 - Química Ambiental",h:"6T4(CE-303)-6T5(CE-303)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, 957, 948, 976, 978, 979, 960, 982, 968, 985, 945, 959, 961, 962, 980, 973, 977"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5N1(CC-203)-5N2(CC-203)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T4(CA-202)-5T5(CA-202)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S04",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S05",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T2(CA-202)-5T3(CA-202)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S51",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng Civil, 1 - Química Ambiental",h:"2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",prof:"Juliana Lopes Da Silva",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S63",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Administração",h:"6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",prof:"Maria Sara De Lima Dias",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"},
+{turma:"T81",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Tecnol.Em Radiologia, 1 - Química Ambiental",h:"6T4(CE-303)-6T5(CE-303)",prof:"Maria Luisa Carvalho",opt:"Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"}
 ]},
 {code:"FCH7AB",name:"Questões Contemporâneas Do Corpo",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M3(CE-105)-3M4(CE-105)-3M5(CE-105)",prof:"Juliana Maria Greca",opt:"Matriz:957, 972, 978, 979, 960, 982, 985, 945, 961, 962, 974, 973, 980"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5M3(CE-306)-5M4(CE-306)-5M5(CE-306)",prof:"Juliana Maria Greca",opt:"Matriz:957, 972, 978, 979, 960, 982, 985, 945, 961, 962, 974, 973, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M3(CE-105)-3M4(CE-105)-3M5(CE-105)",prof:"Juliana Maria Greca",opt:"Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5M3(CE-306)-5M4(CE-306)-5M5(CE-306)",prof:"Juliana Maria Greca",opt:"Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"}
 ]},
 {code:"QBI7QE",name:"Química Geral Experimental",turmas:[
 {turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Sem Reserva",prio:"",h:"5M3(*EC-013)-5M4(*EC-013)",prof:"Israel Rede",opt:"Matriz:985"}
@@ -559,7 +580,7 @@ const DATA = [
 {turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T2(*EC-203)-6T3(*EC-203)-6T4(*EC-203)-6T5(*EC-203)",prof:"Markus Mau",opt:"Matriz:995, Matriz:983, Matriz:985"}
 ]},
 {code:"ET7GM",name:"Redes De Sensores Sem Fio",turmas:[
-{turma:"S01",enq:"Presencial",vt:"11",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5T2(CD-108)-5T2(CD-108)-5T3(CD-108)-5T3(CD-108)-5T4(CD-108)-5T4(CD-108)-5T5(CD-108)-5T5(CD-108)",prof:"Guilherme Luiz Moritz, Ohara Kerusauskas Rayel",opt:"Matriz:518, 542, 708, 709, 844"}
+{turma:"S01",enq:"Presencial",vt:"11",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5T2(CD-108)-5T2(CD-108)-5T3(CD-108)-5T3(CD-108)-5T4(CD-108)-5T4(CD-108)-5T5(CD-108)-5T5(CD-108)",prof:"Guilherme Luiz Moritz, Ohara Kerusauskas Rayel",opt:"Matriz:518, Matriz:542, Matriz:708, Matriz:709, Matriz:844"}
 ]},
 {code:"ELT77F",name:"Segurança E Legislação Profissional",turmas:[
 {turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3M4(CE-304)-3M5(CE-304)",prof:"Paulo Sergio Walenia",opt:"Não"},
@@ -601,6 +622,15 @@ const DATA = [
 {turma:"S25",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"6M1(CD-105)-6M2(CD-105)-6M3(CD-105)",prof:"Miguel Antonio Sovierzoski",opt:"Não"},
 {turma:"S26",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"6M4(CD-105)-6M5(CD-105)-6M6(CD-105)",prof:"Miguel Antonio Sovierzoski",opt:"Não"}
 ]},
+{code:"ELT76E",name:"Sistemas Elétricos De Potência 1",turmas:[
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N1(CE-106)-2N2(CE-106)-2N3(CE-106)-2N4(CE-106)",prof:"Raphael Augusto De Souza Benedito",opt:"Matriz:978"},
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N1(CE-205)-3T6(CE-205)-5N1(CE-205)-5N2(CE-205)",prof:"Ulisses Chemin Netto",opt:"Matriz:978"},
+{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3M4(CA-103)-3M5(CA-103)-4M1(CA-101)-4M2(CA-101)",prof:"Andrea Lucia Costa",opt:"Matriz:978"}
+]},
+{code:"ELT77E",name:"Sistemas Elétricos De Potência 2",turmas:[
+{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N4(CQ-302)-3N5(CQ-302)-4N1(CC-205)-4T6(CC-205)",prof:"Raphael Augusto De Souza Benedito",opt:"Matriz:978"},
+{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3M2(CA-103)-3M3(CA-103)-5M1(CA-102)-5M2(CA-102)",prof:"Andrea Lucia Costa",opt:"Matriz:978"}
+]},
 {code:"ELT75C",name:"Sistemas Eletromagnéticos",turmas:[
 {turma:"S21",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Tecn Automação Ind",h:"3N1(CB-011)-3N2(CB-011)-3T6(CB-011)",prof:"Roberto Luiz Schwarz",opt:"Não"},
 {turma:"S22",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Tecn Automação Ind",h:"3N3(CB-011)-3N4(CB-011)-3N5(CB-011)",prof:"Roberto Luiz Schwarz",opt:"Não"},
@@ -611,15 +641,6 @@ const DATA = [
 ]},
 {code:"ELT83C",name:"Sistemas Eletromagnéticos",turmas:[
 {turma:"N21",enq:"Presencial",vt:"22",vc:"0",res:"Sem Reserva",prio:"1 - Tecn Automação Ind",h:"6N2(CB-011)-6N3(CB-011)-6N4(CB-011)-6N5(CB-011)",prof:"Roberto Luiz Schwarz",opt:"Não"}
-]},
-{code:"ELT76E",name:"Sistemas Elétricos De Potência 1",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N1(CE-106)-2N2(CE-106)-2N3(CE-106)-2N4(CE-106)",prof:"Raphael Augusto De Souza Benedito",opt:"Matriz:978"},
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N1(CE-205)-3T6(CE-205)-5N1(CE-205)-5N2(CE-205)",prof:"Ulisses Chemin Netto",opt:"Matriz:978"},
-{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3M4(CA-103)-3M5(CA-103)-4M1(CA-101)-4M2(CA-101)",prof:"Andrea Lucia Costa",opt:"Matriz:978"}
-]},
-{code:"ELT77E",name:"Sistemas Elétricos De Potência 2",turmas:[
-{turma:"S21",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3N4(CQ-302)-3N5(CQ-302)-4N1(CC-205)-4T6(CC-205)",prof:"Raphael Augusto De Souza Benedito",opt:"Matriz:978"},
-{turma:"S23",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 2 - Eng Contr/Automação",h:"3M2(CA-103)-3M3(CA-103)-5M1(CA-102)-5M2(CA-102)",prof:"Andrea Lucia Costa",opt:"Matriz:978"}
 ]},
 {code:"ELF74",name:"Sistemas Embarcados",turmas:[
 {turma:"S11",enq:"Presencial",vt:"44",vc:"0",res:"Fechada",prio:"1 - Eng Eletrônica, 2 - Eng De Computação, 2 - Eng Elétrica, 2 - Eng Contr/Automação, 2 - Eng Mecatrônica",h:"5N1(CQ-213)-5N2(CQ-213)-5N3(CQ-213)-5T6(CQ-213)",prof:"Paulo Denis Garcez Da Luz",opt:"Matriz:968, Matriz:973, Matriz:906"},
@@ -638,27 +659,36 @@ const DATA = [
 {turma:"S25",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Contr/Automação, 2 - Eng Elétrica",h:"5N4(CQ-008)-5N5(CQ-008)",prof:"Narco Afonso Ravazzoli Maciejewski",opt:"Matriz:979, Matriz:978"}
 ]},
 {code:"FCH7SD",name:"Sociedade E Política No Brasil",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2M3(CQ-311)-2M4(CQ-311)-2M5(CQ-311)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, 973, 983, 957, 976, 978, 979, 960, 982, 968, 985, 961, 962, 974, 980"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(*EB-311)-2T3(*EB-311)-2T4(*EB-311)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, 973, 983, 957, 976, 978, 979, 960, 982, 968, 985, 961, 962, 974, 980"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2M3(CQ-311)-2M4(CQ-311)-2M5(CQ-311)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2T2(*EB-311)-2T3(*EB-311)-2T4(*EB-311)",prof:"Monica Helena Harrich Da Silva",opt:"Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"}
 ]},
 {code:"FCH7SA",name:"Sociologia",turmas:[
-{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",prof:"Geraldo Augusto Pinto",opt:"Matriz:990, 973, 982, 976, 978, 979, 960, 968, 985, 945, 961, 974, 980"},
-{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",prof:"Geraldo Augusto Pinto",opt:"Matriz:990, 973, 982, 976, 978, 979, 960, 968, 985, 945, 961, 974, 980"}
+{turma:"S71",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",prof:"Geraldo Augusto Pinto",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"},
+{turma:"S73",enq:"Presencial",vt:"44",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",prof:"Geraldo Augusto Pinto",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"}
+]},
+{code:"ELT7DI",name:"Técnicas Para Análise De Falhas",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3N3(CQ-009B)-3N3(CQ-009B)",prof:"Marcelo Rodrigues, Emerson Rigoni",opt:"Matriz:979, Matriz:978"}
 ]},
 {code:"FCH7SB",name:"Tecnologia E Sociedade",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",prof:"Lino Trevisan",opt:"Matriz:990, 973, 982, 957, 948, 976, 978, 979, 960, 968, 985, 945, 961, 962, 970, 974, 980, 977"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química, 1 - Lic Química, 1 - Química Ambiental",h:"4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",prof:"Roberto Ranna Keller",opt:"Matriz:990, 973, 982, 957, 948, 976, 978, 979, 960, 968, 985, 945, 961, 962, 970, 974, 980, 977"},
-{turma:"S04",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",prof:"Roberto Ranna Keller",opt:"Matriz:990, 973, 982, 957, 948, 976, 978, 979, 960, 968, 985, 945, 961, 962, 970, 974, 980, 977"},
-{turma:"S05",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",prof:"Roberto Ranna Keller",opt:"Matriz:990, 973, 982, 957, 948, 976, 978, 979, 960, 968, 985, 945, 961, 962, 970, 974, 980, 977"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",prof:"Lino Trevisan",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química, 1 - Lic Química, 1 - Química Ambiental",h:"4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",prof:"Roberto Ranna Keller",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S04",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",prof:"Roberto Ranna Keller",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S05",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",prof:"Roberto Ranna Keller",opt:"Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"}
 ]},
 {code:"FCH7XA",name:"Tecnologia Social E Economia Solidária",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"5M2(*EL-211)-5M2(*EL-211)-5M3(*EL-211)-5M3(*EL-211)-5M4(*EL-211)-5M4(*EL-211)-5M5(*EL-211)-5M5(*EL-211)",prof:"Marcos Antonio Silverio, Lino Trevisan",opt:"Matriz:957, 976, 972, 978, 979, 960, 920, 982, 985, 945, 961, 962, 974, 980, 973, 948"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M2(CE-305)-3M2(CE-305)-3M3(CE-305)-3M3(CE-305)-3M4(CE-305)-3M4(CE-305)-3M5(CE-305)-3M5(CE-305)",prof:"Marcos Antonio Silverio, Maria Luisa Carvalho",opt:"Matriz:957, 976, 972, 978, 979, 960, 920, 982, 985, 945, 961, 962, 974, 980, 973, 948"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"1 - Química Ambiental",h:"5M2(*EL-211)-5M2(*EL-211)-5M3(*EL-211)-5M3(*EL-211)-5M4(*EL-211)-5M4(*EL-211)-5M5(*EL-211)-5M5(*EL-211)",prof:"Marcos Antonio Silverio, Lino Trevisan",opt:"Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3M2(CE-305)-3M2(CE-305)-3M3(CE-305)-3M3(CE-305)-3M4(CE-305)-3M4(CE-305)-3M5(CE-305)-3M5(CE-305)",prof:"Marcos Antonio Silverio, Maria Luisa Carvalho",opt:"Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"}
 ]},
 {code:"FCH7SC",name:"Tecnologia, Trabalho E Saúde",turmas:[
-{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, 973, 957, 981, 976, 978, 979, 960, 920, 845, 784, 873, 888, 806, 982, 968, 985, 945, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 974, 980, 977"},
-{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, 973, 957, 981, 976, 978, 979, 960, 920, 845, 784, 873, 888, 806, 982, 968, 985, 945, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 974, 980, 977"},
-{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, 973, 957, 981, 976, 978, 979, 960, 920, 845, 784, 873, 888, 806, 982, 968, 985, 945, 961, 867, 755, 870, 844, 708, 709, 906, 919, 823, 962, 974, 980, 977"}
+{turma:"S01",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S02",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"},
+{turma:"S03",enq:"Presencial",vt:"44",vc:"0",res:"Sem Reserva",prio:"",h:"6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",prof:"Armenes De Jesus Ramos Junior",opt:"Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"}
+]},
+{code:"ELTB6",name:"Tópicos Avançados Em Comunicações",turmas:[
+{turma:"S11",enq:"Presencial",vt:"12",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(CB-104)-2T4(CB-104)-2T5(CB-104)-2T5(CB-104)-3T4(CQ-107)-3T4(CQ-107)-3T5(CQ-107)-3T5(CQ-107)",prof:"Alexandre De Almeida Prado Pohl, Paulo De Tarso Neves Junior",opt:"Matriz:616, Matriz:957, Matriz:968, Matriz:962, Matriz:906"}
+]},
+{code:"ELT7EI",name:"Tópicos Especiais Em Controle 1",turmas:[
+{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CQ-007)-2N3(CQ-007)-2N4(CQ-007)-2N5(CQ-007)",prof:"Elder Oroski",opt:"Matriz:979, Matriz:978"}
 ]},
 {code:"ELT79B",name:"Trabalho De Conclusão De Curso",turmas:[
 {turma:"E01",enq:"Presencial",vt:"100",vc:"0",res:"Sem Reserva",prio:"",h:"",prof:"",opt:"Não"}
@@ -671,32 +701,6 @@ const DATA = [
 ]},
 {code:"ET70L",name:"Trabalho De Conclusão De Curso 2",turmas:[
 {turma:"E01",enq:"Presencial",vt:"100",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica",h:"",prof:"",opt:"Não"}
-]},
-{code:"ELT7DI",name:"Técnicas Para Análise De Falhas",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"3N3(CQ-009B)-3N3(CQ-009B)",prof:"Marcelo Rodrigues, Emerson Rigoni",opt:"Matriz:979, Matriz:978"}
-]},
-{code:"ELTB6",name:"Tópicos Avançados Em Comunicações",turmas:[
-{turma:"S11",enq:"Presencial",vt:"12",vc:"0",res:"Sem Reserva",prio:"",h:"2T4(CB-104)-2T4(CB-104)-2T5(CB-104)-2T5(CB-104)-3T4(CQ-107)-3T4(CQ-107)-3T5(CQ-107)-3T5(CQ-107)",prof:"Alexandre De Almeida Prado Pohl, Paulo De Tarso Neves Junior",opt:"Matriz:616, Matriz:957, Matriz:968, Matriz:962, Matriz:906"}
-]},
-{code:"ELT7EI",name:"Tópicos Especiais Em Controle 1",turmas:[
-{turma:"S01",enq:"Presencial",vt:"22",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"2N2(CQ-007)-2N3(CQ-007)-2N4(CQ-007)-2N5(CQ-007)",prof:"Elder Oroski",opt:"Matriz:979, Matriz:978"}
-]},
-{code:"MAT7AL",name:"Álgebra Linear",turmas:[
-{turma:"S11",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Eletrônica",h:"4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",prof:"Kennedy Martins Pedroso",opt:"Não"},
-{turma:"S15",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecatrônica",h:"2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
-{turma:"S21",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",prof:"Kennedy Martins Pedroso",opt:"Não"},
-{turma:"S23",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Elétrica",h:"4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",prof:"Kennedy Martins Pedroso",opt:"Não"},
-{turma:"S25",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Contr/Automação",h:"4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",prof:"Kennedy Martins Pedroso",opt:"Não"},
-{turma:"S41",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",prof:"Mari Sano",opt:"Não"},
-{turma:"S43",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Mecânica",h:"2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",prof:"Paula Olga Gneri",opt:"Não"},
-{turma:"S51",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Civil",h:"2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",prof:"Mari Sano",opt:"Não"},
-{turma:"S55",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng Amb/Sanitária",h:"2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",prof:"Paula Olga Gneri",opt:"Não"},
-{turma:"S71",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Eng De Computação",h:"2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
-{turma:"S73",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Sist De Informação",h:"2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"},
-{turma:"S81",enq:"Presencial",vt:"30",vc:"0",res:"Aberta",prio:"1 - Lic Fisica 9",h:"2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",prof:"Patricia Sanez Pacheco",opt:"Não"}
-]},
-{code:"ET70H",name:"Ética, Profissão E Cidadania",turmas:[
-{turma:"S01",enq:"Presencial",vt:"30",vc:"0",res:"Fechada",prio:"1 - Eng Elétrica, 1 - Eng Contr/Automação",h:"5N2(CE-105)-5N3(CE-105)",prof:"Paulo Sergio Walenia",opt:"Não"}
 ]}
 ];
 

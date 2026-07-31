@@ -738,7 +738,7 @@ function subjectColor(code) {
           gridVisible = entry.isIntersecting;
           applyVisibility();
         });
-      }, { threshold: 0.2 });
+      }, { threshold: 1.0 });
       io.observe(gridWrap);
     }
     const checkBottom = () => {

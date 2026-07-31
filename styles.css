@@ -100,6 +100,13 @@
     color:var(--muted);padding:4px;width:20px;height:20px;border-radius:50%;justify-content:center;}
   .search-clear:hover{background:var(--hover-bg);color:var(--text);}
   .subject-list{max-height:calc(100vh - 260px);overflow-y:auto;padding-right:4px;}
+  /* Em tablets (layout já em coluna única, mas tela ainda alta o
+     suficiente para a lista ficar exageradamente longa) a lista de
+     disciplinas fica 1/3 menor que o padrão acima — só nessa faixa;
+     no celular (≤700px) ela continua com a altura padrão. */
+  @media(min-width:701px) and (max-width:980px){
+    .subject-list{max-height:calc((100vh - 260px) * 0.6667);}
+  }
   .subject-list::-webkit-scrollbar{width:6px;}
   .subject-list::-webkit-scrollbar-thumb{background:var(--grid-line);border-radius:8px;}
   .subject{border-radius:8px;margin-bottom:6px;background:var(--panel2);overflow:hidden;}
@@ -122,7 +129,7 @@
     border-radius:6px;margin-top:5px;cursor:pointer;font-size:12px;background:var(--panel);}
   .turma-opt:hover{box-shadow:inset 2px 0 0 var(--accent);}
   .turma-opt.active{background:var(--turma-active-bg);box-shadow:inset 2px 0 0 var(--accent);}
-  .turma-opt .t-left{display:flex;flex-direction:column;gap:1px;justify-content:center;}
+  .turma-opt .t-left{display:flex;flex-direction:column;gap:1px;justify-content:center;flex:1;min-width:0;}
   .turma-opt .t-turma{font-weight:700;}
   .turma-opt .t-prof{color:var(--muted);font-size:10.5px;}
   .turma-opt .t-meta{color:var(--muted);font-size:10px;margin-top:2px;}
@@ -225,26 +232,15 @@
   .theme-switch button:focus-visible,
   button:focus-visible{outline:2px solid var(--accent);outline-offset:1px;}
 
-  /* ============== CELULAR: grade compacta sem scroll lateral ==============
-     Colocado no final do arquivo de propósito: várias regras base de
-     table.grid/.grid-wrap/.cell-block estão espalhadas pelo CSS com a
-     mesma especificidade destas aqui, então, para garantir que estas
-     realmente vençam a cascata (não dependendo só do media query), elas
-     precisam vir depois no arquivo. */
-  @media(max-width:700px){
-    main{padding:12px 10px;gap:12px;}
-    .header-title-row{width:100%;justify-content:space-between;flex-wrap:wrap;}
-    header h1{white-space:normal;font-size:17px;line-height:1.25;}
-
-    /* Botões de ação (desfazer/refazer, copiar/colar, limpar) na barra fixa
-       (.action-bar, sticky no topo). Em vez de rolar horizontalmente,
-       agora quebram para uma segunda linha se faltar espaço — assim a
-       barra nunca ganha scroll lateral, só cresce um pouco em altura. */
-    .action-bar{padding:8px 10px;gap:6px;}
-    .action-bar .toolbar{flex-wrap:wrap;row-gap:6px;}
-    .action-bar .toolbar button{padding:7px 10px;font-size:11.5px;}
-    .action-bar .toolbar .icon-btn{width:30px;height:30px;padding:0;}
-
+  /* ============== TABLET/CELULAR: mini-prévia da grade ==============
+     Mesmo breakpoint em que .main vira coluna única (linha 92): a partir
+     daqui o painel de disciplinas fica empilhado acima da grade grande, e
+     é justamente nesse momento — tanto em celular quanto em tablet no
+     modo retrato — que a mini-grade flutuante ajuda a não perder a noção
+     da grade enquanto se rola a lista de disciplinas. Por isso ela usa o
+     mesmo breakpoint do layout, em vez do breakpoint mais estreito (700px)
+     usado pelos ajustes exclusivos de celular logo abaixo. */
+  @media(max-width:980px){
     /* Mini-grade flutuante: presa logo abaixo da barra de ações fixa,
        ancorada via CSS (position:absolute dentro do .action-bar, que é
        sticky) — acompanha a barra sem "pular" ao rolar e sem depender de
@@ -264,17 +260,55 @@
     .mini-cell.mini-last{background:var(--mini-last);}
     .mini-cell.mini-conflict{background:var(--danger);}
 
-    /* Busca um pouco mais estreita: a mini-grade flutuante fica presa no
-       canto superior direito da tela, e sem essa margem seu botão de
-       limpar (x) ficava embaixo dela, impossível de clicar. */
-    .search-wrap{margin-right:76px;}
+    /* Busca e linha de filtros um pouco mais estreitas: a mini-grade
+       flutuante fica presa no canto superior direito da tela (ancorada no
+       .action-bar, que é sticky), então tanto o botão de limpar (x) da
+       busca quanto o botão "Com conflito" ficavam embaixo dela, impossível
+       de clicar. Aplicando a mesma margem nas duas linhas, os três botões
+       de filtro (que têm flex:1) dividem igualmente o espaço que sobra e
+       nenhum deles invade a área da mini-grade. */
+    .search-wrap,
+    .filter-row{margin-right:76px;}
+    .filter-row button{font-size:10.5px;padding:7px 6px;}
 
-    /* Mesmo problema no botão "Com conflito" (o mais à direita da linha de
-       filtros): em vez de deslocar a linha toda, encolhemos só este botão
-       (largura máxima fixa em vez de flex:1) para que sua ponta direita
-       não fique embaixo da mini-grade flutuante. Os outros dois botões
-       continuam com flex:1 e absorvem o espaço que sobra. */
-    #filterConflict{flex:0 1 auto;max-width:72px;font-size:9.5px;padding:6px 4px;white-space:normal;line-height:1.15;}
+    /* Grade sem scroll lateral: o min-width:860px da tabela (regra base,
+       pensada pra desktop) era maior que a largura disponível em muitos
+       tablets, forçando rolar para o lado só para ver sábado. Aqui a
+       tabela ocupa 100% da largura do container e os dias da semana
+       usam a sigla de uma letra (day-abbr) em vez do nome completo, do
+       mesmo jeito que já era feito no celular — assim as 7 colunas cabem
+       inteiras na tela. */
+    .day-full,.day-med{display:none;}
+    .day-abbr{display:inline;}
+    .grid-wrap{overflow-x:hidden;}
+    table.grid{min-width:0;width:100%;table-layout:fixed;}
+    table.grid thead th{padding:6px 2px;font-size:11px;}
+    table.grid thead th:first-child{width:40px;}
+    td.time-col{font-size:9px;padding:3px 2px;line-height:1.15;word-break:break-word;white-space:normal;}
+    .cell-block{padding:2px 3px;}
+    .cell-block .b-name{font-size:9px;line-height:1.15;}
+    .cell-block .b-sub{font-size:7.5px;}
+  }
+
+  /* ============== CELULAR: grade compacta sem scroll lateral ==============
+     Colocado no final do arquivo de propósito: várias regras base de
+     table.grid/.grid-wrap/.cell-block estão espalhadas pelo CSS com a
+     mesma especificidade destas aqui, então, para garantir que estas
+     realmente vençam a cascata (não dependendo só do media query), elas
+     precisam vir depois no arquivo. */
+  @media(max-width:700px){
+    main{padding:12px 10px;gap:12px;}
+    .header-title-row{width:100%;justify-content:space-between;flex-wrap:wrap;}
+    header h1{white-space:normal;font-size:17px;line-height:1.25;}
+
+    /* Botões de ação (desfazer/refazer, copiar/colar, limpar) na barra fixa
+       (.action-bar, sticky no topo). Em vez de rolar horizontalmente,
+       agora quebram para uma segunda linha se faltar espaço — assim a
+       barra nunca ganha scroll lateral, só cresce um pouco em altura. */
+    .action-bar{padding:8px 10px;gap:6px;}
+    .action-bar .toolbar{flex-wrap:wrap;row-gap:6px;}
+    .action-bar .toolbar button{padding:7px 10px;font-size:11.5px;}
+    .action-bar .toolbar .icon-btn{width:30px;height:30px;padding:0;}
 
     /* Nomes dos dias reduzidos a uma única letra (S, T, Q...) e a tabela
        forçada a ocupar exatamente 100% da largura disponível, para caber

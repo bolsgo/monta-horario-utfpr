@@ -58,15 +58,42 @@
     }
     return out;
   }
-function subjectColor(code) {
-    let hash = 0;
-    for (let i = 0; i < code.length; i++) {
-      // Usando um multiplicador primo (31) para melhor distribuição
-      hash = (hash * 31) + code.charCodeAt(i);
-      hash = hash & hash; // Converte para inteiro de 32 bits
+/* Converte "#rrggbb" para {r,g,b} */
+function hexToRgb(hex) {
+  const n = parseInt(hex.slice(1), 16);
+  return { r: (n >> 16) & 255, g: (n >> 8) & 255, b: n & 255 };
+}
+
+/* Distância euclidiana simples entre duas cores — quanto maior, mais
+   visualmente diferentes elas são uma da outra. */
+function colorDistance(hexA, hexB) {
+  const a = hexToRgb(hexA), b = hexToRgb(hexB);
+  return Math.sqrt((a.r - b.r) ** 2 + (a.g - b.g) ** 2 + (a.b - b.b) ** 2);
+}
+
+/* Escolhe, para cada código (na ordem dada), a cor da PALETTE que fica
+   mais distante das já escolhidas antes dela — maximizando o contraste
+   entre as matérias selecionadas ao mesmo tempo. A ordem é preservada
+   entre chamadas (mesmo prefixo de códigos = mesmas cores), então
+   selecionar/remover uma matéria não embaralha a cor das demais. */
+function subjectColor(code, contextCodes) {
+  const selectedCodes = contextCodes || Object.keys(State.getSelected());
+  const codes = selectedCodes.includes(code) ? selectedCodes : [...selectedCodes, code];
+  const assigned = [];
+  let result = PALETTE[0];
+  for (const c of codes) {
+    let best = PALETTE[0], bestScore = -1;
+    for (const hex of PALETTE) {
+      const minDist = assigned.length
+        ? Math.min(...assigned.map(h => colorDistance(hex, h)))
+        : Infinity;
+      if (minDist > bestScore) { bestScore = minDist; best = hex; }
     }
-    return PALETTE[Math.abs(hash) % PALETTE.length];
+    assigned.push(best);
+    if (c === code) result = best;
   }
+  return result;
+}
 
   /* ============== ESTADO DA APLICAÇÃO ==============
      Toda informação mutável (seleção atual, disciplinas expandidas,
@@ -258,6 +285,7 @@ function subjectColor(code) {
       }
       const div = document.createElement("div");
       div.className = "subject" + (isSelected ? " selected" : "") + (State.isOpen(sub.code) ? " open" : "");
+      div.setAttribute("data-code", sub.code);
       const color = subjectColor(sub.code);
 
       const head = document.createElement("div");
@@ -457,6 +485,41 @@ function subjectColor(code) {
     }
   });
 
+  /* ============== HOVER CRUZADO (lista ⇄ grade) ==============
+     Passar o mouse num bloco da grade destaca a matéria correspondente
+     na lista (mesmo visual de hover da lista), e vice-versa — sem
+     inventar um estilo novo, só reaplicando o hover já existente de
+     cada lado no elemento correspondente do outro lado. */
+  function setLinkedHover(code, on) {
+    if (!code) return;
+    subjectListEl.querySelectorAll(`.subject[data-code="${CSS.escape(code)}"] .subject-head`)
+      .forEach(el => el.classList.toggle("hover-linked", on));
+    gridTable.querySelectorAll(`.cell-block[data-code="${CSS.escape(code)}"]`)
+      .forEach(el => el.classList.toggle("hover-linked", on));
+  }
+  gridTable.addEventListener("mouseover", (e) => {
+    const block = e.target.closest(".cell-block");
+    if (!block) return;
+    setLinkedHover(block.dataset.code, true);
+  });
+  gridTable.addEventListener("mouseout", (e) => {
+    const block = e.target.closest(".cell-block");
+    if (!block) return;
+    if (block.contains(e.relatedTarget)) return;
+    setLinkedHover(block.dataset.code, false);
+  });
+  subjectListEl.addEventListener("mouseover", (e) => {
+    const subject = e.target.closest(".subject");
+    if (!subject) return;
+    setLinkedHover(subject.dataset.code, true);
+  });
+  subjectListEl.addEventListener("mouseout", (e) => {
+    const subject = e.target.closest(".subject");
+    if (!subject) return;
+    if (subject.contains(e.relatedTarget)) return;
+    setLinkedHover(subject.dataset.code, false);
+  });
+
   /* Re-render apenas para aplicar/remover overlay de preview sem reconstruir
      tudo (rápido no hover) */
   function renderGridPreviewOnly() {
@@ -591,6 +654,7 @@ function subjectColor(code) {
       const text = await navigator.clipboard.readText();
       const pairRe = /([A-Za-z]{2,}\d[A-Za-z0-9]*)\s*,\s*([A-Za-z]*\d+[A-Za-z0-9]*)/g;
       const newSelected = {};
+      const pasteCodes = [];
       let found = 0, notFound = [];
       let m;
       while ((m = pairRe.exec(text)) !== null) {
@@ -602,8 +666,10 @@ function subjectColor(code) {
         const t = sub.turmas.find(tt => tt.turma.toUpperCase() === turmaCode);
         if (!t) { notFound.push(label); continue; }
         const slots = parseHorario(t.h);
+        const color = subjectColor(sub.code, pasteCodes);
+        pasteCodes.push(sub.code);
         newSelected[sub.code] = {
-          code: sub.code, name: sub.name, turma: t.turma, prof: t.prof, h: t.h, slots, color: subjectColor(sub.code),
+          code: sub.code, name: sub.name, turma: t.turma, prof: t.prof, h: t.h, slots, color,
           enq: t.enq, vt: t.vt, vc: t.vc, res: t.res, prio: t.prio, opt: t.opt
         };
         found++;

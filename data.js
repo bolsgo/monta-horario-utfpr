@@ -729,12 +729,13 @@ const AULAS = [
   {code:"N5",turno:"N",start:"22:10",end:"23:00"}
 ];
 
-/* Paleta de cores expandida e mais variada */
+/* Paleta de cores expandida e mais variada — sem tons de vermelho,
+   para não se confundir com a cor de conflito de horário. */
 const PALETTE = [
-  "#8a3324", "#2c6e49", "#00509d", "#7b2cbf", "#ca6702", 
-  "#4a4e69", "#b91d47", "#006d77", "#606c38", "#590d22",
-  "#023e8a", "#a24936", "#386641", "#5a189a", "#d62828",
-  "#457b9d", "#7f4f24", "#2a9d8f", "#c9184a", "#1d3557",
-  "#6a994e", "#9d4edd", "#9b2226", "#0081a7", "#5e548e",
-  "#800f2f", "#2d6a4f", "#936639", "#3c096c", "#0077b6"
+  "#2c6e49", "#00509d", "#7b2cbf", "#ca6702",
+  "#4a4e69", "#006d77", "#606c38", "#023e8a",
+  "#386641", "#5a189a", "#457b9d", "#7f4f24",
+  "#2a9d8f", "#1d3557", "#6a994e", "#9d4edd",
+  "#0081a7", "#5e548e", "#2d6a4f", "#936639",
+  "#3c096c", "#0077b6"
 ];

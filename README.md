@@ -9,7 +9,7 @@ Feito para uso pessoal.
 
 ## Estrutura dos dados (por sede e por curso)
 
-As disciplinas não ficam mais num `data.js` único: os dados são organizados
+Os dados são organizados
 em duas camadas.
 
 - `data/sedes.json` lista as sedes disponíveis (por enquanto só Curitiba).
@@ -39,7 +39,6 @@ curso e toda sede (dias da semana, horários das aulas, paleta de cores).
 2. Adicione `{ "slug": "<sede>", "label": "<nome da sede>" }` em
    `data/sedes.json`.
 
-> **Nota:** como os dados agora são buscados via `fetch`, abrir `index.html`
-> direto do disco (`file://`) não funciona em todos os navegadores — sirva
-> a pasta com um servidor local (ex: `npx serve` ou a extensão "Live Server")
-> ou publique no GitHub Pages, que já funciona por padrão.
+> **Nota:** como os dados são buscados via `fetch`, abrir `index.html`
+> direto do disco (`file://`) não funciona em todos os navegadores, sirva
+> a pasta com um servidor local (ex: `npx serve` ou a extensão "Live Server").

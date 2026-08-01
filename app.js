@@ -891,7 +891,6 @@ function subjectColor(code, contextCodes) {
   const LAST_SEDE_KEY = "utfpr_sede";
   const sedeSelect = document.getElementById("sedeSelect");
   const courseSelect = document.getElementById("courseSelect");
-  const courseNameLabel = document.getElementById("courseNameLabel");
   let sedeManifest = [];
   let courseManifest = [];
   let currentSede = null;
@@ -925,7 +924,8 @@ function subjectColor(code, contextCodes) {
   function updateCourseHeader(slug) {
     const course = findCourse(slug);
     const label = course ? course.label : slug;
-    if (courseNameLabel) courseNameLabel.textContent = label;
+    // O título visível no header (h1) fica sempre fixo em "MontaHorário
+    // UTFPR" — só o título da aba do navegador reflete o curso atual.
     document.title = `Monta Horário ${label} UTFPR`;
   }
 

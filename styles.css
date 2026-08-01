@@ -50,6 +50,7 @@
   .header-title-row{display:flex;align-items:center;justify-content:space-between;gap:12px;min-width:0;width:100%;}
   header h1{font-family:var(--font-display);font-size:22px;margin:0;font-weight:600;letter-spacing:-.2px;white-space:nowrap;}
   header h1 span{color:var(--accent);font-style:italic;}
+  header h1 #brandUtfpr{color:var(--text);font-style:normal;font-weight:600;font-size:.42em;letter-spacing:.02em;vertical-align:middle;}
   .header-extras{display:flex;align-items:center;gap:8px;flex-shrink:0;}
 
   /* ============== BARRA DE AÇÕES FIXA ==============

@@ -42,8 +42,11 @@
   /* ============== PARSER ============== */
   // entrada: "5N1(CE-102)-5N2(CE-102)-6M1(*CE-303)-6M2(**CE-303)"
   // asteriscos indicam sede diferente (Ecoville/Neoville)
+  const parseHorarioCache = new Map(); // h (string) -> slots já parseados
   function parseHorario(h) {
     if (!h) return [];
+    const cached = parseHorarioCache.get(h);
+    if (cached) return cached;
     const regex = /(\d)([MTN])(\d)\s*\(([^)]*)\)/g;
     let m; const out = [];
     while ((m = regex.exec(h)) !== null) {
@@ -56,6 +59,7 @@
       if (AULA_INDEX[code] === undefined) continue;
       out.push({ day, code, room: roomRaw, otherCampus });
     }
+    parseHorarioCache.set(h, out);
     return out;
   }
 /* Converte "#rrggbb" para {r,g,b} */
@@ -268,10 +272,10 @@ function subjectColor(code, contextCodes) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
-  function renderSubjectList() {
+  function renderSubjectList(occ) {
     const q = normalizeText(searchBox.value.trim());
     subjectListEl.innerHTML = "";
-    const conflictSet = computeConflictCodes();
+    const conflictSet = computeConflictCodes(occ);
     const selected = State.getSelected();
     const filterMode = State.getFilterMode();
 
@@ -399,8 +403,8 @@ function subjectColor(code, contextCodes) {
     });
     return occ;
   }
-  function computeConflictCodes() {
-    const occ = computeOccupancy();
+  function computeConflictCodes(occ) {
+    occ = occ || computeOccupancy();
     const conflictCodes = new Set();
     Object.values(occ).forEach(arr => {
       if (arr.length > 1) arr.forEach(c => conflictCodes.add(c));
@@ -411,8 +415,8 @@ function subjectColor(code, contextCodes) {
   /* ============== RENDER GRID ============== */
   const gridTable = document.getElementById("gridTable");
 
-  function baseGridHTML() {
-    const occ = computeOccupancy();
+  function baseGridHTML(occ) {
+    occ = occ || computeOccupancy();
     const selected = State.getSelected();
     let html = `<caption class="visually-hidden">Grade horária semanal — as linhas são os horários de aula e as colunas os dias da semana; cada célula mostra as disciplinas alocadas naquele horário.</caption>`;
     html += "<thead><tr><th scope=\"col\" style='width:70px;'>Aula</th>";
@@ -459,8 +463,8 @@ function subjectColor(code, contextCodes) {
     html += "</tbody>";
     return html;
   }
-  function renderGrid() {
-    gridTable.innerHTML = baseGridHTML();
+  function renderGrid(occ) {
+    gridTable.innerHTML = baseGridHTML(occ);
   }
 
   /* Clique (ou Enter/Espaço) em um bloco de aula na grade remove a disciplina da seleção */
@@ -536,14 +540,14 @@ function subjectColor(code, contextCodes) {
   }
 
   /* ============== STATS + BANNER ============== */
-  function renderStats() {
+  function renderStats(occ) {
     const statsBar = document.getElementById("statsBar");
     const conflictBanner = document.getElementById("conflictBanner");
     const selected = State.getSelected();
     const count = State.countSelected();
     let totalAulas = 0;
     Object.values(selected).forEach(s => totalAulas += s.slots.length);
-    const conflicts = computeConflictCodes();
+    const conflicts = computeConflictCodes(occ);
 
     statsBar.innerHTML = `
       <div><b>${count}</b> disciplina(s) selecionada(s)</div>
@@ -586,12 +590,12 @@ function subjectColor(code, contextCodes) {
      suas células ficam vermelhas, não só a que colide. Preenche o canto
      vazio do cabeçalho no celular, quando a barra de ferramentas quebra
      de linha. */
-  function renderMiniGrid() {
+  function renderMiniGrid(occ) {
     const miniGrid = document.getElementById("miniGrid");
     if (!miniGrid) return;
-    const occ = computeOccupancy();
+    occ = occ || computeOccupancy();
     const lastCode = State.getLastSelected();
-    const conflictCodes = computeConflictCodes();
+    const conflictCodes = computeConflictCodes(occ);
     const lastHasConflict = !!(lastCode && conflictCodes.has(lastCode));
     let html = "";
     AULAS.forEach(a => {
@@ -617,12 +621,13 @@ function subjectColor(code, contextCodes) {
   }
 
   function renderAll() {
-    renderSubjectList();
-    renderGrid();
-    renderStats();
+    const occ = computeOccupancy(); // calculado 1x aqui e reaproveitado abaixo
+    renderSubjectList(occ);
+    renderGrid(occ);
+    renderStats(occ);
     renderLegend();
     updateUndoButton();
-    renderMiniGrid();
+    renderMiniGrid(occ);
   }
 
   /* ============== TOAST ============== */

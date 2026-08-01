@@ -236,8 +236,13 @@ function subjectColor(code) {
   const subjectListEl = document.getElementById("subjectList");
   const searchBox = document.getElementById("searchBox");
 
+  /* Remove acentos/diacríticos para permitir busca "algebra" encontrar "álgebra" */
+  function normalizeText(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
   function renderSubjectList() {
-    const q = searchBox.value.trim().toLowerCase();
+    const q = normalizeText(searchBox.value.trim());
     subjectListEl.innerHTML = "";
     const conflictSet = computeConflictCodes();
     const selected = State.getSelected();
@@ -248,7 +253,7 @@ function subjectColor(code) {
       if (filterMode === "selected" && !isSelected) return;
       if (filterMode === "conflict" && !conflictSet.has(sub.code)) return;
       if (q) {
-        const hay = (sub.code + " " + sub.name + " " + sub.turmas.map(t => t.prof + " " + t.turma).join(" ")).toLowerCase();
+        const hay = normalizeText(sub.code + " " + sub.name + " " + sub.turmas.map(t => t.prof + " " + t.turma).join(" "));
         if (!hay.includes(q)) return;
       }
       const div = document.createElement("div");

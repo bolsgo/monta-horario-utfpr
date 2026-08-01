@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Monta Horário UTFPR Eng. Elétrica 2026/2</title>
-<meta name="description" content="Gerador interativo de grade horária para Engenharia Elétrica da UTFPR. Monte sua grade, evite conflitos de horários e organize seu semestre.">
+<title>Monta Horário UTFPR</title>
+<meta name="description" content="Gerador interativo de grade horária para cursos da UTFPR. Monte sua grade, evite conflitos de horários e organize seu semestre.">
 <link rel="stylesheet" href="styles.css">
 <script>
 /* Aplica o tema salvo antes da primeira pintura, evitando "flash" de tela clara.
@@ -21,7 +21,7 @@
 
 <header>
   <div class="header-title-row">
-    <h1>Monta<span>Horário</span> Eng. Elétrica UTFPR 2026/2</h1>
+    <h1>Monta<span>Horário</span> <span id="courseNameLabel">UTFPR</span></h1>
     <div class="header-extras">
       <button type="button" class="theme-toggle" id="themeToggle" title="Alternar tema" aria-label="Alternar tema" aria-pressed="false">
         <span class="tt-track">
@@ -53,6 +53,14 @@
 
 <main>
   <div class="panel">
+    <div class="course-select-wrap sede-select-wrap">
+      <label for="sedeSelect">Sede</label>
+      <select id="sedeSelect" aria-label="Selecionar sede"></select>
+    </div>
+    <div class="course-select-wrap">
+      <label for="courseSelect">Curso</label>
+      <select id="courseSelect" aria-label="Selecionar curso"></select>
+    </div>
     <label class="visually-hidden" for="searchBox">Buscar disciplina, código, professor ou sigla</label>
     <div class="search-wrap">
       <input class="search" id="searchBox" placeholder="Buscar disciplina, código, professor ou sigla...">
@@ -80,8 +88,10 @@
 
 <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
 
-<!-- Dados (disciplinas, dias, aulas, paleta) separados da lógica de aplicação -->
-<script src="data.js"></script>
+<!-- Configuração compartilhada por todos os cursos (dias, aulas, paleta) -->
+<script src="config.js"></script>
+<!-- As disciplinas (DATA) de cada curso são carregadas sob demanda pelo
+     próprio app.js, via fetch em data/<slug>.json (ver manifest.json) -->
 <!-- Lógica da aplicação (estado, renderização, eventos) -->
 <script src="app.js"></script>
 </body>

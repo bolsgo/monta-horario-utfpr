@@ -1,28 +1,40 @@
 /* ==================================================================
    app.js — Lógica do MontaHorário UTFPR
-   Depende de data.js (DATA, DAYS, AULAS, PALETTE) já carregado antes.
+   Depende de config.js (DAYS, AULAS, PALETTE) já carregado antes.
+   As disciplinas (DATA) não vêm mais de um <script> fixo: cada curso
+   é um data/<slug>.json carregado sob demanda via fetch (ver seção
+   "CARREGAMENTO DE CURSO" perto do fim do arquivo).
    Tudo fica dentro de uma IIFE: nada aqui vaza para o escopo global,
-   exceto o que já vem de data.js.
+   exceto o que já vem de config.js.
    ================================================================== */
 (function () {
   "use strict";
-   /* ============== REMOVEDOR DE DUPLICATAS ==============
-     Lê os dados do DATA e remove blocos de horários 
-     exatamente iguais antes de montar os índices,
-     preservando salas com hífen (ex: CD-108). */
-  DATA.forEach(disciplina => {
-    disciplina.turmas.forEach(turma => {
-      if (turma.h) {
-        // Usa RegEx para capturar os blocos "5T2(CD-108)" em vez de split('-')
-        const blocos = turma.h.match(/\d[MTN]\d\s*\([^)]*\)/g);
-        if (blocos) {
-          // Remove as duplicatas exatas e junta com hífen novamente
-          turma.h = [...new Set(blocos)].join('-');
+
+  /* Disciplinas do curso atualmente carregado. Começa vazio e é
+     preenchido por applyDataset() sempre que um data/<slug>.json
+     termina de carregar (na primeira vez ou ao trocar de curso). */
+  let DATA = [];
+
+  /* ============== REMOVEDOR DE DUPLICATAS ==============
+     Lê um array de disciplinas (no formato do data/<slug>.json) e
+     remove blocos de horários exatamente iguais antes de montar os
+     índices, preservando salas com hífen (ex: CD-108). Roda uma vez
+     por curso carregado, não uma vez só na inicialização. */
+  function dedupeHorarios(disciplinas) {
+    disciplinas.forEach(disciplina => {
+      disciplina.turmas.forEach(turma => {
+        if (turma.h) {
+          // Usa RegEx para capturar os blocos "5T2(CD-108)" em vez de split('-')
+          const blocos = turma.h.match(/\d[MTN]\d\s*\([^)]*\)/g);
+          if (blocos) {
+            // Remove as duplicatas exatas e junta com hífen novamente
+            turma.h = [...new Set(blocos)].join('-');
+          }
         }
-      }
+      });
     });
-  });
-  /* ============== ÍNDICE AUXILIAR (derivado dos dados de data.js) ============== */
+  }
+  /* ============== ÍNDICE AUXILIAR (derivado de AULAS, de config.js) ============== */
   const AULA_INDEX = {};
   AULAS.forEach((a, i) => { AULA_INDEX[a.code] = i; });
 
@@ -80,11 +92,15 @@ function colorDistance(hexA, hexB) {
    entre as matérias selecionadas ao mesmo tempo. A ordem é preservada
    entre chamadas (mesmo prefixo de códigos = mesmas cores), então
    selecionar/remover uma matéria não embaralha a cor das demais. */
-function subjectColor(code, contextCodes) {
-  const selectedCodes = contextCodes || Object.keys(State.getSelected());
-  const codes = selectedCodes.includes(code) ? selectedCodes : [...selectedCodes, code];
+/* Calcula, de uma vez só, a cor de cada código de uma lista ordenada —
+   mesmo algoritmo de maximizar distância entre cores, mas processando
+   a lista inteira em uma única passada em vez de recomeçar do zero pra
+   cada código. Use isso quando precisar da cor de VÁRIOS códigos ao
+   mesmo tempo (ex: toda a lista de disciplinas em um render), em vez de
+   chamar subjectColor() um a um — economiza o O(n × paleta) repetido. */
+function computeColorMap(codes) {
+  const map = new Map();
   const assigned = [];
-  let result = PALETTE[0];
   for (const c of codes) {
     let best = PALETTE[0], bestScore = -1;
     for (const hex of PALETTE) {
@@ -94,9 +110,19 @@ function subjectColor(code, contextCodes) {
       if (minDist > bestScore) { bestScore = minDist; best = hex; }
     }
     assigned.push(best);
-    if (c === code) result = best;
+    map.set(c, best);
   }
-  return result;
+  return map;
+}
+
+/* Cor de UM código específico, dado o contexto (ordem) das selecionadas.
+   Por baixo dos panos usa computeColorMap — mantido pros poucos lugares
+   que só precisam de um código por vez (selecionar/colar uma turma).
+   Para pintar uma lista inteira, prefira computeColorMap() direto. */
+function subjectColor(code, contextCodes) {
+  const selectedCodes = contextCodes || Object.keys(State.getSelected());
+  const codes = selectedCodes.includes(code) ? selectedCodes : [...selectedCodes, code];
+  return computeColorMap(codes).get(code);
 }
 
   /* ============== ESTADO DA APLICAÇÃO ==============
@@ -114,7 +140,10 @@ function subjectColor(code, contextCodes) {
     let undoStack = [];
     let redoStack = [];
     let lastSelectedCode = null;    // código da última matéria escolhida (destaque azul na mini-grade)
-    const STORAGE_KEY = "utfpr_horario_v2";
+    // A chave de storage inclui o slug do curso: cada curso guarda sua
+    // própria seleção separadamente (trocar de curso não apaga nem
+    // mistura o que foi salvo nos outros).
+    let STORAGE_KEY = "utfpr_horario_v2";
 
     function snapshot() { return JSON.stringify(selected); }
 
@@ -216,6 +245,25 @@ function subjectColor(code, contextCodes) {
       },
       save() {
         localStorage.setItem(STORAGE_KEY, snapshot());
+      },
+
+      // Chamado ao trocar de curso: aponta o storage para a chave do
+      // novo curso, namespaced por sede (cada curso de cada sede tem sua
+      // própria "utfpr_horario_v2_<sede>_<slug>" — evita colisão caso duas
+      // sedes venham a ter cursos com o mesmo slug), carrega a seleção
+      // salva desse curso (se houver) e limpa todo estado de UI/histórico
+      // que só fazia sentido para o curso anterior (accordions abertos,
+      // desfazer/refazer, preview de hover etc.).
+      switchCourse(sedeSlug, slug) {
+        STORAGE_KEY = "utfpr_horario_v2_" + sedeSlug + "_" + slug;
+        selected = {};
+        openSubjects = new Set();
+        openInfo = new Set();
+        previewSlots = null;
+        undoStack = [];
+        redoStack = [];
+        lastSelectedCode = null;
+        this.load();
       }
     };
   })();
@@ -278,6 +326,9 @@ function subjectColor(code, contextCodes) {
     const conflictSet = computeConflictCodes(occ);
     const selected = State.getSelected();
     const filterMode = State.getFilterMode();
+    // Uma passada só pra todas as cores deste render, em vez de recomeçar
+    // o cálculo O(selecionadas × paleta) a cada disciplina da lista.
+    const colorMap = computeColorMap(Object.keys(selected));
 
     DATA.forEach(sub => {
       const isSelected = State.isSelected(sub.code);
@@ -290,7 +341,9 @@ function subjectColor(code, contextCodes) {
       const div = document.createElement("div");
       div.className = "subject" + (isSelected ? " selected" : "") + (State.isOpen(sub.code) ? " open" : "");
       div.setAttribute("data-code", sub.code);
-      const color = subjectColor(sub.code);
+      // Só interessa a cor de disciplinas selecionadas (é só onde ela é
+      // exibida) — pra que calcular pras outras ~140+ da lista à toa?
+      const color = isSelected ? colorMap.get(sub.code) : null;
 
       const head = document.createElement("div");
       head.className = "subject-head";
@@ -827,15 +880,160 @@ function subjectColor(code, contextCodes) {
     checkBottom();
   }
 
+  /* ============== CARREGAMENTO DE SEDE E CURSO ==============
+     Estrutura em duas camadas: data/sedes.json lista as sedes (por
+     enquanto só Curitiba), e cada sede tem sua própria pasta
+     data/<sede>/ com um manifest.json (catálogo de cursos daquela sede)
+     e um data/<sede>/<slug>.json por curso (só o array de disciplinas —
+     DAYS, AULAS e PALETTE já vêm de config.js e são iguais pra tudo).
+     Trocar de sede recarrega o manifest de cursos daquela sede e carrega
+     o primeiro curso dela (ou o último usado nessa sede, se houver). */
+  const LAST_SEDE_KEY = "utfpr_sede";
+  const sedeSelect = document.getElementById("sedeSelect");
+  const courseSelect = document.getElementById("courseSelect");
+  const courseNameLabel = document.getElementById("courseNameLabel");
+  let sedeManifest = [];
+  let courseManifest = [];
+  let currentSede = null;
+
+  function courseKeyFor(sedeSlug) {
+    return "utfpr_curso_" + sedeSlug;
+  }
+
+  function findSede(slug) {
+    return sedeManifest.find(s => s.slug === slug) || null;
+  }
+
+  function findCourse(slug) {
+    return courseManifest.find(c => c.slug === slug) || null;
+  }
+
+  // Aplica no app um array de disciplinas já carregado (troca DATA,
+  // dedupe de horários repetidos e reindexação da seleção salva).
+  function applyDataset(disciplinas) {
+    dedupeHorarios(disciplinas);
+    DATA = disciplinas;
+    State.pruneAndRefresh((code, sel) => {
+      const sub = DATA.find(s => s.code === code);
+      if (!sub) return null;
+      const t = sub.turmas.find(x => x.turma === sel.turma);
+      if (!t) return null;
+      return { slots: parseHorario(t.h), color: subjectColor(code) };
+    });
+  }
+
+  function updateCourseHeader(slug) {
+    const course = findCourse(slug);
+    const label = course ? course.label : slug;
+    if (courseNameLabel) courseNameLabel.textContent = label;
+    document.title = `Monta Horário ${label} UTFPR`;
+  }
+
+  // Busca data/<sede>/<slug>.json e carrega o curso. switching=true indica
+  // que já havia um curso carregado antes (troca manual pelo seletor, ou
+  // troca de sede), então reseta accordions/desfazer/refazer e mostra um
+  // toast ao final.
+  async function loadCourse(slug, switching) {
+    if (courseSelect) courseSelect.disabled = true;
+    try {
+      const res = await fetch(`data/${currentSede}/${slug}.json`);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const disciplinas = await res.json();
+      State.switchCourse(currentSede, slug);
+      applyDataset(disciplinas);
+      localStorage.setItem(courseKeyFor(currentSede), slug);
+      updateCourseHeader(slug);
+      renderAll();
+      if (switching) toast(`Curso alterado: ${(findCourse(slug) || {}).label || slug}.`);
+    } catch (e) {
+      toast(`Não foi possível carregar os dados desse curso (${slug}). Confira sua conexão e tente de novo.`);
+    } finally {
+      if (courseSelect) courseSelect.disabled = false;
+    }
+  }
+
+  // Busca data/<sede>/manifest.json (catálogo de cursos daquela sede) e
+  // carrega o curso inicial dela: o último usado nessa sede (se ainda
+  // existir no manifest) ou o primeiro da lista.
+  async function loadSedeCourses(sedeSlug, switchingSede) {
+    if (sedeSelect) sedeSelect.disabled = true;
+    if (courseSelect) courseSelect.disabled = true;
+
+    try {
+      const res = await fetch(`data/${sedeSlug}/manifest.json`);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      courseManifest = await res.json();
+    } catch (e) {
+      courseManifest = [];
+      toast(`Não foi possível carregar os cursos da sede ${sedeSlug}.`);
+    }
+
+    currentSede = sedeSlug;
+    localStorage.setItem(LAST_SEDE_KEY, sedeSlug);
+
+    if (courseSelect) {
+      courseSelect.innerHTML = courseManifest
+        .map(c => `<option value="${esc(c.slug)}">${esc(c.label)}</option>`)
+        .join("");
+    }
+
+    const savedCourse = localStorage.getItem(courseKeyFor(sedeSlug));
+    const initialSlug = (savedCourse && findCourse(savedCourse) && savedCourse)
+      || (courseManifest[0] && courseManifest[0].slug);
+
+    if (!initialSlug) {
+      toast(`Nenhum curso disponível para a sede ${(findSede(sedeSlug) || {}).label || sedeSlug}.`);
+      if (sedeSelect) sedeSelect.disabled = false;
+      if (courseSelect) courseSelect.disabled = false;
+      return;
+    }
+
+    if (courseSelect) courseSelect.value = initialSlug;
+    await loadCourse(initialSlug, false);
+    if (switchingSede) toast(`Sede alterada: ${(findSede(sedeSlug) || {}).label || sedeSlug}.`);
+    if (sedeSelect) sedeSelect.disabled = false;
+  }
+
+  if (sedeSelect) {
+    sedeSelect.onchange = () => {
+      const slug = sedeSelect.value;
+      if (slug) loadSedeCourses(slug, true);
+    };
+  }
+
+  if (courseSelect) {
+    courseSelect.onchange = () => {
+      const slug = courseSelect.value;
+      if (slug) loadCourse(slug, true);
+    };
+  }
+
   /* ============== INIT ============== */
-  State.load();
-  State.pruneAndRefresh((code, sel) => {
-    const sub = DATA.find(s => s.code === code);
-    if (!sub) return null;
-    const t = sub.turmas.find(x => x.turma === sel.turma);
-    if (!t) return null;
-    return { slots: parseHorario(t.h), color: subjectColor(code) };
-  });
-  renderAll();
-  initMiniGridVisibility();
+  (async function init() {
+    try {
+      const res = await fetch("data/sedes.json");
+      sedeManifest = await res.json();
+    } catch (e) {
+      sedeManifest = [];
+    }
+
+    if (sedeSelect) {
+      sedeSelect.innerHTML = sedeManifest
+        .map(s => `<option value="${esc(s.slug)}">${esc(s.label)}</option>`)
+        .join("");
+    }
+
+    const savedSede = localStorage.getItem(LAST_SEDE_KEY);
+    const initialSede = (savedSede && findSede(savedSede) && savedSede)
+      || (sedeManifest[0] && sedeManifest[0].slug);
+
+    if (!initialSede) {
+      toast("Nenhuma sede disponível em data/sedes.json.");
+      return;
+    }
+
+    if (sedeSelect) sedeSelect.value = initialSede;
+    await loadSedeCourses(initialSede, false);
+    initMiniGridVisibility();
+  })();
 })();

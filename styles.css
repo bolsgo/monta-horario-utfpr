@@ -95,6 +95,13 @@
     color:var(--text);font-size:14px;font-family:var(--font-body);}
   .search::placeholder{color:var(--muted);}
   .search:focus{outline:none;border-bottom-color:var(--accent);}
+  .course-select-wrap{display:flex;align-items:center;gap:8px;margin-bottom:14px;}
+  .course-select-wrap label{font-size:12.5px;color:var(--muted);font-weight:500;flex-shrink:0;}
+  .course-select-wrap select{flex:1;min-width:0;padding:8px 10px;border-radius:6px;
+    border:1px solid var(--border);background:var(--panel2);color:var(--text);
+    font-family:var(--font-body);font-size:13.5px;cursor:pointer;}
+  .course-select-wrap select:focus{outline:2px solid var(--accent);outline-offset:-1px;}
+  .course-select-wrap select:disabled{opacity:.6;cursor:wait;}
   .search-wrap{position:relative;margin-bottom:14px;}
   .search-clear{position:absolute;right:0;top:50%;transform:translateY(-50%);background:transparent;
     color:var(--muted);padding:4px;width:20px;height:20px;border-radius:50%;justify-content:center;}
@@ -270,6 +277,15 @@
        de clicar. Aplicando a mesma margem nas duas linhas, os três botões
        de filtro (que têm flex:1) dividem igualmente o espaço que sobra e
        nenhum deles invade a área da mini-grade. */
+    /* Sede e Curso ficam acima da busca, mas usam a mesma faixa de
+       largura reduzida (margin-right:76px) para não passar por baixo
+       da mini-grade flutuante, que fica presa no canto superior direito
+       da tela (ver .mini-grid). Sem isso, os dois seletores cobriam a
+       mini-tabela em vez de pararem antes dela, como a busca já fazia. */
+    .course-select-wrap{margin-right:76px;}
+    .course-select-wrap label{font-size:11px;}
+    .course-select-wrap select{padding:6px 8px;font-size:12px;}
+
     .search-wrap,
     .filter-row{margin-right:76px;}
     .filter-row button{font-size:10.5px;padding:7px 6px;}

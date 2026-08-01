@@ -3,68 +3,129 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gerador do data.js - Monta Horário UTFPR</title>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<title>Gerador de data/*.json - Monta Horário UTFPR</title>
 <style>
+  @font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap;}
+  @font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Medium.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap;}
+  @font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-SemiBold.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap;}
+  @font-face{font-family:'Lexend';src:url('assets/fonts/Lexend-Bold.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap;}
+
   :root {
     --bg: #f6f1e7; --panel: #fbf8f2; --panel2: #eee6d6; --border: rgba(43,38,32,.10);
     --text: #2b2621; --muted: #83766a; --accent: #8a3324; --accent-hover: #6f2a1e;
-    --font-display: 'Fraunces', Georgia, serif;
-    --font-body: 'Work Sans', -apple-system, Helvetica, Arial, sans-serif;
+    --font-display: 'Lexend', -apple-system, Helvetica, Arial, sans-serif;
+    --font-body: 'Lexend', -apple-system, Helvetica, Arial, sans-serif;
   }
-  
+
   body {
     margin: 0; font-family: var(--font-body); background: var(--bg); color: var(--text); padding: 30px 20px;
   }
-  
+
   .container {
-    max-width: 1000px; margin: 0 auto; background: var(--panel); padding: 30px; 
+    max-width: 1000px; margin: 0 auto; background: var(--panel); padding: 30px;
     border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.04); border: 1px solid var(--border);
   }
-  
+
   h1 { font-family: var(--font-display); color: var(--accent); margin-top: 0; font-size: 26px; }
-  h1 span { font-style: italic; }
+  h1 span { font-weight: 700; color: inherit; }
   p { color: var(--muted); font-size: 14.5px; line-height: 1.5; margin-bottom: 20px; }
-  
+
+  label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+
+  .course-fields { display: flex; gap: 16px; margin-bottom: 20px; flex-wrap: wrap; }
+  .course-fields > div { flex: 1; min-width: 220px; }
+  .course-fields input {
+    width: 100%; padding: 10px 12px; font-family: var(--font-body); font-size: 14px;
+    border: 1px solid var(--border); border-radius: 8px; background: var(--bg); color: var(--text);
+    box-sizing: border-box;
+  }
+  .course-fields input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .hint { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
   textarea {
     width: 100%; height: 220px; padding: 14px; font-family: monospace; font-size: 12.5px;
     border: 1px solid var(--border); border-radius: 8px; background: var(--bg); color: var(--text);
     resize: vertical; box-sizing: border-box; margin-bottom: 20px;
   }
   textarea:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
-  
+
   button {
     background: var(--accent); color: #fbf8f2; border: none; padding: 12px 24px; font-size: 14px;
     font-weight: 600; border-radius: 6px; cursor: pointer; transition: 0.2s; font-family: var(--font-body);
   }
   button:hover { background: var(--accent-hover); }
-  
+  button:disabled { opacity: .5; cursor: not-allowed; }
+
   .output-area { margin-top: 30px; display: none; }
   .output-area.show { display: block; }
-  
-  .header-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+
+  .header-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; gap: 10px; flex-wrap: wrap; }
   .header-controls h2 { font-family: var(--font-display); font-size: 20px; margin: 0; }
+  .header-controls .btn-group { display: flex; gap: 8px; }
   .header-controls button { background: var(--text); padding: 8px 16px; }
   .header-controls button:hover { background: #000; }
-  
+
+  .manifest-tip {
+    margin-top: 16px; padding: 12px 14px; border-radius: 8px; background: var(--panel2);
+    font-size: 13px; color: var(--text); line-height: 1.5;
+  }
+  .manifest-tip code { background: rgba(43,38,32,.08); padding: 1px 5px; border-radius: 4px; }
 </style>
 </head>
 <body>
 
 <div class="container">
-  <h1>Monta<span>Horário</span> — Gerador data.js</h1>
-  <p>Cole abaixo todo o conteúdo (código-fonte HTML) do relatório "Turmas Abertas" da UTFPR <b>(update1.txt)</b>. O script irá limpar e extrair automaticamente as disciplinas, prioridades e horários para o formato padrão do sistema.</p>
+  <h1>Monta<span>Horário</span> — Gerador de dados por curso</h1>
+  <p>
+    Cole abaixo o HTML do relatório "Turmas Abertas" da UTFPR (o mesmo conteúdo que fica em <b>codigofonte.txt</b>).
+    O script extrai as disciplinas e gera um arquivo <b>data/&lt;slug&gt;.json</b> — o formato que o site
+    carrega sob demanda quando alguém escolhe esse curso no seletor. Cada curso é gerado separadamente,
+    um relatório de cada vez.
+  </p>
 
-  <textarea id="inputHtml" placeholder="Cole o HTML do update1.txt aqui..."></textarea>
-  
-  <button onclick="converter()">Gerar data.js</button>
+  <p id="autoFillWarning" class="hint" style="display:none; background: var(--panel2); padding: 10px 12px; border-radius: 8px; color: var(--text);">
+    ⚠️ Não consegui carregar as sedes/cursos já existentes (<code>data/sedes.json</code> / <code>data/&lt;sede&gt;/manifest.json</code>) para sugerir nos campos abaixo — isso é normal se você abriu este arquivo direto do disco (<code>file://</code>), já que o navegador bloqueia esse tipo de busca nesse caso. Sirva a pasta com um servidor local (ex: <code>npx serve</code>, extensão "Live Server") ou abra pelo GitHub Pages para ativar as sugestões. Os campos continuam funcionando normalmente por digitação.
+  </p>
+
+  <div class="course-fields">
+    <div>
+      <label for="sedeSlug">Sede (pasta)</label>
+      <input id="sedeSlug" list="sedeOptions" placeholder="ex: curitiba" value="curitiba" autocomplete="off">
+      <datalist id="sedeOptions"></datalist>
+      <div class="hint">Vira a pasta <code>data/&lt;sede&gt;/</code>. Escolha uma sede já existente na lista ou digite uma nova — para adicionar uma sede de fato, crie a pasta e inclua a entrada correspondente em <code>data/sedes.json</code>.</div>
+    </div>
+  </div>
+
+  <div class="course-fields">
+    <div>
+      <label for="courseSlug">Slug do curso (nome do arquivo)</label>
+      <input id="courseSlug" list="courseOptions" placeholder="ex: eng-eletrica" autocomplete="off">
+      <datalist id="courseOptions"></datalist>
+      <div class="hint">Vira <code>data/&lt;sede&gt;/&lt;slug&gt;.json</code>. Mostra os cursos já cadastrados na sede acima — escolher um existente vai <b>sobrescrever</b> aquele curso; use só letras minúsculas, números e hífen para um novo.</div>
+    </div>
+    <div>
+      <label for="courseLabel">Nome exibido no seletor</label>
+      <input id="courseLabel" list="courseLabelOptions" placeholder="ex: Engenharia Elétrica" autocomplete="off">
+      <datalist id="courseLabelOptions"></datalist>
+      <div class="hint">É o texto que aparece no dropdown de cursos do site. Preenchido automaticamente se você escolher um curso já existente.</div>
+    </div>
+  </div>
+
+  <label for="inputHtml">HTML do relatório (codigofonte.txt)</label>
+  <textarea id="inputHtml" placeholder="Cole o HTML do relatório aqui..."></textarea>
+
+  <button onclick="converter()">Gerar JSON do curso</button>
 
   <div class="output-area" id="outputArea">
     <div class="header-controls">
-      <h2>Resultado (data.js)</h2>
-      <button onclick="copiar()">Copiar Código</button>
+      <h2 id="outputTitle">Resultado</h2>
+      <div class="btn-group">
+        <button onclick="copiar()">Copiar JSON</button>
+        <button onclick="baixar()">Baixar arquivo</button>
+      </div>
     </div>
     <textarea id="outputJs" readonly></textarea>
+    <div class="manifest-tip" id="manifestTip"></div>
   </div>
 </div>
 
@@ -77,17 +138,115 @@
     return text;
   }
 
+  function slugify(s) {
+    return s.trim().toLowerCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // remove acentos
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
+  function escAttr(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  let knownCourses = []; // manifest da sede atualmente digitada no campo Sede
+  let autoFillFailed = false;
+
+  function showAutoFillWarning() {
+    if (autoFillFailed) return; // já mostrado, não repete
+    autoFillFailed = true;
+    document.getElementById('autoFillWarning').style.display = 'block';
+  }
+
+  // Busca data/sedes.json e preenche o <datalist> de sedes. Se falhar
+  // (ex.: arquivo aberto via file://, onde fetch de arquivo local é
+  // bloqueado pelo navegador), avisa e os campos continuam funcionando
+  // por digitação livre, só sem sugestão automática.
+  async function loadSedeSuggestions() {
+    try {
+      const res = await fetch('data/sedes.json');
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const sedes = await res.json();
+      document.getElementById('sedeOptions').innerHTML = sedes
+        .map(s => `<option value="${escAttr(s.slug)}">${escAttr(s.label)}</option>`)
+        .join('');
+    } catch (e) {
+      showAutoFillWarning();
+    }
+  }
+
+  // Busca data/<sede>/manifest.json e preenche os <datalist> de curso
+  // (slug) e de nome exibido, para a sede atualmente escrita no campo.
+  async function loadCourseSuggestions(sedeSlug) {
+    if (!sedeSlug) { knownCourses = []; return; }
+    try {
+      const res = await fetch(`data/${encodeURIComponent(sedeSlug)}/manifest.json`);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      knownCourses = await res.json();
+      document.getElementById('courseOptions').innerHTML = knownCourses
+        .map(c => `<option value="${escAttr(c.slug)}">${escAttr(c.label)}</option>`)
+        .join('');
+      document.getElementById('courseLabelOptions').innerHTML = knownCourses
+        .map(c => `<option value="${escAttr(c.label)}"></option>`)
+        .join('');
+    } catch (e) {
+      knownCourses = [];
+      showAutoFillWarning();
+    }
+  }
+
+  const sedeInput = document.getElementById('sedeSlug');
+  const courseSlugInput = document.getElementById('courseSlug');
+  const courseLabelInput = document.getElementById('courseLabel');
+
+  // Toda vez que o campo Sede muda (digitando ou escolhendo da lista),
+  // recarrega os cursos sugeridos daquela sede. O listener de "input"
+  // usa um pequeno debounce pra não disparar um fetch a cada letra
+  // digitada; "change" garante a atualização final ao sair do campo ou
+  // escolher direto na lista.
+  let sedeDebounce = null;
+  sedeInput.addEventListener('input', () => {
+    clearTimeout(sedeDebounce);
+    sedeDebounce = setTimeout(() => loadCourseSuggestions(slugify(sedeInput.value)), 300);
+  });
+  sedeInput.addEventListener('change', () => loadCourseSuggestions(slugify(sedeInput.value)));
+
+  // Se o slug digitado/escolhido bater com um curso já existente na sede
+  // atual, preenche o nome exibido sozinho (só entra no caminho de um
+  // curso já cadastrado; um slug novo não mexe no campo de nome).
+  courseSlugInput.addEventListener('input', () => {
+    const match = knownCourses.find(c => c.slug === slugify(courseSlugInput.value));
+    if (match) courseLabelInput.value = match.label;
+  });
+
+  loadSedeSuggestions();
+  loadCourseSuggestions(slugify(sedeInput.value));
+
+  let lastSlug = '';
+  let lastSede = '';
+
   function converter() {
     const input = document.getElementById('inputHtml').value;
+    const rawSede = document.getElementById('sedeSlug').value;
+    const rawSlug = document.getElementById('courseSlug').value;
+    const label = document.getElementById('courseLabel').value.trim();
+
+    if (!rawSede.trim() || !rawSlug.trim() || !label) {
+      alert('Preencha a sede, o slug e o nome do curso antes de gerar.');
+      return;
+    }
+    const sede = slugify(rawSede);
+    const slug = slugify(rawSlug);
+
     const parser = new DOMParser();
     const doc = parser.parseFromString(input, 'text/html');
-    
+
     let result = [];
     let currentSubject = null;
 
     // Vasculha todas as linhas de tabela do arquivo colado
     const rows = doc.querySelectorAll('table tr');
-    
+
     rows.forEach(row => {
       // 1. Verifica se a linha é de Cabeçalho de Disciplina
       const titleCell = row.querySelector('td.t b');
@@ -108,7 +267,7 @@
       // 2. Verifica se a linha contém dados das Turmas (precisa ter as colunas corretas)
       const tds = row.querySelectorAll('td');
       if (tds.length >= 10 && currentSubject) {
-        
+
         // Ignorar o cabeçalho secundário que diz "Turma", "Enquadramento", etc
         if (tds[0].textContent.trim().toLowerCase() === 'turma') return;
 
@@ -117,7 +276,7 @@
         const vt = tds[2].textContent.trim();
         const vc = tds[3].textContent.trim();
         const res = tds[4].textContent.trim();
-        
+
         // Prioridade
         let prio = clearCell(tds[5].innerHTML);
         if (prio === '-' || prio === '') prio = "";
@@ -125,7 +284,7 @@
         // Formatando o Horário: removendo espaços envolta dos hifens e preservando asteriscos
         let hRaw = tds[7].textContent.trim();
         let h = hRaw.replace(/\s*-\s*/g, '-').replace(/\s+/g, '');
-        
+
         // Professor e Optativa
         let prof = clearCell(tds[8].innerHTML);
         let opt = clearCell(tds[9].innerHTML);
@@ -144,61 +303,23 @@
       return;
     }
 
-    // 3. Montar a string de saída no formato exato original do data.js
-    let outputString = `/* ============================================================
-   data.js — Dataset de disciplinas e configuração da grade
-   Gerado automaticamente pelo conversor de relatórios.
-   ============================================================ */\n\nconst DATA = [\n`;
+    // Saída em JSON puro — é isso que o app.js busca via fetch('data/<sede>/<slug>.json')
+    // (DAYS/AULAS/PALETTE não entram aqui: são compartilhados por todo curso e já
+    // vivem em config.js, carregado uma única vez pela página).
+    const outputString = JSON.stringify(result, null, 2);
 
-    result.forEach((sub, index) => {
-      outputString += `{code:"${sub.code}",name:"${sub.name}",turmas:[\n`;
-      sub.turmas.forEach((t, tIndex) => {
-        outputString += `{turma:"${t.turma}",enq:"${t.enq}",vt:"${t.vt}",vc:"${t.vc}",res:"${t.res}",prio:"${t.prio}",h:"${t.h}",prof:"${t.prof}",opt:"${t.opt}"}`;
-        if (tIndex < sub.turmas.length - 1) outputString += ",\n";
-        else outputString += "\n";
-      });
-      outputString += `]}`;
-      if (index < result.length - 1) outputString += ",\n";
-      else outputString += "\n";
-    });
-
-    outputString += `];\n\n/* ============== CONFIGURAÇÃO DA GRADE DE HORÁRIOS ============== */\n`;
-    outputString += `const DAYS = [
-  {n:2,label:"Segunda"},{n:3,label:"Terça"},{n:4,label:"Quarta"},
-  {n:5,label:"Quinta"},{n:6,label:"Sexta"},{n:7,label:"Sábado"}
-];
-const AULAS = [
-  {code:"M1",turno:"M",start:"07:30",end:"08:20"},
-  {code:"M2",turno:"M",start:"08:20",end:"09:10"},
-  {code:"M3",turno:"M",start:"09:10",end:"10:00"},
-  {code:"M4",turno:"M",start:"10:20",end:"11:10"},
-  {code:"M5",turno:"M",start:"11:10",end:"12:00"},
-  {code:"M6",turno:"M",start:"12:00",end:"12:50"},
-  {code:"T1",turno:"T",start:"13:00",end:"13:50"},
-  {code:"T2",turno:"T",start:"13:50",end:"14:40"},
-  {code:"T3",turno:"T",start:"14:40",end:"15:30"},
-  {code:"T4",turno:"T",start:"15:50",end:"16:40"},
-  {code:"T5",turno:"T",start:"16:40",end:"17:30"},
-  {code:"T6",turno:"T",start:"17:50",end:"18:40"},
-  {code:"N1",turno:"N",start:"18:40",end:"19:30"},
-  {code:"N2",turno:"N",start:"19:30",end:"20:20"},
-  {code:"N3",turno:"N",start:"20:20",end:"21:10"},
-  {code:"N4",turno:"N",start:"21:20",end:"22:10"},
-  {code:"N5",turno:"N",start:"22:10",end:"23:00"}
-];
-
-/* Paleta de cores expandida e mais variada — sem tons de vermelho,
-   para não se confundir com a cor de conflito de horário. */
-const PALETTE = [
-  "#2c6e49", "#00509d", "#7b2cbf", "#ca6702",
-  "#4a4e69", "#006d77", "#606c38", "#023e8a",
-  "#386641", "#5a189a", "#457b9d", "#7f4f24",
-  "#2a9d8f", "#1d3557", "#6a994e", "#9d4edd",
-  "#0081a7", "#5e548e", "#2d6a4f", "#936639",
-  "#3c096c", "#0077b6"
-];`;
-
+    lastSlug = slug;
+    lastSede = sede;
+    document.getElementById('outputTitle').textContent = `Resultado — data/${sede}/${slug}.json`;
     document.getElementById('outputJs').value = outputString;
+    document.getElementById('manifestTip').innerHTML =
+      `Salve o conteúdo acima como <code>data/${sede}/${slug}.json</code> no repositório. ` +
+      `Depois, adicione (ou confirme) esta entrada em <code>data/${sede}/manifest.json</code>:<br>` +
+      `<code>{ "slug": "${slug}", "label": "${label.replace(/"/g, '&quot;')}" }</code>` +
+      `<br>Se o curso já existir no manifest dessa sede, só substitua o JSON — nada mais muda.` +
+      `<br><br>Sede nova? Crie a pasta <code>data/${sede}/</code> com seu próprio ` +
+      `<code>manifest.json</code> e adicione <code>{ "slug": "${sede}", "label": "..." }</code> ` +
+      `em <code>data/sedes.json</code>.`;
     document.getElementById('outputArea').classList.add('show');
   }
 
@@ -206,7 +327,20 @@ const PALETTE = [
     const output = document.getElementById('outputJs');
     output.select();
     document.execCommand('copy');
-    alert('data.js copiado para a área de transferência! Agora é só colar no arquivo data.js do repositório.');
+    alert('JSON copiado para a área de transferência!');
+  }
+
+  function baixar() {
+    const output = document.getElementById('outputJs');
+    const blob = new Blob([output.value], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${lastSlug || 'curso'}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
   }
 </script>
 </body>

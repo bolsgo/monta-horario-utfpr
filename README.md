@@ -20,7 +20,7 @@ A página carrega só o JSON do curso escolhido nos seletores (sede + curso)
 os demais nunca são baixados. `config.js` guarda o que é igual pra todo
 curso e toda sede (dias da semana, horários das aulas, paleta de cores).
 
-### Adicionar um novo curso (sede já existente)(funcionando 2026/2)
+### Adicionar um novo curso (sede já existente, funcionando 2026/2)
 
 1. Abra `gerador.html` no navegador.
 2. Cole o HTML do relatório "Turmas Abertas" da UTFPR desse curso (firefox: This Frame > View Frame Source).

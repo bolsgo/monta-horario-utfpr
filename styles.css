@@ -327,11 +327,18 @@
      monitores largos — mas em 4K isso deixa uma margem enorme dos dois
      lados e o conteúdo (com fontes/alturas pensadas pra ~1400-1600px)
      fica visualmente pequeno "flutuando" no meio da tela. Aqui, a partir
-     de ~1900px, aumentamos o max-width, a coluna do painel de
+     de ~1900px de largura, aumentamos o max-width, a coluna do painel de
      disciplinas e as fontes/alturas da tabela e da lista, escalando tudo
      junto — e mais um degrau a partir de ~2600px pra telas 4K "de
-     verdade" (sem escala do sistema operacional). */
-  @media(min-width:1900px){
+     verdade" (sem escala do sistema operacional).
+     Importante: também exigimos altura de sobra (min-height), não só
+     largura. Um monitor 1920x1080 tem largura de 4K mas pouca altura útil
+     de verdade (depois de barra de abas/favoritos do navegador e barra de
+     tarefas, sobra bem menos que 1080px) — se a tabela crescesse aqui do
+     mesmo jeito, os horários da noite ficariam abaixo da dobra e forçariam
+     rolar a página. Por isso essas regras só entram quando também há
+     altura suficiente pra caber tudo sem precisar rolar. */
+  @media(min-width:1900px) and (min-height:1000px){
     main{max-width:2300px;grid-template-columns:420px 1fr;gap:26px;padding:26px 34px;}
     header{padding:20px 34px 10px;}
     header h1{font-size:30px;}
@@ -367,7 +374,7 @@
     .legend-item{font-size:13px;}
     .footer-note{font-size:12px;}
   }
-  @media(min-width:2600px){
+  @media(min-width:2600px) and (min-height:1300px){
     main{max-width:3000px;grid-template-columns:520px 1fr;gap:32px;padding:32px 44px;}
     header{padding:26px 44px 12px;}
     header h1{font-size:38px;}
@@ -413,6 +420,20 @@
      encolhe em degraus, pra caber sem precisar rolar a página. Só
      entra a partir de min-width:981px pra não se sobrepor aos ajustes
      de celular/tablet acima, que já cuidam da própria altura deles. */
+  /* Faixa extra pensada pro caso mais comum de todos: monitor 1920x1080
+     com o navegador maximizado. A largura é grande, mas a altura útil de
+     verdade (depois de abas/barra de endereço do navegador + barra de
+     tarefas do Windows) costuma sobrar bem menos que 1080px — muitas vezes
+     entre 850 e 960px — o suficiente pra sobrar sem essa faixa e empurrar
+     os horários da noite pra baixo da dobra, obrigando a rolar a página. */
+  @media(max-height:960px) and (min-width:981px){
+    table.grid thead th{padding:7px 3px;font-size:12px;}
+    td.time-col{font-size:10px;padding:2.5px;}
+    table.grid td{height:33px;}
+    .cell-block{padding:2px 4px;}
+    .cell-block .b-name{font-size:10px;}
+    .cell-block .b-sub{font-size:8.5px;}
+  }
   @media(max-height:820px) and (min-width:981px){
     table.grid thead th{padding:6px 3px;font-size:11.5px;}
     td.time-col{font-size:9.5px;padding:2px;}

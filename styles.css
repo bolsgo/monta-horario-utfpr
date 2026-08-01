@@ -16,9 +16,7 @@
     --danger-hover-bg:rgba(168,52,42,.1); --hover-bg:#e4d9c2; --accent-hover:#6f2a1e;
     --mini-last:#2f6fb0;
     --font-display:'Lexend',-apple-system,Helvetica,Arial,sans-serif; --font-body:'Lexend',-apple-system,Helvetica,Arial,sans-serif;
-    
-    /* New variable for the soft lines */
-    --stripe: rgba(43,38,32,.04); 
+    --stripe: rgba(43,38,32,.04);
   }
   html[data-theme="dark"]{
     --bg:#1b1713; --panel:#221e18; --panel2:#2c2620; --border:rgba(238,230,214,.10);
@@ -33,9 +31,7 @@
     --preview-ring:rgba(0,0,0,.65); --other-campus:#e58b7e; --room-other:#e58b7e;
     --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#3a3226; --accent-hover:#a84f33;
     --mini-last:#6fa8dc;
-    
-    /* New variable for the soft lines in dark mode */
-    --stripe: rgba(238,230,214,.03); 
+    --stripe: rgba(238,230,214,.03);
   }
   *{box-sizing:border-box;}
   /* overflow-x:hidden (sozinho) faz o navegador computar overflow-y como
@@ -159,12 +155,11 @@
   table.grid{border-collapse:separate;border-spacing:0;width:100%;min-width:860px;background:var(--panel);border-radius:10px;}
   
   table.grid thead th{font-family:var(--font-display);background:var(--panel2);padding:9px 3px;font-size:12.5px;color:var(--text);font-weight:600;
-    position:sticky;top:0;z-index:20;} /* Borders removed */
+    position:sticky;top:0;z-index:20;}
   table.grid thead th:first-child{left:0;z-index:21;}
   
-  table.grid td{vertical-align:top;height:36px;padding:0;position:relative;} /* Borders removed */
+  table.grid td{vertical-align:top;height:36px;padding:0;position:relative;}
 
-  /* Applied the soft stripe to alternating table rows */
   table.grid tbody tr:nth-child(even) td {
     background-color: var(--stripe);
   }
@@ -172,7 +167,6 @@
   td.time-col{color:var(--muted);font-size:10.5px;text-align:center;padding:3px 2px;
     white-space:nowrap;font-weight:600;position:sticky;left:0;z-index:10;line-height:1.2;}
   
-  /* Ensured the sticky time column blocks scrolling items underneath by staying opaque, alternating between panels */
   table.grid tbody tr:nth-child(odd) td.time-col { background-color: var(--panel); }
   table.grid tbody tr:nth-child(even) td.time-col { background-color: var(--panel2); }
 

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "GE70H",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "2M4(CA-203)-2M5(CA-203)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:708, Matriz:709"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1583 @@
+[
+  {
+    "code": "EFI71A",
+    "name": "Anatomia Humana I",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(**NF-010)-2M2(**NF-010)-2M3(**NF-010)",
+        "prof": "Oslei De Matos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI72A",
+    "name": "Anatomia Humana Ii",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M3(**NF-013)-3M4(**NF-013)-3T1(**NF-013)",
+        "prof": "Oslei De Matos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73B",
+    "name": "Aprendizagem Motora",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M6(**NF-008)-3M3(**NF-011)-3M4(**NF-011)",
+        "prof": "Raquel Nichele De Chaves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI7AK",
+    "name": "Aprofundamento Em Natação",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3T1(CS-000D)-3T2(CS-000D)-5T1(CS-000D)-5T2(CS-000D)",
+        "prof": "Karini Borges Dos Santos",
+        "opt": "Matriz:945"
+      }
+    ]
+  },
+  {
+    "code": "EFI76F",
+    "name": "Atividade Física Para Populações Em Condições Especiais De Saúde",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M1(**NF-012)-4M2(**NF-012)",
+        "prof": "Adriano Eduardo Lima Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI74G",
+    "name": "Atividade Física, Saúde E Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M3(**NF-011)-5M4(**NF-011)-5M5(**NF-011)",
+        "prof": "Rogerio Cesar Fermino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI75C",
+    "name": "Atividades Aquáticas",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M3(CQ-310)-3M4(CS-000D)-3M5(CS-000D)",
+        "prof": "Karini Borges Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI76A",
+    "name": "Atividades Físicas Em Academia",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(**NF-013)-2M2(**NF-013)-2M3(**NF-013)",
+        "prof": "Cintia De Lourdes Nahhas Rodacki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI71G",
+    "name": "Atletismo",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M1(**NP-107)-5M2(**NP-107)-5M3(**NZ-022)-5M4(**NZ-022)",
+        "prof": "Gislaine Cristina De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73F",
+    "name": "Basquetebol",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6M1(**NA-001)-6M2(**NA-001)-6M3(**NA-001)",
+        "prof": "Carlos Alberto Petroski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI74A",
+    "name": "Biomecânica Nos Esportes",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6M1(**NF-010)-6M2(**NF-010)-6M3(**NF-010)",
+        "prof": "Cintia De Lourdes Nahhas Rodacki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI7AM",
+    "name": "Cineantropometria",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M3(**NF-005)-4M4(**NF-005)-4M5(**NF-005)",
+        "prof": "Carlos Alberto Petroski",
+        "opt": "Matriz:945"
+      }
+    ]
+  },
+  {
+    "code": "EFI73C",
+    "name": "Cinesiologia",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M4(**NF-013)-2M5(**NF-013)",
+        "prof": "Gabriela Luisa Fusinato Costenaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI71B",
+    "name": "Citologia E Histologia Apicada À Educação Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6T1(*EB-203)-6T2(*EB-203)-6T3(*EB-203)-6T4(*EB-203)-6T5(*EB-203)",
+        "prof": "Aliandra Grana De Medeiros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M5(**NF-010)-3M6(**NF-010)",
+        "prof": "",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "EFI72H",
+    "name": "Crescimento E Desenvolvimento",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M1(**NF-005)-3M2(**NF-005)-3M5(**NF-005)-3M6(**NF-005)",
+        "prof": "Raquel Nichele De Chaves",
+        "opt": "Não"
+      },
+      {
+        "turma": "S94",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2T2(**NF-011)-2T3(**NF-011)-2T4(**NF-011)-2T5(**NF-011)",
+        "prof": "Raquel Nichele De Chaves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73D",
+    "name": "Dança",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M6(**NO-001)-6M4(**NO-001)-6M5(**NO-001)-6M6(**NO-001)",
+        "prof": "Daniela Isabel Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AA",
+    "name": "Dança E Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CE-207)-2M4(CE-207)-2M5(CE-207)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(CE-105)-4M4(CE-105)-4M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "EDU70E",
+    "name": "Didática",
+    "turmas": [
+      {
+        "turma": "S65",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 1 - Lic Química, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "5T1(*EB-210)-5T2(*EB-210)-5T3(*EB-210)",
+        "prof": "Lauro Rafael Cruz",
+        "opt": "Matriz:982, Matriz:985, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XD",
+    "name": "Direitos Humanos, Segurança E Diversidade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EFI75D",
+    "name": "Epidemiologia Da Atividade Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M1(**NF-011)-5M2(**NF-011)",
+        "prof": "Rogerio Cesar Fermino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI78C",
+    "name": "Esportes Alternativos E De Aventura",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M1(**NF-011)-4M2(**NF-011)-4M3(**NF-011)",
+        "prof": "Gabriela Luisa Fusinato Costenaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI72C",
+    "name": "Estatística Aplicada À Educação Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(**NF-008)-2M2(**NF-011)-2M3(**NF-011)",
+        "prof": "Rogerio Cesar Fermino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI7BH",
+    "name": "Estudos Em Esportes De Combate - Ênfase Karatê",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M4(**NF-008)-2M5(**NF-008)-3T6(**NF-008)-5T6(**NF-008)",
+        "prof": "Julio Cesar Bassan",
+        "opt": "Matriz:945"
+      }
+    ]
+  },
+  {
+    "code": "EFI76C",
+    "name": "Exercícios E Treinamento De Força",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M3(**NF-008)-4M4(**NF-008)-4M5(**NF-008)-4M6(**NF-008)",
+        "prof": "Anderson Caetano Paulo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FA",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",
+        "prof": "Veronica Ferreira Bahr Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Educação Física",
+        "h": "5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EFI74D",
+    "name": "Fisiologia E Bioquímica Do Exercício",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(**NF-011)-2M2(**NF-011)-4M1(**NF-010)-4M2(**NF-010)",
+        "prof": "Ciro Romelio Rodriguez Anez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73A",
+    "name": "Fisiologia Humana",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M3(**NF-010)-4M4(**NF-010)-4M5(**NF-010)-4M6(**NF-010)",
+        "prof": "Ciro Romelio Rodriguez Anez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI74B",
+    "name": "Fundamentos Da Atividade Física Adaptada",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M3(**NF-012)-2M4(**NF-012)-2M5(**NF-012)",
+        "prof": "Raquel Nichele De Chaves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EFI71F",
+    "name": "Fundamentos De Ginástica",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M1(**NO-001)-4M2(**NO-001)-4M3(**NO-001)-4M4(**NO-001)",
+        "prof": "Cintia De Lourdes Nahhas Rodacki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI74F",
+    "name": "Futsal",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3T1(**NP-107)-3T2(**NP-107)-3T3(**NP-107)-7M1(**NP-107)",
+        "prof": "Elto Legnani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI77B",
+    "name": "Gestão Do Esporte",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M1(**NF-009)-4M4(**NF-013)-4M5(**NF-013)-4M6(**NF-013)",
+        "prof": "Ana Paula Cabral Bonin Maoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE70H",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "2M4(CA-203)-2M5(CA-203)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:708, Matriz:709"
+      }
+    ]
+  },
+  {
+    "code": "EFI76B",
+    "name": "Ginástica Laboral",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M5(**NP-107)-5M6(**NP-107)",
+        "prof": "Gislaine Cristina De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73G",
+    "name": "Handebol",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(**NA-001)-2M2(**NA-001)-2M3(**NA-001)",
+        "prof": "Gilmar Francisco Afonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI71D",
+    "name": "História Da Educação Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M4(**NF-011)-2M5(**NF-011)",
+        "prof": "Rogerio Cesar Fermino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ED70U",
+    "name": "Libras B",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CE-102)-3M4(CE-102)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:547, Matriz:906, Matriz:867, Matriz:844, Matriz:616, Matriz:678, Matriz:919, Matriz:843"
+      }
+    ]
+  },
+  {
+    "code": "EFI74E",
+    "name": "Lutas, Artes Marciais E Esportes De Combate",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M1(**NF-008)-3M2(**NF-008)-3M3(**NF-008)",
+        "prof": "Julio Cesar Bassan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI74C",
+    "name": "Medidas E Avaliação Em Educação Fisica",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M1(**NF-013)-5M2(**NF-013)-6M4(**NF-010)-6M5(**NF-010)",
+        "prof": "Carlos Alberto Petroski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI76D",
+    "name": "Metodologia Da Pesquisa Científica",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M1(**NF-010)-5M2(**NF-010)-7M2(**NF-010)",
+        "prof": "Maressa Priscila Krause Mocellin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI7AP",
+    "name": "Mídias Digitais E O Mercado De Trabalho Na Educação Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M1(CQ-301)-2M2(CQ-301)",
+        "prof": "Ana Paula Cabral Bonin Maoski",
+        "opt": "Matriz:945, Matriz:541"
+      }
+    ]
+  },
+  {
+    "code": "EFI72D",
+    "name": "Movimento E Consciência Corporal",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6M1(**NO-001)-6M2(**NO-001)-6M3(**NO-001)",
+        "prof": "Daniela Isabel Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI73E",
+    "name": "Natação",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M2(CQ-305)-5M3(CQ-305)-5M4(CS-000D)-5M5(CS-000D)",
+        "prof": "Karini Borges Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI75B",
+    "name": "Nutrição Aplicada À Atividade Física, Exercício E Esporte",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M3(**NF-012)-4M4(**NF-012)-4M5(**NF-012)",
+        "prof": "Adriano Eduardo Lima Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI71E",
+    "name": "Pedagogia Do Movimento Humano",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M1(**NF-010)-3M2(**NF-010)-3M3(**NF-010)-3M4(**NF-010)",
+        "prof": "Gabriela Luisa Fusinato Costenaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PC",
+    "name": "Planejamento De Carreira",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EFI71H",
+    "name": "Planejamento E Desenvolvimento De Carreira",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6M1(**NF-013)-6M2(**NF-013)-6M3(**NF-013)-6M4(**NF-013)",
+        "prof": "Ana Paula Cabral Bonin Maoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XE",
+    "name": "Políticas Públicas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EFI78B",
+    "name": "Politicas Públicas Para O Esporte E Lazer",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M4(CQ-305)-5M5(CQ-305)",
+        "prof": "Ana Paula Cabral Bonin Maoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XC",
+    "name": "Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-302)-2T3(CE-302)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "EFI71I",
+    "name": "Primeiros Socorros",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M5(**NF-013)-5M6(**NF-013)",
+        "prof": "Carlos Alberto Petroski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI7AN",
+    "name": "Princípios Básicos Do Yoga",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CN-013)-5M3(CN-013)-5M4(CN-013)-5M5(CN-013)",
+        "prof": "Daniela Isabel Kuhn",
+        "opt": "Matriz:945"
+      }
+    ]
+  },
+  {
+    "code": "EFI72E",
+    "name": "Psicologia Do Esporte",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M1(**NF-013)-4M2(**NF-013)",
+        "prof": "Marcio Jose Kerkoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AB",
+    "name": "Questões Contemporâneas Do Corpo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M3(CE-105)-3M4(CE-105)-3M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M3(CE-306)-5M4(CE-306)-5M5(CE-306)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EFI72I",
+    "name": "Recreação E Lazer",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "4M3(**NP-107)-4M4(**NP-107)-4M5(**NP-107)-4M6(**NP-107)",
+        "prof": "Gislaine Cristina De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SA",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EFI72B",
+    "name": "Sociologia Do Esporte",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M1(CE-302)-5M2(CE-302)",
+        "prof": "Gilmar Francisco Afonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI77A",
+    "name": "Tcc 1 - Projeto De Pesquisa",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "70",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "7M2(**NF-005)-7M3(**NF-005)-7M4(**NF-005)-7M5(**NF-005)",
+        "prof": "Gilmar Francisco Afonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI78A",
+    "name": "Tcc 2 - Defesa",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "7M3(CA-103)-7M4(CA-103)-7M5(CA-103)-7M6(CA-103)",
+        "prof": "Maressa Priscila Krause Mocellin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SB",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",
+        "prof": "Lino Trevisan",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental",
+        "h": "4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EFI72F",
+    "name": "Tecnologia Em Educação Física",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5T2(CE-206)-5T3(CE-206)",
+        "prof": "Silvia Amelia Bim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XA",
+    "name": "Tecnologia Social E Economia Solidária",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "5M2(*EL-211)-5M2(*EL-211)-5M3(*EL-211)-5M3(*EL-211)-5M4(*EL-211)-5M4(*EL-211)-5M5(*EL-211)-5M5(*EL-211)",
+        "prof": "Marcos Antonio Silverio, Lino Trevisan",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(CE-305)-3M2(CE-305)-3M3(CE-305)-3M3(CE-305)-3M4(CE-305)-3M4(CE-305)-3M5(CE-305)-3M5(CE-305)",
+        "prof": "Marcos Antonio Silverio, Maria Luisa Carvalho",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SC",
+    "name": "Tecnologia, Trabalho E Saúde",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EDU70K",
+    "name": "Tecnologias Digitais Na Educação",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Português, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Fisica 9",
+        "h": "2T4(CA-202)-2T5(CA-202)-2T6(CA-202)",
+        "prof": "Roland Baschta Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:981, Matriz:976, Matriz:970, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EF68G",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "70",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "7M3(CA-103)-7M4(CA-103)-7M5(CA-103)-7M6(CA-103)",
+        "prof": "Maressa Priscila Krause Mocellin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI77C",
+    "name": "Treinamento Esportivo: Futebol",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "3M4(**NP-107)-3M5(**NP-107)-3M6(**NP-107)",
+        "prof": "Elto Legnani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI75A",
+    "name": "Treinamento Esportivo: Teoria E Metodologia",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M3(**NF-010)-5M4(**NF-010)-5M5(**NF-010)-5M6(**NF-010)",
+        "prof": "Maressa Priscila Krause Mocellin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFI72G",
+    "name": "Voleibol",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "2M4(**NP-107)-2M5(**NP-107)-2M6(**NP-107)",
+        "prof": "Gilmar Francisco Afonso",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1659 @@
+[
+  {
+    "code": "LICOM77D",
+    "name": "Avaliação De Projeto Em Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CA-206)-5N2(CA-206)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM75E",
+    "name": "Campanhas De Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CB-206)-6N2(CB-206)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HC",
+    "name": "Capitalismo Contemporâneo E Economia Política",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "LICOM74A",
+    "name": "Comunicação E Antropologia",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CA-102)-4N2(CA-102)-4N3(CA-102)-4N4(CA-102)",
+        "prof": "Valeria Oliveira Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AA",
+    "name": "Comunicação E Educação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional, 2 - Lic Letras Português",
+        "h": "5N1(CC-002)-5N2(CC-002)-5N3(CC-002)-5N4(CC-002)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:973, Matriz:948, Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM76B",
+    "name": "Comunicação E Gestão De Crise",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-102)-5N2(CE-102)-5N3(CE-102)-5N4(CE-102)",
+        "prof": "Zama Caixeta Nascentes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM75B",
+    "name": "Comunicação E Trabalho",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-108)-5N2(CE-108)-5N3(CE-108)-5N4(CE-108)",
+        "prof": "Joao Augusto Moliani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AC",
+    "name": "Comunicação Organizacional Aplicada",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CC-002)-4N2(CC-002)-4N3(CC-002)-4N4(CC-002)",
+        "prof": "Joao Augusto Moliani",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM76C",
+    "name": "Comunicação Pública",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-103)-2N2(CE-103)-2N3(CE-103)-2N4(CE-103)",
+        "prof": "Joao Augusto Moliani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AA",
+    "name": "Dança E Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CE-207)-2M4(CE-207)-2M5(CE-207)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(CE-105)-4M4(CE-105)-4M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "EDU70E",
+    "name": "Didática",
+    "turmas": [
+      {
+        "turma": "S65",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 1 - Lic Química, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "5T1(*EB-210)-5T2(*EB-210)-5T3(*EB-210)",
+        "prof": "Lauro Rafael Cruz",
+        "opt": "Matriz:982, Matriz:985, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XF",
+    "name": "Dimensão Ambiental Na Gestão Urbana",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XD",
+    "name": "Direitos Humanos, Segurança E Diversidade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AD",
+    "name": "Diversidade E Comunicação Nas Organizações",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3T5(CC-002)-3T6(CC-002)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:982, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "LICOM75A",
+    "name": "Estudos De Discursos",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CE-107)-4N2(CE-107)-4N3(CE-107)-4N4(CE-107)",
+        "prof": "Kalliandra Quevedo Conrad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM76A",
+    "name": "Ética E Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CE-106)-4N2(CE-106)-4N3(CE-106)-4N4(CE-106)",
+        "prof": "Claudia Nociolini Rebechi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FA",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",
+        "prof": "Veronica Ferreira Bahr Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Educação Física",
+        "h": "5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71B",
+    "name": "Fundamentos Da Comunicação Organizacional",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-202)-2N2(CE-202)-2N3(CE-202)-2N4(CE-202)",
+        "prof": "Kalliandra Quevedo Conrad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E3",
+    "name": "Fundamentos De Economia",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
+        "h": "3T4(CE-206)-3T5(CE-206)",
+        "prof": "Andrea De Souza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G1",
+    "name": "Fundamentos De Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "LICOM72A",
+    "name": "História Da Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CE-203)-3N2(CE-203)-3N3(CE-203)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HA",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "LICOM75C",
+    "name": "História Das Ideias",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CA-203)-2N2(CA-203)-2N3(CA-203)-2N4(CA-203)",
+        "prof": "Marcelo Stein De Lima Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HB",
+    "name": "História Geral Da Economia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T4(*EL-211)-6T5(*EL-211)-6T6(*EL-211)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71F",
+    "name": "Introdução À Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N3(CA-202)-5N4(CA-202)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "LICOM72C",
+    "name": "Linguagem Audiovisual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-204)-5N2(CE-204)-5N3(CE-204)-5N4(CE-204)",
+        "prof": "Carolina Fernandes Da Silva Mandaji",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM74C",
+    "name": "Linguagem Multimídia",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-207)-2N2(CE-207)-2N3(CE-207)-2N4(CE-207)",
+        "prof": "Luiza Carolina Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM73C",
+    "name": "Linguagem Textual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional, 2 - Química Ambiental",
+        "h": "3N1(CE-107)-3N2(CE-107)-3N3(CE-107)-3N4(CE-107)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71C",
+    "name": "Linguagem Visual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CA-206)-4N2(CA-206)-4N3(CA-206)-4N4(CA-206)",
+        "prof": "Anuschka Reichmann Lemos",
+        "opt": "Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "LICOM76D",
+    "name": "Metodologia De Pesquisa Em Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CA-202)-3N2(CA-202)-3N3(CA-202)-3N4(CA-202)",
+        "prof": "Wellington Teixeira Lisboa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7GA",
+    "name": "Metropolização Contemporânea: Tecnologia E Território",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CQ-304)-3T3(CQ-304)-3T4(CQ-304)",
+        "prof": "Marcos Antonio Silverio",
+        "opt": "Matriz:990, Matriz:973, Matriz:980, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:823, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:962, Matriz:755, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71A",
+    "name": "Organizações E Sociedade",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CE-202)-6N2(CE-202)-6N3(CE-202)-6N4(CE-202)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM73E",
+    "name": "Pesquisa E Diagnóstico Em Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CE-102)-6N2(CE-102)-6N3(CE-102)-6N4(CE-102)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PC",
+    "name": "Planejamento De Carreira",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "LICOM74B",
+    "name": "Planejamento De Comunicação Organizacional",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CC-205)-3N2(CC-205)-3N3(CC-205)-3N4(CC-205)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70H",
+    "name": "Política Educacional",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(CE-204)-3M5(CE-204)",
+        "prof": "Oseias Santos De Oliveira",
+        "opt": "Matriz:982, Matriz:985, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SF",
+    "name": "Política, Instituições E Cidadania No Paraná",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M3(CC-205)-3M4(CC-205)-3M5(CC-205)-3M6(CC-205)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XE",
+    "name": "Políticas Públicas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AL",
+    "name": "Prática De Texto Em Comunicação Organizacional",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CA-206)-6N2(CA-206)-6N3(CA-206)-6N4(CA-206)",
+        "prof": "",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XC",
+    "name": "Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-302)-2T3(CE-302)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71E",
+    "name": "Processos Criativos",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CA-202)-5N2(CA-202)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "LICOM73A",
+    "name": "Processos Culturais Nas Organizações",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-106)-5N2(CE-106)-5N3(CE-106)-5N4(CE-106)",
+        "prof": "Claudia Nociolini Rebechi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM73D",
+    "name": "Produção Audiovisual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CC-003)-4N2(CC-003)-4N3(CC-003)-4N4(CC-003)",
+        "prof": "Carolina Fernandes Da Silva Mandaji",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM75D",
+    "name": "Produção Multimídia",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CA-205)-3N2(CA-205)-3N3(CA-205)",
+        "prof": "Luiza Carolina Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM71D",
+    "name": "Produção Sonora",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CA-203)-3N2(CA-203)-3N3(CA-203)-3N4(CA-203)",
+        "prof": "Gustavo Nishida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM74D",
+    "name": "Produção Textual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CE-S03)-6N2(CE-S03)-6N3(CE-S03)-6N4(CE-S03)",
+        "prof": "Marcelo Fernando De Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S96",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-S03)-5N2(CE-S03)-5N3(CE-S03)-5N4(CE-S03)",
+        "prof": "Marcelo Fernando De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM72D",
+    "name": "Produção Visual",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CC-003)-6N2(CC-003)",
+        "prof": "Anuschka Reichmann Lemos",
+        "opt": "Não"
+      },
+      {
+        "turma": "S96",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N3(CC-003)-6N4(CC-003)",
+        "prof": "Anuschka Reichmann Lemos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AM",
+    "name": "Projeto Audiovisual Documentário",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CA-202)-2N2(CA-202)",
+        "prof": "Carolina Fernandes Da Silva Mandaji",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM77C",
+    "name": "Psicologia Da Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "3N1(CC-203)-3N2(CC-203)-3N3(CC-203)-3N4(CC-203)",
+        "prof": "Zama Caixeta Nascentes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AB",
+    "name": "Questões Contemporâneas Do Corpo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M3(CE-105)-3M4(CE-105)-3M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M3(CE-306)-5M4(CE-306)-5M5(CE-306)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SD",
+    "name": "Sociedade E Política No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CQ-311)-2M4(CQ-311)-2M5(CQ-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(*EB-311)-2T3(*EB-311)-2T4(*EB-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SA",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "LICOM77B",
+    "name": "Tecnologia E Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CE-206)-4N2(CE-206)-4N3(CE-206)-4N4(CE-206)",
+        "prof": "Marcelo Stein De Lima Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SB",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",
+        "prof": "Lino Trevisan",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental",
+        "h": "4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XA",
+    "name": "Tecnologia Social E Economia Solidária",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "5M2(*EL-211)-5M2(*EL-211)-5M3(*EL-211)-5M3(*EL-211)-5M4(*EL-211)-5M4(*EL-211)-5M5(*EL-211)-5M5(*EL-211)",
+        "prof": "Marcos Antonio Silverio, Lino Trevisan",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(CE-305)-3M2(CE-305)-3M3(CE-305)-3M3(CE-305)-3M4(CE-305)-3M4(CE-305)-3M5(CE-305)-3M5(CE-305)",
+        "prof": "Marcos Antonio Silverio, Maria Luisa Carvalho",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SC",
+    "name": "Tecnologia, Trabalho E Saúde",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "LICOM72B",
+    "name": "Teorias Da Comunicação I",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CE-306)-4N2(CE-306)-4N3(CE-306)-4N4(CE-306)",
+        "prof": "Wellington Teixeira Lisboa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM73B",
+    "name": "Teorias Da Comunicação Ii",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "47",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-101)-2N2(CE-101)-2N3(CE-101)-2N4(CE-101)",
+        "prof": "Wellington Teixeira Lisboa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM78B",
+    "name": "Tópicos Especiais Em Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-305)-5N2(CE-305)-5N3(CE-305)-5N4(CE-305)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AN",
+    "name": "Tópicos Especiais Em Humanidades",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4T5(CC-002)-4T6(CC-002)",
+        "prof": "Maurini De Souza",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM77A",
+    "name": "Trabalho De Conclusão De Curso I",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CC-002)-6N2(CC-002)-6N3(CC-002)-6N4(CC-002)",
+        "prof": "Kalliandra Quevedo Conrad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM78A",
+    "name": "Trabalho De Conclusão De Curso Ii",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N5(D-PTO)-3N5(D-PTO)-4N5(D-PTO)-5N5(D-PTO)",
+        "prof": "Kalliandra Quevedo Conrad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CE78A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Kalliandra Quevedo Conrad",
+        "opt": "Não"
+      }
+    ]
+  }
+]

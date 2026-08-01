@@ -1,0 +1,30 @@
+[
+  {
+    "code": "CL21G",
+    "name": "Alemão 1",
+    "turmas": [
+      {
+        "turma": "NG1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CC-204)-2T6(CC-204)-4N1(CC-204)-4T6(CC-204)",
+        "prof": "Edson Domingos Fagundes",
+        "opt": "Não"
+      },
+      {
+        "turma": "NG2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N2(CC-204)-2N3(CC-204)-4N2(CC-204)-4N3(CC-204)",
+        "prof": "Edson Domingos Fagundes",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2303 @@
+[
+  {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75A",
+    "name": "Arquitetura E Cidade Brasileira",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5T2(*EB-310)-5T3(*EB-310)-5T4(*EB-310)-5T5(*EB-310)",
+        "prof": "Claudionor Beatrice",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73A",
+    "name": "Arquitetura E Cidades Na História",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EA-206)-4M2(*EA-206)-4M3(*EA-206)",
+        "prof": "Thais Saboia Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71J",
+    "name": "Canteiro 1 - Técnicas E Práticas Vernaculares",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6T2(*EIJ-104B)-6T3(*EIJ-104B)-6T4(*EIJ-104B)-6T5(*EIJ-104B)",
+        "prof": "Murad Jorge Mussi Vaz",
+        "opt": "Matriz:867"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72J",
+    "name": "Canteiro 2: Técnicas E Execuções Básicas Do Edificar",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6T2(*EIJ-104)-6T2(*EIJ-104)-6T3(*EIJ-104)-6T3(*EIJ-104)-6T4(*EIJ-104)-6T4(*EIJ-104)-6T5(*EIJ-104)-6T5(*EIJ-104)",
+        "prof": "Ozires De Jezus Ribeiro, Camila Isaton",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73J",
+    "name": "Canteiro 3 - Técnicas E Execuções Complementares Do Edificar",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2T2(*EIJ-104B)-2T2(*EIJ-104B)-2T3(*EIJ-104B)-2T3(*EIJ-104B)-2T4(*EIJ-104B)-2T4(*EIJ-104B)-2T5(*EIJ-104B)-2T5(*EIJ-104B)",
+        "prof": "Camila Isaton, Marco Vinicius Tomen Zeschotko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HC",
+    "name": "Capitalismo Contemporâneo E Economia Política",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "INF71A",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(CB-105)-4T3(CB-105)-4T4(CB-105)-4T5(CB-105)",
+        "prof": "Silvia Amelia Bim",
+        "opt": "Matriz:995, Matriz:983"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "23",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2T2(CA-101)-2T3(CA-101)",
+        "prof": "Marcelo Stein De Lima Sousa",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AA",
+    "name": "Dança E Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CE-207)-2M4(CE-207)-2M5(CE-207)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(CE-105)-4M4(CE-105)-4M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:980, Matriz:957, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74I",
+    "name": "Desempenho Acústico No Ambiente Construído",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5T2(*EB-201)-5T3(*EB-201)-5T4(*EB-201)",
+        "prof": "Marcio Henrique De Avelar Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75I",
+    "name": "Desempenho Lumínico No Ambiente Construído",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M2(*EB-303)-5M3(*EB-303)-5M4(*EB-303)",
+        "prof": "Marcio Jose Sorgato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73I",
+    "name": "Desempenho Térmico No Ambiente Construído",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EA-203)-3M3(*EA-203)-3M4(*EA-203)-3M5(*EA-203)",
+        "prof": "Marcio Jose Sorgato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72C",
+    "name": "Desenho Arquitetônico",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M1(*EA-202)-3M2(*EA-202)-3M3(*EA-202)-3M4(*EA-202)",
+        "prof": "Tharsila Maynardes Dallabona Fariniuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73C",
+    "name": "Desenho De Detalhamento",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M4(*EA-204)-5M5(*EA-204)-5M6(*EA-204)",
+        "prof": "Tharsila Maynardes Dallabona Fariniuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71E",
+    "name": "Desenho De Observação E Perspectiva",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EIJ-104E)-3M3(*EIJ-104E)-3M4(*EIJ-104E)-3M5(*EIJ-104E)",
+        "prof": "Karina Scussiato Pimentel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74C",
+    "name": "Desenho Digital",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EA-208)-3M3(*EA-208)-3M4(*EA-208)-3M5(*EA-208)",
+        "prof": "Heverson Akira Tamashiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72E",
+    "name": "Desenho Urbano E Da Paisagem",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6M4(*EA-202)-6M5(*EA-202)-6M6(*EA-202)",
+        "prof": "Rafaela Antunes Fortunato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XF",
+    "name": "Dimensão Ambiental Na Gestão Urbana",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XD",
+    "name": "Direitos Humanos, Segurança E Diversidade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ARQ77J",
+    "name": "Especificações E Orçamentos",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EA-101)-4M2(*EA-101)-4M3(*EA-101)-4M4(*EA-101)",
+        "prof": "Fernando Jose Matitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71A",
+    "name": "Estética E História Das Artes",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M1(*EB-201)-5M2(*EB-201)-5M3(*EB-201)",
+        "prof": "Thais Saboia Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72B",
+    "name": "Estudo Da Forma",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M2(*EA-202)-5M3(*EA-202)-5M4(*EA-202)-5M5(*EA-202)-6M2(*EA-202)-6M3(*EA-202)",
+        "prof": "Rafaela Antunes Fortunato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FA",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",
+        "prof": "Veronica Ferreira Bahr Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Educação Física",
+        "h": "5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FIS7F1",
+    "name": "Física Teórica 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T1(*EB-202)-4T2(*EB-202)-6T5(*EB-202)-6T6(*EB-202)",
+        "prof": "Fabiano Moreno Peres",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M2(CE-207)-4M3(CE-207)-6M2(CE-101)-6M3(CE-101)",
+        "prof": "Joao Victor Zamperlini Dos Santos",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CE-208)-3T3(CE-208)-6T1(CE-107)-6T2(CE-107)",
+        "prof": "Keli Fabiana Seidel",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5N2(CE-107)-5N3(CE-107)-6T4(CE-307)-6T5(CE-307)",
+        "prof": "Joao Victor Zamperlini Dos Santos",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "3T3(CE-108)-3T4(CE-108)-4T3(CE-308)-4T4(CE-308)",
+        "prof": "Cristhiane Goncalves",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "5N1(CE-201)-5T6(CE-201)-6N1(CE-108)-6T6(CE-108)",
+        "prof": "Joao Victor Zamperlini Dos Santos",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3M4(CE-301)-3M5(CE-301)-6M3(CN-022)-6M4(CN-022)",
+        "prof": "Keli Fabiana Seidel",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "3M3(CE-201)-3M4(CE-201)-4M3(CE-307)-4M4(CE-307)",
+        "prof": "Cristhiane Goncalves",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T5(*EL-103)-4T6(*EL-103)-6T1(*EL-102)-6T2(*EL-102)",
+        "prof": "Fabiano Moreno Peres",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4T3(*EK-105)-4T4(*EK-105)-6T3(*EL-208)-6T4(*EL-208)",
+        "prof": "Fabiano Moreno Peres",
+        "opt": "Matriz:959"
+      },
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental, 2 - Eng Amb/Sanitária",
+        "h": "3N1(*EC-205)-3N2(*EC-205)-5N1(*EC-205)-5N2(*EC-205)",
+        "prof": "Rita Zanlorensi Visneck Costa",
+        "opt": "Matriz:959"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7A1",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Civil, 2 - Química Ambiental, 3 - Arquitet E Urbanismo, 3 - Eng Mecânica",
+        "h": "3T1(*EB-301)-3T2(*EB-301)-3T3(*EB-301)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química, 1 - Química Ambiental, 2 - Arquitet E Urbanismo, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4T1(*EB-201)-4T2(*EB-201)-4T3(*EB-201)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E3",
+    "name": "Fundamentos De Economia",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
+        "h": "3T4(CE-206)-3T5(CE-206)",
+        "prof": "Andrea De Souza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "GEE7F1",
+    "name": "Fundamentos De Finanças",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73E",
+    "name": "Fundamentos Do Urbanismo",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M1(*EB-304)-5M2(*EB-304)-5M3(*EB-304)",
+        "prof": "Marcia Ferreira Prestes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7GA",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-108)-5T2(CE-108)-6T1(CE-301)-6T2(CE-301)",
+        "prof": "Aline Cristina Da Rocha",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "4T1(CE-308)-4T2(CE-308)-6T2(CE-208)-6T3(CE-208)",
+        "prof": "Thais Mariane Biembengut Faria",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71D",
+    "name": "Geometria Descritiva",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M5(CA-107)-2M5(CA-107)-2M6(CA-107)-2M6(CA-107)",
+        "prof": "Maria Lucia Valenga, Tharsila Maynardes Dallabona Fariniuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75D",
+    "name": "Geoprocessamento No Planejamento Territorial",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3T2(*EA-208)-3T3(*EA-208)-3T4(*EA-208)-3T5(*EA-208)-3T6(*EA-208)",
+        "prof": "Anderson Dias De Almeida Proenca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ7BA",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(*EA-101)-2T2(*EA-101)-2T3(*EA-101)-2T4(*EA-101)",
+        "prof": "Fernando Jose Matitz",
+        "opt": "Matriz:961"
+      }
+    ]
+  },
+  {
+    "code": "GE70H",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "2M4(CA-203)-2M5(CA-203)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:708, Matriz:709"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HA",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HB",
+    "name": "História Geral Da Economia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T4(*EL-211)-6T5(*EL-211)-6T6(*EL-211)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72A",
+    "name": "História, Teoria E Crítica Da Arquitetura Contemporânea",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EB-204)-4M2(*EB-204)-4M3(*EB-204)",
+        "prof": "Murad Jorge Mussi Vaz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74A",
+    "name": "História, Teoria E Crítica Da Arquitetura Na Modernidade",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2T2(CA-203)-2T3(CA-203)-2T4(CA-203)",
+        "prof": "Giceli Portela Cunico De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ76J",
+    "name": "Instalações Elétricas Prediais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2T2(CQ-209)-2T3(CQ-209)-2T4(CQ-209)-2T5(CQ-209)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75J",
+    "name": "Instalações Hidrossanitárias",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M2(*EA-101)-2M2(*EA-101)-2M3(*EA-101)-2M3(*EA-101)-2M4(*EIJ-002)-2M4(*EIJ-002)-2M5(*EIJ-002)-2M5(*EIJ-002)",
+        "prof": "Ozires De Jezus Ribeiro, Fernando Jose Matitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71B",
+    "name": "Introdução À Arte, Arquitetura E Cidade",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4T3(*EIJ-104B)-4T4(*EIJ-104B)-4T5(*EIJ-104B)-6M2(*EIJ-104B)-6M3(*EIJ-104B)-6M4(*EIJ-104B)",
+        "prof": "Murad Jorge Mussi Vaz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71C",
+    "name": "Introdução Ao Desenho Arquitetônico",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M1(CA-107)-2M2(CA-107)-2M3(CA-107)-2M4(CA-107)",
+        "prof": "Tharsila Maynardes Dallabona Fariniuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ78J",
+    "name": "Laboratório De Construção De Modelos",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5T2(*EIJ-104B)-5T2(*EIJ-104B)-5T3(*EIJ-104B)-5T3(*EIJ-104B)-5T4(*EIJ-104B)-5T4(*EIJ-104B)-5T5(*EIJ-104B)-5T5(*EIJ-104B)",
+        "prof": "Rodolfo Krul Tessari, Marco Vinicius Tomen Zeschotko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ED70U",
+    "name": "Libras B",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CE-102)-3M4(CE-102)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:547, Matriz:906, Matriz:867, Matriz:844, Matriz:616, Matriz:678, Matriz:919, Matriz:843"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71I",
+    "name": "Materiais E Equipamentos Básicos De Construção",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M4(*EIJ-104B)-5M5(*EIJ-104B)-5M6(*EIJ-104B)",
+        "prof": "Marcelo Queiroz Varisco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72F",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5T2(*EA-208)-5T3(*EA-208)",
+        "prof": "Rosangela De Fatima Stankowitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7GA",
+    "name": "Metropolização Contemporânea: Tecnologia E Território",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CQ-304)-3T3(CQ-304)-3T4(CQ-304)",
+        "prof": "Marcos Antonio Silverio",
+        "opt": "Matriz:990, Matriz:973, Matriz:980, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:823, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:962, Matriz:755, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "EST70B",
+    "name": "Noções De Estatística",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S53",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ76A",
+    "name": "Patrimônio Cultural E Restauro",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M2(CA-103)-2M3(CA-103)-2M4(CA-103)-2M5(CA-103)",
+        "prof": "Giceli Portela Cunico De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PC",
+    "name": "Planejamento De Carreira",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ARQ77F",
+    "name": "Planejamento E Projeto De Carreira",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M4(*EB-201)-5M5(*EB-201)-5M6(*EB-201)",
+        "prof": "Orlando Pinto Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ76D",
+    "name": "Planejamento Urbano E Regional",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EA-209)-3M3(*EA-209)-3M4(*EA-209)-3M5(*EA-209)-3M6(*EA-209)-5M4(*EA-209)-5M4(*EA-209)-5M5(*EA-209)-5M5(*EA-209)-5M6(*EA-209)-5M6(*EA-209)",
+        "prof": "Marcia Ferreira Prestes, Simone Aparecida Polli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ77D",
+    "name": "Planejamento Urbano Setorial",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M1(*EA-209)-2M2(*EA-209)-2M3(*EA-209)-2M4(*EA-209)",
+        "prof": "Anderson Dias De Almeida Proenca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ78C",
+    "name": "Plano E Projeto Urbano Na Escala Do Bairro",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EA-206)-3M3(*EA-206)-3M4(*EA-206)-3M5(*EA-206)-3M6(*EA-206)",
+        "prof": "Simone Aparecida Polli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XE",
+    "name": "Políticas Públicas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "CAART04",
+    "name": "Prática Artística Musical: Grupos Instrumentais 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75H",
+    "name": "Prática De Modelos Estruturais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M2(*EIJ-104B)-3M3(*EIJ-104B)-3M4(*EIJ-104B)-3M5(*EIJ-104B)",
+        "prof": "Rodolfo Krul Tessari",
+        "opt": "Matriz:867"
+      }
+    ]
+  },
+  {
+    "code": "CAART02",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CT-016)-3T5(CT-016)-5T4(CT-016)-5T5(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "CAART03",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 2",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CT-016)-2T3(CT-016)-4T2(CT-016)-4T3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XC",
+    "name": "Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-302)-2T3(CE-302)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74B",
+    "name": "Projeto Arquitetônico E Paisagístico De Residências",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EA-203)-4M2(*EA-203)-4M3(*EA-203)-5M1(*EA-203)-5M2(*EA-203)-5M3(*EA-203)-5M4(*EA-203)-5M5(*EA-203)",
+        "prof": "Karina Scussiato Pimentel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75C",
+    "name": "Projeto De Arquitetura De Interiores",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4T3(CE-205)-4T4(CE-205)-4T5(CE-205)",
+        "prof": "Giceli Portela Cunico De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73B",
+    "name": "Projeto De Espaços Fundamentais E Da Paisagem",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M2(*EA-203)-2M3(*EA-203)-2M4(*EA-203)-2M5(*EA-203)-5T2(*EA-203)-5T3(*EA-203)-5T4(*EA-203)-5T5(*EA-203)",
+        "prof": "Orlando Pinto Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ77C",
+    "name": "Projeto De Paisagismo De Espaços Públicos",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3M1(*EA-204)-3M2(*EA-204)-3M3(*EA-204)-3M4(*EA-204)",
+        "prof": "Rafaela Antunes Fortunato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ77B",
+    "name": "Projeto Integrado De Espaços Escolares",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M5(*EA-209)-2M6(*EA-209)-5M1(*EA-209)-5M2(*EA-209)-5M3(*EA-209)-6M1(*EA-209)-6M2(*EA-209)-6M3(*EA-209)-6M4(*EA-209)-6M5(*EA-209)",
+        "prof": "Armando Luis Yoshio Ito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ75B",
+    "name": "Projeto Integrado De Espaços Institucionais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EA-202)-4M2(*EA-202)-4M3(*EA-202)-6M1(*EA-203)-6M2(*EA-203)-6M3(*EA-203)-6M4(*EA-203)-6M5(*EA-203)",
+        "prof": "Heverson Akira Tamashiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ76B",
+    "name": "Projeto Integrado De Espaços Multifuncionais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4M1(*EA-204)-4M2(*EA-204)-4M3(*EA-204)-6M1(*EA-204)-6M2(*EA-204)-6M3(*EA-204)-6M4(*EA-204)-6M5(*EA-204)",
+        "prof": "Claudionor Beatrice",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ78B",
+    "name": "Projeto Integrado De Habitação Social E Cidade",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M4(*EA-206)-5M5(*EA-206)-5M6(*EA-206)-6M1(*EA-206)-6M2(*EA-206)-6M3(*EA-206)-6M4(*EA-206)-6M5(*EA-206)",
+        "prof": "Thais Saboia Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7AB",
+    "name": "Questões Contemporâneas Do Corpo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M3(CE-105)-3M4(CE-105)-3M5(CE-105)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M3(CE-306)-5M4(CE-306)-5M5(CE-306)",
+        "prof": "Juliana Maria Greca",
+        "opt": "Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:973, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ARQ73H",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3T2(*EIJ-104B)-3T3(*EIJ-104B)-3T4(*EIJ-104B)-3T5(*EIJ-104B)",
+        "prof": "Jonas Dos Santos Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74D",
+    "name": "Saneamento Ambiental",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4T3(*EB-309)-4T4(*EB-309)-4T5(*EB-309)-4T6(*EB-309)",
+        "prof": "Jonas Dos Santos Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ71H",
+    "name": "Segurança No Trabalho",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6M5(*EIJ-104B)-6M6(*EIJ-104B)",
+        "prof": "Marcelo Queiroz Varisco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74H",
+    "name": "Sistemas Estruturais",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6M2(*EB-204)-6M3(*EB-204)-6M4(*EB-204)-6M5(*EB-204)",
+        "prof": "Rodolfo Krul Tessari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SD",
+    "name": "Sociedade E Política No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CQ-311)-2M4(CQ-311)-2M5(CQ-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(*EB-311)-2T3(*EB-311)-2T4(*EB-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SA",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ARQ76H",
+    "name": "Solos E Fundações",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M1(*EB-212)-5M2(*EB-212)-5M3(*EB-212)",
+        "prof": "Camila Isaton",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ7BD",
+    "name": "Tecnologia Da Pré-Fabricação",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6M2(*EB-201)-6M3(*EB-201)-6M4(*EB-201)-6M5(*EB-201)",
+        "prof": "Ozires De Jezus Ribeiro",
+        "opt": "Matriz:961"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SB",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",
+        "prof": "Lino Trevisan",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental",
+        "h": "4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XA",
+    "name": "Tecnologia Social E Economia Solidária",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "5M2(*EL-211)-5M2(*EL-211)-5M3(*EL-211)-5M3(*EL-211)-5M4(*EL-211)-5M4(*EL-211)-5M5(*EL-211)-5M5(*EL-211)",
+        "prof": "Marcos Antonio Silverio, Lino Trevisan",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(CE-305)-3M2(CE-305)-3M3(CE-305)-3M3(CE-305)-3M4(CE-305)-3M4(CE-305)-3M5(CE-305)-3M5(CE-305)",
+        "prof": "Marcos Antonio Silverio, Maria Luisa Carvalho",
+        "opt": "Matriz:957, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:982, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:974, Matriz:980, Matriz:973, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SC",
+    "name": "Tecnologia, Trabalho E Saúde",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ARQ7EJ",
+    "name": "Teoria Do Projeto De Arquitetura",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6T2(*EB-210)-6T3(*EB-210)",
+        "prof": "Claudionor Beatrice",
+        "opt": "Matriz:961"
+      }
+    ]
+  },
+  {
+    "code": "ARQ74E",
+    "name": "Teorias Do Planejamento Na Cidade Contemporânea",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3T2(*EB-201)-3T3(*EB-201)-3T4(*EB-201)",
+        "prof": "Simone Aparecida Polli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7T1",
+    "name": "Tópicos Matemáticos 1",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3T1(EB-206)-3T2(EB-206)-3T3(EB-206)-4M6(*EB-204)-4T1(*EB-204)-4T2(*EB-204)",
+        "prof": "Angelita Minetto Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ72H",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M2(*EIJ-104B)-2M3(*EIJ-104B)-2M4(*EIJ-104B)-2M5(*EIJ-104B)",
+        "prof": "Marcelo Queiroz Varisco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AU69U",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M2(*EB-209)-5M3(*EB-209)-5M4(*EB-209)-5M5(*EB-209)",
+        "prof": "Rosangela De Fatima Stankowitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AU60U",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Armando Luis Yoshio Ito",
+        "opt": "Não"
+      },
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "7M2(*EA-206)-7M3(*EA-206)-7M4(*EA-206)-7M5(*EA-206)",
+        "prof": "Armando Luis Yoshio Ito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC60U",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "",
+        "prof": "Armando Luis Yoshio Ito",
+        "opt": "Não"
+      }
+    ]
+  }
+]

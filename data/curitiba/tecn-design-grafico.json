@@ -1,0 +1,1315 @@
+[
+  {
+    "code": "DIN86C",
+    "name": "Animação",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6M2(CC-201)-6M3(CC-201)-6M4(CC-201)-6M5(CC-201)",
+        "prof": "Marcelo Abilio Publio",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6N1(CC-202)-6N2(CC-202)-6N3(CC-202)-6N4(CC-202)",
+        "prof": "Elisangela Lobo Schirigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN86B",
+    "name": "Atuação Profissional No Design",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3M4(CC-103)-3M5(CC-103)",
+        "prof": "Manoel Alexandre Schroeder",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4N1(CC-103)-4N2(CC-103)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN85C",
+    "name": "Audiovisual",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design, 3 - Comunic Organizacional",
+        "h": "5M2(CC-201)-5M3(CC-201)-5M4(CC-201)-5M5(CC-201)",
+        "prof": "Ana Claudia Camila Veiga De Franca",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "6N1(CC-201)-6N2(CC-201)-6N3(CC-201)-6N4(CC-201)",
+        "prof": "Marcelo Abilio Publio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN82C",
+    "name": "Composição",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3M1(CC-103)-3M2(CC-103)-3M3(CC-103)",
+        "prof": "Esoline Helena Cavalli Zamarian",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6N3(CC-103)-6N4(CC-103)-6N5(CC-103)",
+        "prof": "Marcos Varassin Arantes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "DIN81B",
+    "name": "Desenho Expressivo",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4M3(CA-107)-4M4(CA-107)-4M5(CA-107)-4M6(CA-107)",
+        "prof": "Luciano Henrique Ferreira Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6N1(CA-107)-6N2(CA-107)-6N3(CA-107)-6N4(CA-107)",
+        "prof": "Luciano Henrique Ferreira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN81D",
+    "name": "Desenho Geométrico",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6M2(CA-107)-6M3(CA-107)-6M4(CA-107)-6M5(CA-107)",
+        "prof": "Marcos Varassin Arantes",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N1(CA-107)-3N2(CA-107)-3N3(CA-107)-3N4(CA-107)",
+        "prof": "Marcos Varassin Arantes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN83F",
+    "name": "Design E Cultura",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "4M3(CE-305)-4M4(CE-305)-4M5(CE-305)",
+        "prof": "Marines Ribeiro Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N1(CE-203)-2N2(CE-203)-2N3(CE-203)",
+        "prof": "Marines Ribeiro Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XD",
+    "name": "Direitos Humanos, Segurança E Diversidade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EDU70I",
+    "name": "Educação Especial E Processos Inclusivos",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Química, 2 - Téc.Em Multimeios Buti, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T1(CA-103)-5T2(CA-103)-5T3(CA-103)",
+        "prof": "Marta Rejane Proenca Filietaz",
+        "opt": "Matriz:990, Matriz:976, Matriz:920, Matriz:970, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M4(CE-206)-3M5(CE-206)-3M6(CE-206)",
+        "prof": "Marta Rejane Proenca Filietaz",
+        "opt": "Matriz:990, Matriz:976, Matriz:920, Matriz:970, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5T1(CA-103)-5T2(CA-103)-5T3(CA-103)",
+        "prof": "Marta Rejane Proenca Filietaz",
+        "opt": "Matriz:990, Matriz:976, Matriz:920, Matriz:970, Matriz:973, Matriz:980"
+      },
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Português, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Fisica 9",
+        "h": "4N3(CE-105)-4N4(CE-105)-4N5(CE-105)",
+        "prof": "Solange Freundel Filvock",
+        "opt": "Matriz:990, Matriz:976, Matriz:920, Matriz:970, Matriz:973, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "DIN83D",
+    "name": "Ergonomia Cognitiva",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3M1(CC-207)-3M2(CC-207)",
+        "prof": "Cindy Renate Piassetta Xavier",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N4(CC-102)-2N5(CC-102)",
+        "prof": "Claudia Bordin Rodrigues Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84F",
+    "name": "Estudos De Linguagem",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M1(CQ-313)-2M2(CQ-313)-2M3(CQ-313)",
+        "prof": "Marina Ramos Pezzini",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "2N3(CC-108)-2N4(CC-108)-2N5(CC-108)",
+        "prof": "Ed Marcos Sarro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84C",
+    "name": "Fotografia",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design, 3 - Arquitet E Urbanismo, 3 - Comunic Organizacional",
+        "h": "3M2(CC-201)-3M3(CC-201)-3M4(CC-201)-3M5(CC-201)",
+        "prof": "Silmara Simone Takazaki",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design, 3 - Arquitet E Urbanismo, 3 - Comunic Organizacional",
+        "h": "5N1(CC-201)-5N2(CC-201)-5N3(CC-201)-5N4(CC-201)",
+        "prof": "Elisangela Lobo Schirigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "DIN82B",
+    "name": "Fundamentos De Ilustração",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "4M2(CC-107)-4M3(CC-107)-4M4(CC-107)-4M5(CC-107)",
+        "prof": "Liber Eugenio Paz",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5N1(CC-107)-5N2(CC-107)-5N3(CC-107)-5N4(CC-107)",
+        "prof": "Liber Eugenio Paz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN81A",
+    "name": "Fundamentos Do Design Gráfico",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3M3(CC-108)-3M4(CC-108)-3M5(CC-108)",
+        "prof": "Ivone Terezinha De Castro",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4N3(CC-108)-4N4(CC-108)-4N5(CC-108)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN82D",
+    "name": "Geometria Aplicada",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "6M1(CC-108)-6M2(CC-108)-6M3(CC-108)-6M4(CC-108)-6M5(CC-108)",
+        "prof": "Anna Lucia Da Silva Araujo Voros",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N1(CC-108)-3N2(CC-108)-3N3(CC-108)-3N4(CC-108)-3N5(CC-108)",
+        "prof": "Ed Marcos Sarro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN81F",
+    "name": "História Da Arte",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M1(CC-202)-2M2(CC-202)-4M1(CC-106)-4M2(CC-106)",
+        "prof": "Daniela Fernanda Ferreira Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4N1(CC-105)-4N2(CC-105)-5N1(CC-105)-5N2(CC-105)",
+        "prof": "Daniela Fernanda Ferreira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN82F",
+    "name": "História Da Arte Brasileira",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5M3(CC-105)-5M4(CC-105)-5M5(CC-105)",
+        "prof": "Luciana Martha Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HA",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "DIN85B",
+    "name": "História E Teoria Do Design Contemporâneo",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M3(CC-101)-2M4(CC-101)-2M5(CC-101)",
+        "prof": "Leonardo Adolfo Sandim Kretzschmar",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N1(CC-105)-2N2(CC-105)-2N3(CC-105)",
+        "prof": "Leonardo Adolfo Sandim Kretzschmar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84B",
+    "name": "História E Teoria Do Design Moderno",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5M1(CC-101)-5M2(CC-101)-5M3(CC-101)",
+        "prof": "Leonardo Adolfo Sandim Kretzschmar",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N1(CC-105)-3N2(CC-105)-3N3(CC-105)",
+        "prof": "Leonardo Adolfo Sandim Kretzschmar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN83B",
+    "name": "Ilustração Aplicada",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5M2(CC-107)-5M3(CC-107)-5M4(CC-107)-5M5(CC-107)",
+        "prof": "Liber Eugenio Paz",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "6N1(CC-107)-6N2(CC-107)-6N3(CC-107)-6N4(CC-107)",
+        "prof": "Liber Eugenio Paz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "DIN82E",
+    "name": "Materiais E Processos",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3M4(CC-203)-3M5(CC-203)-5M1(CC-203)-5M2(CC-203)",
+        "prof": "Jeferson Gil Furhmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4N1(CC-203)-4N2(CC-203)-6N1(CC-203)-6N2(CC-203)",
+        "prof": "Alexandre Ianino Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84D",
+    "name": "Metodologia De Pesquisa Em Design",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5M4(CC-102)-5M5(CC-102)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N1(CG-202)-2N2(CG-202)",
+        "prof": "Claudia Bordin Rodrigues Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN82A",
+    "name": "Metodologias Do Design Gráfico",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M2(CC-102)-2M3(CC-102)-2M4(CC-102)-2M5(CC-102)",
+        "prof": "Manoel Alexandre Schroeder",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N1(CC-101)-2N2(CC-101)-2N3(CC-101)-2N4(CC-101)",
+        "prof": "Manoel Alexandre Schroeder",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN81E",
+    "name": "Processos Gráficos",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "5M2(CC-103)-5M3(CC-103)-5M4(CC-103)-5M5(CC-103)",
+        "prof": "Ivone Terezinha De Castro",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2N1(CC-103)-2N2(CC-103)-2N3(CC-103)-2N4(CC-103)",
+        "prof": "Ivone Terezinha De Castro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN83E",
+    "name": "Produção Gráfica",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M2(CC-106)-2M3(CC-106)-2M4(CC-106)-2M5(CC-106)",
+        "prof": "Claudia Bordin Rodrigues Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "5N1(CC-101)-5N2(CC-101)-5N3(CC-101)-5N4(CC-101)",
+        "prof": "Leonardo Adolfo Sandim Kretzschmar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84E",
+    "name": "Produção Gráfica Aplicada",
+    "turmas": [
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "32",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N4(CC-103)-3N5(CC-103)",
+        "prof": "Manoel Alexandre Schroeder",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN86A",
+    "name": "Projeto De Embalagens",
+    "turmas": [
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N1(CC-101)-3N2(CC-101)-3N3(CC-101)-3N4(CC-101)",
+        "prof": "Renato Bordenousky Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN83A",
+    "name": "Projeto De Interfaces E Experiências Digitais",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "32",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Eng De Computação, 2 - Sist De Informação",
+        "h": "6M2(CB-107)-6M3(CB-107)-6M4(CB-107)-6M5(CB-107)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Eng De Computação, 2 - Sist De Informação",
+        "h": "3N1(CB-107)-3N2(CB-107)-3N3(CB-107)-3N4(CB-107)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN85A",
+    "name": "Projeto De Sistemas Visuais",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "4M2(CC-101)-4M3(CC-101)-4M4(CC-101)-4M5(CC-101)",
+        "prof": "Kando Fukushima",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "4N1(CC-101)-4N2(CC-101)-4N3(CC-101)-4N4(CC-101)",
+        "prof": "Kando Fukushima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN84A",
+    "name": "Projeto Gráfico Editorial",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "6M2(CC-101)-6M3(CC-101)-6M4(CC-101)-6M5(CC-101)",
+        "prof": "Claudia Bordin Rodrigues Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "4N1(CC-202)-4N2(CC-202)-4N3(CC-202)-4N4(CC-202)",
+        "prof": "Alan Ricardo Witikoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "DIN85D",
+    "name": "Tcc1",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M1(CC-103)-2M2(CC-103)",
+        "prof": "Silmara Simone Takazaki",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "3N1(CC-103)-3N2(CC-103)",
+        "prof": "Silmara Simone Takazaki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN86D",
+    "name": "Tcc2",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "",
+        "prof": "Silmara Simone Takazaki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SB",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",
+        "prof": "Lino Trevisan",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental",
+        "h": "4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "EDU70K",
+    "name": "Tecnologias Digitais Na Educação",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Português, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Fisica 9",
+        "h": "2T4(CA-202)-2T5(CA-202)-2T6(CA-202)",
+        "prof": "Roland Baschta Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:981, Matriz:976, Matriz:970, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "DIN81C",
+    "name": "Teoria Da Cor",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "2M3(CC-108)-2M4(CC-108)-2M5(CC-108)",
+        "prof": "Alan Ricardo Witikoski",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico",
+        "h": "5N3(CC-108)-5N4(CC-108)-5N5(CC-108)",
+        "prof": "Alan Ricardo Witikoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DIN83C",
+    "name": "Tipografia",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "3M3(CC-107)-3M4(CC-107)-3M5(CC-107)-3M6(CC-107)",
+        "prof": "Marco Andre Mazzarotto Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "4N1(CG-202)-4N2(CG-202)-4N3(CG-202)-4N4(CG-202)",
+        "prof": "Rodrigo Andre Da Costa Graca",
+        "opt": "Não"
+      }
+    ]
+  }
+]

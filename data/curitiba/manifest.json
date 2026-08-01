@@ -1,6 +1,154 @@
 [
-  {"slug": "eng-eletrica", "label": "Eng Elétrica 2026/2 0215"},
-  {"slug": "eng-contauto", "label": "Eng de Controle/Automação 2026/2 0252"},
-  {"slug": "design", "label": "Design 2026/2 0213"},
-  {"slug": "lic-letras", "label": "Lic Letras 2026/2 0234"}
+  {
+    "slug": "eng-eletrica",
+    "label": "Eng Elétrica 2026/2 0215"
+  },
+  {
+    "slug": "eng-contauto",
+    "label": "Eng de Controle/Automação 2026/2 0252"
+  },
+  {
+    "slug": "design",
+    "label": "Design 2026/2 0213"
+  },
+  {
+    "slug": "lic-letras",
+    "label": "Lic Letras 2026/2 0234"
+  },
+  {
+    "slug": "eng-ind-eletronica",
+    "label": "Eng.Ind.Eletrônica"
+  },
+  {
+    "slug": "eng-ind-eletrotecn",
+    "label": "Eng.Ind.Eletrotécn."
+  },
+  {
+    "slug": "eng-ind-mecanica",
+    "label": "Eng.Ind.Mecânica"
+  },
+  {
+    "slug": "eng-prod-civil",
+    "label": "Eng. Prod. Civil"
+  },
+  {
+    "slug": "alemao",
+    "label": "Alemão"
+  },
+  {
+    "slug": "frances",
+    "label": "Francês"
+  },
+  {
+    "slug": "ingles",
+    "label": "Inglês"
+  },
+  {
+    "slug": "tecnol-em-radiologia",
+    "label": "Tecnol.Em Radiologia"
+  },
+  {
+    "slug": "tecn-automacao-ind",
+    "label": "Tecn Automação Ind"
+  },
+  {
+    "slug": "tecn-mecatronica-ind",
+    "label": "Tecn Mecatrônica Ind"
+  },
+  {
+    "slug": "eng-ind-automacao",
+    "label": "Eng Ind Automação"
+  },
+  {
+    "slug": "eng-de-computacao",
+    "label": "Eng De Computação"
+  },
+  {
+    "slug": "educacao-fisica",
+    "label": "Educação Física"
+  },
+  {
+    "slug": "tecnol-sist-telec",
+    "label": "Tecnol. Sist. Telec."
+  },
+  {
+    "slug": "tecn-design-grafico",
+    "label": "Tecn Design Gráfico"
+  },
+  {
+    "slug": "quimica",
+    "label": "Química"
+  },
+  {
+    "slug": "lic-fisica",
+    "label": "Lic Física"
+  },
+  {
+    "slug": "sist-de-informacao",
+    "label": "Sist De Informação"
+  },
+  {
+    "slug": "arquitet-e-urbanismo",
+    "label": "Arquitet E Urbanismo"
+  },
+  {
+    "slug": "eng-eletronica",
+    "label": "Eng Eletrônica"
+  },
+  {
+    "slug": "eng-contr-automacao",
+    "label": "Eng Contr/Automação"
+  },
+  {
+    "slug": "eng-mecanica",
+    "label": "Eng Mecânica"
+  },
+  {
+    "slug": "eng-civil",
+    "label": "Eng Civil"
+  },
+  {
+    "slug": "lic-matematica",
+    "label": "Lic Matemática"
+  },
+  {
+    "slug": "administracao",
+    "label": "Administração"
+  },
+  {
+    "slug": "lic-quimica",
+    "label": "Lic Química"
+  },
+  {
+    "slug": "comunic-organizacional",
+    "label": "Comunic Organizacional"
+  },
+  {
+    "slug": "lic-letras-ingles",
+    "label": "Lic Letras Inglês"
+  },
+  {
+    "slug": "eng-mecatronica",
+    "label": "Eng Mecatrônica"
+  },
+  {
+    "slug": "lic-letras-portugues",
+    "label": "Lic Letras Português"
+  },
+  {
+    "slug": "eng-amb-sanitaria",
+    "label": "Eng Amb/Sanitária"
+  },
+  {
+    "slug": "quimica-ambiental",
+    "label": "Química Ambiental"
+  },
+  {
+    "slug": "eng-da-producao",
+    "label": "Eng. Da Produção"
+  },
+  {
+    "slug": "lic-fisica-9",
+    "label": "Lic Fisica 9"
+  }
 ]

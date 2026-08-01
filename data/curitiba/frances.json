@@ -1,0 +1,47 @@
+[
+  {
+    "code": "CL21F",
+    "name": "Francês 1",
+    "turmas": [
+      {
+        "turma": "TF1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CQ-304)-2T3(CQ-304)-4T2(CQ-304)-4T3(CQ-304)",
+        "prof": "Maclovia Correa Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "TF2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CQ-304)-2T5(CQ-304)-4T4(CQ-304)-4T5(CQ-304)",
+        "prof": "Maclovia Correa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL23F",
+    "name": "Francês 3",
+    "turmas": [
+      {
+        "turma": "TF1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-S03)-2T3(CE-S03)-4T2(CE-S03)-4T3(CE-S03)",
+        "prof": "Claudia Ozon Caldo",
+        "opt": "Não"
+      }
+    ]
+  }
+]

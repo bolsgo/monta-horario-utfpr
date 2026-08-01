@@ -1,0 +1,2396 @@
+[
+  {
+    "code": "ICSHX0",
+    "name": "Acessibilidade E Inclusão Digital",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-105)-2T5(CB-105)-2T6(CB-105)",
+        "prof": "Leonelo Dell Anhol Almeida",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSG20",
+    "name": "Análise E Projeto De Sistemas",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "4M3(CB-105)-4M4(CB-105)-4M5(CB-105)",
+        "prof": "Laudelino Cordeiro Bastos",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "3T1(CB-107)-3T2(CB-107)-3T3(CB-107)",
+        "prof": "Laudelino Cordeiro Bastos",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "ICSW20",
+    "name": "Arquitetura Em Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "4T2(CB-106)-4T3(CB-106)-5T4(CB-106)-5T5(CB-106)",
+        "prof": "Marcelo Mikosz Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSB41",
+    "name": "Banco De Dados 2",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "4T2(CB-104)-4T3(CB-104)-6T2(CB-104)-6T3(CB-104)",
+        "prof": "Nadia Puchalski Kozievitch",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSB61",
+    "name": "Big Data",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2T4(CB-202)-2T5(CB-202)-5T4(CE-106)-5T5(CE-106)",
+        "prof": "Leandro Batista De Almeida",
+        "opt": "Matriz:962, Matriz:806, Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "MAT7C1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2T2(CE-108)-2T3(CE-108)-5T4(CE-101)-5T5(CE-101)-6T2(CE-108)-6T3(CE-108)",
+        "prof": "Priscila Savulski Ferreira De Miranda",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T5(CE-208)-2T6(CE-208)-3T5(CE-201)-3T6(CE-201)-4T5(CE-308)-4T6(CE-308)",
+        "prof": "Christian Manuel Surco Chuno",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2N4(CE-307)-2N5(CE-307)-3N4(CE-207)-3N5(CE-207)-5N2(CE-207)-5N3(CE-207)",
+        "prof": "Andres David Baez Sanchez",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M3(CE-107)-4M4(CE-107)-5T2(CE-101)-5T3(CE-101)-6M5(CE-308)-6M6(CE-308)",
+        "prof": "Francismar Ferreira Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "2M5(CE-308)-2M6(CE-308)-3M5(CE-108)-3M6(CE-108)-5M4(CE-308)-5M5(CE-308)",
+        "prof": "Francismar Ferreira Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M4(*EK-204)-2M5(*EK-204)-3T1(*EK-204)-3T2(*EK-204)-5M4(*EL-102)-5M5(*EL-102)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T1(CE-308)-2T2(CE-308)-2T3(CE-308)-4T1(CE-108)-4T2(CE-108)-4T3(CE-108)",
+        "prof": "Christian Manuel Surco Chuno",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",
+        "prof": "Priscila Savulski Ferreira De Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7N1",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T1(*EK-307)-5T2(*EK-307)-6T5(*EK-307)-6T6(*EK-307)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T1(*EK-303)-5T2(*EK-303)-6T5(*EK-303)-6T6(*EK-303)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HC",
+    "name": "Capitalismo Contemporâneo E Economia Política",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ICSI31",
+    "name": "Ciência Das Redes",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "EaD",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "3N1(D-PTO)-3N2(D-PTO)-3N3(D-PTO)-3T6(D-PTO)",
+        "prof": "Ricardo Luders",
+        "opt": "Matriz:957, Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSB56",
+    "name": "Ciência De Dados",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "6M2(CB-105)-6M3(CB-105)-6M4(CB-105)-6M5(CB-105)",
+        "prof": "Luiz Celso Gomes Junior",
+        "opt": "Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "ICSHX1",
+    "name": "Computação E Sociedade",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "6T4(CA-203)-6T5(CA-203)-6T6(CA-203)",
+        "prof": "Leander Cordeiro De Oliveira",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSA47",
+    "name": "Computação Quântica",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-104)-2N2(CB-104)-4N1(CB-104)-4N2(CB-104)",
+        "prof": "Leandro Miranda Zatesko",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "ICSM31",
+    "name": "Desenvolvimento Integrado De Sistemas",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "6T4(CB-107)-6T5(CB-107)-6T6(CB-107)",
+        "prof": "Paulo Roberto Bueno",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XF",
+    "name": "Dimensão Ambiental Na Gestão Urbana",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "ICSE30",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "2T2(CB-204)-2T3(CB-204)-3T4(CB-201)-3T5(CB-201)",
+        "prof": "Maria Claudia Figueiredo Pereira Emer",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "2N1(CC-205)-2N2(CC-205)-2N3(CB-201)-2N4(CB-201)",
+        "prof": "Adolfo Gustavo Serra Seca Neto",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "ICSE40",
+    "name": "Engenharia De Software 2",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2T4(CB-201)-2T5(CB-201)-2T6(CB-201)",
+        "prof": "Maria Claudia Figueiredo Pereira Emer",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSF20",
+    "name": "Estruturas De Dados 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2T1(CB-104)-2T2(CB-104)-2T3(CB-104)",
+        "prof": "Rodrigo Minetto",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "2M2(CB-106)-2M3(CB-106)-2M4(CB-106)",
+        "prof": "Rodrigo Minetto",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "3T2(CB-104)-3T3(CB-104)-3T4(CB-104)",
+        "prof": "Mauro Sergio Pereira Fonseca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSF30",
+    "name": "Estruturas De Dados 2",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "5T1(CB-107)-5T2(CB-107)-5T3(CB-107)",
+        "prof": "Juliana De Santi",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "6T1(CB-107)-6T2(CB-107)-6T3(CB-107)",
+        "prof": "Juliana De Santi",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FA",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",
+        "prof": "Veronica Ferreira Bahr Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Educação Física",
+        "h": "5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7A1",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "5T1(CE-103)-5T2(CE-103)-5T3(CE-103)",
+        "prof": "Louisi Francis Moura",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2T1(CA-102)-2T2(CA-102)",
+        "prof": "Louisi Francis Moura",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G1",
+    "name": "Fundamentos De Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ICSF13",
+    "name": "Fundamentos De Programação 1",
+    "turmas": [
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-202)-2N2(CB-202)-2T6(CB-202)-5N1(CB-202)-5N2(CB-202)-5T6(CB-202)",
+        "prof": "Myriam Regattieri De Biase Da Silva Delgado",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "2T1(CB-202)-2T2(CB-202)-2T3(CB-202)-5T1(CB-104)-5T2(CB-104)-5T3(CB-104)",
+        "prof": "Daniel Fernando Pigatto",
+        "opt": "Não"
+      },
+      {
+        "turma": "S74",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "2T1(CB-201)-2T2(CB-201)-2T3(CB-201)-5T1(CB-202)-5T2(CB-202)-5T3(CB-202)",
+        "prof": "Leyza Elmeri Baldo Dorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSG10",
+    "name": "Fundamentos De Sistemas De Informação",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "52",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "6T1(CB-202)-6T2(CB-202)-6T3(CB-202)-6T4(CB-202)",
+        "prof": "Alexandre Reis Graeml",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7GA",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-108)-5T2(CE-108)-6T1(CE-301)-6T2(CE-301)",
+        "prof": "Aline Cristina Da Rocha",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "3T4(CE-307)-3T5(CE-307)-5T4(CE-308)-5T5(CE-308)",
+        "prof": "Aline Cristina Da Rocha",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "4T1(CE-308)-4T2(CE-308)-6T2(CE-208)-6T3(CE-208)",
+        "prof": "Thais Mariane Biembengut Faria",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSA4A",
+    "name": "Geometria Computacional",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2T4(CE-204)-2T5(CE-204)-5T4(CB-202)-5T5(CB-202)",
+        "prof": "Ricardo Dutra Da Silva",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSG31",
+    "name": "Gestão Da Informação Em Sistemas De Informação",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "2T2(CB-107)-2T3(CB-107)-2T4(CB-107)",
+        "prof": "Rita Cristina Galarraga Berardi",
+        "opt": "Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "GE70H",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "2M4(CA-203)-2M5(CA-203)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:708, Matriz:709"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HA",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HB",
+    "name": "História Geral Da Economia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T4(*EL-211)-6T5(*EL-211)-6T6(*EL-211)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ICSR42",
+    "name": "Infraestrutura De Lans Hierárquicas",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "3N2(CB-206)-3N3(CB-206)-5N2(CB-206)-5N3(CB-206)",
+        "prof": "Fabiano Scriptore De Carvalho",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSR43",
+    "name": "Infraestrutura De Wans",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-206)-2T6(CB-206)-4N1(CB-206)-4T6(CB-206)",
+        "prof": "Fabiano Scriptore De Carvalho",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSIX0",
+    "name": "Inteligência Artificial E Sociedade",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CA-001)-5N1(CA-001)-5N2(CA-001)-5N2(CA-001)-5T5(CA-001)-5T5(CA-001)-5T6(CA-001)-5T6(CA-001)",
+        "prof": "Gustavo Alberto Gimenez Lugo, Geraldo Augusto Pinto",
+        "opt": "Matriz:844, Matriz:806, Matriz:957, Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSB30",
+    "name": "Introdução A Banco De Dados",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "2T1(CB-105)-2T2(CB-105)-6M4(CB-201)-6M5(CB-201)",
+        "prof": "Leandro Batista De Almeida",
+        "opt": "Matriz:957, Matriz:968"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "3T4(CB-105)-3T5(CB-105)-5T1(CB-105)-5T2(CB-105)",
+        "prof": "Nadia Puchalski Kozievitch",
+        "opt": "Matriz:957, Matriz:968"
+      }
+    ]
+  },
+  {
+    "code": "EST70A",
+    "name": "Introdução À Estatística",
+    "turmas": [
+      {
+        "turma": "N21",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mauricio Koubay Do Amaral",
+        "opt": "Não"
+      },
+      {
+        "turma": "S02",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Angelica Maria Tortola Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "S03",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Angelica Maria Tortola Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S45",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mauricio Koubay Do Amaral",
+        "opt": "Não"
+      },
+      {
+        "turma": "S61",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      },
+      {
+        "turma": "S83",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST70C",
+    "name": "Introdução À Estatística",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(CA-003)-4T6(CA-003)-6T5(CA-003)-6T6(CA-003)",
+        "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2T5(CA-003)-2T6(CA-003)-3T4(CA-003)-3T5(CA-003)",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CA-003)-2T3(CA-003)-3T2(CA-003)-3T3(CA-003)",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2N1(CA-003)-2N2(CA-003)-2N3(CA-003)-2N4(CA-003)",
+        "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSH31",
+    "name": "Introdução À Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-107)-2T5(CB-107)-2T6(CB-107)",
+        "prof": "Marilia Abrahao Amaral",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSD20",
+    "name": "Introdução À Lógica Para Computação",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "4M3(CC-206)-4M4(CC-206)-4M5(CC-206)",
+        "prof": "Marina Esther Groshaus",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "4T1(CE-105)-4T2(CE-105)-4T3(CE-105)",
+        "prof": "Cesar Augusto Tacla",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "ICSX10",
+    "name": "Introdução Ao Computar",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "2T4(CB-104)-2T4(CB-104)-2T5(CB-104)-2T5(CB-104)-4T4(CE-204)-4T4(CE-204)-4T5(CE-204)-4T5(CE-204)",
+        "prof": "Luiz Augusto Pelisson, Marcia Regina Martelozo Cassitas Hino",
+        "opt": "Não"
+      },
+      {
+        "turma": "S74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "2T4(CE-304)-2T4(CE-304)-2T5(CE-304)-2T5(CE-304)-4T4(CA-001)-4T4(CA-001)-4T5(CA-001)-4T5(CA-001)",
+        "prof": "Luiz Augusto Pelisson, Marcia Regina Martelozo Cassitas Hino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ED70U",
+    "name": "Libras B",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CE-102)-3M4(CE-102)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:547, Matriz:906, Matriz:867, Matriz:844, Matriz:616, Matriz:678, Matriz:919, Matriz:843"
+      }
+    ]
+  },
+  {
+    "code": "ICSD21",
+    "name": "Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "6T2(CE-202)-6T3(CE-202)-6T4(CE-202)",
+        "prof": "Leandro Miranda Zatesko",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "2T4(CA-101)-2T5(CA-101)-2T6(CA-101)",
+        "prof": "Alane Marie De Lima Goncalves Da Silva",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "FCH7GA",
+    "name": "Metropolização Contemporânea: Tecnologia E Território",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CQ-304)-3T3(CQ-304)-3T4(CQ-304)",
+        "prof": "Marcos Antonio Silverio",
+        "opt": "Matriz:990, Matriz:973, Matriz:980, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:823, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:962, Matriz:755, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "ICSG48",
+    "name": "Modelagem De Processos De Negócios",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "3N1(CB-104)-3N2(CB-104)-3T5(CB-104)-3T6(CB-104)",
+        "prof": "Marcia Regina Martelozo Cassitas Hino",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "EST70B",
+    "name": "Noções De Estatística",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S53",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSB60",
+    "name": "Nosql - Banco De Dados Não Relacionais",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "5T2(CE-202)-5T3(CE-202)-6T2(CB-201)-6T3(CB-201)",
+        "prof": "Leandro Batista De Almeida",
+        "opt": "Matriz:962, Matriz:806, Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "ICSR41",
+    "name": "Oficina De Redes",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "3N1(CB-206)-3T6(CB-206)-5N1(CB-206)-5T6(CB-206)",
+        "prof": "Fabiano Scriptore De Carvalho",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSM49",
+    "name": "Padrões Web",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "4N1(CB-106)-4N2(CB-106)-4T5(CB-106)-4T6(CB-106)",
+        "prof": "Leonelo Dell Anhol Almeida",
+        "opt": "Matriz:962, Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PC",
+    "name": "Planejamento De Carreira",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XE",
+    "name": "Políticas Públicas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XC",
+    "name": "Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-302)-2T3(CE-302)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "ICSB59",
+    "name": "Processamento De Linguagem Natural",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "2N1(CB-204)-2T5(CB-204)-2T6(CB-204)",
+        "prof": "Luiz Celso Gomes Junior",
+        "opt": "Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "ICSV30",
+    "name": "Processamento Digital De Imagens",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "3T5(CB-107)-3T6(CB-107)-5T5(CB-107)-5T6(CB-107)",
+        "prof": "Bogdan Tomoyuki Nassu",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "IF69D",
+    "name": "Processamento Digital De Imagens",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Eng Eletrônica, 2 - Sist De Informação",
+        "h": "3N2(D-PTO)-3N2(D-PTO)-3N3(D-PTO)-3N3(D-PTO)-3N4(D-PTO)-3N4(D-PTO)-3N5(D-PTO)-3N5(D-PTO)",
+        "prof": "Humberto Remigio Gamba, Gustavo Benvenutti Borba",
+        "opt": "Matriz:616, Matriz:543"
+      }
+    ]
+  },
+  {
+    "code": "ICSM46",
+    "name": "Programação Para Dispositivos Móveis E Sem Fio",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Eng Eletrônica, 2 - Sist De Informação",
+        "h": "5T5(CQ-204)-5T6(CQ-204)-6T5(CQ-204)-6T6(CQ-204)",
+        "prof": "Danillo Leal Belmonte",
+        "opt": "Matriz:957, Matriz:968, Matriz:981, Matriz:962"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "4T2(CB-202)-4T3(CB-202)-4T4(CB-202)-4T5(CB-202)",
+        "prof": "Paulo Roberto Bueno",
+        "opt": "Matriz:957, Matriz:968, Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "DIN83A",
+    "name": "Projeto De Interfaces E Experiências Digitais",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "32",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Eng De Computação, 2 - Sist De Informação",
+        "h": "6M2(CB-107)-6M3(CB-107)-6M4(CB-107)-6M5(CB-107)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "N31",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Eng De Computação, 2 - Sist De Informação",
+        "h": "3N1(CB-107)-3N2(CB-107)-3N3(CB-107)-3N4(CB-107)",
+        "prof": "Leticia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSA30",
+    "name": "Projeto E Análise De Algoritmos",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "4T4(CQ-309)-4T5(CQ-309)-4T6(CQ-309)",
+        "prof": "Alane Marie De Lima Goncalves Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "5T1(CE-308)-5T2(CE-308)-5T3(CE-308)",
+        "prof": "Ricardo Dutra Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "4N1(CE-305)-4T5(CE-305)-4T6(CE-305)",
+        "prof": "Ricardo Dutra Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ICSR30",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "5M3(CB-107)-5M3(CB-107)-5M4(CB-107)-5M4(CB-107)-5M5(CB-107)-5M5(CB-107)",
+        "prof": "Anelise Munaretto Fonseca, Mauro Sergio Pereira Fonseca",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "5T4(CB-104)-5T4(CB-104)-5T5(CB-104)-5T5(CB-104)-5T6(CB-104)-5T6(CB-104)",
+        "prof": "Anelise Munaretto Fonseca, Mauro Sergio Pereira Fonseca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSS30",
+    "name": "Sistemas Distribuídos",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "3T2(CB-202)-3T3(CB-202)-5T2(CB-106)-5T3(CB-106)",
+        "prof": "Ana Cristina Barreiras Kochem Vendramin",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "4T4(CB-201)-4T5(CB-201)-5T4(CB-201)-5T5(CB-201)",
+        "prof": "Ana Cristina Barreiras Kochem Vendramin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSI30",
+    "name": "Sistemas Inteligentes",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "5T1(CB-201)-5T2(CB-201)-5T3(CB-201)",
+        "prof": "Cesar Augusto Tacla",
+        "opt": "Matriz:957, Matriz:968, Matriz:906, Matriz:981"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação, 3 - Eng Eletrônica",
+        "h": "4N2(CB-107)-4N3(CB-107)-4N4(CB-107)",
+        "prof": "Gustavo Alberto Gimenez Lugo",
+        "opt": "Matriz:957, Matriz:968, Matriz:906, Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "ICSE44",
+    "name": "Sistemas Legados",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "6T1(CB-106)-6T2(CB-106)-6T3(CB-106)",
+        "prof": "Paulo Roberto Bueno",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "ICSO30",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "2M2(CB-105)-2M3(CB-105)-2M4(CB-105)-2M5(CB-105)",
+        "prof": "Marco Aurelio Wehrmeister",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "5T3(CB-105)-5T4(CB-105)-5T5(CB-105)-5T6(CB-105)",
+        "prof": "Marco Aurelio Wehrmeister",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SD",
+    "name": "Sociedade E Política No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M3(CQ-311)-2M4(CQ-311)-2M5(CQ-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(*EB-311)-2T3(*EB-311)-2T4(*EB-311)",
+        "prof": "Monica Helena Harrich Da Silva",
+        "opt": "Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SA",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ICSE20",
+    "name": "Técnicas De Programação",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "2M2(D-PTO)-2M3(D-PTO)-2M4(D-PTO)-2M5(D-PTO)",
+        "prof": "Milton Borsato",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S02",
+        "enq": "EaD",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "4M2(D-PTO)-4M3(D-PTO)-4M4(D-PTO)-4M5(D-PTO)",
+        "prof": "Milton Borsato",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação, 3 - Eng Eletrônica",
+        "h": "2M4(CB-107)-2M5(CB-107)-3M4(CB-107)-3M5(CB-107)",
+        "prof": "Jean Marcelo Simao",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação, 2 - Eng De Computação",
+        "h": "3T5(CB-202)-3T6(CB-202)-4T5(CB-107)-4T6(CB-107)",
+        "prof": "Jean Marcelo Simao",
+        "opt": "Matriz:968"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SB",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(*EL-208)-2N2(*EL-208)-2N3(*EL-208)",
+        "prof": "Lino Trevisan",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química, 1 - Lic Química, 1 - Química Ambiental",
+        "h": "4N1(*EL-211)-4N2(*EL-211)-4N3(*EL-211)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(CE-104)-4M5(CE-104)-4M6(CE-104)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-102)-2N2(CE-102)-2N3(CE-102)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SC",
+    "name": "Tecnologia, Trabalho E Saúde",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(CA-101)-3T3(CA-101)-3T4(CA-101)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-107)-5T3(CA-107)-5T4(CA-107)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T2(CE-304)-6T3(CE-304)-6T4(CE-304)",
+        "prof": "Armenes De Jesus Ramos Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ICSG41",
+    "name": "Tecnologias Da Informação Aplicada À Gestão",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "2N1(CA-001)-2N2(CA-001)-2T6(CA-001)",
+        "prof": "Marcia Regina Martelozo Cassitas Hino",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "EDU70K",
+    "name": "Tecnologias Digitais Na Educação",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Português, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Fisica 9",
+        "h": "2T4(CA-202)-2T5(CA-202)-2T6(CA-202)",
+        "prof": "Roland Baschta Junior",
+        "opt": "Matriz:990, Matriz:973, Matriz:981, Matriz:976, Matriz:970, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "ICSA31",
+    "name": "Teoria Da Computação",
+    "turmas": [
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Sist De Informação",
+        "h": "5T4(CA-102)-5T5(CA-102)-5T6(CA-102)",
+        "prof": "Leandro Miranda Zatesko",
+        "opt": "Matriz:981"
+      }
+    ]
+  },
+  {
+    "code": "ICSA48",
+    "name": "Teoria Dos Grafos",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação",
+        "h": "3N1(CA-001)-3N2(CA-001)-3N3(CA-001)-3T6(CA-001)",
+        "prof": "Marina Esther Groshaus",
+        "opt": "Matriz:981, Matriz:962"
+      }
+    ]
+  },
+  {
+    "code": "CSX41",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "65",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "",
+        "prof": "Leyza Elmeri Baldo Dorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSX40",
+    "name": "Trabalho De Conclusão 1",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "4N1(CB-201)-4T6(CB-201)",
+        "prof": "Leander Cordeiro De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSX41",
+    "name": "Trabalho De Conclusão 2",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "",
+        "prof": "Leyza Elmeri Baldo Dorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSX20",
+    "name": "Trabalho De Integração 1",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "4T1(CB-107)-4T1(CB-107)-4T2(CB-107)-4T2(CB-107)-4T3(CB-107)-4T3(CB-107)-4T4(CB-107)-4T4(CB-107)",
+        "prof": "Mariangela De Oliveira Gomes Setti, Marilia Abrahao Amaral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSX30",
+    "name": "Trabalho De Integração 2",
+    "turmas": [
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist De Informação",
+        "h": "3T4(CA-203)-3T4(CA-203)-3T5(CA-203)-3T5(CA-203)-3T6(CA-203)-3T6(CA-203)",
+        "prof": "Gustavo Alberto Gimenez Lugo, Leander Cordeiro De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  }
+]

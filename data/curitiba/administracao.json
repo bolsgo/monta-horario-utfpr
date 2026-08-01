@@ -1,0 +1,1547 @@
+[
+  {
+    "code": "GEE72H",
+    "name": "A Prática Da Extensão Universitária",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Aurea Cristina Magalhaes Niada",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE7BH",
+    "name": "Abordagens Da Internacionalização",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Gabrielle Ribeiro Rodrigues Da Silva",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "GEE74F",
+    "name": "Comportamento Organizacional",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CE-105)-2M5(CE-105)-2T1(D-PTO)-2T2(D-PTO)",
+        "prof": "Gean Carlos Tomazzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE72F",
+    "name": "Contabilidade Empresarial",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CE-205)-2M5(CE-205)-5M4(CE-202)-5M5(CE-202)",
+        "prof": "Katia Regina Hopfer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7CF",
+    "name": "Contextos Em Administração",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "GEE77C",
+    "name": "Controladoria E Gestão De Resultados",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M2(CE-206)-5M3(CE-206)-5M4(CE-206)-5M5(CE-206)",
+        "prof": "Paula Pontes De Campos Rasera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74C",
+    "name": "Custos E Formação De Preços",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M1(CE-103)-5M2(CE-103)-5M3(CE-103)",
+        "prof": "Antonio Goncalves De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XF",
+    "name": "Dimensão Ambiental Na Gestão Urbana",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "6M3(*EL-211)-6M4(*EL-211)-6M5(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CE-303)-5N2(CE-303)-5N3(CE-303)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:957, Matriz:981, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:973, Matriz:959, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980, Matriz:977, Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "GEE76G",
+    "name": "Direitos Especiais Aplicados",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M1(CA-301)-5M2(CA-301)-5M3(CA-301)",
+        "prof": "Ana Paula Myszczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XD",
+    "name": "Direitos Humanos, Segurança E Diversidade",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(*EL-208)-4M4(*EL-208)-4M5(*EL-208)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "2 - Química Ambiental",
+        "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE71A",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-107)-6M5(CE-107)",
+        "prof": "Andrea De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74A",
+    "name": "Economia Brasileira",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M4(CE-103)-5M5(CE-103)",
+        "prof": "Andrea De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73G",
+    "name": "Economia E Políticas Públicas",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M1(CA-103)-5M2(CA-103)-5M3(CA-103)",
+        "prof": "Christian Luiz Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE76A",
+    "name": "Elaboração E Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-205)-6M2(CE-205)-6M3(CE-205)",
+        "prof": "Alamo Alexandre Da Silva Batista",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE72E",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M1(CE-103)-3M2(CE-103)-3M3(CE-103)",
+        "prof": "Rejane Cioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73D",
+    "name": "Estrutura E Análise De Demonstrações",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M1(CE-201)-4M2(CE-201)-4M3(CE-201)",
+        "prof": "Rayane Camila Da Silva Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FA",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-307)-6M2(CE-307)-6M3(CE-307)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CE-202)-2T3(CE-202)-2T4(CE-202)",
+        "prof": "Veronica Ferreira Bahr Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T2(CC-205)-3T3(CC-205)-3T4(CC-205)",
+        "prof": "Alex Calazans",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Educação Física",
+        "h": "5M3(CC-203)-5M4(CC-203)-5M5(CC-203)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:983, Matriz:957, Matriz:976, Matriz:972, Matriz:979, Matriz:978, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:982, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE75C",
+    "name": "Finanças Corporativas I",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M4(CE-205)-4M5(CE-205)-6M2(CE-204)-6M3(CE-204)",
+        "prof": "Rayane Camila Da Silva Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE76C",
+    "name": "Finanças Corporativas Ii",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M2(CQ-306)-3M3(CQ-306)-3M4(CQ-305)-3M5(CQ-305)",
+        "prof": "Paula Pontes De Campos Rasera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE75F",
+    "name": "Finanças E Orçamento Público",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M1(CE-205)-4M2(CE-205)-4M3(CE-205)",
+        "prof": "Christian Luiz Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M3(CA-202)-5M4(CA-202)-5M5(CA-202)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE71D",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M4(CE-208)-4M5(CE-208)-4T1(D-PTO)-4T2(D-PTO)",
+        "prof": "Georgiana Luna Batinga",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G3",
+    "name": "Fundamentos De Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "N21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Tecn Automação Ind",
+        "h": "4N1(CE-104)-4N2(CE-104)-4N3(CE-104)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:976, Matriz:968, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7BA",
+    "name": "Gestão Da Tecnologia E Inovação",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Isaura Alberton De Lima",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "GEE73E",
+    "name": "Gestão De Marketing",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M4(CA-103)-5M5(CA-103)-5T1(D-PTO)-5T2(D-PTO)",
+        "prof": "Aurea Cristina Magalhaes Niada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE75E",
+    "name": "Gestão De Pessoas E Desenvolvimento Interpessoal",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M1(CE-205)-2M2(CE-205)-2M3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE75B",
+    "name": "Gestão De Produção E Operações",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M4(CE-203)-3M5(CE-203)",
+        "prof": "Ricardo Manica",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE77D",
+    "name": "Gestão De Serviços",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Higor Vinicius Dos Reis Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74G",
+    "name": "Gestão De Tecnologias De Informação",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6M4(CA-203)-6M5(CA-203)",
+        "prof": "Alamo Alexandre Da Silva Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE75D",
+    "name": "Gestão Estratégica",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CC-205)-2M5(CC-205)-5M4(CC-205)-5M5(CC-205)",
+        "prof": "Gabrielle Ribeiro Rodrigues Da Silva",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE76D",
+    "name": "Gestão Estratégica De Marketing",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M1(CE-302)-4M2(CE-302)-4M3(CE-302)",
+        "prof": "Georgiana Luna Batinga",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE76E",
+    "name": "Gestão Estratégica De Pessoas",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M4(CE-304)-5M5(CE-304)-5T1(D-PTO)-5T2(D-PTO)",
+        "prof": "Leonardo Tonon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73B",
+    "name": "Governança E Gestão Pública",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-202)-6M2(CE-202)-6M3(CE-202)",
+        "prof": "Maria Lucia Figueiredo Gomes De Meza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7HA",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3T4(*EL-211)-3T5(*EL-211)-3T6(*EL-211)",
+        "prof": "Maria Jose Menezes Lourega Belli",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-106)-2T5(CE-106)-2T6(CE-106)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "5T4(CE-302)-5T5(CE-302)-5T6(CE-302)",
+        "prof": "Elena Camargo Shizuno",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:981, Matriz:968, Matriz:985, Matriz:961, Matriz:962, Matriz:970, Matriz:972, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE71G",
+    "name": "Iniciação Ao Ensino, Pesquisa E Extensão",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "54",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Aurea Cristina Magalhaes Niada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE72B",
+    "name": "Instituições De Direito",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M1(CC-206)-2M2(CC-206)-2M3(CC-206)",
+        "prof": "Ana Paula Myszczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST70A",
+    "name": "Introdução À Estatística",
+    "turmas": [
+      {
+        "turma": "N21",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mauricio Koubay Do Amaral",
+        "opt": "Não"
+      },
+      {
+        "turma": "S02",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Angelica Maria Tortola Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "S03",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Angelica Maria Tortola Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roberto Molina De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "S45",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mauricio Koubay Do Amaral",
+        "opt": "Não"
+      },
+      {
+        "turma": "S61",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Wesley Bertoli Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      },
+      {
+        "turma": "S83",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST70C",
+    "name": "Introdução À Estatística",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(CA-003)-4T6(CA-003)-6T5(CA-003)-6T6(CA-003)",
+        "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2T5(CA-003)-2T6(CA-003)-3T4(CA-003)-3T5(CA-003)",
+        "prof": "Jose Carlos Pereira Coninck",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(CA-003)-2T3(CA-003)-3T2(CA-003)-3T3(CA-003)",
+        "prof": "Vanessa Ferreira Sehaber",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2N1(CA-003)-2N2(CA-003)-2N3(CA-003)-2N4(CA-003)",
+        "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73H",
+    "name": "Introdução Ao Mundo Do Trabalho I",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Gean Carlos Tomazzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74H",
+    "name": "Introdução Ao Mundo Do Trabalho Ii",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Andrea De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE77B",
+    "name": "Laboratório De Gestão",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M2(CE-303)-2M3(CE-303)",
+        "prof": "Katia Regina Hopfer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70J",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química, 1 - Téc.Em Multimeios Buti, 1 - Lic Letras Inglês, 1 - Lic Letras Português, 1 - Lic Fisica 9",
+        "h": "4T4(CE-306)-4T5(CE-306)-4T6(CE-306)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(CE-305)-5T2(CE-305)-5T3(CE-305)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CQ-305)-3T5(CQ-305)-3T6(CQ-305)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(CE-104)-5M3(CE-104)-5M4(CE-104)",
+        "prof": "Rita De Cassia Maestri",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "5T4(CE-303)-5T5(CE-303)-5T6(CE-303)",
+        "prof": "Leticia Fernandes",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "3M3(CA-202)-3M4(CA-202)-3M5(CA-202)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Letras Inglês, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "5M4(CE-203)-5M5(CE-203)-5M6(CE-203)",
+        "prof": "Silvia Andreis Witkoski",
+        "opt": "Matriz:990, Matriz:985, Matriz:957, Matriz:948, Matriz:981, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:920, Matriz:967, Matriz:982, Matriz:961, Matriz:962, Matriz:970, Matriz:945, Matriz:972, Matriz:973, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE76F",
+    "name": "Logística E Cadeia De Suprimentos",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "66",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M2(CE-302)-2M3(CE-302)-2T2(D-PTO)-2T3(D-PTO)",
+        "prof": "Jurandir Peinado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73A",
+    "name": "Macroeconomia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M3(CE-303)-3M4(CE-303)-3M5(CE-303)",
+        "prof": "Andrea De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73C",
+    "name": "Matemática Financeira",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M1(CE-204)-2M2(CE-204)-2M3(CE-204)",
+        "prof": "Gabrielle Ribeiro Rodrigues Da Silva",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE76B",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CQ-304)-2M5(CQ-304)",
+        "prof": "Rene Eugenio Seifert Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE72A",
+    "name": "Microeconomia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "5M1(CE-202)-5M2(CE-202)-5M3(CE-202)",
+        "prof": "Maria Lucia Figueiredo Gomes De Meza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74E",
+    "name": "Pesquisa Mercadológica E Inteligência De Mercado",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M2(CE-202)-4M3(CE-202)-4M4(CE-202)-4M5(CE-202)",
+        "prof": "Aurea Cristina Magalhaes Niada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74B",
+    "name": "Pesquisa Operacional",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M2(CE-302)-3M3(CE-302)-3M4(CA-004)-3M5(CA-004)",
+        "prof": "Francisco Rodrigues Lima Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PC",
+    "name": "Planejamento De Carreira",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CC-203)-2T3(CC-203)-2T4(CC-203)-2T5(CC-203)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:973, Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7AJ",
+    "name": "Planejamento Tributário",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Katia Regina Hopfer",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "GEE75A",
+    "name": "Processos E Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M2(CE-203)-3M3(CE-203)-5M2(CE-203)-5M3(CE-203)",
+        "prof": "Alamo Alexandre Da Silva Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FCH7PA",
+    "name": "Psicologia Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(*EL-211)-2T4(*EL-211)-2T5(*EL-211)-2T5(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(CC-203)-5N2(CC-203)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(CA-202)-5T5(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S04",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(CC-203)-6M2(CC-203)-6M3(CC-203)-6M3(CC-203)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S05",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(CA-202)-5T3(CA-202)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil, 1 - Química Ambiental",
+        "h": "2T2(*EL-211)-2T2(*EL-211)-2T3(*EL-211)-2T3(*EL-211)",
+        "prof": "Juliana Lopes Da Silva",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6M4(CE-202)-6M4(CE-202)-6M5(CE-202)-6M5(CE-202)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "3T5(CC-205)-3T5(CC-205)-3T6(CC-205)-3T6(CC-205)",
+        "prof": "Maria Sara De Lima Dias",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Em Radiologia, 1 - Química Ambiental",
+        "h": "6T4(CE-303)-6T5(CE-303)",
+        "prof": "Maria Luisa Carvalho",
+        "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7CE",
+    "name": "Simulação Empresarial",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M1(CA-004)-4M2(CA-004)-4M3(CA-004)",
+        "prof": "Alamo Alexandre Da Silva Batista",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "FCH7SA",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6M1(CE-107)-6M2(CE-107)-6M3(CE-107)",
+        "prof": "Roberto Ranna Keller",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3M3(CE-205)-3M4(CE-205)-3M5(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "6T4(CE-205)-6T5(CE-205)-6T6(CE-205)",
+        "prof": "Geraldo Augusto Pinto",
+        "opt": "Matriz:990, Matriz:973, Matriz:982, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:968, Matriz:985, Matriz:945, Matriz:961, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7AN",
+    "name": "Subjetividade E Saúde Mental No Trabalho",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Leonardo Tonon",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
+    "code": "GEE77A",
+    "name": "Tcc1",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CQ-306)-2M5(CQ-306)-4T1(D-PTO)-4T2(D-PTO)",
+        "prof": "Francisco Rodrigues Lima Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE78A",
+    "name": "Tcc2",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "7M3(D-PTO)-7M4(D-PTO)-7M5(D-PTO)-7M6(D-PTO)",
+        "prof": "Rayane Camila Da Silva Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74D",
+    "name": "Tecnologias De Gestão E Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M1(CE-104)-2M2(CE-104)-2M3(CE-104)",
+        "prof": "Rene Eugenio Seifert Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE71B",
+    "name": "Teoria Geral Do Estado",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "59",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "4M1(CE-208)-4M2(CE-208)-4M3(CE-208)",
+        "prof": "Antonio Goncalves De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE72D",
+    "name": "Teorias Da Administração",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "3M4(CE-202)-3M5(CE-202)-3T2(D-PTO)-3T3(D-PTO)",
+        "prof": "Giovanna Pezarico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73F",
+    "name": "Teorias Organizacionais",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M4(CE-106)-2M5(CE-106)-2T1(D-PTO)-2T2(D-PTO)",
+        "prof": "Francis Kanashiro Meneghetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7T1",
+    "name": "Tópicos Matemáticos 1",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "2M3(CE-108)-2M4(CE-108)-2M5(CE-108)-3M3(CE-307)-3M4(CE-307)-3M5(CE-307)",
+        "prof": "Gustavo Henrique Labegalini Boska",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE78M",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "7M3(D-PTO)-7M4(D-PTO)-7M5(D-PTO)-7M6(D-PTO)",
+        "prof": "Rayane Camila Da Silva Sousa",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "code": "CL23I",
+    "name": "Inglês 3",
+    "turmas": [
+      {
+        "turma": "NI1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CN-019)-2T6(CN-019)-4N1(CN-019)-4T6(CN-019)",
+        "prof": "Claudia Beatriz Monte Jorge Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL25I",
+    "name": "Inglês 5",
+    "turmas": [
+      {
+        "turma": "TI1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CN-019)-2T3(CN-019)-4T2(CN-023)-4T3(CN-023)",
+        "prof": "Claudia Beatriz Monte Jorge Martins",
+        "opt": "Matriz:390"
+      }
+    ]
+  }
+]

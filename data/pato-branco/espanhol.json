@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CL32ES",
+    "name": "Espanhol 2",
+    "turmas": [
+      {
+        "turma": "ESP2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(V109)-4M5(V109)",
+        "prof": "Kathya Silvia Collazos Linares",
+        "opt": "Não"
+      }
+    ]
+  }
+]

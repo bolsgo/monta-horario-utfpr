@@ -1,0 +1,87 @@
+[
+  {
+    "code": "CL21I",
+    "name": "Inglês 1",
+    "turmas": [
+      {
+        "turma": "ING1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L106)-2T6(L106)-4N1(L106)-4T6(L106)",
+        "prof": "Lourdes Terezinha Graebin Parise",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL22I",
+    "name": "Inglês 2",
+    "turmas": [
+      {
+        "turma": "ING2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(L106)-3T6(L106)-5N1(L106)-5T6(L106)",
+        "prof": "Lourdes Terezinha Graebin Parise",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL23I",
+    "name": "Inglês 3",
+    "turmas": [
+      {
+        "turma": "ING3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(L104)-3T6(L104)-5N1(L104)-5T6(L104)",
+        "prof": "Mariese Ribas Stankiewicz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL24I",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "ING4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(M104)-3T6(M104)-5N1(M104)-5T6(M104)",
+        "prof": "Marcele Garbin Dagios",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL25I",
+    "name": "Inglês 5",
+    "turmas": [
+      {
+        "turma": "ING5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(L107)-3T6(L107)-5N1(L107)-5T6(L107)",
+        "prof": "Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  }
+]

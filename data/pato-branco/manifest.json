@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "lic-matematica-anual",
+    "label": "Lic Matematica (Anual)"
+  },
+  {
+    "slug": "ciencias-contabeis",
+    "label": "Ciências Contábeis"
+  },
+  {
+    "slug": "administracao",
+    "label": "Administração"
+  },
+  {
+    "slug": "tec-manutencao",
+    "label": "Tec Manutenção"
+  },
+  {
+    "slug": "quimica",
+    "label": "Química"
+  },
+  {
+    "slug": "tec-analise-des-sist",
+    "label": "Tec Analise Des Sist"
+  },
+  {
+    "slug": "letras-sem",
+    "label": "Letras (Sem)"
+  },
+  {
+    "slug": "eng-de-computacao",
+    "label": "Eng De Computação"
+  },
+  {
+    "slug": "engenharia-eletrica",
+    "label": "Engenharia Elétrica"
+  },
+  {
+    "slug": "engenharia-civil",
+    "label": "Engenharia Civil"
+  },
+  {
+    "slug": "eng-mecanica",
+    "label": "Eng Mecânica"
+  },
+  {
+    "slug": "agronomia",
+    "label": "Agronomia"
+  },
+  {
+    "slug": "espanhol",
+    "label": "Espanhol"
+  },
+  {
+    "slug": "ingles",
+    "label": "Inglês"
+  },
+  {
+    "slug": "alemao",
+    "label": "Alemão"
+  },
+  {
+    "slug": "italiano",
+    "label": "Italiano"
+  },
+  {
+    "slug": "lic-matematica-sem",
+    "label": "Lic. Matemática (Sem)"
+  },
+  {
+    "slug": "eng-cart-agrimensura",
+    "label": "Eng Cart Agrimensura"
+  }
+]

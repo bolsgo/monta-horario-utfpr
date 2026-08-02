@@ -1,0 +1,53 @@
+[
+  {
+    "code": "LC05C",
+    "name": "Abordagens Pedagógicas Em Ead 2",
+    "turmas": [
+      {
+        "turma": "RIO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Rio",
+        "h": "",
+        "prof": "Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC05B",
+    "name": "Educação Inclusiva E Tecnologias Assistivas",
+    "turmas": [
+      {
+        "turma": "RIO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Rio",
+        "h": "",
+        "prof": "Viviane Demetrio Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC05E",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "RIO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Rio",
+        "h": "",
+        "prof": "Eliana Claudia Mayumi Ishikawa",
+        "opt": "Não"
+      }
+    ]
+  }
+]

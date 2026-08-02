@@ -1,0 +1,36 @@
+[
+  {
+    "code": "PG0157",
+    "name": "Tcc 2",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Automação Ind.",
+        "h": "",
+        "prof": "",
+        "opt": "Matriz:810"
+      }
+    ]
+  },
+  {
+    "code": "AI37A",
+    "name": "Trabalho De Diplomação",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Automação Ind.",
+        "h": "",
+        "prof": "Antonio Vanderley Herrero Sola",
+        "opt": "Não"
+      }
+    ]
+  }
+]

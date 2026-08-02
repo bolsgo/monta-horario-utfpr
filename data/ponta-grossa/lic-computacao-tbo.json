@@ -1,0 +1,70 @@
+[
+  {
+    "code": "LC05C",
+    "name": "Abordagens Pedagógicas Em Ead 2",
+    "turmas": [
+      {
+        "turma": "TBO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Tbo",
+        "h": "",
+        "prof": "Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC04D",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "TBO4",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Tbo",
+        "h": "",
+        "prof": "Simone De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC05B",
+    "name": "Educação Inclusiva E Tecnologias Assistivas",
+    "turmas": [
+      {
+        "turma": "TBO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Tbo",
+        "h": "",
+        "prof": "Viviane Demetrio Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC05E",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "TBO5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Tbo",
+        "h": "",
+        "prof": "Eliana Claudia Mayumi Ishikawa",
+        "opt": "Não"
+      }
+    ]
+  }
+]

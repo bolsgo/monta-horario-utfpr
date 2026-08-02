@@ -1,0 +1,1242 @@
+[
+  {
+    "code": "ES55LT",
+    "name": "Estágio Curricular De Língua Portuguesa 1",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AD45L",
+    "name": "Análise Do Discurso",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(M102)-3N5(M102)-5N2(M102)-5N3(M102)",
+        "prof": "Marcia Andrea Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AL44L",
+    "name": "Análise Linguística Aplicada Ao Ensino",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(L107)-3N5(L107)",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AF47L",
+    "name": "Aspectos Fonético-Fonológicos Aplicados Ao Ensino-Aprendizagem De Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(M106)-3N3(M106)-4N4(M106)-4N5(M106)",
+        "prof": "Claudia Marchese",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL46L",
+    "name": "Cinema E Literatura",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(M106)-5N5(M106)",
+        "prof": "Wellington Ricardo Fioruci",
+        "opt": "Matriz:644"
+      }
+    ]
+  },
+  {
+    "code": "CH45L",
+    "name": "Competências E Habilidades De Ensino E Aprendizagem De Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(M102)-2N3(M102)",
+        "prof": "Amanda Stanislawski Reche",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CR45L",
+    "name": "Contos E Romances Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N2(M102)-6N3(M102)",
+        "prof": "Mariese Ribas Stankiewicz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL42L",
+    "name": "Correntes Linguísticas",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(L105)-3N5(L105)-5N4(L105)-5N5(L105)",
+        "prof": "Anselmo Pereira De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DI44L",
+    "name": "Didática",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(L107)-2N3(L107)",
+        "prof": "Franciele Clara Peloso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DL48L",
+    "name": "Drama Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N4(M107)-6N5(M107)",
+        "prof": "Mariese Ribas Stankiewicz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EO55LT",
+    "name": "Estágio Curricular De Língua Inglesa 1",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EO56LT",
+    "name": "Estágio Curricular De Língua Inglesa 2",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EO57LT",
+    "name": "Estágio Curricular De Língua Inglesa 3",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EO58LT",
+    "name": "Estágio Curricular De Língua Inglesa 4",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES56LT",
+    "name": "Estágio Curricular De Língua Portuguesa 2",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES59LT",
+    "name": "Estágio Curricular De Língua Portuguesa 3",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES58LT",
+    "name": "Estágio Curricular De Língua Portuguesa 4",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46L",
+    "name": "Estágio Supervisionado De Língua Inglesa 1",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N1(S001)-3N1(S001)-4N1(S001)-5N1(S001)-6N1(S001)-6N2(M105)-6N3(M105)",
+        "prof": "Amanda Lais Jacobsen De Oliveira, Marcele Garbin Dagios, Taisa Pinetti Passoni, Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES48L",
+    "name": "Estágio Supervisionado De Língua Inglesa 2",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(M107)-2N3(M107)-2T3(S001)-3T3(S001)-4T3(S001)-5T3(S001)-6T3(S001)",
+        "prof": "Lourdes Terezinha Graebin Parise, Amanda Lais Jacobsen De Oliveira, Marcele Garbin Dagios, Mariese Ribas Stankiewicz, Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES45L",
+    "name": "Estágio Supervisionado De Língua Portuguesa 1",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M102)-2N5(M102)-7M1(S001)-7M2(S001)-7M3(S001)-7M4(S001)-7M5(S001)",
+        "prof": "Rosangela Aparecida Marquezi, Denize Terezinha Teis, Egide Guareschi, Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES47L",
+    "name": "Estágio Supervisionado De Língua Portuguesa 2",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2T2(S001)-3T2(S001)-4T2(S001)-5M3(S001)-6N4(M106)-6N5(M106)-6T2(S001)",
+        "prof": "Wellington Ricardo Fioruci, Marcos Hidemi De Lima, Leticia Lemos Gritti, Lovania Roehrig Teixeira, Susiele Machry Da Silva, Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI41L",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "1LN",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(L104)-2N3(L104)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FF42L",
+    "name": "Fonética E Fonologia",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N4(L105)-4N5(L105)-6N2(L105)-6N3(L105)",
+        "prof": "Susiele Machry Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GD44L",
+    "name": "Gêneros Discursivos Nas Esferas Pessoal E Acadêmica Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(L107)-3N3(L107)-5N4(L107)-5N5(L107)",
+        "prof": "Mariese Ribas Stankiewicz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GN45L",
+    "name": "Gêneros Narrativos Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N2(M102)-4N3(M102)-5N4(M102)-5N5(M102)",
+        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GT41L",
+    "name": "Gêneros Orais E Escritos Do Cotidiano Em Língua Inglesa 1",
+    "turmas": [
+      {
+        "turma": "1LNA",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(L104)-2N5(L104)-3N4(L104)-3N5(L104)-4N4(L104)-4N5(L104)",
+        "prof": "Amanda Stanislawski Reche",
+        "opt": "Não"
+      },
+      {
+        "turma": "1LNB",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M104)-2N5(M104)-3N4(M104)-3N5(M104)-4N4(M104)-4N5(M104)",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO42L",
+    "name": "Gêneros Orais E Escritos Do Cotidiano Em Língua Inglesa 2",
+    "turmas": [
+      {
+        "turma": "2LNA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(L105)-3N3(L105)-5N2(L105)-5N3(L105)-6N4(L105)-6N5(L105)",
+        "prof": "Amanda Stanislawski Reche",
+        "opt": "Não"
+      },
+      {
+        "turma": "2LNB",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(N105)-3N3(N105)-5N2(N105)-5N3(N105)-6N4(N105)-6N5(N105)",
+        "prof": "Taisa Pinetti Passoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO43L",
+    "name": "Gêneros Orais E Escritos Do Cotidiano Em Língua Inglesa 3",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(L106)-3N3(L106)-4N2(L106)-4N3(L106)",
+        "prof": "Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP48L",
+    "name": "Gestão E Políticas Educacionais",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M107)-2N5(M107)",
+        "prof": "Franciele Clara Peloso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HE41L",
+    "name": "História Da Educação No Brasil",
+    "turmas": [
+      {
+        "turma": "1LN",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N2(L104)-4N3(L104)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IL42L",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IL42NB",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:643"
+      }
+    ]
+  },
+  {
+    "code": "IP43L",
+    "name": "Introdução À Pesquisa Em Linguagem E Ensino",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N4(L106)-6N5(L106)",
+        "prof": "Leticia Lemos Gritti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA46L",
+    "name": "Leitura: Abordagens Teóricas E Metodológicas",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(M105)-5N5(M105)",
+        "prof": "",
+        "opt": "Matriz:644"
+      }
+    ]
+  },
+  {
+    "code": "LE41L",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "1LNA",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N2(L104)-6N3(L104)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "1LNB",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N2(N105)-6N3(N105)",
+        "prof": "Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB43L",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA41L",
+    "name": "Linguística Aplicada Ao Ensino De Línguas Adicionais",
+    "turmas": [
+      {
+        "turma": "1LN",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N2(L104)-5N3(L104)",
+        "prof": "Marcele Garbin Dagios",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LT41L",
+    "name": "Linguística Textual E Ensino",
+    "turmas": [
+      {
+        "turma": "1LN",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(L104)-3N3(L104)-6N4(L104)-6N5(L104)",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA44L",
+    "name": "Literatura Afro-Brasileira E Indígena",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N2(L107)-4N3(L107)",
+        "prof": "Sidinei Eduardo Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA47L",
+    "name": "Literaturas Africanas De Língua Portuguesa",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N2(M106)-4N3(M106)-5N1(S001)-6N1(S001)",
+        "prof": "Rosangela Aparecida Marquezi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LL44L",
+    "name": "Literaturas De Língua Inglesa: Um Panorama",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(L107)-2N5(L107)",
+        "prof": "Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MI41L",
+    "name": "Matemática Instrumental",
+    "turmas": [
+      {
+        "turma": "1LN",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(L104)-5N5(L104)",
+        "prof": "Carla Baroni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME44L",
+    "name": "Metodologia De Ensino De Produção Oral, Leitura E Escrita",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N4(L107)-4N5(L107)",
+        "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME43L",
+    "name": "Metodologia Do Ensino Da Literatura Na Educação Básica",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N2(L106)-6N3(L106)",
+        "prof": "Egide Guareschi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MF43L",
+    "name": "Morfologia",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(L106)-5N5(L106)",
+        "prof": "Marcia Andrea Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NB48L",
+    "name": "Narrativa Brasileira: Das Vanguardas Modernistas Às Tendências Atuais",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N4(M107)-4N5(M107)-5N2(M107)-5N3(M107)",
+        "prof": "Wellington Ricardo Fioruci",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NB46L",
+    "name": "Narrativa Brasileira: Do Período Colonial À Belle Époque",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M105)-2N5(M105)-3N2(M105)-3N3(M105)",
+        "prof": "Marcos Hidemi De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP48L",
+    "name": "Oficina De Práticas De Análises Literárias",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(M107)-3N3(M107)",
+        "prof": "Rosangela Aparecida Marquezi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP47L",
+    "name": "Oficina De Práticas Docentes",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M106)-2N5(M106)-3N1(S001)-4N1(S001)",
+        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PB48L",
+    "name": "Poesia Brasileira: Das Vanguardas Modernistas Às Tendências Atuais",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(M107)-5N5(M107)-6N2(M107)-6N3(M107)",
+        "prof": "Sidinei Eduardo Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PB47L",
+    "name": "Poesia Brasileira: Do Período Colonial À Belle Époque",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(M106)-2N3(M106)-3N4(M106)-3N5(M106)",
+        "prof": "Marcos Hidemi De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PL47L",
+    "name": "Poesia Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N2(M106)-5N3(M106)",
+        "prof": "Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM43L",
+    "name": "Políticas E Métodos Para O Ensino De Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(L106)-2N3(L106)",
+        "prof": "Lourdes Terezinha Graebin Parise",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PC48L",
+    "name": "Prática Profissional: Conversação/Debates Interculturais Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(M107)-3N5(M107)",
+        "prof": "Lovania Roehrig Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PG48L",
+    "name": "Prática Profissional: Gêneros Acadêmicos Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N2(M107)-4N3(M107)",
+        "prof": "Claudia Marchese",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP43L",
+    "name": "Prática Profissional: Gêneros Discursivos E Ensino",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(L106)-2N5(L106)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP46L",
+    "name": "Prática Profissional: Gêneros Orais E Escritos Da Educação Básica",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N4(M105)-4N5(M105)-5N2(M105)-5N3(M105)",
+        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PL46L",
+    "name": "Prática Profissional: Leitura, Escrita E Análise De Materiais Didáticos",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N4(M105)-6N5(M105)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP45L",
+    "name": "Prática Profissional: Literatura Infantojuvenil",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N1(S001)-4N1(S001)-4N4(M102)-4N5(M102)",
+        "prof": "Rosangela Aparecida Marquezi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP44L",
+    "name": "Prática Profissional: Revisão De Textos Escolares",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N4(L107)-6N5(L107)",
+        "prof": "Anselmo Pereira De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE43L",
+    "name": "Psicologia Da Educação",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(L106)-3N5(L106)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RE47L",
+    "name": "Recursos Educacionais Digitais E Ensino De Linguagem",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "6N2(M106)-6N3(M106)",
+        "prof": "Lovania Roehrig Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SP45L",
+    "name": "Semântica E Pragmática",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(M102)-3N3(M102)-6N4(M102)-6N5(M102)",
+        "prof": "Lovania Roehrig Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ST44L",
+    "name": "Sintaxe",
+    "turmas": [
+      {
+        "turma": "4LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N2(L107)-5N3(L107)-6N2(L107)-6N3(L107)",
+        "prof": "Anselmo Pereira De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SL46L",
+    "name": "Sociolinguística",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(M105)-3N5(M105)-4N2(M105)-4N3(M105)",
+        "prof": "Susiele Machry Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SE42L",
+    "name": "Sociologia Da Educação",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(L105)-2N3(L105)",
+        "prof": "Josiane Carine Wedig",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TL42L",
+    "name": "Teoria Da Literatura",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(L105)-2N5(L105)-4N2(L105)-4N3(L105)",
+        "prof": "Wellington Ricardo Fioruci",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TF43L",
+    "name": "Textos Fundadores E Contemporâneos Da Literatura Portuguesa",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "4N4(L106)-4N5(L106)-5N2(L106)-5N3(L106)",
+        "prof": "Sidinei Eduardo Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC46L",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N2(M105)-2N3(M105)",
+        "prof": "Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC57LT",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Vanda Mari Trombetta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC48L",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Vanda Mari Trombetta",
+        "opt": "Não"
+      }
+    ]
+  }
+]

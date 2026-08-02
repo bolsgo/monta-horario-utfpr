@@ -1,0 +1,19 @@
+[
+  {
+    "code": "TA37A",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "AT631",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Mauro Giroto",
+        "opt": "Não"
+      }
+    ]
+  }
+]

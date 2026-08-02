@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "tecnol-alimentos",
+    "label": "Tecnol. Alimentos"
+  },
+  {
+    "slug": "tecnol-automacao-ind",
+    "label": "Tecnol. Automação Ind."
+  },
+  {
+    "slug": "tecnol-analise-d-sist",
+    "label": "Tecnol. Análise D.Sist"
+  },
+  {
+    "slug": "tecnol-fab-mecanica",
+    "label": "Tecnol. Fab. Mecânica"
+  },
+  {
+    "slug": "engenharia-quimica",
+    "label": "Engenharia Química"
+  },
+  {
+    "slug": "engenharia-mecanica",
+    "label": "Engenharia Mecânica"
+  },
+  {
+    "slug": "ciencia-da-computacao",
+    "label": "Ciência Da Computação"
+  },
+  {
+    "slug": "engenharia-eletronica",
+    "label": "Engenharia Eletrônica"
+  },
+  {
+    "slug": "engenharia-de-producao",
+    "label": "Engenharia De Produção"
+  },
+  {
+    "slug": "ciencias-naturais",
+    "label": "Ciências Naturais"
+  },
+  {
+    "slug": "eng-bioproc-e-biotec",
+    "label": "Eng Bioproc E Biotec"
+  },
+  {
+    "slug": "ciencias-biologicas",
+    "label": "Ciências Biológicas"
+  },
+  {
+    "slug": "engenharia-eletrica",
+    "label": "Engenharia Elétrica"
+  },
+  {
+    "slug": "lic-computacao-umu",
+    "label": "Lic Computação - Umu"
+  },
+  {
+    "slug": "lic-computacao-sca",
+    "label": "Lic Computação - Sca"
+  },
+  {
+    "slug": "lic-computacao-tbo",
+    "label": "Lic Computação - Tbo"
+  },
+  {
+    "slug": "lic-computacao-rio",
+    "label": "Lic Computação - Rio"
+  },
+  {
+    "slug": "lic-computacao-ppa",
+    "label": "Lic Computação - Ppa"
+  },
+  {
+    "slug": "lic-computacao-par",
+    "label": "Lic Computação - Par"
+  },
+  {
+    "slug": "lic-computacao-pal",
+    "label": "Lic Computação - Pal"
+  },
+  {
+    "slug": "lic-computacao-jac",
+    "label": "Lic Computação - Jac"
+  },
+  {
+    "slug": "lic-computacao-foz",
+    "label": "Lic Computação - Foz"
+  },
+  {
+    "slug": "lic-computacao-iba",
+    "label": "Lic Computação - Iba"
+  },
+  {
+    "slug": "lic-computacao-con",
+    "label": "Lic Computação - Con"
+  },
+  {
+    "slug": "lic-computacao-cla",
+    "label": "Lic Computação - Cla"
+  }
+]

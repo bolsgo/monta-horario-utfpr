@@ -1,0 +1,461 @@
+[
+  {
+    "code": "AL26M",
+    "name": "Àlgebra Linear",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "4N4(N110)-4N5(N110)-6N1(S001)-6N2(N110)-6N3(N110)",
+        "prof": "Jessica Boschi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AM28M",
+    "name": "Análise Matemática",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N107)-2N3(N107)-4N2(N107)-4N3(N107)",
+        "prof": "Jackson Luchesi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CI24M",
+    "name": "Cálculo Integral E Sequências",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N4(N109)-3N5(N109)-5N1(S001)-5N2(N109)-5N3(N109)",
+        "prof": "Vanderlei Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CN25M",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "5ZZE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "4N1(V001)-4N2(V001)-5N1(V001)-5N2(V001)",
+        "prof": "Adriano Rodrigo Delfino",
+        "opt": "Matriz:652, Matriz:620"
+      }
+    ]
+  },
+  {
+    "code": "DM24M",
+    "name": "Didática Da Matemática",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "6N2(N109)-6N3(N109)-6N4(N109)-6N5(N109)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES25M",
+    "name": "Estágio Curricular Supervisionado Obrigatório 1",
+    "turmas": [
+      {
+        "turma": "5ZZ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "",
+        "prof": "Janecler Aparecida Amorin Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES26M",
+    "name": "Estágio Curricular Supervisionado Obrigatório 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "",
+        "prof": "Janecler Aparecida Amorin Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES27M",
+    "name": "Estágio Curricular Supervisionado Obrigatório 3",
+    "turmas": [
+      {
+        "turma": "7ZZ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "",
+        "prof": "Janecler Aparecida Amorin Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES28M",
+    "name": "Estágio Curricular Supervisionado Obrigatório 4",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "",
+        "prof": "Janecler Aparecida Amorin Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA28M",
+    "name": "Estruturas Algébricas",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N107)-3N3(N107)-6N4(N107)-6N5(N107)",
+        "prof": "Mateus Eduardo Salomao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FL24M",
+    "name": "Física Para Licenciatura Matemática",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N109)-2N3(N109)-4N2(N109)-4N3(N109)",
+        "prof": "Crislaine Da Cruz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GA24M",
+    "name": "Geometria Analitica: Cônica, Quádricas E Superficies",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N4(N109)-2N5(N109)-4N1(S001)-4N4(N109)-4N5(N109)",
+        "prof": "Carlos Alexandre Ribeiro Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GA22M",
+    "name": "Geometria Analitica:Vetores",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N4(N108)-2N5(N108)-4N1(S001)-4N4(N108)-4N5(N108)",
+        "prof": "Rodrigo Ribeiro Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE22M",
+    "name": "Geometria Euclidiana Plana",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N1(S001)-3N4(N108)-3N5(N108)-5N4(N108)-5N5(N108)",
+        "prof": "Andre Guerino Castoldi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HE22M",
+    "name": "História Da Educação",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "5N2(N108)-5N3(N108)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IG28M",
+    "name": "Introdução Às Geometrias Não-Euclidianas",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "4N4(N107)-4N5(N107)-6N2(N107)-6N3(N107)",
+        "prof": "Ivan Italo Gonzales Gargate",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI42NB",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA13",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM22M",
+    "name": "Lógica Matemática E Teoria Dos Conjuntos",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N108)-2N3(N108)-4N2(N108)-4N3(N108)-6N1(S001)",
+        "prof": "Waldir Silva Soares Junior, Rodrigo Ribeiro Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP32M",
+    "name": "Politicas Públicas, Gestão Escolar E A História Do Ensino Da Matemática",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "5N1(S001)-6N2(N108)-6N3(N108)-6N4(N108)-6N5(N108)",
+        "prof": "Divanete Maria Bitdinger De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM26M",
+    "name": "Prática Do Ensino De Matemática 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N1(S001)-4N1(S001)-4N3(N101)-5N3(N101)-5N4(N101)-5N5(N101)",
+        "prof": "Elida Maiara Velozo De Castro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM28M",
+    "name": "Prática Do Ensino De Matemática 4",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N1(S001)-2N4(N101)-2N5(N101)-3N4(N101)-3N5(N101)-5N1(S001)",
+        "prof": "Elida Maiara Velozo De Castro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE36M",
+    "name": "Probabilidade E Estatistica",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N1(S001)-2N2(N110)-2N3(N110)-2N4(N110)-2N5(N110)",
+        "prof": "Beatriz Regina Brum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE22M",
+    "name": "Psicologia Da Educação",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N108)-3N3(N108)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TE24M",
+    "name": "Tendências Em Educação Matemática",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N1(S001)-3N2(N109)-3N3(N109)-5N4(N109)-5N5(N109)-6N1(S001)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC26M",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N4(N110)-3N5(N110)-6N4(N110)-6N5(N110)",
+        "prof": "Edineia Zarpelon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC27M",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "7ZZE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "6T2(S001)-6T3(S001)-6T4(S001)-6T5(S001)",
+        "prof": "Edineia Zarpelon",
+        "opt": "Não"
+      }
+    ]
+  }
+]

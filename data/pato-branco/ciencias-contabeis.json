@@ -1,0 +1,466 @@
+[
+  {
+    "code": "AI22B",
+    "name": "Análise De Investimentos",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(O201)-3N5(O201)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      },
+      {
+        "turma": "2BSP",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CP26B",
+    "name": "Contabilidade Aplicada Ao Setor Público I",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N2(O-202)-4N3(O-202)-5N2(O-202)-5N3(O-202)",
+        "prof": "Luiz Fernande Casagrande",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA26B",
+    "name": "Contabilidade Avançada Ii",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N2(O-202)-2N3(O-202)-6N2(O-202)-6N3(O-202)",
+        "prof": "Marivania Rufato Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CI24B",
+    "name": "Contabilidade Intermediária Ii",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N2(O205)-2N3(O205)-4N2(O205)-4N3(O205)",
+        "prof": "Luciane Dagostini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CI21B",
+    "name": "Contabilidade Introdutória I",
+    "turmas": [
+      {
+        "turma": "1BSE",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N4(O203)-4N5(O203)-6N2(O203)-6N3(O203)",
+        "prof": "Ricardo Adriano Antonelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CI22B",
+    "name": "Contabilidade Introdutória Ii",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N2(O201)-3N3(O201)-6N4(O201)-6N5(O201)",
+        "prof": "Ricardo Adriano Antonelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT28B",
+    "name": "Contabilidade Tributária",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N4(O204)-4N5(O204)-6N2(O204)-6N3(O204)",
+        "prof": "Priscila Rubbo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CR28B",
+    "name": "Controladoria Ii",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N2(O204)-4N3(O204)",
+        "prof": "Oldair Roberto Giasson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DT24B",
+    "name": "Direito Do Trabalho",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N4(O205)-4N5(O205)-5N2(O205)-5N3(O205)",
+        "prof": "Bianca Strucker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE45S",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção, 1 - Tec Analise Des Sist, 1 - Eng Cart Agrimensura",
+        "h": "2N1(P203)-2N2(P203)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE47EL",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "7EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48NB",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T4(M105)-2T5(M105)",
+        "prof": "Norma Brambilla",
+        "opt": "Matriz:657, Matriz:489, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "EE45MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE46M",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q007)-3N5(Q007)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48CP",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CP",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA22B",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O201)-2N5(O201)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI22B",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N2(O201)-4N3(O201)",
+        "prof": "Nilson De Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "JE24B",
+    "name": "Jogos De Empresas",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(O204)-3N5(O204)",
+        "prof": "Marivania Rufato Da Silva",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
+    "code": "LC24B",
+    "name": "Laboratório Contábil",
+    "turmas": [
+      {
+        "turma": "4BSA",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(V109)-3N5(V109)",
+        "prof": "Ricardo Adriano Antonelli",
+        "opt": "Não"
+      },
+      {
+        "turma": "4BSB",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(V109)-3N5(V109)",
+        "prof": "Sandra Mara Iesbik Valmorbida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LE22B",
+    "name": "Leitura E Produção De Textos Empresariais",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N2(O201)-5N3(O201)",
+        "prof": "Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MC24B",
+    "name": "Mercado De Capitais",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N2(O205)-3N3(O205)-6N2(O205)-6N3(O205)",
+        "prof": "Eliandro Schvirck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME22B",
+    "name": "Microeconomia",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N2(O201)-2N3(O201)-4N4(O201)-4N5(O201)",
+        "prof": "Elizangela Mara Carvalheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TE24B",
+    "name": "Tópicos Especiais Em Contabilidade",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N4(O201)-5N5(O201)",
+        "prof": "Eliandro Schvirck",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
+    "code": "TB34B",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "4B",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Contábeis",
+        "h": "",
+        "prof": "Ricardo Adriano Antonelli",
+        "opt": "Não"
+      }
+    ]
+  }
+]

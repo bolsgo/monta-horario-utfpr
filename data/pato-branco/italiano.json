@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CL24IT",
+    "name": "Italiano 4",
+    "turmas": [
+      {
+        "turma": "ITA4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(N010)-4T5(N010)",
+        "prof": "Camila Paula Camilotti",
+        "opt": "Não"
+      }
+    ]
+  }
+]

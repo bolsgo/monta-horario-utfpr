@@ -1,0 +1,36 @@
+[
+  {
+    "code": "LC05C",
+    "name": "Abordagens Pedagógicas Em Ead 2",
+    "turmas": [
+      {
+        "turma": "PPA5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Ppa",
+        "h": "",
+        "prof": "Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC05E",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "PPA5",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Ppa",
+        "h": "",
+        "prof": "Eliana Claudia Mayumi Ishikawa",
+        "opt": "Não"
+      }
+    ]
+  }
+]

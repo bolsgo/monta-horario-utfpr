@@ -1,0 +1,325 @@
+[
+  {
+    "code": "AR26A",
+    "name": "Administração De Recursos Humanos",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N4(O003)-2N5(O003)-3N2(O003)-3N3(O003)",
+        "prof": "Shalimar Gallon Canfield",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AD24A",
+    "name": "Análise De Demonstrações",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N2(O002)-2N3(O002)",
+        "prof": "Priscila Rubbo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CG22A",
+    "name": "Contabilidade Geral",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "4N4(O001)-4N5(O001)-6N2(O001)-6N3(O001)",
+        "prof": "Luiz Fernande Casagrande",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DE24A",
+    "name": "Direito Empresarial",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N4(O002)-5N5(O002)",
+        "prof": "Bianca Strucker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EB22A",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N2(O001)-3N3(O001)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI22B",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N2(O201)-4N3(O201)",
+        "prof": "Nilson De Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FL26A",
+    "name": "Finanças De Longo Prazo",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N4(O003)-3N5(O003)-4N4(O003)-4N5(O003)",
+        "prof": "Abdinardo Moreira Barreto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP24A",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N4(O002)-2N5(O002)-3N2(O002)-3N3(O002)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP25A",
+    "name": "Gestão De Produção",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N4(O002)-3N5(O002)-6N2(O002)-6N3(O002)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LT22A",
+    "name": "Leitura E Produção De Textos Empresariais",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N4(O001)-5N5(O001)",
+        "prof": "Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME27A",
+    "name": "Macroeconomia",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N4(O003)-5N5(O003)-6N4(O003)-6N5(O003)",
+        "prof": "Denise Rauber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MF22A",
+    "name": "Matemática Financeira",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N2(O001)-2N3(O001)-4N2(O001)-4N3(O001)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP24A",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "4N4(O002)-4N5(O002)",
+        "prof": "Maria De Lourdes Bernartt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OE24A",
+    "name": "Orçamento Empresarial",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N2(O002)-5N3(O002)",
+        "prof": "Abdinardo Moreira Barreto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP26A",
+    "name": "Projetos De Pesquisa Em Administração",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N2(O003)-2N3(O003)",
+        "prof": "Liliane Canopf Vera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SC26A",
+    "name": "Sistemas De Controle Da Produção",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "4N2(O003)-4N3(O003)-5N2(O003)-5N3(O003)",
+        "prof": "Marcia Danieli Szeremeta Spak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SO22A",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N2(O001)-5N3(O001)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TA22A",
+    "name": "Teorias Da Administração",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N4(O001)-2N5(O001)-3N4(O001)-3N5(O001)",
+        "prof": "Liliane Canopf Vera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC34AE",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "4A",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Elizangela Mara Carvalheiro",
+        "opt": "Não"
+      }
+    ]
+  }
+]

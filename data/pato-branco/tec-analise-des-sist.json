@@ -1,0 +1,942 @@
+[
+  {
+    "code": "AP43S",
+    "name": "Análise E Projeto De Sistemas",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "4N3(V108)-4N4(V108)-4N5(V108)-6N5(S001)",
+        "prof": "Luciene De Oliveira Marin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AD44S",
+    "name": "Aplicações Distribuidas E Concorrentes",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N1(V104)-5N2(V104)-5N3(V104)-6N1(S001)",
+        "prof": "Luis Cassiano Goularte Rista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AM46S",
+    "name": "Aprendizado De Máquina E Reconhecimento De Padrões",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "6N1(V109)-6N2(V109)-6N3(V109)-6N4(V109)",
+        "prof": "Luiz Fernando Puttow Southier",
+        "opt": "Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "AS44S",
+    "name": "Automação De Software E Infraestrutura",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N4(V006)-3N5(V006)-4N3(V006)-4N4(V006)-4N5(V006)",
+        "prof": "Eden Ricardo Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BD43S",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N4(V108)-2N5(V108)-3N4(V108)-3N5(V108)",
+        "prof": "Viviane Dal Molin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CG46S",
+    "name": "Computação Gráfica",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N3(V105)-2N4(V105)-4N1(V103)-4N2(V103)",
+        "prof": "Erick Oliveira Rodrigues",
+        "opt": "Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE45S",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção, 1 - Tec Analise Des Sist, 1 - Eng Cart Agrimensura",
+        "h": "2N1(P203)-2N2(P203)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE47EL",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "7EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48NB",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T4(M105)-2T5(M105)",
+        "prof": "Norma Brambilla",
+        "opt": "Matriz:657, Matriz:489, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "EE45MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE46M",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q007)-3N5(Q007)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48CP",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CP",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES42S",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N3(V107)-3N4(V107)-3N5(V107)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED42S",
+    "name": "Estruturas De Dados 1",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N3(V107)-5N4(V107)-5N5(V107)-6N3(S001)",
+        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED43S",
+    "name": "Estruturas De Dados 2",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V108)-2N2(V108)-2N3(V108)-6N1(S001)",
+        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FC42NB",
+    "name": "Filosofia Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "HUMA6",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N4(M103)-2N5(M103)",
+        "prof": "Nilson De Farias",
+        "opt": "Matriz:641, Matriz:640, Matriz:643, Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "BD42S",
+    "name": "Fundamentos De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N4(V107)-2N5(V107)-5N1(V107)-5N2(V107)",
+        "prof": "Luis Carlos Ferreira Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE42S",
+    "name": "Fundamentos De Estatística 1",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "6N1(P203)-6N2(P203)",
+        "prof": "Carla Baroni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE43S",
+    "name": "Fundamentos De Estatística 2",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "6N3(P203)-6N4(P203)",
+        "prof": "Carla Baroni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OO42S",
+    "name": "Fundamentos De Orientação A Objetos",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V107)-2N2(V107)-4N4(V107)-4N5(V107)",
+        "prof": "Andreia Scariot Beulke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FP41S",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N3(V109)-2N4(V109)-2N5(V109)-4N3(V109)-4N4(V109)-4N5(V109)",
+        "prof": "Mariza Miola Dosciatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "1SIE",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V103)-2N2(V103)-2N3(V103)-5N3(V103)-5N4(V103)-5N5(V103)",
+        "prof": "Luis Carlos Ferreira Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP45S",
+    "name": "Gestão De Projetos De Software",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N1(V106)-3N2(V106)-3N3(V106)-6N2(S001)",
+        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46S",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO48CA",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "8CA",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE45G",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "5G",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(V007)-5T3(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HT42NB",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "HUMA1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(N110)-4T5(N110)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Matriz:641, Matriz:640, Matriz:642, Matriz:637, Matriz:636, Matriz:643, Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "HC42NB",
+    "name": "História E Cultura Afro-Brasileira",
+    "turmas": [
+      {
+        "turma": "HUMA2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(N106)-3N3(N106)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:640, Matriz:642, Matriz:637, Matriz:636, Matriz:643, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "IS41S",
+    "name": "Informática E Sociedade",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N2(P203)-5N3(P203)",
+        "prof": "Edilson Pontarolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IS44S",
+    "name": "Interação Ser Humano Computador",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist, 1 - Eng De Computação",
+        "h": "2N3(V009)-2N4(V009)-2N5(V009)-6N2(S001)",
+        "prof": "Soelaine Rodrigues Ascari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "II41S",
+    "name": "Introdução À Informática",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V109)-2N2(V109)-4N1(V109)-4N2(V109)",
+        "prof": "Soelaine Rodrigues Ascari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MD41S",
+    "name": "Introdução À Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N4(P203)-3N5(P203)-5N4(P203)-5N5(P203)",
+        "prof": "Ivan Italo Gonzales Gargate",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LP41S",
+    "name": "Leitura E Produção De Gêneros Acadêmicos",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N1(P203)-3N2(P203)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI42NB",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA13",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA43S",
+    "name": "Linguagens De Apresentação E Estruturação De Conteúdo",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N2(V108)-3N3(V108)-4N1(V108)-4N2(V108)",
+        "prof": "Andreia Scariot Beulke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP44S",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N4(P202)-5N5(P202)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OD46S",
+    "name": "Oficina De Projeto E Desenvolvimento",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V105)-2N2(V105)-5N1(V105)-5N2(V105)",
+        "prof": "Franciele Beal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OI43S",
+    "name": "Oficina De Projetos Em Informática E Pensamento Computacional",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N1(V108)-5N2(V108)",
+        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
+        "opt": "Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "OI29EL",
+    "name": "Organização Industrial",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OO43S",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N3(V108)-5N4(V108)-5N5(V108)-6N2(S001)",
+        "prof": "Franciele Beal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM45S",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N2(V106)-5N3(V106)-5N4(V106)-5N5(V106)",
+        "prof": "Robison Cris Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PW44S",
+    "name": "Programação Para Web",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N1(V104)-2N2(V104)-3N1(V104)-3N2(V104)-3N3(V104)",
+        "prof": "Vinicius Pegorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC45S",
+    "name": "Proposta De Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "4N1(V106)-4N2(V106)",
+        "prof": "Mariza Miola Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PA42NB",
+    "name": "Psicologia Aplicada Ao Trabalho",
+    "turmas": [
+      {
+        "turma": "HUMA12",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M103)-2N2(M103)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "5CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T4(M104)-4T5(M104)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "QV23A",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "HUMA8",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T2(M104)-3T3(M104)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:628"
+      }
+    ]
+  },
+  {
+    "code": "RC42S",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N1(V006)-3N2(V006)-4N1(V006)-4N2(V006)",
+        "prof": "Eden Ricardo Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SA45S",
+    "name": "Segurança Em Aplicações",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "4N3(V106)-4N4(V106)-4N5(V106)-6N1(S001)",
+        "prof": "Erick Oliveira Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TS44S",
+    "name": "Teste De Software",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "4N1(V104)-4N2(V104)",
+        "prof": "Luis Carlos Ferreira Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM46S",
+    "name": "Tópicos Avançados Em Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "4N3(V105)-4N4(V105)-4N5(V105)-6N5(S001)",
+        "prof": "Robison Cris Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PW45S",
+    "name": "Tópicos Avançados Em Programação Para Web",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N3(V106)-2N4(V106)-2N5(V106)-3N4(V106)-3N5(V106)",
+        "prof": "Vinicius Pegorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC46S",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "",
+        "prof": "Mariza Miola Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC26S",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "",
+        "prof": "Mariza Miola Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CL24A",
+    "name": "Alemâo 4",
+    "turmas": [
+      {
+        "turma": "ALE4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M104)-2T6(M104)",
+        "prof": "Vanderlei Aparecido De Lima",
+        "opt": "Não"
+      }
+    ]
+  }
+]

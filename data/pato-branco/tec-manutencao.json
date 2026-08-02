@@ -1,0 +1,1365 @@
+[
+  {
+    "code": "AE28EL",
+    "name": "Acionamentos Elétricos Industriais",
+    "turmas": [
+      {
+        "turma": "8ELE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3M4(I001)-3M5(I001)-5M4(I001)-5M5(I001)",
+        "prof": "Edwin Choque Pillco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AI43M",
+    "name": "Acionamentos Industriais",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N1(I001)-4N2(I001)-7M2(S001)",
+        "prof": "Edwin Choque Pillco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS42NB",
+    "name": "Alongamento, Relaxamento E Saúde",
+    "turmas": [
+      {
+        "turma": "HUMA9",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M102)-4N1(M102)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
+    "code": "AI44M",
+    "name": "Automação Industrial 1",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(I005)-2N2(I005)-2N3(I005)-7M3(S001)",
+        "prof": "Artur Tsuguiyoshi Hara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AI45M",
+    "name": "Automação Industrial 2",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N1(I005)-5N2(I005)-5N3(I005)-7M2(S001)",
+        "prof": "Artur Tsuguiyoshi Hara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT43MC",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "3MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Eng Mecânica",
+        "h": "4T2(Q007)-4T3(Q007)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT46M",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N4(Q007)-5N5(Q007)",
+        "prof": "Abdinardo Moreira Barreto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47NB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Engenharia Civil",
+        "h": "4T4(M107)-4T5(M107)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47QB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N106)-2M5(N106)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DT41NB",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N1(M109)-4N2(M109)-4N3(M109)",
+        "prof": "Cicero Gallina De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DT42M",
+    "name": "Desenho Técnico Assistido Por Computador",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N4(V008)-5N5(V008)",
+        "prof": "Roberto Nunes Da Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DV45M",
+    "name": "Distribuição De Vapor E Ar Comprimido",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N4(Q006)-2N5(Q006)",
+        "prof": "Luis Antonio Brum Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM43M",
+    "name": "Elementos De Máquinas",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N3(H003)-5N4(H003)-5N5(H003)",
+        "prof": "Adelino Carlos Maccarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI41M",
+    "name": "Eletricidade 1",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(Q001)-3N2(Q001)",
+        "prof": "Jonatas Policarpo Americo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI42M",
+    "name": "Eletricidade 2",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q002)-3N5(Q002)-7M5(S001)",
+        "prof": "Jonatas Policarpo Americo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI44M",
+    "name": "Eletrônica Industrial 1",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(I010)-3N2(I010)-3N3(I010)-7M1(S001)",
+        "prof": "Carlos Marcelo De Oliveira Stein",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI45M",
+    "name": "Eletrônica Industrial 2",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(I010)-2N2(I010)-2N3(I010)-7M1(S001)",
+        "prof": "Johnny Werner",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI46M",
+    "name": "Eletrônica Industrial 3",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(I008)-3N2(I008)-3N3(I008)-7M1(S001)",
+        "prof": "Juliano De Pelegrini Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE45S",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção, 1 - Tec Analise Des Sist, 1 - Eng Cart Agrimensura",
+        "h": "2N1(P203)-2N2(P203)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE47EL",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "7EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48NB",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T4(M105)-2T5(M105)",
+        "prof": "Norma Brambilla",
+        "opt": "Matriz:657, Matriz:489, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "EE45MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "5MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE46M",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q007)-3N5(Q007)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE48CP",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "8CP",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "4T2(L107)-4T3(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM45M",
+    "name": "Ensaio E Manutenção De Máquinas Elétricas",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(I001)-3N2(I001)-3N3(I001)",
+        "prof": "Artur Tsuguiyoshi Hara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM44M",
+    "name": "Ensaio E Manutenção De Transformadores",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N1(I001)-5N2(I001)-5N3(I001)",
+        "prof": "Jose Fabio Kolzer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM46CA",
+    "name": "Estática E Mecânica Dos Materais",
+    "turmas": [
+      {
+        "turma": "6CA",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "5N1(Q002)-5N2(Q002)-5N3(Q002)-7M3(S001)",
+        "prof": "Joamilton Stahlschmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER42M",
+    "name": "Estática E Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N1(Q002)-5N2(Q002)-5N3(Q002)-7M3(S001)",
+        "prof": "Joamilton Stahlschmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EB41M",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N4(Q001)-2N5(Q001)",
+        "prof": "Carla Baroni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FC42NB",
+    "name": "Filosofia Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "HUMA6",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "2N4(M103)-2N5(M103)",
+        "prof": "Nilson De Farias",
+        "opt": "Matriz:641, Matriz:640, Matriz:643, Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "GM45M",
+    "name": "Gestão Da Manutenção",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N4(Q006)-4N5(Q006)-5N4(Q006)-5N5(Q006)-7M4(S001)-7M5(S001)",
+        "prof": "Joamilton Stahlschmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP44MC",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "4MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T2(Q004)-5T3(Q004)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46M",
+    "name": "Gestão De Energia",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "2",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N4(Q007)-2N5(Q007)-7M2(S001)",
+        "prof": "Marcelo Goncalves Trentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP29NB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T4(M103)-3T5(M103)",
+        "prof": "Shalimar Gallon Canfield",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GS28EL",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8ELE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T4(L107)-4T5(L107)",
+        "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46NB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "6CV",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T4(M106)-2T5(M106)",
+        "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP45M",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q006)-3N5(Q006)",
+        "prof": "Shalimar Gallon Canfield",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP46QB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "3M4(N107)-3M5(N107)",
+        "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP43M",
+    "name": "Gestão De Produção",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(Q004)-2N2(Q004)",
+        "prof": "Marcia Danieli Szeremeta Spak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46S",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO48CA",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "8CA",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE45G",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "5G",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(V007)-5T3(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HP42M",
+    "name": "Hidráulica E Pneumática",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(Q002)-2N2(Q002)-2N3(Q002)",
+        "prof": "Luis Antonio Brum Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HT42NB",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "HUMA1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(N110)-4T5(N110)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Matriz:641, Matriz:640, Matriz:642, Matriz:637, Matriz:636, Matriz:643, Matriz:638"
+      }
+    ]
+  },
+  {
+    "code": "HC42NB",
+    "name": "História E Cultura Afro-Brasileira",
+    "turmas": [
+      {
+        "turma": "HUMA2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(N106)-3N3(N106)",
+        "prof": "Aruana Antonio Dos Passos",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:640, Matriz:642, Matriz:637, Matriz:636, Matriz:643, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "II41NB",
+    "name": "Inglês Instrumental",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N4(Q001)-5N5(Q001)",
+        "prof": "Taisa Pinetti Passoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IE43M",
+    "name": "Instalações Elétricas Industriais",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N3(Q004)-2N4(Q004)-2N5(Q004)",
+        "prof": "Herve Stangler Irion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IE42M",
+    "name": "Instalações Elétricas Prediais",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N1(Q002)-4N2(Q002)-4N3(Q002)",
+        "prof": "Artur Tsuguiyoshi Hara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IM43M",
+    "name": "Instrumentos E Medidas Elétricas",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "6N1(I009)-6N2(I009)",
+        "prof": "Jonatas Policarpo Americo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IL42L",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IL42NB",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:643"
+      }
+    ]
+  },
+  {
+    "code": "IF41M",
+    "name": "Introdução Aos Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(Q001)-2N2(Q001)-2N3(Q001)-6N3(S001)",
+        "prof": "Fabiano Ostapiv",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LP41NB",
+    "name": "Leitura E Produção De Gêneros Acadêmicos",
+    "turmas": [
+      {
+        "turma": "1CV",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T2(M107)-3T3(M107)",
+        "prof": "",
+        "opt": "Matriz:560, Matriz:639"
+      },
+      {
+        "turma": "1EL",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(N105)-4T3(N105)",
+        "prof": "Leticia Lemos Gritti",
+        "opt": "Matriz:560, Matriz:639"
+      },
+      {
+        "turma": "1MC",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "4T4(Q001)-4T5(Q001)",
+        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Matriz:560, Matriz:639"
+      },
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "6N1(Q001)-6N2(Q001)",
+        "prof": "Leticia Lemos Gritti",
+        "opt": "Matriz:560, Matriz:639"
+      },
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "14",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "5M4(N010)-5M5(N010)",
+        "prof": "Lovania Roehrig Teixeira",
+        "opt": "Matriz:560, Matriz:639"
+      },
+      {
+        "turma": "3CP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3N3(M007)-3N4(M007)",
+        "prof": "",
+        "opt": "Matriz:560, Matriz:639"
+      }
+    ]
+  },
+  {
+    "code": "LI42M",
+    "name": "Lubrificação Industrial",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N4(Q002)-2N5(Q002)-7M1(S001)-7M2(S001)",
+        "prof": "Sergio Luiz Ribas Pessa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME44M",
+    "name": "Manutenção Elétrica 1",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N1(Q005)-4N2(Q005)-4N3(Q005)",
+        "prof": "Herve Stangler Irion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME45M",
+    "name": "Manutenção Elétrica 2",
+    "turmas": [
+      {
+        "turma": "5MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N1(I009)-4N2(I009)-4N3(I009)",
+        "prof": "Jose Paulo De Barros Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DC46M",
+    "name": "Manutenção 4.0 – Desafios Colaborativos",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção, 1 - Administração",
+        "h": "4N1(S001)-4N1(S001)-4N1(S001)-4N2(S001)-4N2(S001)-4N2(S001)",
+        "prof": "Fabio De Freitas Lima, Liliane Canopf Vera, Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MQ43M",
+    "name": "Máquinas E Equipamentos",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(Q004)-3N2(Q004)-3N3(Q004)",
+        "prof": "Fabiano Ostapiv",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME43M",
+    "name": "Máquinas Elétricas",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N3(I001)-4N4(I001)-4N5(I001)-7M1(S001)",
+        "prof": "Filomena Barbosa Rodrigues Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME41M",
+    "name": "Matemática Elementar",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q001)-3N5(Q001)-5N1(Q001)-5N2(Q001)-5N3(Q001)",
+        "prof": "Carla Baroni",
+        "opt": "Não"
+      },
+      {
+        "turma": "1MNE",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N4(Q004)-4N5(Q004)-6N1(Q004)-6N2(Q004)-6N3(Q004)",
+        "prof": "Mateus Eduardo Salomao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MT43M",
+    "name": "Metrologia",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N1(H003)-5N2(H003)",
+        "prof": "Paulo Cezar Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OI29EL",
+    "name": "Organização Industrial",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PF44M",
+    "name": "Processo De Fabricação",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(Q005)-3N5(Q005)-7M5(S001)",
+        "prof": "Silvana Patricia Verona Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PU44M",
+    "name": "Processos De Usinagem",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N4(Q005)-2N5(Q005)-4N4(Q005)-4N5(Q005)",
+        "prof": "Cicero Gallina De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PA42NB",
+    "name": "Psicologia Aplicada Ao Trabalho",
+    "turmas": [
+      {
+        "turma": "HUMA12",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M103)-2N2(M103)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "5CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T4(M104)-4T5(M104)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "QV23A",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "HUMA8",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T2(M104)-3T3(M104)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:628"
+      }
+    ]
+  },
+  {
+    "code": "RC46M",
+    "name": "Refrigeração E Ar Condicionado",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N1(Q007)-5N2(Q007)-5N3(Q007)",
+        "prof": "Luis Antonio Brum Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ST41NB",
+    "name": "Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "1MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N4(Q001)-4N5(Q001)",
+        "prof": "Herve Stangler Irion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SO44M",
+    "name": "Soldagem",
+    "turmas": [
+      {
+        "turma": "4MN",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "5N4(H002)-5N5(H002)-7M4(S001)",
+        "prof": "Paulo Cezar Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TM43M",
+    "name": "Técnicas Metalúrgicas",
+    "turmas": [
+      {
+        "turma": "3MN",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N4(H003)-3N5(H003)-7M5(S001)",
+        "prof": "Paulo Cezar Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TP46M",
+    "name": "Técnicas Preditivas Por Análise De Vibrações",
+    "turmas": [
+      {
+        "turma": "6MN",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "2N1(H009-A)-2N2(H009-A)-2N3(H009-A)-7M4(S001)-7M5(S001)",
+        "prof": "Giovanni Bratti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TL42M",
+    "name": "Tecnologia Dos Materiais",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Manutenção",
+        "h": "3N1(Q002)-3N2(Q002)-3N3(Q002)-7M4(S001)",
+        "prof": "Maria Nalu Verona Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "VL42NB",
+    "name": "Voleibol",
+    "turmas": [
+      {
+        "turma": "HUMA10",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N4(M103)-4N5(M103)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
+      },
+      {
+        "turma": "HUMA11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(N108)-3T5(N108)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
+      }
+    ]
+  }
+]

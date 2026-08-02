@@ -1,0 +1,155 @@
+[
+  {
+    "code": "AM28M",
+    "name": "Análise Matemática",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N107)-2N3(N107)-4N2(N107)-4N3(N107)",
+        "prof": "Jackson Luchesi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CN25M",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "5ZZE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "4N1(V001)-4N2(V001)-5N1(V001)-5N2(V001)",
+        "prof": "Adriano Rodrigo Delfino",
+        "opt": "Matriz:652, Matriz:620"
+      }
+    ]
+  },
+  {
+    "code": "DM24M",
+    "name": "Didática Da Matemática",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "6N2(N109)-6N3(N109)-6N4(N109)-6N5(N109)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA28M",
+    "name": "Estruturas Algébricas",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N107)-3N3(N107)-6N4(N107)-6N5(N107)",
+        "prof": "Mateus Eduardo Salomao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FL24M",
+    "name": "Física Para Licenciatura Matemática",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N109)-2N3(N109)-4N2(N109)-4N3(N109)",
+        "prof": "Crislaine Da Cruz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GA24M",
+    "name": "Geometria Analitica: Cônica, Quádricas E Superficies",
+    "turmas": [
+      {
+        "turma": "4ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N4(N109)-2N5(N109)-4N1(S001)-4N4(N109)-4N5(N109)",
+        "prof": "Carlos Alexandre Ribeiro Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM22M",
+    "name": "Lógica Matemática E Teoria Dos Conjuntos",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N2(N108)-2N3(N108)-4N2(N108)-4N3(N108)-6N1(S001)",
+        "prof": "Waldir Silva Soares Junior, Rodrigo Ribeiro Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE22M",
+    "name": "Psicologia Da Educação",
+    "turmas": [
+      {
+        "turma": "2ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N108)-3N3(N108)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Não"
+      }
+    ]
+  }
+]

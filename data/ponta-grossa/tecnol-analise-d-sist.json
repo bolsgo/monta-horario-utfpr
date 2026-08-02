@@ -1,0 +1,47 @@
+[
+  {
+    "code": "ATIV01H",
+    "name": "Atividade Física E Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "EE11A",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M4(GINÁSIO)-5M5(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      },
+      {
+        "turma": "EE11B",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "23",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M2(GINÁSIO)-5M3(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "ATIV02H",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(GINÁSIO)-4M5(GINÁSIO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      }
+    ]
+  }
+]

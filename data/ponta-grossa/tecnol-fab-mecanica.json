@@ -1,0 +1,19 @@
+[
+  {
+    "code": "PF37A",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "MT631",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "",
+        "opt": "Matriz:807"
+      }
+    ]
+  }
+]

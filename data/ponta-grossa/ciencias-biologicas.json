@@ -1,0 +1,36 @@
+[
+  {
+    "code": "CB03B",
+    "name": "Ecologia Avançada",
+    "turmas": [
+      {
+        "turma": "LICB",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Igor De Paiva Affonso",
+        "opt": "Matriz:804"
+      }
+    ]
+  },
+  {
+    "code": "CB36A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "code": "ATIV01H",
+    "name": "Atividade Física E Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "EE11A",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "30",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M4(GINÁSIO)-5M5(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      },
+      {
+        "turma": "EE11B",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "23",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M2(GINÁSIO)-5M3(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "EE62A",
+    "name": "Materiais Elétricos",
+    "turmas": [
+      {
+        "turma": "EE21",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L109)-3T4(V1-008)-3T5(V1-008)-3T5(L109)",
+        "prof": "Edison Luiz Salgado Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ATIV02H",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M4(GINÁSIO)-4M5(GINÁSIO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "EE60AI",
+    "name": "Reconfigurable Logic Devices",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(V1-105)-3T6(V1-105)-6N1(V1-105)-6T6(V1-105)",
+        "prof": "Mauricio Dos Santos Kaster",
+        "opt": "Matriz:820"
+      }
+    ]
+  },
+  {
+    "code": "EE60AP",
+    "name": "Sistemas De Supervisão E Controle",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T2(V1-007)-6T3(V1-007)-6T4(V1-007)-6T5(V1-007)",
+        "prof": "Julio Cesar Guimaraes",
+        "opt": "Matriz:820"
+      }
+    ]
+  },
+  {
+    "code": "EN02M",
+    "name": "Tópicos Especiais Em Processamento De Energia I",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L005)-2N1(V1-103)-2N2(L005)-2N2(V1-103)-3N1(L005)-3N1(V1-103)-3N2(L005)-3N2(V1-103)",
+        "prof": "Eloi Agostini Junior",
+        "opt": "Matriz:806"
+      }
+    ]
+  },
+  {
+    "code": "EE10A",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(V1-005)-4T3(V1-005)",
+        "prof": "Antonio Vanderley Herrero Sola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EN39A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "99",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "",
+        "prof": "Josmar Ivanqui",
+        "opt": "Não"
+      }
+    ]
+  }
+]

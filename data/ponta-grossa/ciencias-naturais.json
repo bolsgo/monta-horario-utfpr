@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CN36J",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  }
+]

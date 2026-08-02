@@ -1,3 +1,14 @@
 [
-  { "slug": "curitiba", "label": "Curitiba" }
+  {
+    "slug": "curitiba",
+    "label": "Curitiba"
+  },
+  {
+    "slug": "ponta-grossa",
+    "label": "Ponta Grossa"
+  },
+  {
+    "slug": "pato-branco",
+    "label": "Pato Branco"
+  }
 ]

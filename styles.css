@@ -19,17 +19,17 @@
     --stripe: rgba(43,38,32,.04);
   }
   html[data-theme="dark"]{
-    --bg:#1b1713; --panel:#221e18; --panel2:#2c2620; --border:rgba(238,230,214,.10);
-    --text:#ece4d6; --muted:#a1907e; --accent:#c9603f; --accent2:#5c9384;
-    --danger:#dd7362; --ok:#5c9384; --warn:#d9a54f; --on-accent:#1b1713;
-    --grid-line:#3a3226;
+    --bg:#0e0e10; --panel:#18181b; --panel2:#26262c; --border:rgba(238,230,214,.10);
+    --text:#e8e8ea; --muted:#b5b5ba; --accent:#c9603f; --accent2:#5c9384;
+    --danger:#dd7362; --ok:#5c9384; --warn:#d9a54f; --on-accent:#0e0e10;
+    --grid-line:#2e2e34;
     --res-fechada-fg:#e58b7e; --res-fechada-bg:rgba(221,115,98,.16);
     --res-aberta-fg:#8fc2b2; --res-aberta-bg:rgba(92,147,132,.16);
     --res-sem-fg:#9fb98f; --res-sem-bg:rgba(159,185,143,.14);
-    --conflict-bg:rgba(221,115,98,.12); --turma-active-bg:rgba(201,96,63,.14);
+    --conflict-bg:rgba(221,115,98,.12); --turma-active-bg:rgba(111,168,220,.16);
     --preview-ok-bg:rgba(46,181,128,.65); --preview-conflict-bg:rgba(255,79,63,.68);
     --preview-ring:rgba(0,0,0,.65); --other-campus:#e58b7e; --room-other:#e58b7e;
-    --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#3a3226; --accent-hover:#a84f33;
+    --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#2e2e34; --accent-hover:#a84f33;
     --mini-last:#6fa8dc;
     --stripe: rgba(238,230,214,.03);
   }
@@ -159,6 +159,7 @@
   .turma-info{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.6;padding:8px 9px;background:var(--panel);border-radius:6px;}
   .badge{display:inline-block;padding:2px 7px;border-radius:4px;font-size:10px;font-weight:700;margin-left:6px;}
   .badge.selected-badge{background:var(--accent);color:var(--on-accent);}
+  html[data-theme="dark"] .badge.selected-badge{background:var(--mini-last);}
   .grid-wrap{overflow-x:auto;border-radius:10px;position:relative;}
   table.grid{border-collapse:separate;border-spacing:0;width:100%;min-width:860px;background:var(--panel);border-radius:10px;}
   

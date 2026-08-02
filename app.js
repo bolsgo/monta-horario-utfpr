@@ -602,9 +602,12 @@ function subjectColor(code, contextCodes) {
     Object.values(selected).forEach(s => totalAulas += s.slots.length);
     const conflicts = computeConflictCodes(occ);
 
+    const totalHoras = Math.round((totalAulas * 50) / 60);
+
     statsBar.innerHTML = `
       <div><b>${count}</b> disciplina(s) selecionada(s)</div>
-      <div>⏱️ <b>${totalAulas}</b> aulas semanais alocadas</div>
+      <div><b>${totalAulas}</b> aulas semanais alocadas</div>
+      <div><b>${totalHoras}</b> horas semanais</div>
       <div>${conflicts.size > 0 ? `<b style="color:var(--danger)">${conflicts.size}</b> em conflito` : `<b style="color:var(--ok)">Sem conflitos</b>`}</div>
     `;
 

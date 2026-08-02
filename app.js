@@ -337,6 +337,11 @@ function subjectColor(code, contextCodes) {
     // Uma passada só pra todas as cores deste render, em vez de recomeçar
     // o cálculo O(selecionadas × paleta) a cada disciplina da lista.
     const colorMap = computeColorMap(Object.keys(selected));
+    // Modo compacto: cada painel de turmas (matéria aberta) com muitas
+    // opções vira 2 colunas em vez de scroll longo — ver uso de "two-col"
+    // logo abaixo, aplicado por matéria (cada uma pode ter uma quantidade
+    // diferente de turmas).
+    const compactOn = document.documentElement.getAttribute("data-compact") === "true";
 
     DATA.forEach(sub => {
       const isSelected = State.isSelected(sub.code);
@@ -352,6 +357,10 @@ function subjectColor(code, contextCodes) {
       // Só interessa a cor de disciplinas selecionadas (é só onde ela é
       // exibida) — pra que calcular pras outras ~140+ da lista à toa?
       const color = isSelected ? colorMap.get(sub.code) : null;
+      // Só mostra o selo quando a turma SELECIONADA dessa matéria é EAD
+      // (igual ao professor, que também só aparece quando selecionado).
+      // O indicador de EAD vem do campo "enq" (ex.: "EaD" vs "Presencial").
+      const hasEAD = isSelected && /\bead\b/i.test(selected[sub.code].enq || "");
 
       const head = document.createElement("div");
       head.className = "subject-head";
@@ -360,8 +369,18 @@ function subjectColor(code, contextCodes) {
       head.setAttribute("aria-expanded", State.isOpen(sub.code) ? "true" : "false");
       head.innerHTML = `
         <div class="subject-head-text">
-          <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)}</div>
-          <div class="subject-code">${esc(sub.code)} ${isSelected ? `<span class="badge selected-badge">${esc(selected[sub.code].turma)}</span> <span class="subject-prof">${esc(selected[sub.code].prof || "-")}</span>` : ""}</div>
+          <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)} ${hasEAD ? '<span class="badge badge-ead">EAD</span>' : ""}</div>
+          <div class="subject-code">
+            <span class="subject-code-text">${esc(sub.code)}</span>
+            <span class="turma-chip${isSelected ? "" : " chip-empty"}">
+              <svg class="turma-chip-bg" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+                <rect x="4" y="4" width="92" height="92" rx="22" ry="22" fill="none" stroke="currentColor" stroke-width="7"/>
+              </svg>
+              <span class="turma-chip-text">${isSelected ? esc(selected[sub.code].turma) : ""}</span>
+            </span>
+            <span class="t-res res-inline${isSelected ? " t-res-" + (selected[sub.code].res || "").toLowerCase().replace(/\s+/g, "-") : ""}">${isSelected ? esc(selected[sub.code].res || "-") : ""}</span>
+          </div>
+          <div class="subject-prof">${isSelected ? esc(selected[sub.code].prof || "-") : ""}</div>
         </div>
         <div class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg></div>`;
       const toggleOpen = () => {
@@ -378,8 +397,36 @@ function subjectColor(code, contextCodes) {
       };
       div.appendChild(head);
 
+      /* Elementos do cabeçalho (ao lado/embaixo do código da matéria) que
+         o hover numa turma da lista abaixo atualiza temporariamente —
+         ver setHeaderInfo() e o onpointerenter/onpointerleave de cada
+         .turma-opt logo mais abaixo. Não muda o tamanho de nada, só o
+         conteúdo desses três elementos. */
+      const turmaChipEl = head.querySelector(".turma-chip");
+      const turmaChipTextEl = head.querySelector(".turma-chip-text");
+      const resInlineEl = head.querySelector(".t-res.res-inline");
+      const profLineEl = head.querySelector(".subject-prof");
+      function setHeaderInfo(turma, res, prof) {
+        if (turmaChipTextEl) turmaChipTextEl.textContent = turma || "";
+        if (turmaChipEl) turmaChipEl.classList.toggle("chip-empty", !turma);
+        if (resInlineEl) {
+          resInlineEl.textContent = res || "";
+          resInlineEl.className = "t-res res-inline" + (res ? " t-res-" + res.toLowerCase().replace(/\s+/g, "-") : "");
+        }
+        if (profLineEl) profLineEl.textContent = prof || "";
+      }
+      const baseTurma = isSelected ? selected[sub.code].turma : "";
+      const baseRes = isSelected ? (selected[sub.code].res || "-") : "";
+      const baseProf = isSelected ? (selected[sub.code].prof || "-") : "";
+      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf);
+
+
       const tp = document.createElement("div");
-      tp.className = "turma-panel";
+      tp.className = "turma-panel" + (compactOn && sub.turmas.length > 8 ? " two-col" : "");
+      // No modo compacto, a info da turma ativa não entra "no meio" do
+      // fluxo (bagunçaria o alinhamento das colunas) — fica guardada aqui
+      // e é adicionada só uma vez, no fim, depois de todas as turmas.
+      let bottomInfoHtml = null;
 
       sub.turmas.forEach(t => {
         const slots = parseHorario(t.h);
@@ -429,13 +476,16 @@ function subjectColor(code, contextCodes) {
           const conflict = wouldConflict(slots, sub.code);
           State.setPreview({ slots, conflict });
           renderGridPreviewOnly();
+          setHeaderInfo(t.turma, t.res || "-", t.prof || "-");
+        };
+        optDiv.onpointerleave = (e) => {
+          if (e.pointerType === "touch") return;
+          restoreHeaderInfo();
         };
         tp.appendChild(optDiv);
 
         if (isActive && State.isInfoOpen(sub.code)) {
-          const info = document.createElement("div");
-          info.className = "turma-info";
-          info.innerHTML = `
+          const infoHtml = `
             <div><b>Horário:</b> ${horarioDisplay(t.h)}</div>
             <div><b>Professor:</b> ${esc(t.prof || "-")}</div>
             <div><b>Enquadramento:</b> ${esc(t.enq || "-")} &middot; <b>Reserva:</b> ${esc(t.res || "-")}</div>
@@ -443,9 +493,23 @@ function subjectColor(code, contextCodes) {
             <div><b>Prioridade - Curso:</b> ${esc(t.prio || "-")}</div>
             <div><b>Optativa:</b> ${esc(t.opt || "-")}</div>
           `;
-          tp.appendChild(info);
+          if (compactOn) {
+            bottomInfoHtml = infoHtml; // só uma turma por matéria pode estar ativa
+          } else {
+            const info = document.createElement("div");
+            info.className = "turma-info";
+            info.innerHTML = infoHtml;
+            tp.appendChild(info);
+          }
         }
       });
+
+      if (bottomInfoHtml) {
+        const info = document.createElement("div");
+        info.className = "turma-info";
+        info.innerHTML = bottomInfoHtml;
+        tp.appendChild(info);
+      }
 
       div.appendChild(tp);
       subjectListEl.appendChild(div);
@@ -919,6 +983,35 @@ function subjectColor(code, contextCodes) {
     if ((localStorage.getItem(THEME_KEY) || "system") === "system") applyTheme("system");
   });
   applyTheme(localStorage.getItem(THEME_KEY) || "system");
+
+  /* ============== MODO COMPACTO ==============
+     Some com professor/reserva/prioridade nas turmas (ver CSS,
+     html[data-compact="true"]), deixando só o botão "i" e o número da
+     turma — assim cabem mais opções na tela sem precisar rolar tanto
+     pra hover/ver a lista inteira. Preferência persistida como o tema;
+     o valor inicial já é aplicado antes da 1ª pintura (ver <head>).
+     Padrão: ativado (quando não há preferência salva ainda). */
+  const COMPACT_KEY = "utfpr_compact";
+  function applyCompact(on) {
+    if (on) document.documentElement.setAttribute("data-compact", "true");
+    else document.documentElement.removeAttribute("data-compact");
+    const btn = document.getElementById("compactToggle");
+    if (btn) {
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+      btn.textContent = on ? "Desativar modo compacto" : "Ativar modo compacto";
+    }
+  }
+  const compactToggleBtn = document.getElementById("compactToggle");
+  if (compactToggleBtn) {
+    const storedCompact = localStorage.getItem(COMPACT_KEY);
+    applyCompact(storedCompact === null ? true : storedCompact === "1");
+    compactToggleBtn.addEventListener("click", () => {
+      const next = document.documentElement.getAttribute("data-compact") !== "true";
+      localStorage.setItem(COMPACT_KEY, next ? "1" : "0");
+      applyCompact(next);
+      renderAll(); // recalcula o layout de 2 colunas da lista (ver renderSubjectList)
+    });
+  }
 
   /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular) ==============
      A mini-grade fica fixa na tela (ver CSS) exceto em dois casos, em que

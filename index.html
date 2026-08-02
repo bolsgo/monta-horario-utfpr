@@ -14,6 +14,10 @@
   var saved = localStorage.getItem('utfpr_theme') || 'system';
   var isDark = saved === 'dark' || (saved === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
   document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  var compactPref = localStorage.getItem('utfpr_compact');
+  if (compactPref === null || compactPref === '1') {
+    document.documentElement.setAttribute('data-compact', 'true');
+  }
 })();
 </script>
 </head>
@@ -23,6 +27,7 @@
   <div class="header-title-row">
     <h1>Monta<span>Horário</span> <span id="brandUtfpr">UTFPR 2026/2</span></h1>
     <div class="header-extras">
+      <button type="button" class="compact-toggle" id="compactToggle" title="Modo compacto para melhor visualização da lista" aria-label="Modo compacto" aria-pressed="true">Desativar modo compacto</button>
       <button type="button" class="theme-toggle" id="themeToggle" title="Alternar tema" aria-label="Alternar tema" aria-pressed="false">
         <span class="tt-track">
           <span class="tt-thumb" id="ttThumb"></span>

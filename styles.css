@@ -151,8 +151,21 @@
   }
   .subject-head-text{min-width:0;flex:1;}
   .subject-title{font-family:var(--font-display);font-size:14.5px;font-weight:600;line-height:1.3;overflow-wrap:break-word;}
-  .subject-code{color:var(--muted);font-size:11px;font-weight:500;display:flex;flex-wrap:wrap;align-items:center;gap:4px;}
-  .subject-prof{color:var(--muted);font-size:10.5px;font-weight:500;font-style:italic;min-width:0;overflow-wrap:anywhere;}
+  .subject-code{color:var(--muted);font-size:11px;font-weight:500;display:flex;flex-wrap:nowrap;align-items:center;gap:6px;height:15px;}
+  .subject-code-text{line-height:1;flex-shrink:0;}
+  /* Selo da turma: um quadrado minimalista de bordas arredondadas
+     desenhado em SVG (só contorno, sem preenchimento) em volta do
+     número — mesmo tom neutro do resto da linha (código/reserva). */
+  .turma-chip{position:relative;display:inline-flex;align-items:center;justify-content:center;
+    padding:2px 7px;line-height:1;color:var(--muted);}
+  .turma-chip.chip-empty{opacity:0;pointer-events:none;}
+  .turma-chip-bg{position:absolute;inset:0;width:100%;height:100%;color:var(--muted);}
+  .turma-chip-text{position:relative;z-index:1;font-weight:600;font-size:10.5px;line-height:1;}
+  /* Linha reservada pro nome do professor, sempre em baixo do código da
+     matéria (min-height mantém o espaço mesmo quando ainda não há nada
+     selecionado, pra lista não "pular" ao selecionar/desmarcar). */
+  .subject-prof{color:var(--muted);font-size:10.5px;font-weight:500;font-style:italic;height:13px;line-height:13px;margin-top:1px;
+    overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
   /* No escuro, as cores de disciplinas selecionadas (vindas da paleta, pensada
      para fundo escuro nos blocos da grade) ficam pouco legíveis como texto
      sobre o painel escuro — clareamos e saturamos um pouco só o texto aqui. */
@@ -169,11 +182,55 @@
   .turma-opt .t-turma{font-weight:700;}
   .turma-opt .t-prof{color:var(--muted);font-size:10.5px;}
   .turma-opt .t-meta{color:var(--muted);font-size:10px;margin-top:2px;}
-  .turma-opt .t-res{font-weight:700;padding:1px 5px;border-radius:3px;background:var(--panel2);}
-  .turma-opt .t-res-fechada{color:var(--res-fechada-fg);background:var(--res-fechada-bg);}
-  .turma-opt .t-res-aberta{color:var(--res-aberta-fg);background:var(--res-aberta-bg);}
-  .turma-opt .t-res-sem-reserva{color:var(--res-sem-fg);background:var(--res-sem-bg);}
+  .t-res{font-weight:700;padding:1px 5px;border-radius:3px;background:var(--panel2);}
+  .t-res-fechada{color:var(--res-fechada-fg);background:var(--res-fechada-bg);}
+  .t-res-aberta{color:var(--res-aberta-fg);background:var(--res-aberta-bg);}
+  .t-res-sem-reserva{color:var(--res-sem-fg);background:var(--res-sem-bg);}
+  .t-res.res-inline{font-size:9.5px;padding:1px 4px;}
+  /* Ao lado do código da matéria, a reserva fica neutra — sem o destaque
+     colorido que faz na lista de turmas — pra combinar com o resto do
+     texto (código, turma, professor). */
+  .subject-code .t-res.res-inline,
+  .subject-code .t-res.res-inline.t-res-fechada,
+  .subject-code .t-res.res-inline.t-res-aberta,
+  .subject-code .t-res.res-inline.t-res-sem-reserva{background:none;color:var(--muted);font-weight:500;padding:0;line-height:1;}
   .turma-opt .t-remove{align-self:stretch;height:auto;color:var(--danger);font-size:13px;background:none;border:none;cursor:pointer;padding:2px 8px;display:flex;align-items:center;justify-content:center;}
+
+  /* ============== MODO COMPACTO ==============
+     Esconde professor/reserva/prioridade de cada turma, deixando só o
+     botão "i" (info) e o número da turma (com o * de outra sede, se
+     houver) — pensado para caber mais turmas na tela sem precisar
+     rolar tanto pra dar hover/ver a lista inteira. */
+  html[data-compact="true"] .turma-opt{padding:6px 9px;align-items:center;}
+  html[data-compact="true"] .t-prof,
+  html[data-compact="true"] .t-meta{display:none;}
+  html[data-compact="true"] .t-turma{font-size:13px;}
+  /* Sem isso, o "i" e o "✕" (que só existem na turma ativa) esticavam a
+     linha inteira (align-items:stretch do .turma-opt), deixando a turma
+     selecionada visivelmente maior que as outras. Fixando a altura deles
+     ao tamanho do texto da turma, a linha fica do mesmo tamanho antes e
+     depois de selecionar. */
+  html[data-compact="true"] .t-info-btn,
+  html[data-compact="true"] .t-remove{align-self:center;height:18px;font-size:11px;padding:0 5px;}
+
+  /* Painel de turmas em 2 colunas (só no modo compacto, quando a matéria
+     aberta tem muitas turmas — ver renderSubjectList em app.js). Grid em
+     vez de column-count: com column-count cada coluna tem sua própria
+     altura "balanceada" e os itens não alinham entre si de uma coluna
+     pra outra; com grid de 2 colunas + grid-auto-flow:row, cada linha
+     tem a MESMA altura nas duas colunas, então elas ficam alinhadas. */
+  .subject.open .turma-panel.two-col{display:grid;grid-template-columns:1fr 1fr;gap:4px 8px;}
+
+  /* Modo compacto: em vez de abrir "por baixo" da turma clicada (o que
+     bagunçaria o alinhamento das colunas, ver acima), o painel de
+     informações da turma ativa sempre aparece uma única vez, no rodapé
+     de toda a lista, ocupando as duas colunas e em formato horizontal
+     (chips lado a lado) — mais fácil de ler que texto empilhado. O botão
+     "i" da turma correspondente continua destacado (aria-expanded) pra
+     indicar de qual turma é a informação exibida. */
+  html[data-compact="true"] .turma-info{
+    display:flex;flex-wrap:wrap;gap:5px 16px;line-height:1.4;margin-top:8px;}
+  .turma-panel.two-col .turma-info{grid-column:1 / -1;}
   .t-info-btn{align-self:stretch;flex-shrink:0;width:16px;height:auto;padding:0;border-radius:4px;background:var(--panel2);
     color:var(--accent2);font-family:var(--font-display);font-style:italic;font-weight:700;font-size:12px;
     display:flex;align-items:center;justify-content:center;line-height:1;}
@@ -183,6 +240,7 @@
   .turma-info{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.6;padding:8px 9px;background:var(--panel);border-radius:4px;}
   .badge{display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:700;margin-left:6px;}
   .badge.selected-badge{background:var(--accent);color:var(--on-accent);}
+  .badge.badge-ead{background:var(--accent2);color:var(--on-accent);vertical-align:middle;}
   html[data-theme="dark"] .badge.selected-badge{background:var(--mini-last);}
   .grid-wrap{overflow-x:auto;border-radius:5px;position:relative;}
   table.grid{border-collapse:separate;border-spacing:0;width:100%;min-width:860px;background:var(--panel);border-radius:5px;}
@@ -252,6 +310,10 @@
      continua funcionando em segundo plano (ver app.js) e, quando ativa, este
      controle exibe o sol ou a lua conforme a aparência atual do SO. Um clique
      define uma preferência explícita (claro ou escuro), saindo do modo sistema. */
+  .compact-toggle{font-size:11.5px;padding:8px 11px;flex-shrink:0;}
+  .compact-toggle:hover{background:var(--hover-bg);}
+  .compact-toggle[aria-pressed="true"]{background:var(--accent2);color:var(--on-accent);}
+
   .theme-toggle{background:transparent;padding:0;width:56px;height:30px;border-radius:999px;flex-shrink:0;}
   .theme-toggle:hover{background:transparent;}
   .tt-track{position:relative;display:block;width:56px;height:30px;border-radius:999px;background:var(--panel2);box-shadow:inset 0 0 0 1px var(--border);}
@@ -408,8 +470,8 @@
     .search-icon{width:17px;height:17px;left:3px;}
     .filter-row button{font-size:13.5px;padding:10px 12px;}
     .subject-title{font-size:19px;}
-    .subject-code{font-size:14px;}
-    .subject-prof{font-size:13px;}
+    .subject-code{font-size:14px;height:19px;}
+    .subject-prof{font-size:13px;height:16px;line-height:16px;}
     .turma-opt{font-size:15px;padding:12px 13px;}
     .turma-opt .t-prof{font-size:13px;}
     .turma-opt .t-meta{font-size:12.5px;}
@@ -445,8 +507,8 @@
     .search-icon{width:19px;height:19px;left:4px;}
     .filter-row button{font-size:16px;padding:12px 14px;}
     .subject-title{font-size:22px;}
-    .subject-code{font-size:16px;}
-    .subject-prof{font-size:15px;}
+    .subject-code{font-size:16px;height:21px;}
+    .subject-prof{font-size:15px;height:18px;line-height:18px;}
     .turma-opt{font-size:17px;padding:14px 15px;}
     .turma-opt .t-prof{font-size:15px;}
     .turma-opt .t-meta{font-size:14px;}

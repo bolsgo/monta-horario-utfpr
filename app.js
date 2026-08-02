@@ -376,7 +376,7 @@ function subjectColor(code, contextCodes) {
               <svg class="turma-chip-bg" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
                 <rect x="4" y="4" width="92" height="92" rx="22" ry="22" fill="none" stroke="currentColor" stroke-width="7"/>
               </svg>
-              <span class="turma-chip-text">${isSelected ? esc(selected[sub.code].turma) : ""}</span>
+              <span class="turma-chip-text">${isSelected ? esc(selected[sub.code].turma) : ""}</span><span class="turma-chip-star other-campus">${isSelected && selected[sub.code].slots && selected[sub.code].slots.some(s => s.otherCampus) ? "*" : ""}</span>
             </span>
             <span class="t-res res-inline${isSelected ? " t-res-" + (selected[sub.code].res || "").toLowerCase().replace(/\s+/g, "-") : ""}">${isSelected ? esc(selected[sub.code].res || "-") : ""}</span>
           </div>
@@ -404,11 +404,13 @@ function subjectColor(code, contextCodes) {
          conteúdo desses três elementos. */
       const turmaChipEl = head.querySelector(".turma-chip");
       const turmaChipTextEl = head.querySelector(".turma-chip-text");
+      const turmaChipStarEl = head.querySelector(".turma-chip-star");
       const resInlineEl = head.querySelector(".t-res.res-inline");
       const profLineEl = head.querySelector(".subject-prof");
-      function setHeaderInfo(turma, res, prof) {
+      function setHeaderInfo(turma, res, prof, hasOtherCampus) {
         if (turmaChipTextEl) turmaChipTextEl.textContent = turma || "";
         if (turmaChipEl) turmaChipEl.classList.toggle("chip-empty", !turma);
+        if (turmaChipStarEl) turmaChipStarEl.textContent = hasOtherCampus ? "*" : "";
         if (resInlineEl) {
           resInlineEl.textContent = res || "";
           resInlineEl.className = "t-res res-inline" + (res ? " t-res-" + res.toLowerCase().replace(/\s+/g, "-") : "");
@@ -418,7 +420,8 @@ function subjectColor(code, contextCodes) {
       const baseTurma = isSelected ? selected[sub.code].turma : "";
       const baseRes = isSelected ? (selected[sub.code].res || "-") : "";
       const baseProf = isSelected ? (selected[sub.code].prof || "-") : "";
-      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf);
+      const baseHasOtherCampus = isSelected && !!(selected[sub.code].slots && selected[sub.code].slots.some(s => s.otherCampus));
+      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus);
 
 
       const tp = document.createElement("div");
@@ -476,7 +479,7 @@ function subjectColor(code, contextCodes) {
           const conflict = wouldConflict(slots, sub.code);
           State.setPreview({ slots, conflict });
           renderGridPreviewOnly();
-          setHeaderInfo(t.turma, t.res || "-", t.prof || "-");
+          setHeaderInfo(t.turma, t.res || "-", t.prof || "-", hasOther);
         };
         optDiv.onpointerleave = (e) => {
           if (e.pointerType === "touch") return;

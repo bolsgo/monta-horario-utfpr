@@ -161,6 +161,7 @@
   .turma-chip.chip-empty{opacity:0;pointer-events:none;}
   .turma-chip-bg{position:absolute;inset:0;width:100%;height:100%;color:var(--muted);}
   .turma-chip-text{position:relative;z-index:1;font-weight:600;font-size:10.5px;line-height:1;}
+  .turma-chip-star{position:relative;z-index:1;font-size:10.5px;line-height:1;margin-left:1px;}
   /* Linha reservada pro nome do professor, sempre em baixo do código da
      matéria (min-height mantém o espaço mesmo quando ainda não há nada
      selecionado, pra lista não "pular" ao selecionar/desmarcar). */

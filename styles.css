@@ -6,12 +6,13 @@
     --bg:#f6f1e7; --panel:#fbf8f2; --panel2:#eee6d6; --border:rgba(43,38,32,.07);
     --text:#2b2621; --muted:#83766a; --accent:#8a3324; --accent2:#33564a;
     --danger:#a8342a; --ok:#33564a; --warn:#b9832e; --on-accent:#fbf8f2;
-    --grid-line:#e2d7c3; --header-h:64px;
+    --grid-line:#e2d7c3; --header-h:64px; --action-bar-h:55px; --main-vpad:40px;
     --res-fechada-fg:#a8342a; --res-fechada-bg:rgba(168,52,42,.12);
     --res-aberta-fg:#33564a; --res-aberta-bg:rgba(51,86,74,.12);
     --res-sem-fg:#5c7a52; --res-sem-bg:rgba(92,122,82,.12);
     --conflict-bg:rgba(168,52,42,.08); --turma-active-bg:rgba(138,51,36,.09);
     --preview-ok-bg:rgba(29,122,74,.72); --preview-conflict-bg:rgba(214,40,30,.75);
+    --mini-preview-ok-bg:rgba(41,109,181,.75);
     --preview-ring:rgba(43,38,32,.55); --other-campus:#a8342a; --room-other:#8a3324;
     --danger-hover-bg:rgba(168,52,42,.1); --hover-bg:#e4d9c2; --accent-hover:#6f2a1e;
     --mini-last:#2f6fb0;
@@ -28,6 +29,7 @@
     --res-sem-fg:#9fb98f; --res-sem-bg:rgba(159,185,143,.14);
     --conflict-bg:rgba(221,115,98,.12); --turma-active-bg:rgba(111,168,220,.16);
     --preview-ok-bg:rgba(46,181,128,.65); --preview-conflict-bg:rgba(255,79,63,.68);
+    --mini-preview-ok-bg:rgba(111,168,220,.68);
     --preview-ring:rgba(0,0,0,.65); --other-campus:#e58b7e; --room-other:#e58b7e;
     --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#2e2e34; --accent-hover:#a84f33;
     --mini-last:#6fa8dc;
@@ -92,26 +94,35 @@
   main > *{min-width:0;}
   @media(max-width:980px){main{grid-template-columns:1fr;}}
   .panel{background:var(--panel);border-radius:5px;padding:16px;}
-  .search{width:100%;padding:10px 22px 10px 4px;border-radius:0;border:none;border-bottom:1px solid var(--border);background:transparent;
+  .search{width:100%;padding:10px 22px 10px 24px;border-radius:0;border:none;border-bottom:1px solid var(--border);background:transparent;
     color:var(--text);font-size:14px;font-family:var(--font-body);}
   .search::placeholder{color:var(--muted);}
   .search:focus{outline:none;border-bottom-color:var(--accent);}
   .course-select-wrap{display:flex;align-items:center;gap:8px;margin-bottom:14px;}
   .course-select-wrap label{font-size:12.5px;color:var(--muted);font-weight:500;flex-shrink:0;}
-  .course-select-wrap select{flex:1;min-width:0;padding:8px 10px;border-radius:4px;
+  .course-select-wrap select{flex:1;min-width:0;padding:8px 26px 8px 10px;border-radius:4px;
     border:1px solid var(--border);background:var(--panel2);color:var(--text);
-    font-family:var(--font-body);font-size:13.5px;cursor:pointer;}
+    font-family:var(--font-body);font-size:13.5px;cursor:pointer;
+    appearance:none;-webkit-appearance:none;-moz-appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2383766a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 8px center;background-size:13px;}
+  html[data-theme="dark"] .course-select-wrap select{
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23b5b5ba' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");}
   .course-select-wrap select:focus{outline:2px solid var(--accent);outline-offset:-1px;}
   .course-select-wrap select:disabled{opacity:.6;cursor:wait;}
   .search-wrap{position:relative;margin-bottom:14px;}
+  .search-icon{position:absolute;left:2px;top:50%;transform:translateY(-50%);
+    color:var(--muted);pointer-events:none;}
   .search-clear{position:absolute;right:0;top:50%;transform:translateY(-50%);background:transparent;
     color:var(--muted);padding:4px;width:20px;height:20px;border-radius:50%;justify-content:center;}
   .search-clear:hover{background:var(--hover-bg);color:var(--text);}
-  /* min() trava a altura em telas muito altas (4K, monitores grandes):
-     sem isso, calc(100vh - 260px) sozinho crescia junto com a altura da
-     janela sem limite, fazendo a lista de disciplinas esticar bem além da
-     grade (que tem altura fixa por linha) e sobrar um vazio enorme —
-     o painel ficava gigante e a grade parecia minúscula ao lado. */
+  /* Regra base: só entra em vigor de fato em telas ≤980px, onde o painel
+     empilha acima da grade (ver linha 93) e a página rola normalmente —
+     acima de 981px essa altura é substituída pelo layout flex mais preciso
+     lá embaixo ("PAINEL ESQUERDO ACOMPANHA A ALTURA DA TELA"), que calcula
+     o espaço restante de verdade em vez de usar um valor fixo "chutado".
+     O min() aqui evita que a lista cresça sem limite em celulares com tela
+     muito alta. */
   .subject-list{max-height:min(calc(100vh - 260px), 760px);overflow-y:auto;padding-right:4px;}
   /* Em tablets (layout já em coluna única, mas tela ainda alta o
      suficiente para a lista ficar exageradamente longa) a lista de
@@ -120,11 +131,24 @@
   @media(min-width:701px) and (max-width:980px){
     .subject-list{max-height:calc((100vh - 260px) * 0.6667);}
   }
+  /* O aviso de conflito aparece depois da grade grande (não antes) em
+     qualquer largura — PC, tablet retrato, tablet paisagem — assim a
+     pessoa já vê a tabela antes do aviso. Só no celular (≤700px, regra
+     lá embaixo) ele continua aparecendo em cima, como era antes. */
+  .content-col{display:flex;flex-direction:column;}
+  .stats{order:1;}
+  .grid-wrap{order:2;}
+  .conflict-banner{order:3;}
+  .legend{order:4;}
+  .footer-note{order:5;}
   .subject-list::-webkit-scrollbar{width:6px;}
   .subject-list::-webkit-scrollbar-thumb{background:var(--grid-line);border-radius:4px;}
   .subject{border-radius:5px;margin-bottom:6px;background:var(--panel2);overflow:hidden;}
   .subject-head{padding:11px 12px;display:flex;justify-content:space-between;align-items:center;cursor:pointer;gap:8px;}
-  .subject-head:hover,.subject-head.hover-linked{background:var(--hover-bg);}
+  .subject-head.hover-linked{background:var(--hover-bg);}
+  @media(hover:hover) and (pointer:fine){
+    .subject-head:hover{background:var(--hover-bg);}
+  }
   .subject-head-text{min-width:0;flex:1;}
   .subject-title{font-family:var(--font-display);font-size:14.5px;font-weight:600;line-height:1.3;overflow-wrap:break-word;}
   .subject-code{color:var(--muted);font-size:11px;font-weight:500;display:flex;flex-wrap:wrap;align-items:center;gap:4px;}
@@ -133,7 +157,7 @@
      para fundo escuro nos blocos da grade) ficam pouco legíveis como texto
      sobre o painel escuro — clareamos e saturamos um pouco só o texto aqui. */
   html[data-theme="dark"] .subject-title-colored{filter:brightness(1.55) saturate(1.15);}
-  .chev{color:var(--muted);font-size:11px;transition:.15s;flex-shrink:0;}
+  .chev{color:var(--muted);transition:.15s;flex-shrink:0;display:inline-flex;align-items:center;}
   .subject.open .chev{transform:rotate(90deg);}
   .turma-panel{display:none;padding:0 10px 10px;}
   .subject.open .turma-panel{display:block;}
@@ -189,15 +213,18 @@
     background:repeating-linear-gradient(45deg, #ff1f1f 0 4px, transparent 4px 10px);opacity:.75;}
   .cell-block.conflict .b-name,.cell-block.conflict .b-sub,.cell-block.conflict .b-room{position:relative;z-index:1;}
   .cell-block{cursor:pointer;transition:filter .12s,transform .12s;}
-  .cell-block:hover,.cell-block.hover-linked{filter:brightness(1.1);transform:scale(1.02);}
+  .cell-block.hover-linked{filter:brightness(1.1);transform:scale(1.02);}
+  @media(hover:hover) and (pointer:fine){
+    .cell-block:hover{filter:brightness(1.1);transform:scale(1.02);}
+  }
   .cell-preview{position:absolute;inset:0px;border-radius:3px;pointer-events:none;z-index:5;
     box-shadow:0 0 0 2.5px var(--preview-ring) inset;}
   .cell-preview.pv-ok{background:var(--preview-ok-bg);}
   .cell-preview.pv-conflict{background:var(--preview-conflict-bg);}
   .empty-state{padding:60px 20px;text-align:center;color:var(--muted);font-size:13px;}
-  .stats{display:flex;gap:20px;padding:10px 4px;margin-bottom:12px;font-size:12px;color:var(--muted);flex-wrap:wrap;
-    border-bottom:1px solid var(--border);}
+  .stats{display:flex;gap:20px;padding:10px 4px;margin-bottom:12px;font-size:12px;color:var(--muted);flex-wrap:wrap;}
   .stats b{color:var(--text);font-family:var(--font-display);font-size:14px;}
+  .stat-with-icon{display:inline-flex;align-items:center;gap:5px;}
   .conflict-banner{background:var(--conflict-bg);color:var(--danger);
     padding:10px 14px;border-radius:3px;margin-bottom:12px;font-size:12.5px;display:none;}
   .conflict-banner.show{display:block;}
@@ -239,6 +266,14 @@
     clip:rect(0,0,0,0);white-space:nowrap;border:0;}
   table.grid caption{caption-side:top;}
   [role="button"]{outline-offset:2px;}
+  /* Em toque (mobile/tablet), .cell-block recebe foco por ter tabindex="0",
+     e alguns navegadores desenham o outline padrão do sistema mesmo fora
+     de navegação por teclado (não respeitam :focus-visible nesse caso).
+     Isso aparecia como um quadrado sobre a turma ao tocar, com ou sem
+     conflito. Zeramos o :focus "puro" e mantemos o realce só para
+     :focus-visible (teclado). */
+  .cell-block{-webkit-tap-highlight-color:transparent;}
+  .cell-block:focus{outline:none;}
   .subject-head:focus-visible,
   .turma-opt:focus-visible,
   .cell-block:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
@@ -261,7 +296,7 @@
        tela quanto quando a página é rolada até o final (ver app.js), para
        não duplicar informação nem sobrar flutuando sobre o rodapé. */
     .mini-grid{
-      display:grid;width:64px;height:96px;gap:1px;padding:4px;margin-top:8px;
+      display:grid;width:84px;height:126px;gap:1.5px;padding:5px;margin-top:8px;
       border-radius:5px;background:var(--panel2);
       box-shadow:0 4px 14px rgba(0,0,0,.28),0 0 0 1px var(--border);
       z-index:90;opacity:.78;
@@ -272,6 +307,8 @@
     .mini-cell.mini-filled{background:var(--ok);}
     .mini-cell.mini-last{background:var(--mini-last);}
     .mini-cell.mini-conflict{background:var(--danger);}
+    .mini-cell.mini-preview-ok{background:var(--mini-preview-ok-bg);}
+    .mini-cell.mini-preview-conflict{background:var(--preview-conflict-bg);}
 
     /* Busca e linha de filtros um pouco mais estreitas: a mini-grade
        flutuante fica presa no canto superior direito da tela (ancorada no
@@ -285,12 +322,12 @@
        da mini-grade flutuante, que fica presa no canto superior direito
        da tela (ver .mini-grid). Sem isso, os dois seletores cobriam a
        mini-tabela em vez de pararem antes dela, como a busca já fazia. */
-    .course-select-wrap{margin-right:76px;}
+    .course-select-wrap{margin-right:96px;}
     .course-select-wrap label{font-size:11px;}
-    .course-select-wrap select{padding:6px 8px;font-size:12px;}
+    .course-select-wrap select{padding:6px 24px 6px 8px;font-size:12px;background-position:right 6px center;background-size:11px;}
 
     .search-wrap,
-    .filter-row{margin-right:76px;}
+    .filter-row{margin-right:96px;}
     .filter-row button{font-size:10.5px;padding:7px 6px;}
 
     /* Grade sem scroll lateral: o min-width:860px da tabela (regra base,
@@ -352,6 +389,7 @@
      rolar a página. Por isso essas regras só entram quando também há
      altura suficiente pra caber tudo sem precisar rolar. */
   @media(min-width:1900px) and (min-height:1000px){
+    :root{--header-h:76px; --action-bar-h:74px; --main-vpad:52px;}
     main{max-width:2300px;grid-template-columns:420px 1fr;gap:26px;padding:26px 34px;}
     header{padding:20px 34px 10px;}
     header h1{font-size:30px;}
@@ -366,9 +404,9 @@
     .toolbar{gap:10px;}
     button{font-size:15px;padding:12px 18px;border-radius:5px;}
     .panel{padding:22px;border-radius:7px;}
-    .search{font-size:17px;padding:14px 26px 14px 6px;}
+    .search{font-size:17px;padding:14px 26px 14px 27px;}
+    .search-icon{width:17px;height:17px;left:3px;}
     .filter-row button{font-size:13.5px;padding:10px 12px;}
-    .subject-list{max-height:min(calc(100vh - 300px), 1000px);}
     .subject-title{font-size:19px;}
     .subject-code{font-size:14px;}
     .subject-prof{font-size:13px;}
@@ -388,6 +426,7 @@
     .footer-note{font-size:12px;}
   }
   @media(min-width:2600px) and (min-height:1300px){
+    :root{--header-h:94px; --action-bar-h:92px; --main-vpad:64px;}
     main{max-width:3000px;grid-template-columns:520px 1fr;gap:32px;padding:32px 44px;}
     header{padding:26px 44px 12px;}
     header h1{font-size:38px;}
@@ -402,9 +441,9 @@
     .toolbar{gap:14px;}
     button{font-size:18px;padding:15px 22px;border-radius:6px;}
     .panel{padding:28px;border-radius:8px;}
-    .search{font-size:20px;padding:16px 30px 16px 8px;}
+    .search{font-size:20px;padding:16px 30px 16px 30px;}
+    .search-icon{width:19px;height:19px;left:4px;}
     .filter-row button{font-size:16px;padding:12px 14px;}
-    .subject-list{max-height:min(calc(100vh - 320px), 1200px);}
     .subject-title{font-size:22px;}
     .subject-code{font-size:16px;}
     .subject-prof{font-size:15px;}
@@ -422,6 +461,26 @@
     .cell-block .b-sub{font-size:15px;}
     .legend-item{font-size:15px;}
     .footer-note{font-size:14px;}
+  }
+
+  /* ============== PAINEL ESQUERDO ACOMPANHA A ALTURA DA TELA ==============
+     Só entra a partir de 981px (mesmo ponto em que main vira duas colunas -
+     ver linha 93): abaixo disso o painel empilha acima da grade e a página
+     já rola normalmente, então não faz sentido travar a altura aqui.
+     Em vez de "adivinhar" um deslocamento fixo (abordagem antiga, que errava
+     em telas mais baixas e fazia a lista - e a página inteira - crescer além
+     da viewport), o painel vira uma coluna flex com altura exatamente igual
+     ao espaço que sobra depois do header e da barra de ações (ambos medidos
+     via variável CSS, atualizada nos breakpoints de tela grande/4K acima) e
+     do padding vertical do <main>. A lista de disciplinas ocupa (flex:1) o
+     que sobrar dentro do painel — não importa quanto os selects, a busca e
+     os filtros ocupem, ela sempre absorve exatamente o restante, sem contas
+     manuais. O max() garante uma altura mínima utilizável em telas muito
+     baixas, mesmo que isso implique rolar a página nesse caso extremo. */
+  @media(min-width:981px){
+    .panel{display:flex;flex-direction:column;
+      height:max(calc(100vh - var(--header-h) - var(--action-bar-h) - var(--main-vpad) - 6px), 400px);}
+    .subject-list{flex:1;min-height:160px;max-height:none;overflow-y:auto;}
   }
 
   /* ============== TELA COM POUCA ALTURA (notebooks) ==============
@@ -474,6 +533,12 @@
     main{padding:12px 10px;gap:12px;}
     .header-title-row{width:100%;justify-content:space-between;flex-wrap:wrap;}
     header h1{white-space:normal;font-size:17px;line-height:1.25;}
+
+    /* Exceção do celular: aqui o aviso de conflito volta a aparecer em
+       cima da grade (ordem original), diferente do PC/tablet acima, onde
+       ele aparece depois da tabela. */
+    .conflict-banner{order:2;}
+    .grid-wrap{order:3;}
 
     /* Botões de ação (desfazer/refazer, copiar/colar, limpar) na barra fixa
        (.action-bar, sticky no topo). Em vez de rolar horizontalmente,

@@ -1,3 +1,6 @@
+# Scripts folder (não versionar)
+scripts/
+
 # Logs
 logs
 *.log

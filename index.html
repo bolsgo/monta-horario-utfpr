@@ -63,6 +63,7 @@
     </div>
     <label class="visually-hidden" for="searchBox">Buscar disciplina, código, professor ou sigla</label>
     <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
       <input class="search" id="searchBox" placeholder="Buscar disciplina, código, professor ou sigla...">
       <button type="button" class="search-clear" id="searchClear" title="Limpar busca" aria-label="Limpar busca" hidden>
         <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><line x1="5" y1="5" x2="19" y2="19"></line><line x1="19" y1="5" x2="5" y2="19"></line></svg>
@@ -75,7 +76,7 @@
     <div class="subject-list" id="subjectList" aria-label="Lista de disciplinas"></div>
   </div>
 
-  <div>
+  <div class="content-col">
     <div class="stats" id="statsBar" role="status" aria-live="polite"></div>
     <div class="conflict-banner" id="conflictBanner" role="alert" aria-live="assertive"></div>
     <div class="grid-wrap">

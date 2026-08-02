@@ -15,6 +15,13 @@
      termina de carregar (na primeira vez ou ao trocar de curso). */
   let DATA = [];
 
+  /* Em vez de checar UMA VEZ se o aparelho "tem hover" (isso não cobre um
+     iPad que ganha um mouse/trackpad depois de carregar a página, ou perde
+     ele), os efeitos de passar-o-mouse abaixo usam Pointer Events e olham
+     o pointerType de CADA evento: só ativam quando pointerType === "mouse"
+     (ou "pen"). Toque (pointerType === "touch") nunca aciona preview nem
+     hover cruzado, então não tem como grudar. */
+
   /* ============== REMOVEDOR DE DUPLICATAS ==============
      Lê um array de disciplinas (no formato do data/<slug>.json) e
      remove blocos de horários exatamente iguais antes de montar os
@@ -200,6 +207,7 @@ function subjectColor(code, contextCodes) {
       toggleOpen(code) {
         if (openSubjects.has(code)) openSubjects.delete(code); else openSubjects.add(code);
       },
+      closeAllOpen() { openSubjects = new Set(); },
 
       // Controla se o painel de detalhes (horário, vagas, etc.) de uma
       // turma ativa está expandido. É puramente de exibição — não entra
@@ -355,7 +363,7 @@ function subjectColor(code, contextCodes) {
           <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)}</div>
           <div class="subject-code">${esc(sub.code)} ${isSelected ? `<span class="badge selected-badge">${esc(selected[sub.code].turma)}</span> <span class="subject-prof">${esc(selected[sub.code].prof || "-")}</span>` : ""}</div>
         </div>
-        <div class="chev" aria-hidden="true">▶</div>`;
+        <div class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg></div>`;
       const toggleOpen = () => {
         State.toggleOpen(sub.code);
         renderSubjectList();
@@ -399,6 +407,7 @@ function subjectColor(code, contextCodes) {
           } else {
             State.selectTurma(sub, t, slots);
           }
+          State.setPreview(null); // limpa prévia residual (relevante em toque)
           renderAll();
         };
         optDiv.onclick = activate;
@@ -409,13 +418,16 @@ function subjectColor(code, contextCodes) {
             activate(e);
           }
         };
-        optDiv.onmouseenter = () => {
+        /* pointerenter em vez de mouseenter: assim dá pra checar o
+           pointerType de cada evento (mouse/pen vs touch) em vez de
+           decidir uma vez só se o aparelho "tem hover" — cobre também
+           iPad com mouse/trackpad conectado. A limpeza do preview (ao
+           sair) não fica mais no pointerleave deste item: veja o vigia
+           global logo abaixo, mais confiável. */
+        optDiv.onpointerenter = (e) => {
+          if (e.pointerType === "touch") return;
           const conflict = wouldConflict(slots, sub.code);
           State.setPreview({ slots, conflict });
-          renderGridPreviewOnly();
-        };
-        optDiv.onmouseleave = () => {
-          State.setPreview(null);
           renderGridPreviewOnly();
         };
         tp.appendChild(optDiv);
@@ -542,6 +554,29 @@ function subjectColor(code, contextCodes) {
     }
   });
 
+  /* Vigia global do preview: em vez de confiar em algum evento específico
+     de "saída" disparar (pointerleave de item, de container, etc. — que
+     na prática falhava em alguns casos, deixando o preview preso mesmo
+     sem mouse em cima de nada), checa a cada movimento do mouse em
+     QUALQUER lugar da página se o ponteiro ainda está sobre uma
+     .turma-opt. Se não estiver e ainda houver preview ativo, limpa.
+     Isso garante que o preview nunca fica "grudado". */
+  document.addEventListener("pointermove", (e) => {
+    if (e.pointerType === "touch") return;
+    if (!State.getPreview()) return;
+    if (e.target.closest && e.target.closest(".turma-opt")) return;
+    State.setPreview(null);
+    renderGridPreviewOnly();
+  });
+  /* E se o mouse sair da janela/documento inteiro (sem gerar mais
+     pointermove dentro dela), garante a limpeza também. */
+  document.addEventListener("pointerleave", (e) => {
+    if (e.pointerType === "touch") return;
+    if (!State.getPreview()) return;
+    State.setPreview(null);
+    renderGridPreviewOnly();
+  });
+
   /* ============== HOVER CRUZADO (lista ⇄ grade) ==============
      Passar o mouse num bloco da grade destaca a matéria correspondente
      na lista (mesmo visual de hover da lista), e vice-versa — sem
@@ -554,28 +589,42 @@ function subjectColor(code, contextCodes) {
     gridTable.querySelectorAll(`.cell-block[data-code="${CSS.escape(code)}"]`)
       .forEach(el => el.classList.toggle("hover-linked", on));
   }
-  gridTable.addEventListener("mouseover", (e) => {
+  /* pointerover/pointerout em vez de mouseover/mouseout, ignorando
+     pointerType "touch" — mesmo raciocínio do preview: funciona com
+     mouse/trackpad em qualquer aparelho (inclusive iPad com mouse
+     conectado), e nunca gruda em toque puro. */
+  gridTable.addEventListener("pointerover", (e) => {
+    if (e.pointerType === "touch") return;
     const block = e.target.closest(".cell-block");
     if (!block) return;
     setLinkedHover(block.dataset.code, true);
   });
-  gridTable.addEventListener("mouseout", (e) => {
+  gridTable.addEventListener("pointerout", (e) => {
+    if (e.pointerType === "touch") return;
     const block = e.target.closest(".cell-block");
     if (!block) return;
     if (block.contains(e.relatedTarget)) return;
     setLinkedHover(block.dataset.code, false);
   });
-  subjectListEl.addEventListener("mouseover", (e) => {
+  subjectListEl.addEventListener("pointerover", (e) => {
+    if (e.pointerType === "touch") return;
     const subject = e.target.closest(".subject");
     if (!subject) return;
     setLinkedHover(subject.dataset.code, true);
   });
-  subjectListEl.addEventListener("mouseout", (e) => {
+  subjectListEl.addEventListener("pointerout", (e) => {
+    if (e.pointerType === "touch") return;
     const subject = e.target.closest(".subject");
     if (!subject) return;
     if (subject.contains(e.relatedTarget)) return;
     setLinkedHover(subject.dataset.code, false);
   });
+
+  /* A mini-grade já resolve o preview sozinha dentro de renderMiniGrid()
+     (lendo o State a cada desenho), então só precisamos redesenhá-la. */
+  function renderMiniGridPreviewOnly() {
+    renderMiniGrid();
+  }
 
   /* Re-render apenas para aplicar/remover overlay de preview sem reconstruir
      tudo (rápido no hover) */
@@ -590,6 +639,7 @@ function subjectColor(code, contextCodes) {
       div.className = "cell-preview " + (previewSlots.conflict ? "pv-conflict" : "pv-ok");
       td.appendChild(div);
     });
+    renderMiniGridPreviewOnly();
   }
 
   /* ============== STATS + BANNER ============== */
@@ -607,7 +657,7 @@ function subjectColor(code, contextCodes) {
     statsBar.innerHTML = `
       <div><b>${count}</b> disciplina(s) selecionada(s)</div>
       <div><b>${totalAulas}</b> aulas semanais alocadas</div>
-      <div><b>${totalHoras}</b> horas semanais</div>
+      <div class="stat-with-icon"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15.5 14"></polyline></svg><b>${totalHoras}</b> horas semanais</div>
       <div>${conflicts.size > 0 ? `<b style="color:var(--danger)">${conflicts.size}</b> em conflito` : `<b style="color:var(--ok)">Sem conflitos</b>`}</div>
     `;
 
@@ -653,6 +703,19 @@ function subjectColor(code, contextCodes) {
     const lastCode = State.getLastSelected();
     const conflictCodes = computeConflictCodes(occ);
     const lastHasConflict = !!(lastCode && conflictCodes.has(lastCode));
+    /* Preview (hover na lista) resolvido aqui também, junto com o resto:
+       um mapa "dia-aula" -> "ok"/"conflict" pros slots da turma em hover.
+       Assim a mini-grade nunca fica com preview "preso": toda vez que ela
+       é redesenhada (por hover ou por qualquer outro motivo), a classe de
+       preview reflete o State atual, nunca uma classe deixada por uma
+       célula antiga que já nem existe mais. */
+    const previewSlots = State.getPreview();
+    const previewMap = {};
+    if (previewSlots) {
+      previewSlots.slots.forEach(s => {
+        previewMap[s.day + "-" + s.code] = previewSlots.conflict ? "mini-preview-conflict" : "mini-preview-ok";
+      });
+    }
     let html = "";
     AULAS.forEach(a => {
       DAYS.forEach(d => {
@@ -668,7 +731,9 @@ function subjectColor(code, contextCodes) {
             cls += " mini-filled";
           }
         }
-        html += `<div class="${cls}"></div>`;
+        const previewCls = previewMap[d.n + "-" + a.code];
+        if (previewCls) cls += " " + previewCls;
+        html += `<div class="${cls}" data-day="${d.n}" data-aula="${a.code}"></div>`;
       });
     });
     miniGrid.style.gridTemplateColumns = `repeat(${DAYS.length}, 1fr)`;
@@ -793,6 +858,12 @@ function subjectColor(code, contextCodes) {
   document.getElementById("filterSelected").onclick = (e) => { setFilter("selected", e.target); };
   document.getElementById("filterConflict").onclick = (e) => { setFilter("conflict", e.target); };
   function setFilter(mode, btn) {
+    const prevMode = State.getFilterMode();
+    // Fecha todas as disciplinas expandidas na lista sempre que o filtro
+    // muda (em qualquer direção) — evita levar cards abertos (às vezes de
+    // disciplinas que nem aparecerão mais no filtro novo) para o novo
+    // contexto de visualização.
+    if (prevMode !== mode) State.closeAllOpen();
     State.setFilterMode(mode);
     document.querySelectorAll(".filter-row button").forEach(b => {
       b.classList.remove("active");

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bolsgo.github.io/monta-horario-utfpr/sitemap.xml

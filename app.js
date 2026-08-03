@@ -142,6 +142,12 @@ function subjectColor(code, contextCodes) {
     let selected = {};              // {codigo: {..dados da turma escolhida..}}
     let openSubjects = new Set();   // códigos de disciplinas expandidas na lista
     let openInfo = new Set();       // códigos com o painel de detalhes da turma ativa aberto
+    // Turmas fixadas (pin), só usado/exibido no modo compacto. Guardado por
+    // disciplina: {codigo_da_materia: [turma1, turma2, ...]} na ORDEM em que
+    // foram fixadas — essa ordem é a ordem final de exibição (1ª fixada vai
+    // pra 1ª posição, 2ª fixada pra 2ª, etc). Não entra na pilha de
+    // desfazer/refazer nem é persistido: é só um atalho de visualização.
+    let pinned = {};
     let filterMode = "all";         // "all" | "selected" | "conflict"
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
@@ -151,6 +157,11 @@ function subjectColor(code, contextCodes) {
     // própria seleção separadamente (trocar de curso não apaga nem
     // mistura o que foi salvo nos outros).
     let STORAGE_KEY = "utfpr_horario_v2";
+    // Chave de storage das turmas fixadas (pin) — mesmo esquema do
+    // STORAGE_KEY acima: namespaced por sede+curso em switchCourse(), pra
+    // cada curso/sede guardar seus próprios pins sem misturar com os
+    // de outro curso.
+    let PIN_STORAGE_KEY = "utfpr_pinned_v1";
 
     function snapshot() { return JSON.stringify(selected); }
 
@@ -217,6 +228,35 @@ function subjectColor(code, contextCodes) {
         if (openInfo.has(code)) openInfo.delete(code); else openInfo.add(code);
       },
 
+      // Fixar/desafixar uma turma dentro da lista de uma disciplina. Ao
+      // fixar, a turma entra no FIM da lista de fixadas (última fixada =
+      // última entre as fixadas); ao desafixar, sai de onde estiver.
+      isPinned(code, turma) {
+        return !!(pinned[code] && pinned[code].includes(turma));
+      },
+      togglePin(code, turma) {
+        const list = pinned[code] || (pinned[code] = []);
+        const idx = list.indexOf(turma);
+        if (idx === -1) list.push(turma);
+        else {
+          list.splice(idx, 1);
+          if (list.length === 0) delete pinned[code];
+        }
+        this.savePinned();
+      },
+      getPinnedOrder(code) {
+        return pinned[code] || [];
+      },
+      loadPinned() {
+        try {
+          const raw = localStorage.getItem(PIN_STORAGE_KEY);
+          pinned = raw ? JSON.parse(raw) : {};
+        } catch (e) { pinned = {}; /* estado corrompido: ignora e começa vazio */ }
+      },
+      savePinned() {
+        localStorage.setItem(PIN_STORAGE_KEY, JSON.stringify(pinned));
+      },
+
       getFilterMode() { return filterMode; },
       setFilterMode(mode) { filterMode = mode; },
 
@@ -264,14 +304,17 @@ function subjectColor(code, contextCodes) {
       // desfazer/refazer, preview de hover etc.).
       switchCourse(sedeSlug, slug) {
         STORAGE_KEY = "utfpr_horario_v2_" + sedeSlug + "_" + slug;
+        PIN_STORAGE_KEY = "utfpr_pinned_v1_" + sedeSlug + "_" + slug;
         selected = {};
         openSubjects = new Set();
         openInfo = new Set();
+        pinned = {};
         previewSlots = null;
         undoStack = [];
         redoStack = [];
         lastSelectedCode = null;
         this.load();
+        this.loadPinned();
       }
     };
   })();
@@ -424,56 +467,158 @@ function subjectColor(code, contextCodes) {
       const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus);
 
 
+      const isTwoCol = compactOn && sub.turmas.length > 8;
       const tp = document.createElement("div");
-      tp.className = "turma-panel" + (compactOn && sub.turmas.length > 8 ? " two-col" : "");
+      tp.className = "turma-panel" + (isTwoCol ? " two-col" : "");
       // No modo compacto, a info da turma ativa não entra "no meio" do
       // fluxo (bagunçaria o alinhamento das colunas) — fica guardada aqui
       // e é adicionada só uma vez, no fim, depois de todas as turmas.
       let bottomInfoHtml = null;
 
-      sub.turmas.forEach(t => {
+      // Fixar (pin) existe nos dois modos (compacto e normal) e usa o
+      // mesmo estado — fixar/desafixar em um modo reflete no outro. As
+      // fixadas vêm primeiro, na ordem em que foram fixadas; o resto
+      // mantém a ordem original entre si.
+      let turmasToRender = sub.turmas;
+      {
+        const pinOrder = State.getPinnedOrder(sub.code);
+        if (pinOrder.length) {
+          const pinnedSet = new Set(pinOrder);
+          const pinnedTurmas = pinOrder.map(tc => sub.turmas.find(t => t.turma === tc)).filter(Boolean);
+          const rest = sub.turmas.filter(t => !pinnedSet.has(t.turma));
+          turmasToRender = [...pinnedTurmas, ...rest];
+        }
+      }
+
+      // Ícones "pin-angle" / "pin-angle-fill" dos Bootstrap Icons
+      // (https://icons.getbootstrap.com/icons/pin-angle/), via SVG
+      // Repo. Bootstrap Icons é licenciado sob MIT (Copyright (c)
+      // 2019-2024 The Bootstrap Authors) — aviso de licença/atribuição
+      // mantido aqui, junto do uso do ícone. A versão outline é usada
+      // quando a turma NÃO está fixada; ao fixar (pressed), troca pra
+      // versão preenchida (miolo com cor). Usado nos dois modos
+      // (compacto e normal).
+      const PIN_PATH_OUTLINE = "M9.828.722a.5.5 0 0 1 .354.146l4.95 4.95a.5.5 0 0 1 0 .707c-.48.48-1.072.588-1.503.588-.177 0-.335-.018-.46-.039l-3.134 3.134a5.927 5.927 0 0 1 .16 1.013c.046.702-.032 1.687-.72 2.375a.5.5 0 0 1-.707 0l-2.829-2.828-3.182 3.182c-.195.195-1.219.902-1.414.707-.195-.195.512-1.22.707-1.414l3.182-3.182-2.828-2.829a.5.5 0 0 1 0-.707c.688-.688 1.673-.767 2.375-.72a5.922 5.922 0 0 1 1.013.16l3.134-3.133a2.772 2.772 0 0 1-.04-.461c0-.43.108-1.022.589-1.503a.5.5 0 0 1 .353-.146zm.122 2.112v-.002.002zm0-.002v.002a.5.5 0 0 1-.122.51L6.293 6.878a.5.5 0 0 1-.511.12H5.78l-.014-.004a4.507 4.507 0 0 0-.288-.076 4.922 4.922 0 0 0-.765-.116c-.422-.028-.836.008-1.175.15l5.51 5.509c.141-.34.177-.753.149-1.175a4.924 4.924 0 0 0-.192-1.054l-.004-.013v-.001a.5.5 0 0 1 .12-.512l3.536-3.535a.5.5 0 0 1 .532-.115l.096.022c.087.017.208.034.344.034.114 0 .23-.011.343-.04L9.927 2.028c-.029.113-.04.23-.04.343a1.779 1.779 0 0 0 .062.46z";
+      const PIN_PATH_FILLED = "M9.828.722a.5.5 0 0 1 .354.146l4.95 4.95a.5.5 0 0 1 0 .707c-.48.48-1.072.588-1.503.588-.177 0-.335-.018-.46-.039l-3.134 3.134a5.927 5.927 0 0 1 .16 1.013c.046.702-.032 1.687-.72 2.375a.5.5 0 0 1-.707 0l-2.829-2.828-3.182 3.182c-.195.195-1.219.902-1.414.707-.195-.195.512-1.22.707-1.414l3.182-3.182-2.828-2.829a.5.5 0 0 1 0-.707c.688-.688 1.673-.767 2.375-.72a5.922 5.922 0 0 1 1.013.16l3.134-3.133a2.772 2.772 0 0 1-.04-.461c0-.43.108-1.022.589-1.503a.5.5 0 0 1 .353-.146z";
+      const pinIcon = (filled) => `<svg viewBox="0 0 16 16" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="${filled ? PIN_PATH_FILLED : PIN_PATH_OUTLINE}"></path></svg>`;
+
+      turmasToRender.forEach(t => {
         const slots = parseHorario(t.h);
         const optDiv = document.createElement("div");
         const isActive = isSelected && selected[sub.code].turma === t.turma;
-        optDiv.className = "turma-opt" + (isActive ? " active" : "");
-        optDiv.setAttribute("role", "button");
-        optDiv.setAttribute("tabindex", "0");
-        optDiv.setAttribute("aria-pressed", isActive ? "true" : "false");
+        const isPinned = State.isPinned(sub.code, t.turma);
+        optDiv.className = "turma-opt" + (isActive ? " active" : "") + (isPinned ? " pinned" : "");
         const hasOther = slots.some(s => s.otherCampus);
-        optDiv.innerHTML = `
-          ${isActive ? `<button type="button" class="t-info-btn" title="Ver informações da turma" aria-label="Ver informações da turma" aria-expanded="${State.isInfoOpen(sub.code) ? "true" : "false"}">i</button>` : ""}
-          <div class="t-left">
-            <div class="t-turma">Turma ${esc(t.turma)} ${hasOther ? '<span class="other-campus">*</span>' : ""}</div>
-            <div class="t-prof">${esc(t.prof)}</div>
-            <div class="t-meta"><span class="t-res t-res-${(t.res || "").toLowerCase().replace(/\s+/g, "-")}">${esc(t.res || "-")}</span> &middot; ${esc(t.prio || "-")}</div>
-          </div>
-          ${isActive ? '<button class="t-remove" title="Remover">✕</button>' : ""}
-        `;
-        const activate = (e) => {
-          if (e && e.target && e.target.classList && e.target.classList.contains("t-remove")) {
-            State.removeSubject(sub.code);
-          } else if (e && e.target && e.target.classList && e.target.classList.contains("t-info-btn")) {
-            State.toggleInfo(sub.code);
-          } else {
-            State.selectTurma(sub, t, slots);
-          }
-          State.setPreview(null); // limpa prévia residual (relevante em toque)
-          renderAll();
-        };
-        optDiv.onclick = activate;
-        optDiv.onkeydown = (e) => {
-          if (e.target !== optDiv) return; // o botão "Remover" nativo já cuida de si mesmo
-          if (e.key === "Enter" || e.key === " " || e.key === "Spacebar") {
-            e.preventDefault();
-            activate(e);
-          }
-        };
+
+        if (compactOn) {
+          /* Modo compacto: o botão vira um controle de até 3 partes:
+               1) "i" — só existe na turma ATIVA da matéria (nas demais
+                  nem entra no DOM, deixando o texto da turma ocupar
+                  mais espaço à esquerda/direita).
+               2) turma (.t-mid) — a maior parte do botão, mostrando só
+                  o código da turma (sem o prefixo "Turma", em 1 ou 2
+                  colunas) pra sobrar espaço pra prioridade de curso
+                  (t.prio), exibida ao lado em tom apagado e cortada
+                  com "…" se não couber (ver .t-prio-compact no CSS).
+                  Quando a turma vira a ativa, a prioridade some de vez
+                  no modo de 2 colunas e só parcialmente no de 1 coluna
+                  (sobra menos espaço com os botões "i"/pin visíveis,
+                  então o texto trunca mais, mas continua aparecendo).
+                  Clique normal seleciona; se já estiver selecionada, o
+                  hover fica vermelho e o clique nesse estado REMOVE —
+                  substitui o antigo botão "✕". Se a turma estiver
+                  fixada (pin) e não for a ativa, mostra por cima um
+                  indicativo (badge) não-clicável de que ela está
+                  fixada — ver .t-pin-indicator no CSS.
+               3) pin — botão de verdade (clicável) só existe na turma
+                  ATIVA, mesma regra do "i". */
+          // pinIcon() / PIN_PATH_OUTLINE / PIN_PATH_FILLED: definidos acima
+          // do forEach, compartilhados com o modo normal.
+          const turmaLabel = esc(t.turma);
+          // Prioridade de curso: fica ao lado do código da turma, num
+          // tom apagado, o mais compacta possível (ellipsis se não
+          // couber). Quando a turma é selecionada some de vez no modo
+          // de 2 colunas (menos espaço sobrando) e só parcialmente no
+          // de 1 coluna (o espaço reservado pros botões "i"/pin some
+          // menos texto, então o ellipsis corta menos).
+          const prioText = (t.prio && t.prio !== "-") ? esc(t.prio) : "";
+          const showPrio = !!prioText && !(isActive && isTwoCol);
+          optDiv.innerHTML = `
+            ${isActive ? `<button type="button" class="t-info-btn" title="Ver informações da turma" aria-label="Ver informações da turma" aria-expanded="${State.isInfoOpen(sub.code) ? "true" : "false"}">i</button>` : ""}
+            <div class="t-mid" role="button" tabindex="0" aria-pressed="${isActive ? "true" : "false"}" title="${isActive ? "Remover turma" : "Selecionar turma"}">
+              <div class="t-turma">${turmaLabel} ${hasOther ? '<span class="other-campus">*</span>' : ""}</div>
+              ${showPrio ? `<div class="t-prio-compact" title="Prioridade - Curso: ${prioText}">${prioText}</div>` : ""}
+              ${(!isActive && isPinned) ? `<span class="t-pin-indicator" title="Turma fixada" aria-hidden="true">${pinIcon(true)}</span>` : ""}
+            </div>
+            ${isActive ? `<button type="button" class="t-pin-btn${isPinned ? " pinned" : ""}" title="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-label="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-pressed="${isPinned ? "true" : "false"}">
+              ${pinIcon(isPinned)}
+            </button>` : ""}
+          `;
+          const midEl = optDiv.querySelector(".t-mid");
+          const infoBtn = optDiv.querySelector(".t-info-btn");
+          const pinBtn = optDiv.querySelector(".t-pin-btn");
+          const selectOrRemove = () => {
+            if (isActive) State.removeSubject(sub.code);
+            else State.selectTurma(sub, t, slots);
+            State.setPreview(null); // limpa prévia residual (relevante em toque)
+            renderAll();
+          };
+          midEl.onclick = selectOrRemove;
+          midEl.onkeydown = (e) => {
+            if (e.key === "Enter" || e.key === " " || e.key === "Spacebar") {
+              e.preventDefault();
+              selectOrRemove();
+            }
+          };
+          if (infoBtn) infoBtn.onclick = () => { State.toggleInfo(sub.code); renderAll(); };
+          if (pinBtn) pinBtn.onclick = () => { State.togglePin(sub.code, t.turma); renderSubjectList(); };
+        } else {
+          optDiv.setAttribute("role", "button");
+          optDiv.setAttribute("tabindex", "0");
+          optDiv.setAttribute("aria-pressed", isActive ? "true" : "false");
+          optDiv.innerHTML = `
+            ${isActive ? `<button type="button" class="t-info-btn" title="Ver informações da turma" aria-label="Ver informações da turma" aria-expanded="${State.isInfoOpen(sub.code) ? "true" : "false"}">i</button>` : ""}
+            <div class="t-left">
+              <div class="t-turma">Turma ${esc(t.turma)} ${hasOther ? '<span class="other-campus">*</span>' : ""}${(!isActive && isPinned) ? `<span class="t-pin-indicator" title="Turma fixada" aria-hidden="true">${pinIcon(true)}</span>` : ""}</div>
+              <div class="t-prof">${esc(t.prof)}</div>
+              <div class="t-meta"><span class="t-res t-res-${(t.res || "").toLowerCase().replace(/\s+/g, "-")}">${esc(t.res || "-")}</span> &middot; ${esc(t.prio || "-")}</div>
+            </div>
+            ${isActive ? `<button type="button" class="t-pin-btn${isPinned ? " pinned" : ""}" title="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-label="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-pressed="${isPinned ? "true" : "false"}">${pinIcon(isPinned)}</button>` : ""}
+            ${isActive ? '<button class="t-remove" title="Remover">✕</button>' : ""}
+          `;
+          const activate = (e) => {
+            const target = e && e.target;
+            if (target && target.closest && target.closest(".t-pin-btn")) {
+              State.togglePin(sub.code, t.turma);
+              renderSubjectList();
+              return;
+            } else if (target && target.closest && target.closest(".t-remove")) {
+              State.removeSubject(sub.code);
+            } else if (target && target.closest && target.closest(".t-info-btn")) {
+              State.toggleInfo(sub.code);
+            } else {
+              State.selectTurma(sub, t, slots);
+            }
+            State.setPreview(null); // limpa prévia residual (relevante em toque)
+            renderAll();
+          };
+          optDiv.onclick = activate;
+          optDiv.onkeydown = (e) => {
+            if (e.target !== optDiv) return; // o botão "Remover" nativo já cuida de si mesmo
+            if (e.key === "Enter" || e.key === " " || e.key === "Spacebar") {
+              e.preventDefault();
+              activate(e);
+            }
+          };
+        }
         /* pointerenter em vez de mouseenter: assim dá pra checar o
            pointerType de cada evento (mouse/pen vs touch) em vez de
            decidir uma vez só se o aparelho "tem hover" — cobre também
            iPad com mouse/trackpad conectado. A limpeza do preview (ao
            sair) não fica mais no pointerleave deste item: veja o vigia
-           global logo abaixo, mais confiável. */
+           global logo abaixo, mais confiável. Vale pra linha inteira nos
+           dois modos (não interfere com os cliques, que são tratados
+           separadamente acima). */
         optDiv.onpointerenter = (e) => {
           if (e.pointerType === "touch") return;
           const conflict = wouldConflict(slots, sub.code);

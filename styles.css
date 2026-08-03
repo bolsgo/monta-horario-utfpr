@@ -15,7 +15,7 @@
     --mini-preview-ok-bg:rgba(41,109,181,.75);
     --preview-ring:rgba(43,38,32,.55); --other-campus:#a8342a; --room-other:#8a3324;
     --danger-hover-bg:rgba(168,52,42,.1); --hover-bg:#e4d9c2; --accent-hover:#6f2a1e;
-    --mini-last:#2f6fb0;
+    --mini-last:#2f6fb0; --info-strong:#2b2621; --ead-text:#000000;
     --font-display:'Lexend',-apple-system,Helvetica,Arial,sans-serif; --font-body:'Lexend',-apple-system,Helvetica,Arial,sans-serif;
     --stripe: rgba(43,38,32,.04);
   }
@@ -32,7 +32,7 @@
     --mini-preview-ok-bg:rgba(111,168,220,.68);
     --preview-ring:rgba(0,0,0,.65); --other-campus:#e58b7e; --room-other:#e58b7e;
     --danger-hover-bg:rgba(221,115,98,.14); --hover-bg:#2e2e34; --accent-hover:#a84f33;
-    --mini-last:#6fa8dc;
+    --mini-last:#6fa8dc; --info-strong:#b5b5ba; --ead-text:#ffffff;
     --stripe: rgba(238,230,214,.03);
   }
   *{box-sizing:border-box;}
@@ -151,21 +151,21 @@
   }
   .subject-head-text{min-width:0;flex:1;}
   .subject-title{font-family:var(--font-display);font-size:14.5px;font-weight:600;line-height:1.3;overflow-wrap:break-word;}
-  .subject-code{color:var(--muted);font-size:11px;font-weight:500;display:flex;flex-wrap:nowrap;align-items:center;gap:6px;height:15px;}
+  .subject-code{color:var(--info-strong);font-size:11px;font-weight:500;display:flex;flex-wrap:nowrap;align-items:center;gap:6px;height:15px;}
   .subject-code-text{line-height:1;flex-shrink:0;}
   /* Selo da turma: um quadrado minimalista de bordas arredondadas
      desenhado em SVG (só contorno, sem preenchimento) em volta do
      número — mesmo tom neutro do resto da linha (código/reserva). */
   .turma-chip{position:relative;display:inline-flex;align-items:center;justify-content:center;
-    padding:2px 7px;line-height:1;color:var(--muted);}
+    padding:2px 7px;line-height:1;color:var(--info-strong);}
   .turma-chip.chip-empty{opacity:0;pointer-events:none;}
-  .turma-chip-bg{position:absolute;inset:0;width:100%;height:100%;color:var(--muted);}
+  .turma-chip-bg{position:absolute;inset:0;width:100%;height:100%;color:var(--info-strong);}
   .turma-chip-text{position:relative;z-index:1;font-weight:600;font-size:10.5px;line-height:1;}
   .turma-chip-star{position:relative;z-index:1;font-size:10.5px;line-height:1;margin-left:1px;}
   /* Linha reservada pro nome do professor, sempre em baixo do código da
      matéria (min-height mantém o espaço mesmo quando ainda não há nada
      selecionado, pra lista não "pular" ao selecionar/desmarcar). */
-  .subject-prof{color:var(--muted);font-size:10.5px;font-weight:500;font-style:italic;height:13px;line-height:13px;margin-top:1px;
+  .subject-prof{color:var(--info-strong);font-size:10.5px;font-weight:500;font-style:italic;height:13px;line-height:13px;margin-top:1px;
     overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
   /* No escuro, as cores de disciplinas selecionadas (vindas da paleta, pensada
      para fundo escuro nos blocos da grade) ficam pouco legíveis como texto
@@ -194,25 +194,97 @@
   .subject-code .t-res.res-inline,
   .subject-code .t-res.res-inline.t-res-fechada,
   .subject-code .t-res.res-inline.t-res-aberta,
-  .subject-code .t-res.res-inline.t-res-sem-reserva{background:none;color:var(--muted);font-weight:500;padding:0;line-height:1;}
+  .subject-code .t-res.res-inline.t-res-sem-reserva{background:none;color:var(--info-strong);font-weight:500;padding:0;line-height:1;}
   .turma-opt .t-remove{align-self:stretch;height:auto;color:var(--danger);font-size:13px;background:none;border:none;cursor:pointer;padding:2px 8px;display:flex;align-items:center;justify-content:center;}
+  /* Botão de fixar (pin) no modo normal — mesmo estado do modo compacto
+     (ver State.pinned em app.js), só muda a aparência/posição pra
+     combinar com o layout deste modo. Fica à esquerda do "✕", os dois
+     só aparecem na turma ativa. */
+  .turma-opt .t-pin-btn{align-self:stretch;height:auto;flex-shrink:0;color:var(--muted);background:none;border:none;
+    cursor:pointer;padding:2px 6px;display:flex;align-items:center;justify-content:center;
+    transition:color .12s ease,background .12s ease;}
+  .turma-opt .t-pin-btn:hover{background:var(--hover-bg);color:var(--text);}
+  .turma-opt .t-pin-btn.pinned{color:var(--accent2);}
+  .turma-opt .t-pin-btn.pinned svg{fill:currentColor;}
+  /* Indicativo (não-clicável) de turma fixada, ao lado do código da
+     turma, quando ela NÃO é a ativa — o botão de pin de verdade só
+     existe na turma ativa. */
+  .t-turma .t-pin-indicator{display:inline-flex;vertical-align:middle;margin-left:5px;color:var(--accent2);opacity:.85;position:relative;top:-1px;}
 
   /* ============== MODO COMPACTO ==============
-     Esconde professor/reserva/prioridade de cada turma, deixando só o
-     botão "i" (info) e o número da turma (com o * de outra sede, se
-     houver) — pensado para caber mais turmas na tela sem precisar
-     rolar tanto pra dar hover/ver a lista inteira. */
-  html[data-compact="true"] .turma-opt{padding:6px 9px;align-items:center;}
-  html[data-compact="true"] .t-prof,
-  html[data-compact="true"] .t-meta{display:none;}
-  html[data-compact="true"] .t-turma{font-size:13px;}
-  /* Sem isso, o "i" e o "✕" (que só existem na turma ativa) esticavam a
-     linha inteira (align-items:stretch do .turma-opt), deixando a turma
-     selecionada visivelmente maior que as outras. Fixando a altura deles
-     ao tamanho do texto da turma, a linha fica do mesmo tamanho antes e
-     depois de selecionar. */
-  html[data-compact="true"] .t-info-btn,
-  html[data-compact="true"] .t-remove{align-self:center;height:18px;font-size:11px;padding:0 5px;}
+     O botão de cada turma vira um controle segmentado de até 3 partes,
+     lado a lado:
+       1) "i" (informações)  — só entra no DOM na turma ATIVA da
+          matéria; nas demais nem aparece, deixando o texto da turma
+          (.t-mid) ocupar mais espaço.
+       2) turma (.t-mid)     — a maior parte do botão (flex:1 enche o
+          espaço que sobra das outras duas, fixas). Mostra só o código
+          da turma (ex.: "S21") quando o painel está em 2 colunas
+          (turmas>8); com 1 coluna sobra espaço e mostra "Turma S21".
+          Clique normal seleciona a turma; se ela JÁ estiver
+          selecionada, o hover fica vermelho (ver .active .t-mid:hover)
+          e o clique nesse estado REMOVE — substitui o antigo botão
+          "✕".
+       3) pin                — sempre visível, estreito, sem nenhuma
+          animação de aparecer/sumir.
+     Ver renderSubjectList() em app.js pra montagem do HTML de cada modo. */
+  html[data-compact="true"] .turma-opt{padding:0;gap:0;align-items:stretch;overflow:hidden;}
+  html[data-compact="true"] .t-turma{flex:0 0 auto;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  /* Prioridade de curso (t.prio): ao lado do código da turma, tom
+     apagado, o mais compacta possível — trunca com "…" se não couber
+     (ver showPrio em renderSubjectList(), app.js, pra quando ela
+     aparece/some conforme a turma está selecionada ou não). */
+  html[data-compact="true"] .t-prio-compact{
+    flex:1 1 auto;min-width:0;margin-left:6px;text-align:right;
+    font-size:9.5px;color:var(--muted);opacity:.7;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
+  html[data-compact="true"] .turma-opt.active .t-mid:hover .t-prio-compact{color:inherit;opacity:.8;}
+  html[data-compact="true"] .turma-opt.pinned:not(.active) .t-prio-compact{padding-right:16px;}
+
+  html[data-compact="true"] .t-info-btn{
+    flex:0 0 22px;align-self:stretch;width:auto;height:auto;border-radius:0;font-size:12px;padding:0;
+    background:color-mix(in srgb, var(--panel2) 78%, black 22%);
+    transition:background .12s ease,color .12s ease;
+  }
+  html[data-compact="true"] .t-info-btn:hover{background:var(--hover-bg);}
+  html[data-compact="true"] .t-info-btn[aria-expanded="true"]{background:var(--accent2);color:var(--on-accent);}
+
+  html[data-compact="true"] .t-mid{
+    flex:1;min-width:0;position:relative;display:flex;align-items:center;padding:7px 9px;cursor:pointer;
+    border-left:1px solid var(--border);transition:background .12s ease,color .12s ease;
+  }
+  html[data-compact="true"] .t-mid:hover{background:var(--hover-bg);}
+  /* Indicativo (não-clicável) de que a turma está fixada, mostrado por
+     cima do canto direito do botão do meio quando ela NÃO é a turma
+     ativa — o botão de pin de verdade (clicável) só existe na turma
+     ativa (ver renderSubjectList() em app.js). */
+  html[data-compact="true"] .t-pin-indicator{
+    position:absolute;top:50%;right:7px;transform:translateY(-50%);
+    display:flex;pointer-events:none;color:var(--accent2);opacity:.85;
+  }
+  html[data-compact="true"] .turma-opt.active .t-mid:hover .t-pin-indicator{color:inherit;}
+  /* Turma já selecionada: passar o mouse pela parte do meio vira um
+     aviso de remoção (vermelho do tema, funciona no claro e no escuro),
+     e o clique nesse estado remove a turma — ver selectOrRemove() em
+     app.js. O vermelho se estende aos 3 segmentos do controle (i / meio
+     / pin), não só o do meio — por isso o :has() no seletor, escutando
+     o hover do meio mas pintando o .turma-opt inteiro. */
+  html[data-compact="true"] .turma-opt.active .t-mid:hover{background:var(--danger);color:var(--on-accent);}
+  html[data-compact="true"] .turma-opt.active .t-mid:hover .other-campus{color:inherit;}
+  html[data-compact="true"] .turma-opt.active:has(.t-mid:hover) .t-info-btn,
+  html[data-compact="true"] .turma-opt.active:has(.t-mid:hover) .t-pin-btn{background:var(--danger);color:var(--on-accent);}
+
+  html[data-compact="true"] .t-pin-btn{
+    flex:0 0 11px;align-self:stretch;width:auto;height:auto;margin:0;
+    border-left:1px solid var(--border);border-radius:0;background:none;color:var(--muted);
+    cursor:pointer;display:flex;align-items:center;justify-content:flex-end;
+    transition:color .12s ease,background .12s ease;
+  }
+  html[data-compact="true"] .t-pin-btn svg{width:13px;height:13px;flex-shrink:0;}
+  html[data-compact="true"] .t-pin-btn:hover{background:var(--hover-bg);color:var(--text);}
+  html[data-compact="true"] .t-pin-btn.pinned{color:var(--accent2);}
+  html[data-compact="true"] .t-pin-btn.pinned svg{fill:currentColor;}
 
   /* Painel de turmas em 2 colunas (só no modo compacto, quando a matéria
      aberta tem muitas turmas — ver renderSubjectList em app.js). Grid em
@@ -241,7 +313,7 @@
   .turma-info{font-size:11px;color:var(--muted);margin-top:6px;line-height:1.6;padding:8px 9px;background:var(--panel);border-radius:4px;}
   .badge{display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:700;margin-left:6px;}
   .badge.selected-badge{background:var(--accent);color:var(--on-accent);}
-  .badge.badge-ead{background:var(--accent2);color:var(--on-accent);vertical-align:middle;}
+  .badge.badge-ead{background:none;color:var(--ead-text);padding:0;font-weight:800;vertical-align:middle;}
   html[data-theme="dark"] .badge.selected-badge{background:var(--mini-last);}
   .grid-wrap{overflow-x:auto;border-radius:5px;position:relative;}
   table.grid{border-collapse:separate;border-spacing:0;width:100%;min-width:860px;background:var(--panel);border-radius:5px;}

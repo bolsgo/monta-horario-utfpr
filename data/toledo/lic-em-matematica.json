@@ -1,0 +1,19 @@
+[
+  {
+    "code": "MAT58D",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "code": "PP59F",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "Y101",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TEP1",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "EP10",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  }
+]

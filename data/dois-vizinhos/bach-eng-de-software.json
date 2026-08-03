@@ -1,0 +1,991 @@
+[
+  {
+    "code": "AL12SW",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(B6-S2)-2N5(B6-S2)-3N1(B6-S2)-3N2(B6-S2)",
+        "prof": "Luciana Boemer Cesar Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE13SW",
+    "name": "Algoritmos E Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(B6-S2)-2N2(B6-S2)-2N3(6REDES)-2N4(6REDES)",
+        "prof": "Maria Adelina Silva Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE14SW",
+    "name": "Algoritmos E Estrutura De Dados 2",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(4COMP)-6N2(4COMP)-6N3(4COMP)",
+        "prof": "Tarlis Tortelli Portela",
+        "opt": "Não"
+      },
+      {
+        "turma": "4ES2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(5ARQU)-6N2(5ARQU)-6N3(5ARQU)",
+        "prof": "Fabio Cesar Schuartz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AG11SW",
+    "name": "Algoritmos 1",
+    "turmas": [
+      {
+        "turma": "1ES1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(B6-S1)-3N2(B6-S1)-3N3(2PROGR)-3N4(2PROGR)-3N5(2PROGR)",
+        "prof": "Evandro Miguel Kuszera, Thiago Dias",
+        "opt": "Não"
+      },
+      {
+        "turma": "1ES2",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(B6-S1)-3N2(B6-S1)-3N3(3PRODSOFT)-3N4(3PRODSOFT)-3N5(3PRODSOFT)",
+        "prof": "Evandro Miguel Kuszera, Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AG12SW",
+    "name": "Algoritmos 2",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(B6-S2)-4N2(B6-S2)-5N1(3PRODSOFT)-5N1(4COMP)-5N2(3PRODSOFT)-5N2(4COMP)-5N3(3PRODSOFT)-5N3(4COMP)",
+        "prof": "Evandro Miguel Kuszera, Rodrigo Tomaz Pagno, Teruo Matos Maruyama",
+        "opt": "Não"
+      },
+      {
+        "turma": "2ES2",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(B6-S2)-4N2(B6-S2)",
+        "prof": "Teruo Matos Maruyama",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS14SW",
+    "name": "Arquitetura De Software",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(2PROGR)-4N2(2PROGR)-5N3(B6-S4)-5N4(B6-S4)",
+        "prof": "Francisco Carlos Monteiro Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "4ES2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(4COMP)-4N2(4COMP)-4N3(B6-S6)-4N4(B6-S6)",
+        "prof": "Tarlis Tortelli Portela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BD12SW",
+    "name": "Banco De Dados 1",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(3PRODSOFT)-2N2(3PRODSOFT)-2N3(3PRODSOFT)-5N4(B6-S2)-5N5(B6-S2)",
+        "prof": "Rodrigo Tomaz Pagno",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "BD13SW",
+    "name": "Banco De Dados 2",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(3PRODSOFT)-4N2(3PRODSOFT)-4N3(3PRODSOFT)-4N4(3PRODSOFT)",
+        "prof": "Rodrigo Tomaz Pagno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DS17SW",
+    "name": "Design De Software",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(2PROGR)-3N2(2PROGR)-3N3(7FABSOFT)-3N4(7FABSOFT)-3N5(7FABSOFT)",
+        "prof": "Andre Roberto Ortoncelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI15SW",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N1(B6-S5)-5N2(B6-S5)",
+        "prof": "Sergio Luiz Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EN14SW",
+    "name": "Ética, Normas E Postura Profissional",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(AUDG10)-3N2(AUDG10)",
+        "prof": "Tatiane Peratz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS15SW",
+    "name": "Fábrica De Software 1",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(7FABSOFT)-4N2(7FABSOFT)-4N3(7FABSOFT)-4N4(7FABSOFT)-4N5(7FABSOFT)",
+        "prof": "Rafael Alves Paes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS16SW",
+    "name": "Fábrica De Software 2",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(7FABSOFT)-4N2(7FABSOFT)-4N3(7FABSOFT)-4N4(7FABSOFT)-4N5(7FABSOFT)",
+        "prof": "Bruno De Castro Honorato Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FD11SW",
+    "name": "Fundamentos De Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "1ES1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N3(B6-S1)-5N4(B6-S1)-5N5(B6-S1)",
+        "prof": "Rafael Alves Paes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SI16SW",
+    "name": "Fundamentos De Sistemas Inteligentes",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(5ARQU)-3N4(5ARQU)-3N5(5ARQU)",
+        "prof": "Marlon Marcon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GC13SW",
+    "name": "Gerência De Configuração De Software",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(B6-S3)-3N4(B6-S3)",
+        "prof": "Rafael Alves Paes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP13SW",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N3(B6-S3)-5N4(B6-S3)",
+        "prof": "Sergio Luiz Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PS15SW",
+    "name": "Gestão De Projeto De Software",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(B6-S5)-3N2(B6-S5)-6N3(B6-S5)-6N4(B6-S5)",
+        "prof": "Marisangela Pacheco Brittes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GV19SW",
+    "name": "Governança De Ti Verde",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(B7-S8)-5N5(B7-S8)",
+        "prof": "Maria Adelina Silva Brito",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "IC18SW",
+    "name": "Integração Contínua",
+    "turmas": [
+      {
+        "turma": "8ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(4COMP)-3N4(4COMP)-3N5(4COMP)",
+        "prof": "Bruno De Castro Honorato Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IS19SW",
+    "name": "Integração De Sistemas",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(4COMP)-5N5(4COMP)",
+        "prof": "Evandro Miguel Kuszera",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "HC15SW",
+    "name": "Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(6REDES)-3N4(6REDES)-3N5(6REDES)",
+        "prof": "Marisangela Pacheco Brittes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA11SW",
+    "name": "Letramento Acadêmico",
+    "turmas": [
+      {
+        "turma": "1ES1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(B6-S1)-2N2(B6-S1)-2N3(B6-S1)",
+        "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI19SW",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(B6-S6)-2N2(B6-S6)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "LB38C",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N4(B5-S3)-6N5(B5-S3)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:6, Matriz:52"
+      },
+      {
+        "turma": "3LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6N4(B5-S3)-6N5(B5-S3)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "LC11SW",
+    "name": "Lógica Para Computação",
+    "turmas": [
+      {
+        "turma": "1ES1",
+        "enq": "Presencial",
+        "vt": "47",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(B6-S1)-2N5(B6-S1)-4N4(B6-S1)-4N5(B6-S1)",
+        "prof": "Teruo Matos Maruyama",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MN16SW",
+    "name": "Manutenção De Software",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N3(B6-S6)-5N4(B6-S6)-6N3(B6-S6)-6N4(B6-S6)",
+        "prof": "Gustavo Jansen De Souza Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MD11SW",
+    "name": "Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "1ES1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(B6-S1)-4N2(B6-S1)-4N3(B6-S1)",
+        "prof": "Renata Da Silva Dessbesel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME18SW",
+    "name": "Mercado Produtor De Software",
+    "turmas": [
+      {
+        "turma": "8ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N3(B7-S8)-4N4(B7-S8)-4N5(B7-S8)",
+        "prof": "Marisangela Pacheco Brittes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP16SW",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(B6-S6)-6N2(B6-S6)",
+        "prof": "Maria Adelina Silva Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MS13SW",
+    "name": "Modelagem De Software",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(B6-S3)-3N2(B6-S3)-5N1(B6-S3)-5N2(B6-S3)",
+        "prof": "Alinne Cristinne Correa Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OC12SW",
+    "name": "Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N3(B6-S5)-4N4(B6-S5)-4N5(B6-S5)",
+        "prof": "Fabio Cesar Schuartz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PR17SW",
+    "name": "Paradigmas De Programação",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(B7-S7)-2N2(B7-S7)-2N3(B7-S7)",
+        "prof": "Teruo Matos Maruyama",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE16SW",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(2PROGR)-2N2(2PROGR)-3N1(4COMP)-3N2(4COMP)",
+        "prof": "Edgar De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP12SW",
+    "name": "Processo De Produção De Software",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(2PROGR)-6N2(2PROGR)-6N3(2PROGR)-6N4(2PROGR)",
+        "prof": "Alinne Cristinne Correa Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PC17SW",
+    "name": "Programação Concorrente",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N1(B7-S7)-4N2(B7-S7)-6N1(6REDES)-6N2(6REDES)",
+        "prof": "Rodolfo Adamshuk Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PO13SW",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(3PRODSOFT)-6N2(3PRODSOFT)-6N3(3PRODSOFT)-6N4(3PRODSOFT)",
+        "prof": "Evandro Miguel Kuszera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DM15SW",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(6REDES)-2N2(6REDES)-6N1(B6-S5)-6N2(B6-S5)",
+        "prof": "Marlon Marcon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PW14SW",
+    "name": "Programação Para Web 1",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(5ARQU)-2N2(5ARQU)-2N3(5ARQU)-2N4(5ARQU)",
+        "prof": "Bruno De Castro Honorato Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "4ES2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(4COMP)-2N2(4COMP)-2N3(4COMP)-2N4(4COMP)",
+        "prof": "Tarlis Tortelli Portela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PW15SW",
+    "name": "Programação Para Web 2",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N3(B6-S5)-2N4(B6-S5)-5N3(B6-S5)-5N4(B6-S5)",
+        "prof": "Andre Roberto Ortoncelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QS17SW",
+    "name": "Qualidade De Software",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N3(B7-S7)-6N4(B7-S7)-6N5(B7-S7)",
+        "prof": "Maria Adelina Silva Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QV19SW",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(B7-S7)-5N5(B7-S7)",
+        "prof": "Marisangela Pacheco Brittes",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "RC14SW",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(B7-S8)-3N4(B7-S8)-3N5(B7-S8)",
+        "prof": "Fabio Cesar Schuartz",
+        "opt": "Não"
+      },
+      {
+        "turma": "4ES2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(B6-S4)-3N4(B6-S4)-3N5(B6-S4)",
+        "prof": "Erinaldo Da Silva Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RN19SW",
+    "name": "Redes Neurais Artificiais",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N3(6REDES)-6N4(6REDES)-6N5(6REDES)",
+        "prof": "Teruo Matos Maruyama",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "RS12SW",
+    "name": "Requisitos De Software",
+    "turmas": [
+      {
+        "turma": "2ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N3(B6-S2)-3N4(B6-S2)-3N5(B6-S2)",
+        "prof": "Alinne Cristinne Correa Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SA18SW",
+    "name": "Segurança E Auditoria Em Sistemas",
+    "turmas": [
+      {
+        "turma": "8ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(B7-S8)-3N2(B7-S8)-4N1(B7-S8)-4N2(B7-S8)",
+        "prof": "Erinaldo Da Silva Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SI17SW",
+    "name": "Sistemas Inteligentes Aplicados À Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N3(2PROGR)-4N4(2PROGR)-4N5(2PROGR)",
+        "prof": "Francisco Carlos Monteiro Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SO14SW",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "4ES1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N3(4COMP)-4N4(4COMP)-5N1(6REDES)-5N2(6REDES)",
+        "prof": "Erinaldo Da Silva Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "4ES2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N1(5ARQU)-5N2(5ARQU)-5N3(5ARQU)-5N4(5ARQU)",
+        "prof": "Fabio Cesar Schuartz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TS16SW",
+    "name": "Teste De Software",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N3(B6-S6)-2N4(B6-S6)-5N1(B6-S6)-5N2(B6-S6)",
+        "prof": "Rafael Alves Paes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TD19SW",
+    "name": "Tópicos Especiais Em Desenvolvimento De Software",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(B6-S4)-2N2(B6-S4)-2N3(B6-S4)-2N4(B6-S4)",
+        "prof": "Francisco Carlos Monteiro Souza",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "TC17SW",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "7ES1",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(B7-S7)-2N5(B7-S7)",
+        "prof": "Marlon Marcon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC28S",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "8ES1",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Marlon Marcon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "VC19SW",
+    "name": "Visão Computacional",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(2PROGR)-5N2(2PROGR)-5N3(2PROGR)",
+        "prof": "Marlon Marcon",
+        "opt": "Matriz:56"
+      }
+    ]
+  }
+]

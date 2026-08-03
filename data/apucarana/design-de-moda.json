@@ -1,0 +1,1075 @@
+[
+  {
+    "code": "ASDM3O",
+    "name": "Ações Solidárias, Desenvolvimento Social E Cultural",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3T1(C004)-3T2(C004)-3T3(C004)",
+        "prof": "Patricia Aparecida De Almeida",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "AFCO5O",
+    "name": "Aptidão Física",
+    "turmas": [
+      {
+        "turma": "OPEG5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(QUADRA)-4T3(QUADRA)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Matriz:32"
+      }
+    ]
+  },
+  {
+    "code": "ARDM1A",
+    "name": "Artesania",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M4(C007)-5M5(C007)",
+        "prof": "Raquel Rabelo Andrade",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM1B",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M2(C007)-5M3(C007)",
+        "prof": "Raquel Rabelo Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BODM4A",
+    "name": "Bordado",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M4(C003)-5M5(C003)-5M6(C003)",
+        "prof": "Celso Tetsuro Suono",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM4B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M1(C003)-5M2(C003)-5M3(C003)",
+        "prof": "Celso Tetsuro Suono",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICO1A",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "COM1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Química, 2 - Engenharia Química",
+        "h": "3M4(N108)-3M5(N108)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICDM1A",
+    "name": "Confecção Industrial",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M1(C007)-6M2(C007)",
+        "prof": "Patricia Helena Campestrini Harger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CEDM3A",
+    "name": "Costura Experimental",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M1(C006)-4M2(C006)-4M3(C006)",
+        "prof": "Carla Hidalgo Capelassi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DMDM2A",
+    "name": "Desenho De Moda",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M1(I001)-6M2(I001)-6M3(I001)-6M4(I001)",
+        "prof": "Celso Tetsuro Suono",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DGDM1A",
+    "name": "Desenho Geométrico Aplicado À Moda",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M3(K003)-6M4(K003)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENCO8A",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "COM8A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Química, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "3T3(C003)-3T4(M008)",
+        "prof": "Ronie Galeano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMDM5A",
+    "name": "Empreendedorismo Na Moda",
+    "turmas": [
+      {
+        "turma": "DM5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M1(M011)-4M2(M011)-4M3(M011)",
+        "prof": "Marcelo Capre Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ERDM1A",
+    "name": "Ergodesign",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M4(M003)-4M5(M003)",
+        "prof": "Tamissa Juliana Barreto Berton",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ETDM3O",
+    "name": "Estamparia Têxtil",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M3(C003)-6M4(C003)-6M5(C003)-6M6(C003)",
+        "prof": "Patricia Helena Campestrini Harger",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "EEET5A",
+    "name": "Estratégia Empresarial",
+    "turmas": [
+      {
+        "turma": "ET5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "3M1(M011)-3M2(M011)",
+        "prof": "Tiago Ferreira Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FPDM5A",
+    "name": "Fotografia E Produção De Moda",
+    "turmas": [
+      {
+        "turma": "DM5A",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M2(C002)-2M3(C002)-2M4(C002)-2M5(C002)",
+        "prof": "Tamissa Juliana Barreto Berton",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FPDM3O",
+    "name": "Fundamentos De Projeto Autoral",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M4(H002)-3M5(H002)-3M6(H002)",
+        "prof": "Tamissa Juliana Barreto Berton",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "FCDM5A",
+    "name": "Fundamentos Do Cad 2d No Vestuário",
+    "turmas": [
+      {
+        "turma": "DM5A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M1(C003)-3M2(C003)-3M3(C003)",
+        "prof": "Gisely Andressa Pires",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FDDM4A",
+    "name": "Fundamentos Do Desenvolvimento De Coleção",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M1(M008)-4M2(M008)-4M3(M008)",
+        "prof": "Josiany Oenning Favoreto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTDM4A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M2(K003)-4M3(K003)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTEL1A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "EE1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil",
+        "h": "5N3(N108)-5N4(N108)",
+        "prof": "Oscar Fussato Nakasato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTET1A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "ET1A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Design De Moda, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M5(L002)-4M6(L002)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GADM3O",
+    "name": "Gestão Ambiental Em Moda",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M4(L004A)-2M5(L004A)-2M6(L004A)",
+        "prof": "Patricia Krecl Abad",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "INDM1A",
+    "name": "Introdução Ao Design De Moda",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M5(M002B)-6M6(M002B)",
+        "prof": "Celso Tetsuro Suono",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LFDM1A",
+    "name": "Laboratório Da Forma",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M1(C005)-5M2(C005)-5M3(C005)",
+        "prof": "Nelio Pinheiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM1B",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M4(C005)-5M5(C005)-5M6(C005)",
+        "prof": "Nelio Pinheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LIDM3O",
+    "name": "Laboratório De Ilustração De Moda",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M3(H002)-6M4(H002)-6M5(H002)",
+        "prof": "Raquel Rabelo Andrade",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "LPDM5A",
+    "name": "Laboratório De Interpretação E Produção",
+    "turmas": [
+      {
+        "turma": "DM5A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M2(C006)-5M3(C006)-5M4(C006)-5M5(C006)",
+        "prof": "Gisely Andressa Pires",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMDM2A",
+    "name": "Laboratório De Modelagem",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M2(C005)-3M3(C005)-3M4(C005)-3M5(C005)",
+        "prof": "Josiany Oenning Favoreto, Patricia Aparecida De Almeida",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM2B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M2(C007)-3M3(C007)-3M4(C007)-3M5(C007)",
+        "prof": "Josiany Oenning Favoreto, Patricia Aparecida De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMDM3O",
+    "name": "Laboratório De Modelagem Cad 2d",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M4(C003)-3M5(C003)-3M6(C006)",
+        "prof": "Gisely Andressa Pires",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
+    "code": "LHDM3A",
+    "name": "Laboratório De Modelagem Híbrida",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M1(C005)-6M2(C005)-6M3(C005)-6M4(C005)-6M5(C005)",
+        "prof": "Carla Hidalgo Capelassi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LPDM4A",
+    "name": "Laboratório De Prototipagem E Modelagem",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M2(C004)-2M3(C004)-2M4(C007)-2M5(C007)",
+        "prof": "Nelio Pinheiro, Patricia Aparecida De Almeida",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM4B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M2(C007)-2M3(C007)-2M4(C004)-2M5(C004)",
+        "prof": "Nelio Pinheiro, Patricia Aparecida De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LJDM4A",
+    "name": "Lavanderia De Jeans",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M1(C009)-5M2(C009)-5M3(C009)",
+        "prof": "Valquiria Aparecida Dos Santos Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM4B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M4(C009)-5M5(C009)-5M6(C009)",
+        "prof": "Valquiria Aparecida Dos Santos Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LBLQ6A",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "LQ6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "6N4(L004B)-6N5(L004B)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LO62A",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPEG2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M5(N010)-2M6(N010)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:17, Matriz:18"
+      },
+      {
+        "turma": "OPEG2B",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M5(N008)-4M6(N008)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:17, Matriz:18"
+      },
+      {
+        "turma": "OPEG2C",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6T1(M003)-6T2(M003)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:17, Matriz:18"
+      }
+    ]
+  },
+  {
+    "code": "LBLQ7B",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "LQ7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "3N4(L004B)-3N5(L004B)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LO62B",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "OPEG2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(L002)-4T3(L002)",
+        "prof": "Daniele Miki Fujikawa Bozoli",
+        "opt": "Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:17, Matriz:18"
+      }
+    ]
+  },
+  {
+    "code": "MMDM4A",
+    "name": "Marketing De Moda",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M4(M008)-4M5(M008)-4M6(M008)",
+        "prof": "Marcelo Capre Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MTDM2A",
+    "name": "Materiais Têxteis",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M2(K003)-2M3(K003)-2M4(K003)-2M5(K003)",
+        "prof": "Caroline Apoloni Cionek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA62O",
+    "name": "Meio Ambiente E Sociedade",
+    "turmas": [
+      {
+        "turma": "OPEG2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T3(M001)-3T4(M001)",
+        "prof": "Graciana Freitas Palioto Pescim",
+        "opt": "Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:25, Matriz:18, Matriz:7, Matriz:17, Matriz:32, Matriz:19"
+      },
+      {
+        "turma": "OPEG2B",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(M003)-5T3(M003)",
+        "prof": "Graciana Freitas Palioto Pescim",
+        "opt": "Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:25, Matriz:18, Matriz:7, Matriz:17, Matriz:32, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "MPEL4A",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "EE4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Computação",
+        "h": "4T3(N010)-4T4(N010)",
+        "prof": "Graciana Freitas Palioto Pescim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MPEQ3A",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "EQ3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Design De Moda, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "3M5(M002B)-3M6(M002B)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PECO2A",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica",
+        "h": "5T4(N108)-5T5(N108)",
+        "prof": "Graciana Freitas Palioto Pescim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MPDM3A",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M1(M002B)-2M2(M002B)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CSDM3A",
+    "name": "Moda, Consumo E Sociedade",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M3(M002B)-2M4(M002B)",
+        "prof": "Marcio Roberto Ghizzo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCDM3A",
+    "name": "Moda E Comunicação",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M1(L004B)-3M2(L004B)-3M3(L004B)",
+        "prof": "Livia Laura Matte Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MSDM3A",
+    "name": "Moda E Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M3(H002)-5M4(H002)-5M5(H002)",
+        "prof": "Gabriela Martins De Camargo Gaion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NMDM3A",
+    "name": "Narrativas Da Moda",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M5(H002)-2M6(H002)-5M1(H002)-5M2(H002)",
+        "prof": "Gabriela Martins De Camargo Gaion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPDM4A",
+    "name": "Oficina De Projeto De Design",
+    "turmas": [
+      {
+        "turma": "DM4A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M1(H002)-6M2(H002)",
+        "prof": "Raquel Rabelo Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPDM6A",
+    "name": "Oficina De Projeto De Vestuário",
+    "turmas": [
+      {
+        "turma": "DM6A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M2(C006)-2M3(C006)",
+        "prof": "Rosimeiri Naomi Nagamatsu",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PMDM1A",
+    "name": "Pesquisa Em Moda",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M1(H002)-2M2(H002)-2M3(H002)",
+        "prof": "Gabriela Martins De Camargo Gaion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PPDM5A",
+    "name": "Planejamento Da Produção Do Vestuário",
+    "turmas": [
+      {
+        "turma": "DM5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M4(M011)-4M5(M011)-4M6(M011)",
+        "prof": "Fabricio Kurman Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRPG3O",
+    "name": "Problemas Reais Em Gestão De Processos",
+    "turmas": [
+      {
+        "turma": "OPEG3A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
+        "h": "2M2(C003)-2M3(C003)-4M1(M006)-4M2(M006)",
+        "prof": "Fernanda Cavicchioli Zola",
+        "opt": "Matriz:39, Matriz:7, Matriz:34"
+      }
+    ]
+  },
+  {
+    "code": "PADM6A",
+    "name": "Projeto Autoral",
+    "turmas": [
+      {
+        "turma": "DM6A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M1(H002)-3M2(H002)-3M3(H002)",
+        "prof": "Tamissa Juliana Barreto Berton",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QV62O",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "OPEG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(I001)-3T3(I001)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Matriz:36, Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:18, Matriz:17, Matriz:7"
+      }
+    ]
+  },
+  {
+    "code": "RPDM2A",
+    "name": "Reflexões E Práticas Em Design",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "5M2(L002)-5M3(L002)-5M4(L002)-5M5(L002)",
+        "prof": "Livia Laura Matte Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SGDM2A",
+    "name": "Softwares Gráficos",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M6(C003)-4M4(C003)-4M5(C003)-4M6(C003)",
+        "prof": "Livia Marsari Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM2B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3M6(C003)-4M1(C003)-4M2(C003)-4M3(C003)",
+        "prof": "Livia Marsari Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TMDM2A",
+    "name": "Técnicas De Montagem",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M1(C004)-4M2(C004)-4M3(C004)",
+        "prof": "Patricia Helena Campestrini Harger",
+        "opt": "Não"
+      },
+      {
+        "turma": "DM2B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "4M4(C004)-4M5(C004)-4M6(C004)",
+        "prof": "Patricia Helena Campestrini Harger",
+        "opt": "Não"
+      }
+    ]
+  }
+]

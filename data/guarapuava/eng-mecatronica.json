@@ -1,0 +1,1133 @@
+[
+  {
+    "code": "XMT16F",
+    "name": "Acionamentos Eletroeletrônicos",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N1(LABA9)-4N2(LABA9)",
+        "prof": "Lilian Rosana Kremer Schultz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT13B",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(SALAF10)-3N4(SALAF10)-3N5(SALAF10)",
+        "prof": "Bruno Leonardo Macedo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT17D",
+    "name": "Automação Industrial",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4T5(LABA6)-4T6(LABA6)-6T5(LABA6)-6T6(LABA6)",
+        "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT11A",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "DPMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N3(SALAH309)-2N4(SALAH309)-2N5(SALAH309)-5N3(SALAH309)-5N4(SALAH309)-5N5(SALAH309)",
+        "prof": "Alex Sandro De Castilho",
+        "opt": "Não"
+      },
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N3(SALAF12)-2N4(SALAF12)-2N5(SALAF12)-5N3(SALAF12)-5N4(SALAF12)-5N5(SALAF12)",
+        "prof": "Bruno Leonardo Macedo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT12A",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N2(SALAF11)-5N3(SALAF11)-6N3(SALAF11)-6N4(SALAF11)",
+        "prof": "Bruno Leonardo Macedo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT15A",
+    "name": "Cálculo Numérico Computacional",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(LABA6)-2N2(LABA6)-4N1(LABA6)-4N2(LABA6)",
+        "prof": "Elvis Manuel Rodriguez Torrealba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT12E",
+    "name": "Ciência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAF11)-3T6(SALAF11)-4N4(SALAF11)-4N5(SALAF11)",
+        "prof": "Martha Tussolini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HMT16G",
+    "name": "Ciência, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAB11)-3N2(SALAB11)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT16E",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N3(LABA11)-4N4(LABA11)-4N5(LABA11)",
+        "prof": "Hilson Henrique Daum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT13G",
+    "name": "Circuitos Eletricos",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N4(SALAF10)-4N5(SALAF10)-5N2(SALAF10)-5N3(SALAF10)",
+        "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT17C",
+    "name": "Comando Numérico Computadorizado",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T4(LABE1)-3T5(LABE1)-3T6(LABE1)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMT11G",
+    "name": "Comunicação Em Engenharia",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAF12)-3N2(SALAF12)",
+        "prof": "Luan Jose Vaz Chagas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14E",
+    "name": "Corrosão E Tratamento Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAH307)-2N2(SALAH307)",
+        "prof": "Marilei De Fatima Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT12F",
+    "name": "Desenho De Máquinas",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N4(LABA6)-3N5(LABA6)-5N1(LABA6)-5T6(LABA6)",
+        "prof": "Henrique Ajuz Holzmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT11F",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "6N3(SALAF12)-6N4(SALAF12)-6N5(SALAF12)",
+        "prof": "Ricardo Vinicius Bubna Biscaia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT15E",
+    "name": "Dinâmica",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAF10)-3T6(SALAF10)-4T5(SALAF10)-4T6(SALAF10)",
+        "prof": "Denise Alves Ramalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT17B",
+    "name": "Elementos De Máquinas",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N2(SALAH310)-5N3(SALAH310)-6N1(SALAH309)-6N2(SALAH309)",
+        "prof": "Viviane Teleginski Mazur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT12G",
+    "name": "Eletricidade",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N2(SALAF11)-4N3(SALAF11)-5N4(SALAF11)-5N5(SALAF11)",
+        "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14H",
+    "name": "Eletrônica Aplicada",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N4(LABA11)-4N5(LABA11)-6N1(LABA11)-6N2(LABA11)",
+        "prof": "Lilian Rosana Kremer Schultz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT15G",
+    "name": "Eletrônica De Potência",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(LABA11)-3N4(LABA11)-5N2(LABA11)-5N3(LABA11)",
+        "prof": "Rafael Felipe Van Kan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT16A",
+    "name": "Engenharia Da Qualidade",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N3(SALAH308)-2N4(SALAH308)",
+        "prof": "Ricardo Vinicius Bubna Biscaia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT17G",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAH309)-2N2(SALAH309)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT13F",
+    "name": "Ensaios Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "6T5(SALAF12)-6T6(SALAF12)",
+        "prof": "Viviane Teleginski Mazur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT13A",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N4(SALAF10)-2N5(SALAF10)-6N1(SALAF10)-6N2(SALAF10)",
+        "prof": "Elvis Manuel Rodriguez Torrealba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT13D",
+    "name": "Estática",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAF10)-2T6(SALAF10)-4N1(SALAF10)-4T6(SALAF10)",
+        "prof": "Filipe Macedo Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "MCT15B",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "6N3(SALAH307)-6N4(SALAH307)-6N5(SALAH307)",
+        "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT14A",
+    "name": "Física Experimental",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N1(LABB4FIS)-4T6(LABB4FIS)",
+        "prof": "Antonio Carlos Amaro De Faria Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22D",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T3(SALAH310)-5T4(SALAH310)-6T4(SALAH310)-6T5(SALAH310)",
+        "prof": "Aline Milan Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT12C",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N2(SALAF11)-2N3(SALAF11)-4N1(SALAF11)-4T6(SALAF11)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6T4(SALAH309)-6T5(SALAH309)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N2(SALAF10)-4N3(SALAF10)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23D",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(SALAH310)-2M5(SALAH310)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13H",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(SALAF10)-5T6(SALAF10)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT12D",
+    "name": "Fundamentos De Engenharia E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "6N1(SALAF11)-6N2(SALAF11)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PMT11E",
+    "name": "Fundamentos De Programação E Algoritmos",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(LABA6)-5N2(LABA6)-6N1(LABA6)-6N2(LABA6)",
+        "prof": "Marcelo Marcos Vichar Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT11B",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "DPMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4T4(SALAH209)-4T5(SALAH209)-4T6(SALAH209)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      },
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N3(SALAF12)-4N4(SALAF12)-4N5(SALAF12)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT13E",
+    "name": "Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAF10)-3N2(SALAF10)",
+        "prof": "Allan Thierry Branco Torres",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT17A",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(SALAF12)-5T5(SALAF12)-5T6(SALAF12)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT16B",
+    "name": "Hidráulica E Pneumática",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(LABE4)-5T5(LABE4)-5T6(LABE4)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1A",
+    "name": "Indústria 4.0",
+    "turmas": [
+      {
+        "turma": "MEIUA",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "3M2(MEI-U)-3M3(MEI-U)-7M2(MEI-U)-7M3(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      },
+      {
+        "turma": "MEIUB",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "4M2(MEI-U)-4M3(MEI-U)-7M4(MEI-U)-7M5(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      }
+    ]
+  },
+  {
+    "code": "MCT15F",
+    "name": "Instrumentação Industrial",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N3(LABC4)-2N4(LABC4)-2N5(LABC4)",
+        "prof": "Hilson Henrique Daum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT5R",
+    "name": "Introdução À Astronomia",
+    "turmas": [
+      {
+        "turma": "ASTR",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "2T4(SALAF6)-2T5(SALAF6)-2T6(SALAF6)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Matriz:20, Matriz:19, Matriz:22, Matriz:7, Matriz:27, Matriz:4"
+      }
+    ]
+  },
+  {
+    "code": "MCT11H",
+    "name": "Introdução À Engenharia Mecatrônica",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAF12)-2N2(SALAF12)",
+        "prof": "Henrique Ajuz Holzmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMT13I",
+    "name": "Leitura E Escrita De Textos Acadêmicos",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N2(SALAF10)-2N3(SALAF10)",
+        "prof": "Marizete Righi Cechin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1G",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH209)-3T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T5(SALAH209)-2T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T5(SALAH207)-2T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "HUM1H",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T5(SALAH209)-3T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAH209)-2T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAH207)-3T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "MCT14G",
+    "name": "Máquinas Elétricas",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N2(LABA9)-5N3(LABA9)-6N3(LABA9)-6N4(LABA9)",
+        "prof": "Lilian Rosana Kremer Schultz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT14B",
+    "name": "Matemática Para Engenharia Mecatrônica",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAH307)-3N2(SALAH307)-5N1(SALAH307)-5T6(SALAH307)",
+        "prof": "Juliano Dos Santos Gonschorowski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14C",
+    "name": "Mecânica Dos Sólidos",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(SALAH307)-3N4(SALAH307)-3N5(SALAH307)-4N2(SALAH307)-4N3(SALAH307)",
+        "prof": "Filipe Macedo Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT16C",
+    "name": "Mecanismos",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N2(LABA10)-5N3(LABA10)-6N1(LABA10)-6N2(LABA10)",
+        "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMT12H",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N4(SALAF11)-2N5(SALAF11)",
+        "prof": "Marizete Righi Cechin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14F",
+    "name": "Metrologia Mecânica",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N4(SALAH307)-5N5(SALAH307)",
+        "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT12B",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAF11)-2T6(SALAF11)-3N2(SALAF11)-3N3(SALAF11)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "XMT14D",
+    "name": "Processos De Fusão E União De Materiais",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T4(LABE2)-2T5(LABE2)-2T6(LABE2)",
+        "prof": "Henrique Ajuz Holzmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "XMT15C",
+    "name": "Processos De Manufatura De Formas E Superfícies",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(SALAH308)-5T5(SALAH308)-5T6(SALAH308)",
+        "prof": "Viviane Teleginski Mazur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT15D",
+    "name": "Processos Inovadores De Manufatura",
+    "turmas": [
+      {
+        "turma": "MCT5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(LABA10)-3N2(LABA10)-6N1(LABA10)-6N2(LABA10)",
+        "prof": "Filipe Macedo Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QMT11C",
+    "name": "Química",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(SALAF12)-3N4(SALAF12)-3N5(SALAF12)",
+        "prof": "Martha Tussolini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QMT11D",
+    "name": "Química Experimental",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4T5(LABF1QUI)-4T6(LABF1QUI)",
+        "prof": "Martha Tussolini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "XMT17E",
+    "name": "Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(LABA12)-3N2(LABA12)-4N1(LABA12)-4N2(LABA12)",
+        "prof": "Rafael Felipe Van Kan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT16D",
+    "name": "Teoria De Controle 1",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(LABA12)-2N2(LABA12)-3N3(LABA12)-3N4(LABA12)",
+        "prof": "Lyvia Regina Biagi Silva Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT17F",
+    "name": "Teoria De Controle 2",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N3(LABA12)-2N4(LABA12)-4N3(LABA12)-4N4(LABA12)",
+        "prof": "Rafael Felipe Van Kan",
+        "opt": "Não"
+      }
+    ]
+  }
+]

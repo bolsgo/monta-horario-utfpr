@@ -1,0 +1,36 @@
+[
+  {
+    "code": "TSIN36F",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist. Para Internet",
+        "h": "",
+        "prof": "Roberto Milton Scheffel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI36D",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist. Para Internet",
+        "h": "",
+        "prof": "Roberto Milton Scheffel",
+        "opt": "Não"
+      }
+    ]
+  }
+]

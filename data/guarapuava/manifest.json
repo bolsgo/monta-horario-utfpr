@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "eng-mecanica",
+    "label": "Eng. Mecânica"
+  },
+  {
+    "slug": "sistemas-internet",
+    "label": "Sistemas Internet"
+  },
+  {
+    "slug": "eng-civil",
+    "label": "Eng. Civil"
+  },
+  {
+    "slug": "manutencao-industrial",
+    "label": "Manutenção Industrial"
+  },
+  {
+    "slug": "eng-mecatronica",
+    "label": "Eng. Mecatrônica"
+  },
+  {
+    "slug": "arquitet-e-urbanismo",
+    "label": "Arquitet E Urbanismo"
+  }
+]

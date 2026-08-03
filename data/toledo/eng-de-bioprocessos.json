@@ -1,0 +1,19 @@
+[
+  {
+    "code": "BP40A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "BP04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  }
+]

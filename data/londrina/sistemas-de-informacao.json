@@ -1,0 +1,512 @@
+[
+  {
+    "code": "EEC008",
+    "name": "Algoritmos E Lógica De Programação",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Sem Reserva",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N3(K109)-3N4(K109)-5N3(K109)-5N4(K109)-6N1(K109)-6N2(K109)",
+        "prof": "Mauricio Correia Lemes Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC013",
+    "name": "Análise Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N3(K109)-2N4(K109)-2N5(K109)-5N3(K113)",
+        "prof": "Adriana Herden",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC020",
+    "name": "Arquitetura De Software",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N4(K113)-5N5(K113)-6N1(K102)-6N2(K102)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC012",
+    "name": "Banco De Dados 1",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "4N3(T106)-4N4(T106)-6N1(T106)-6N2(T106)",
+        "prof": "Eidy Leandro Tanaka Guandeline",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC018",
+    "name": "Banco De Dados 2",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N1(K106)-3N2(K106)-6N3(K106)-6N4(K106)",
+        "prof": "Eidy Leandro Tanaka Guandeline",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP05B",
+    "name": "Desenvolvimento De Novos Negócios",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N1(K305)-2N2(K305)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC010",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N1(K109)-3N2(K109)-5N1(K109)-5N2(K109)",
+        "prof": "Adriana Herden",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC014",
+    "name": "Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N4(K102)-5N5(K102)-6N3(K102)-6N4(K102)",
+        "prof": "Henrique Yoshikazu Shishido",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC015",
+    "name": "Estruturas De Dados 2",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N3(K106)-5N1(K106)-5N2(K106)-5N3(K106)",
+        "prof": "Danilo Sipoli Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS007",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K206)-2M3(K206)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS07T",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T5(A106)-5T6(A106)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS09B",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N1(K305)-5N2(K305)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:72"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "EEC009",
+    "name": "Fundamentos De Sistemas De Informação",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "4N1(K109)-4N2(K109)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP46B",
+    "name": "Gestão De Serviços",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "4N1(K305)-4N2(K305)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Matriz:72"
+      }
+    ]
+  },
+  {
+    "code": "CHS031",
+    "name": "Inglês Instrumental",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N3(K303)-2N4(K303)-4N3(K303)-4N4(K303)",
+        "prof": "Mirian Ruffini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC017",
+    "name": "Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N4(K106)-5N5(K106)",
+        "prof": "Adriana Herden",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS032",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N1(K303)-2N2(K303)",
+        "prof": "Givan Jose Ferreira Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS05M",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T5(K305)-5T6(K305)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "CHS05T",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "6T5(B204)-6T6(B204)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS06P",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K205)-5N2(K205)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "MAT023",
+    "name": "Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N1(K308)-2N2(K308)-3N1(K308)-3N2(K308)",
+        "prof": "Alireza Mohebi Ashtiani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT03B",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N3(K210)-3N4(K210)-3N5(K210)-4N3(K211)",
+        "prof": "Joelmir Andre Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC011",
+    "name": "Programação De Computadores 1",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N3(T106)-3N4(T106)-4N1(T106)-4N2(T106)",
+        "prof": "Alessandro Botelho Bovo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC019",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N4(K106)-2N5(K106)-4N1(K106)-4N2(K106)",
+        "prof": "Fernando Henrique Campos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC021",
+    "name": "Programação Web Back-End",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "3N1(K113)-3N2(K113)-6N3(K113)-6N4(K113)",
+        "prof": "Willian Massami Watanabe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC016",
+    "name": "Programação Web Front-End",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "4N4(K102)-4N5(K102)-6N1(K106)-6N2(K106)",
+        "prof": "Willian Massami Watanabe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC022",
+    "name": "Projeto Integrador 1",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N1(K113)-2N2(K113)-3N3(K113)-3N4(K113)-4N4(K113)-4N5(K113)",
+        "prof": "Danilo Sipoli Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC023",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N1(K102)-5N2(K102)-5N3(K102)",
+        "prof": "Henrique Yoshikazu Shishido",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPSI18",
+    "name": "Redes Neurais",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "2N3(K113)-2N4(K113)-2N5(K113)-4N3(K113)",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Matriz:72"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "EE60A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "E101",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Hugo Andres Ruiz Florez",
+        "opt": "Não"
+      }
+    ]
+  }
+]

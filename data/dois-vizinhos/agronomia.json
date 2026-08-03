@@ -1,0 +1,3688 @@
+[
+  {
+    "code": "AR17AG",
+    "name": "Administração Rural",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M3(B7-S7)-3M4(B7-S7)-3M5(B7-S7)",
+        "prof": "Sergio Luiz Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AR17ZO",
+    "name": "Administração Rural",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T1(B8-S1)-4T2(B8-S1)-4T3(B8-S1)",
+        "prof": "Laura Possani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AP19AG",
+    "name": "Agricultura De Precisão",
+    "turmas": [
+      {
+        "turma": "AGOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3T3(2PROGR)-3T4(2PROGR)-3T5(2PROGR)",
+        "prof": "Taciara Zborowski Horst",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "AG14ZO",
+    "name": "Agroecologia",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6T2(B6-S2)-6T3(B6-S2)",
+        "prof": "Celso Eduardo Pereira Ramos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AG17AG",
+    "name": "Agroecologia",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T3(B7-S5)-4T4(B7-S5)-4T5(B7-S5)",
+        "prof": "Celso Eduardo Pereira Ramos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AG14FL",
+    "name": "Agrometeorologia E Climatologia",
+    "turmas": [
+      {
+        "turma": "4EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M1(B5-S4)-5M2(B5-S4)-6M1(B5-S4)-6M2(B5-S4)",
+        "prof": "Frederico Marcio Correa Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AM14AG",
+    "name": "Agrometeorologia E Climatologia",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B5-S4)-5M2(B5-S4)-6M1(B5-S4)-6M2(B5-S4)",
+        "prof": "Frederico Marcio Correa Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AL12BB",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M3(B3-S4)-2M4(B3-S4)-3M1(B8-S3)-3M2(B8-S3)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AR15ZO",
+    "name": "Alimentação De Não Ruminantes",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M1(B6-S1)-2M2(B6-S1)-3M1(B6-S5)-3M2(B6-S5)-3M3(B6-S5)",
+        "prof": "Paulo Segatto Cella",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AR16ZO",
+    "name": "Alimentação De Ruminantes",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M3(B5-S6)-3M4(B5-S6)-3M5(B5-S6)-4T1(B6-S6)-4T2(B6-S6)",
+        "prof": "Fernando Reimann Skonieski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AA13ZO",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M1(B6-S3)-3M2(B6-S3)-4T2(B6-S3)-4T3(B6-S3)",
+        "prof": "Magali Floriano Da Silveira",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "AV11FL",
+    "name": "Anatomia Vegetal",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "25",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M1(B3-S2)-2M2(B3-S2)-2M3(LABMULT2)-2M4(LABMULT2)",
+        "prof": "Daniela Macedo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AN11AG",
+    "name": "Anatomia Vegetal",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3T3(B5-S1)-3T4(B5-S1)-5T3(B5-S1)-5T4(B5-S1)",
+        "prof": "Marciele Filippi",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AG2",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3T3(B5-S1)-3T4(B5-S1)-5T5(B5-S1)-5T6(B5-S1)",
+        "prof": "Marciele Filippi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AP14ZO",
+    "name": "Apicultura",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2T1(B5-S3)-2T1(B5-S3)-2T2(B5-S3)-2T2(B5-S3)-2T3(B5-S3)-2T3(B5-S3)",
+        "prof": "Fernando Reimann Skonieski, Fabiana Martins Costa",
+        "opt": "Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "AC16FL",
+    "name": "Associativismo, Cooperativismo E Desenvolvimento Rural",
+    "turmas": [
+      {
+        "turma": "6EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M5(B3-S6)-4M6(B3-S6)",
+        "prof": "Felipe Rodrigues Alcides",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE25AG",
+    "name": "Atividade Curricular De Extensão I",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S5)-2M5(B5-S5)",
+        "prof": "Dauto Pivetta Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AC26AG",
+    "name": "Atividade Curricular De Extensão Ii",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2T1(B5-S6)-2T1(B5-S6)-2T2(B5-S6)-2T2(B5-S6)-2T3(B5-S6)-2T3(B5-S6)",
+        "prof": "Maristela Dos Santos Rey, Pedro Valerio Dutra De Moraes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AC27AG",
+    "name": "Atividade Curricular De Extensão Iii",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B7-S5)-4T1(B7-S5)-4T2(B7-S5)-4T2(B7-S5)",
+        "prof": "Wagner Paris, Sabrina Endo Takahashi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AC28AG",
+    "name": "Atividade Curricular De Extensão Iv",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M4(LABMECANIZ)-3M5(LABMECANIZ)",
+        "prof": "Paulo Fernando Adami",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE28AG",
+    "name": "Atividade Curricular De Extensão V",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T4(B7-S7)-4T4(B7-S7)-4T5(B7-S7)-4T5(B7-S7)",
+        "prof": "Flavia Gizele Konig Brun, Anelise Tessari Perboni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AV16ZO",
+    "name": "Avicultura",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M1(B5-S6)-3M2(B5-S6)-4M1(B6-S1)-4M2(B6-S1)-4M3(B6-S1)",
+        "prof": "Sabrina Endo Takahashi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AV24AG",
+    "name": "Avicultura De Corte E Postura",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2T1(B5-S4)-2T2(B5-S4)-2T3(B5-S4)",
+        "prof": "Sabrina Endo Takahashi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BI14ZO",
+    "name": "Bioclimatologia",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T3(B6-S5)-4T4(B6-S5)-4T5(B6-S5)",
+        "prof": "Sabrina Endo Takahashi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BE16CB",
+    "name": "Bioestatística",
+    "turmas": [
+      {
+        "turma": "6LCB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(B5-S6)-4N2(B5-S6)-4N3(B5-S6)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BI14AG",
+    "name": "Biologia Do Solo",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B5-S4)-4T2(B5-S4)-4T3(B5-S4)-4T4(B5-S4)",
+        "prof": "Carlos Alberto Casali",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B5-S4)-4T2(B5-S4)-4T5(B5-S4)-4T6(B5-S4)",
+        "prof": "Carlos Alberto Casali",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BMO15CB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "5BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
+        "prof": "Juliana Morini Kupper Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BM14BB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M2(B6-S4)-2M3(B6-S4)-2M4(B6-S4)",
+        "prof": "Betty Cristiane Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BM15CB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "5LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
+        "prof": "Juliana Morini Kupper Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BB17BB",
+    "name": "Biomassa E Bioenergia",
+    "turmas": [
+      {
+        "turma": "7EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "5M1(2PROGR)-5M2(2PROGR)-5M3(2PROGR)",
+        "prof": "Andreia Anschau",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "BI12ZO",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "2ZT1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M3(B8-S1)-2M4(B8-S1)-2T1(LABMULT1)-2T2(LABMULT1)-3T1(B7-S7)-3T2(B7-S7)",
+        "prof": "Fabio Jose Maia",
+        "opt": "Não"
+      },
+      {
+        "turma": "2ZT2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M3(B8-S1)-2M4(B8-S1)-2T3(LABMULT1)-2T4(LABMULT1)-3T1(B7-S7)-3T2(B7-S7)",
+        "prof": "Fabio Jose Maia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BQ14BB",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M2(B6-S5)-4M3(B6-S5)-5M2(B8-S1)-5M3(B8-S1)-5M4(LABMULT1)-5M5(LABMULT1)",
+        "prof": "Samara Ernandes Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BA12AG",
+    "name": "Bioquímica Aplicada",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B5-S2)-5M2(B5-S2)-5T1(B5-S2)-5T2(B5-S2)",
+        "prof": "Anelise Tessari Perboni",
+        "opt": "Não"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B5-S2)-5M2(B5-S2)-5T3(B5-S2)-5T4(B5-S2)",
+        "prof": "Anelise Tessari Perboni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BV12FL",
+    "name": "Bioquímica Vegetal",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M4(LABMULT1)-2M5(LABMULT1)-2M6(LABMULT1)-5M1(B5-S2)-5M2(B5-S2)",
+        "prof": "Anelise Tessari Perboni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BT16AG",
+    "name": "Biotecnologia Agrícola",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M3(B5-S5)-3M4(B5-S5)-3M5(B5-S5)",
+        "prof": "Alessandro Jaquiel Waclawovsky",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BM15BB",
+    "name": "Biotecnologia Microbiana",
+    "turmas": [
+      {
+        "turma": "5EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M1(2PROGR)-3M2(2PROGR)-3M3(2PROGR)",
+        "prof": "Andreia Anschau",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BV16BB",
+    "name": "Biotecnologia Vegetal",
+    "turmas": [
+      {
+        "turma": "6EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M2(B3-S4)-3M2(B3-S4)-3M3(B3-S4)-3M3(B3-S4)-3M4(B3-S4)-3M4(B3-S4)-3M5(B3-S4)-3M5(B3-S4)",
+        "prof": "Simone Neumann Wendt, Betty Cristiane Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BF16CB",
+    "name": "Botânica Fisiológica",
+    "turmas": [
+      {
+        "turma": "6LCB1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(B5-S6)-5N2(B5-S6)-5N3(B5-S6)-6N1(B5-S6)-6N2(B5-S6)",
+        "prof": "Daniela Macedo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BC17ZO",
+    "name": "Bovinocultura De Corte",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4M4(B6-S6)-4M5(B6-S6)-5M1(B6-S2)-5M2(B6-S2)-5M3(B6-S2)",
+        "prof": "Luis Fernando Glasenapp De Menezes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BC27AG",
+    "name": "Bovinocultura De Corte E Leite",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M1(B7-S7)-3M2(B7-S7)-4M4(B6-S3)-4M5(B6-S3)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BL17ZO",
+    "name": "Bovinocultura De Leite",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M1(B8-S4)-3M2(B8-S4)-3M3(B8-S4)-5M4(B6-S2)-5M5(B6-S2)",
+        "prof": "Fernando Kuss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BB49B",
+    "name": "Bubalinocultura",
+    "turmas": [
+      {
+        "turma": "ZTOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2T1(B5-S5)-2T2(B5-S5)-2T3(B5-S5)",
+        "prof": "Emilyn Midori Maeda",
+        "opt": "Matriz:14"
+      }
+    ]
+  },
+  {
+    "code": "CA12AG",
+    "name": "Cálculo Aplicado",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M1(B5-S2)-2M2(B5-S2)-4M1(B5-S2)-4M2(B5-S2)",
+        "prof": "Adriana Sbardelotto Di Domenico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CD12BB",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T3(B3-S3)-4T4(B3-S3)-5M4(B7-S5)-5M5(B7-S5)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA12FL",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M3(B8-S2)-4M4(B8-S2)-5M3(B7-S6)-5M4(B7-S6)",
+        "prof": "Adriana Sbardelotto Di Domenico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS14AG",
+    "name": "Classificação De Solos",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(B5-S4)-5T3(B5-S4)",
+        "prof": "Elisandra Pocojeski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB13ZO",
+    "name": "Comportamento E Bem-Estar Animal",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M3(B6-S3)-3M4(B6-S3)-3M5(B6-S3)",
+        "prof": "Emilyn Midori Maeda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CO11FL",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M4(3PRODSOFT)-5M5(3PRODSOFT)-5M6(3PRODSOFT)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CR14AG",
+    "name": "Construções Rurais",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M3(B5-S4)-6M4(B5-S4)-6M5(B5-S4)",
+        "prof": "Angelica Signor Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC15AG",
+    "name": "Cooperativismo E Comercialização Agropecuária",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T2(B5-S5)-6T3(B5-S5)-6T4(B5-S5)",
+        "prof": "Sidemar Presotto Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CM18ZO",
+    "name": "Cooperativismo, Mercados E Comercialização Agropecuária",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6T2(B5-S5)-6T3(B5-S5)-6T4(B5-S5)",
+        "prof": "Sidemar Presotto Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL27AG",
+    "name": "Culturas De Lavoura I",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(LABMECANIZ)-2M5(LABMECANIZ)-4M1(LABMECANIZ)-4M2(LABMECANIZ)-4M3(LABMECANIZ)",
+        "prof": "Carlos Andre Bahry",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT28AG",
+    "name": "Culturas De Lavoura Ii",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B7-S7)-2M5(B7-S7)-3M1(B7-S6)-3M2(B7-S6)-3M3(B7-S6)",
+        "prof": "Paulo Fernando Adami",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DF19R",
+    "name": "Defesa Fitossanitária E Receituário Agronômico",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T1(LABMECANIZ)-5T2(LABMECANIZ)-5T3(LABMECANIZ)",
+        "prof": "Carlos Andre Bahry",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DP10AG",
+    "name": "Design De Processos",
+    "turmas": [
+      {
+        "turma": "MEIU",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(B3-S1)-3T4(B3-S1)-3T5(B3-S1)-3T5(B3-S1)",
+        "prof": "Fabiani Das Dores Abati Miranda, Tatiane Peratz",
+        "opt": "Matriz:66, Matriz:55"
+      }
+    ]
+  },
+  {
+    "code": "DP26AG",
+    "name": "Doenças De Plantas Cultivadas",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S6)-2M5(B5-S6)-3T2(B5-S6)-3T3(B5-S6)",
+        "prof": "Maristela Dos Santos Rey",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS10AG",
+    "name": "Ecofisiologia E Manejo Da Cultura Da Soja",
+    "turmas": [
+      {
+        "turma": "AGOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "5M1(LABMECANIZ)-5M2(LABMECANIZ)-5M3(LABMECANIZ)",
+        "prof": "Carlos Andre Bahry",
+        "opt": "Matriz:66, Matriz:55"
+      }
+    ]
+  },
+  {
+    "code": "EC11AG",
+    "name": "Ecologia Agrícola",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "5M3(B5-S1)-5M4(B5-S1)-5M5(B5-S1)",
+        "prof": "Joel Donazzolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECE12CB",
+    "name": "Ecologia De Ecossistemas",
+    "turmas": [
+      {
+        "turma": "2BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N3(B5-S2)-6N4(B5-S2)-6N5(B5-S2)",
+        "prof": "Viviane Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EPC15CB",
+    "name": "Ecologia De Populações E Comunidades",
+    "turmas": [
+      {
+        "turma": "5BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "4N1(B5-S5)-4N1(B5-S5)-4N2(B5-S5)-4N2(B5-S5)-4N3(B5-S5)-4N3(B5-S5)-4N4(B5-S5)-4N4(B5-S5)",
+        "prof": "Diesse Aparecida De Oliveira Sereia, Viviane Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP15CB",
+    "name": "Ecologia De Populações E Comunidades",
+    "turmas": [
+      {
+        "turma": "5LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(B5-S5)-4N1(B5-S5)-4N2(B5-S5)-4N2(B5-S5)-4N3(B5-S5)-4N3(B5-S5)-4N4(B5-S5)-4N4(B5-S5)",
+        "prof": "Diesse Aparecida De Oliveira Sereia, Viviane Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP24AG",
+    "name": "Economia E Política Agrícola",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T4(B5-S4)-5T5(B5-S4)",
+        "prof": "Laura Possani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EAM13CB",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
+        "prof": "Anelize Queiroz Amaral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA13CB",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "3LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
+        "prof": "Anelize Queiroz Amaral",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "EM14BB",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M4(B6-S5)-4M5(B6-S5)",
+        "prof": "Tatiane Peratz",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "EI15SW",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "5ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N1(B6-S5)-5N2(B6-S5)",
+        "prof": "Sergio Luiz Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI25AG",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B5-S5)-5M2(B5-S5)-5M3(B5-S5)",
+        "prof": "Alfredo De Gouvea",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMI17CBB",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "CBOPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N3(B7-S7)-3N4(B7-S7)-3N5(B7-S7)",
+        "prof": "Beatriz Leite Gustmann De Castro",
+        "opt": "Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "ET14AG",
+    "name": "Entomologia Agrícola",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(B5-S4)-5M5(B5-S4)-5M6(B5-S4)-6T1(LABZOOLOGI)-6T2(LABZOOLOGI)",
+        "prof": "Maria Antonia Michels De Souza, Viviane Da Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(B5-S4)-5M5(B5-S4)-5M6(B5-S4)-6T3(LABZOOLOGI)-6T4(LABZOOLOGI)",
+        "prof": "Maria Antonia Michels De Souza, Viviane Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ18ZO",
+    "name": "Equinocultura",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6M3(B6-S1)-6M4(B6-S1)-6M5(B6-S1)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES12FL",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "6M1(3PRODSOFT)-6M2(3PRODSOFT)-6M3(3PRODSOFT)",
+        "prof": "Edgar De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES12ZO",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "2ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "5M1(3PRODSOFT)-5M2(3PRODSOFT)-5M3(3PRODSOFT)",
+        "prof": "Rusbel Raul Aspilcueta Borquis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET18R",
+    "name": "Ética, Legislação Agrária E Ambiental",
+    "turmas": [
+      {
+        "turma": "AGE",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B7-S5)-5M1(B7-S5)-5M2(B7-S5)-5M2(B7-S5)",
+        "prof": "Sidemar Presotto Nunes, Taciara Zborowski Horst",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA13AG",
+    "name": "Experimentação Agrícola",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M2(B5-S3)-6M3(B5-S3)-6M4(4COMP)-6M5(4COMP)",
+        "prof": "Lucas Da Silva Domingues",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "3AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M2(B5-S3)-6M3(B5-S3)-6T1(4COMP)-6T2(4COMP)",
+        "prof": "Lucas Da Silva Domingues",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "AB10AG",
+    "name": "Experimentação Agrícola Aplicada A Análises Biométricas",
+    "turmas": [
+      {
+        "turma": "AGOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3T2(5ARQU)-3T3(5ARQU)-3T4(5ARQU)",
+        "prof": "Lucas Da Silva Domingues",
+        "opt": "Matriz:66, Matriz:55"
+      }
+    ]
+  },
+  {
+    "code": "EA13ZO",
+    "name": "Experimentação Animal",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M1(3PRODSOFT)-2M2(3PRODSOFT)-2M3(3PRODSOFT)-2M4(3PRODSOFT)",
+        "prof": "Rusbel Raul Aspilcueta Borquis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EF14FL",
+    "name": "Experimentação Florestal",
+    "turmas": [
+      {
+        "turma": "4EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M3(6REDES)-5M4(6REDES)-5M5(6REDES)-5M6(6REDES)",
+        "prof": "Edgar De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EG21AG",
+    "name": "Expressão Grafica",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "6T1(3PRODSOFT)-6T2(3PRODSOFT)-6T3(3PRODSOFT)",
+        "prof": "Erick Martins Nieri",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AG2",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "6T1(3PRODSOFT)-6T4(3PRODSOFT)-6T5(3PRODSOFT)",
+        "prof": "Erick Martins Nieri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EG12BB",
+    "name": "Expressão Gráfica",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M1(3PRODSOFT)-4M2(3PRODSOFT)-4M3(3PRODSOFT)",
+        "prof": "Erick Martins Nieri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EG14FL",
+    "name": "Expressão Gráfica",
+    "turmas": [
+      {
+        "turma": "4EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M1(3PRODSOFT)-4M2(3PRODSOFT)-4M3(3PRODSOFT)",
+        "prof": "Erick Martins Nieri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC17ZO",
+    "name": "Extensão E Comunicação Rural",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6M3(B8-S2)-6M4(B8-S2)-6M5(B8-S2)",
+        "prof": "Serinei Cesar Grigolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER18AG",
+    "name": "Extensão E Comunicação Rural",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(B5-S2)-3T2(B5-S2)-3T3(B5-S2)",
+        "prof": "Serinei Cesar Grigolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EF16FL",
+    "name": "Extensão Florestal E Métodos Participativos",
+    "turmas": [
+      {
+        "turma": "6EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M1(B6-S3)-2M2(B6-S3)-2M3(B6-S3)",
+        "prof": "Patricia Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT15FL",
+    "name": "Fertilidade Do Solo",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "6M3(B7-S5)-6M4(B7-S5)-6M5(B7-S5)-6M6(B7-S5)",
+        "prof": "Carlos Alberto Casali",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT15AG",
+    "name": "Fertilidade Do Solo",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M2(B5-S5)-4M3(B5-S5)-5M4(B5-S5)-5M5(B5-S5)",
+        "prof": "Laercio Ricardo Sartor",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "FS14ZO",
+    "name": "Fertilidade E Adubação Do Solo",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T1(B6-S5)-4T2(B6-S5)-5M2(B6-S4)-5M3(B6-S4)",
+        "prof": "Laercio Ricardo Sartor",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI12AG",
+    "name": "Física Aplicada I",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T2(B5-S2)-4T3(B5-S2)-5M3(B5-S2)-5M4(B5-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FA13AG",
+    "name": "Física Aplicada Ii",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S3)-2M5(B5-S3)-4M4(B5-S3)-4M5(B5-S3)",
+        "prof": "Thiago Petrucci Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI12FL",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI13BB",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI13FL",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI14BB",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FF13FL",
+    "name": "Fisiologia Florestal",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M3(B8-S1)-4M4(B8-S1)-4M5(LABFISIOLO)-4M6(LABFISIOLO)",
+        "prof": "Americo Wagner Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FV13AG",
+    "name": "Fisiologia Vegetal",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(B5-S3)-3T2(B5-S3)-3T3(B5-S3)-4T2(B5-S3)-4T3(B5-S3)",
+        "prof": "Americo Wagner Junior",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "FP15AG",
+    "name": "Fitopatologia Básica",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M1(B5-S5)-3M2(B5-S5)-3M3(LABMULT2)-3M4(LABMULT2)",
+        "prof": "Sergio Miguel Mazaro",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "FL28AG",
+    "name": "Floricultura E Paisagismo",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B7-S7)-4T1(B7-S7)-4T2(B7-S7)-4T2(B7-S7)-4T3(B7-S7)-4T3(B7-S7)",
+        "prof": "Flavia Gizele Konig Brun, Anelise Tessari Perboni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FH15ZO",
+    "name": "Formação Humana Para O Mundo Do Trabalho",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6M2(B6-S5)-6M3(B6-S5)",
+        "prof": "Marcelo Marcos Montagner",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FR15ZO",
+    "name": "Forragicultura",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M3(B6-S1)-2M4(B6-S1)-2M5(B6-S1)",
+        "prof": "Magali Floriano Da Silveira",
+        "opt": "Matriz:52, Matriz:6"
+      }
+    ]
+  },
+  {
+    "code": "FF16FL",
+    "name": "Fotogrametria E Fotointerpretação",
+    "turmas": [
+      {
+        "turma": "6EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M4(B3-S5)-3M5(B3-S5)-3M6(B3-S5)",
+        "prof": "Raoni Wainer Duarte Bosquilia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FA28AG",
+    "name": "Fruticultura Aplicada",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M1(B7-S7)-2M2(B7-S7)-2M3(B7-S7)",
+        "prof": "Gilmar Antonio Nava",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FB17AG",
+    "name": "Fruticultura Básica",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T1(B8-S1)-5T2(B8-S1)-5T3(B8-S1)",
+        "prof": "Gilmar Antonio Nava",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE13FL",
+    "name": "Fundamentos Da Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M1(B7-S7)-5M2(B7-S7)-5M3(B7-S7)",
+        "prof": "Felipe Rodrigues Alcides",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FQ11BB",
+    "name": "Fundamentos Da Química",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "5M2(B7-S8)-5M3(B7-S8)-5M4(B7-S8)-5M5(LAPOL)",
+        "prof": "Antonio Guilherme Basso Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE14FL",
+    "name": "Genética",
+    "turmas": [
+      {
+        "turma": "4EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M3(B3-S5)-2M4(B3-S5)-2M5(B3-S5)-2M6(B3-S5)",
+        "prof": "Simone Neumann Wendt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GA14ZO",
+    "name": "Genética Animal",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3T1(B6-S6)-3T2(B6-S6)-6T4(B6-S2)-6T5(B6-S2)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GN13AG",
+    "name": "Genética Aplicada",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M2(B5-S3)-2M3(B5-S3)-3M1(B5-S3)-3M2(B5-S3)",
+        "prof": "Alessandro Jaquiel Waclawovsky",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GA18FL",
+    "name": "Geoprocessamento Aplicado À Engenharia Florestal",
+    "turmas": [
+      {
+        "turma": "8EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M4(B7-S6)-3M5(B7-S6)-3M6(B7-S6)",
+        "prof": "Fabiani Das Dores Abati Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GS15AG",
+    "name": "Geoprocessamento E Sensoriamento Remoto",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(B5-S5)-3T2(B5-S5)-5T1(B5-S5)-5T2(B5-S5)",
+        "prof": "Alyne Raminelli Siguel Gemin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GR16BB",
+    "name": "Gerenciamento De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "6EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "6T1(B5-S3)-6T2(B5-S3)-6T3(B5-S3)",
+        "prof": "Elizangela Cavazzini Cesca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP13SW",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "3ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N3(B6-S3)-5N4(B6-S3)",
+        "prof": "Sergio Luiz Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP15FL",
+    "name": "Gestão De Pessoas E Relacionamentos Interpessoais",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M3(B3-S2)-5M4(B3-S2)",
+        "prof": "Elisabete Vuaden",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP16BB",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "6EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "5M4(B3-S4)-5M5(B3-S4)",
+        "prof": "Tatiane Peratz",
+        "opt": "Matriz:54, Matriz:14, Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "GM17AG",
+    "name": "Gestão E Manejo Ambiental",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M1(B7-S7)-6M2(B7-S7)-6M3(B7-S7)",
+        "prof": "Fernanda Leite Cunha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA15AG",
+    "name": "Gestão E Planejamento Em Mecanização Agrícola",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T3(B5-S5)-4T4(B5-S5)",
+        "prof": "Dauto Pivetta Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HI15AG",
+    "name": "Hidráulica E Irrigação",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M2(B5-S5)-6M3(B5-S5)-6M4(B5-S5)-6M5(B5-S5)",
+        "prof": "Adalberto Luiz De Paula",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HI15FL",
+    "name": "Hidráulica E Irrigação",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M3(B7-S5)-3M4(B7-S5)-3M5(B7-S5)-3M6(B7-S5)",
+        "prof": "Adalberto Luiz De Paula",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HD16AG",
+    "name": "Hidrologia E Drenagem",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M2(B5-S6)-4M3(B5-S6)-4M4(B5-S6)-4M5(B5-S6)",
+        "prof": "Adalberto Luiz De Paula",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "ILA12CBB",
+    "name": "Impacto E Licenciamento Ambiental",
+    "turmas": [
+      {
+        "turma": "2BCB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "5N3(B3-S2)-5N4(B3-S2)-5N5(B3-S2)",
+        "prof": "Jucelaine Haas",
+        "opt": "Matriz:35, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "IC16FL",
+    "name": "Implantação E Condução De Plantações Florestais",
+    "turmas": [
+      {
+        "turma": "6EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M1(B3-S6)-5M2(B3-S6)-5M3(B3-S6)-5M4(B3-S6)",
+        "prof": "Eleandro Jose Brun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IT18ZO",
+    "name": "Inovação Tecnológica Aplicada A Produção Animal",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "5M3(B6-S5)-5M3(B6-S5)-5M4(B6-S5)-5M4(B6-S5)-5M5(B6-S5)-5M5(B6-S5)",
+        "prof": "Marco Antonio Possenti, Frederico Marcio Correa Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IN11AG",
+    "name": "Introdução À Agronomia",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S1)-2M5(B5-S1)",
+        "prof": "Alessandro Jaquiel Waclawovsky",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IE11BB",
+    "name": "Introdução À Ecologia",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T2(B3-S5)-4T2(B3-S5)-4T3(B3-S5)-4T3(B3-S5)-4T4(B3-S5)-4T4(B3-S5)",
+        "prof": "Diesse Aparecida De Oliveira Sereia, Sandrieli Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA11BB",
+    "name": "Letramento Acadêmico",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "27",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M1(B7-S5)-4M2(B7-S5)",
+        "prof": "Francieli Motter Ludovico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI19SW",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(B6-S6)-2N2(B6-S6)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "LB38C",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N4(B5-S3)-6N5(B5-S3)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:6, Matriz:52"
+      },
+      {
+        "turma": "3LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6N4(B5-S3)-6N5(B5-S3)",
+        "prof": "Renan De Bastos Andrade",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "MB18FL",
+    "name": "Manejo De Bacias Hidrográficas",
+    "turmas": [
+      {
+        "turma": "8EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5T2(B7-S7)-5T3(B7-S7)-6M4(B6-S6)-6M5(B6-S6)",
+        "prof": "Andre Pellegrini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MF16ZO",
+    "name": "Manejo E Conservação De Forragem",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3T3(B7-S8)-3T4(B7-S8)-3T5(B7-S8)",
+        "prof": "Lilian Regina Rothe Mayer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MC16AG",
+    "name": "Manejo E Conservação De Solos",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T1(B5-S6)-5T2(B5-S6)-5T3(B5-S6)-5T4(B5-S6)",
+        "prof": "Paulo Cesar Conceicao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MI26AG",
+    "name": "Manejo Integrado De Pragas",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M3(B5-S6)-6M4(B5-S6)-6M5(B5-S6)",
+        "prof": "Alfredo De Gouvea",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MD10AG",
+    "name": "Mapeamento Digital De Recursos Naturais",
+    "turmas": [
+      {
+        "turma": "AGOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "6M3(2PROGR)-6M4(2PROGR)-6M5(2PROGR)",
+        "prof": "Taciara Zborowski Horst",
+        "opt": "Matriz:66, Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "MI24AG",
+    "name": "Máquinas E Implementos Agrícolas",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M2(B5-S4)-2M3(B5-S4)-3T2(B5-S4)-3T3(B5-S4)",
+        "prof": "Dauto Pivetta Carpes",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AG2",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M2(B5-S4)-2M3(B5-S4)-3T4(B5-S4)-3T5(B5-S4)",
+        "prof": "Dauto Pivetta Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA11FL",
+    "name": "Matemática",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "6M3(B3-S4)-6M4(B3-S4)-6M5(B3-S4)-6M6(B3-S4)",
+        "prof": "Renata Da Silva Dessbesel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MT11AG",
+    "name": "Matemática Aplicada",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3T1(B5-S1)-3T2(B5-S1)-4T2(B5-S1)-4T3(B5-S1)",
+        "prof": "Luciana Boemer Cesar Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA11BB",
+    "name": "Meio Ambiente E Sociedade",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M1(B6-S4)-3M2(B6-S4)",
+        "prof": "Everton Marcos Batistela",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "MA15ZO",
+    "name": "Melhoramento Animal 1",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M4(B6-S5)-3M5(B6-S5)-4T1(B6-S2)-4T2(B6-S2)",
+        "prof": "Fabiana Martins Costa",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "MA16ZO",
+    "name": "Melhoramento Animal 2",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3T1(B7-S8)-3T2(B7-S8)-4M4(B6-S1)-4M5(B6-S1)",
+        "prof": "Fabiana Martins Costa",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "MV15AG",
+    "name": "Melhoramento Vegetal",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B5-S5)-4T2(B5-S5)-5T3(B5-S5)-5T4(B5-S5)",
+        "prof": "Lucas Da Silva Domingues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME16AG",
+    "name": "Mercados Agropecuários",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T4(B5-S6)-3T5(B5-S6)",
+        "prof": "Beatriz Leite Gustmann De Castro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP12BB",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M4(B8-S4)-4M5(B8-S4)",
+        "prof": "Samara Ernandes Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP15ZO",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T3(B6-S2)-4T4(B6-S2)",
+        "prof": "Paulo Fernando Diel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP13FL",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M1(B8-S1)-4M2(B8-S1)",
+        "prof": "Patricia Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP16SW",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N1(B6-S6)-6N2(B6-S6)",
+        "prof": "Maria Adelina Silva Brito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP11AG",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "2M2(B5-S1)-2M3(B5-S1)",
+        "prof": "Dalva Paulus",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MB11AG",
+    "name": "Microbiologia Agrícola",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3M3(B5-S1)-3M4(B5-S1)-3M5(B5-S1)",
+        "prof": "Maristela Dos Santos Rey",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MG13BB",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M4(B8-S3)-2M5(B8-S3)-3T3(B6-S5)-3T4(B6-S5)",
+        "prof": "Naiana Cristine Gabiatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MG13FL",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M1(B7-S8)-2M2(B7-S8)-2M3(LABFITOPAT)-2M4(LABFITOPAT)",
+        "prof": "Sergio Miguel Mazaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MZ12ZO",
+    "name": "Microbiologia Zootécnica",
+    "turmas": [
+      {
+        "turma": "2ZT1",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T1(LABMICROBI)-5M4(B6-S6)-5M5(B6-S6)",
+        "prof": "Marcela Tostes Frata",
+        "opt": "Não"
+      },
+      {
+        "turma": "2ZT2",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T2(LABMICROBI)-5M4(B6-S6)-5M5(B6-S6)",
+        "prof": "Marcela Tostes Frata",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MS12AG",
+    "name": "Morfologia E Sistemática Vegetal",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M3(B5-S2)-4M4(B5-S2)-4M5(B5-S2)-6T2(LABFISIOLO)-6T3(LABFISIOLO)",
+        "prof": "Pedro Valerio Dutra De Moraes",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M3(B5-S2)-4M4(B5-S2)-4M5(B5-S2)-6T4(LABFISIOLO)-6T5(LABFISIOLO)",
+        "prof": "Pedro Valerio Dutra De Moraes",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "NA14ZO",
+    "name": "Nutrição Animal",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4M4(B6-S2)-4M5(B6-S2)-5M4(B6-S4)-5M5(B6-S4)",
+        "prof": "Wagner Paris",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NA23AG",
+    "name": "Nutrição Animal",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T1(B5-S3)-5T2(B5-S3)-5T3(B5-S3)",
+        "prof": "Wagner Paris",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OL27AG",
+    "name": "Olericultura",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M2(B8-S4)-5M3(B8-S4)-6M4(B7-S7)-6M5(B7-S7)",
+        "prof": "Dalva Paulus",
+        "opt": "Não"
+      },
+      {
+        "turma": "7AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(B8-S4)-5M5(B8-S4)-6M4(B7-S7)-6M5(B7-S7)",
+        "prof": "Dalva Paulus",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OV17ZO",
+    "name": "Ovinocultura",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3T2(B6-S2)-3T3(B6-S2)-3T4(B6-S2)-3T5(B6-S2)",
+        "prof": "Vicente De Paulo Macedo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PD11FL",
+    "name": "Pedologia",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "25",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M3(B7-S5)-4M4(B7-S5)-4M5(LABGPP)-4M6(LABGPP)",
+        "prof": "Elisandra Pocojeski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PD13ZO",
+    "name": "Pedologia",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3T3(B7-S7)-3T4(B7-S7)-3T5(B7-S7)",
+        "prof": "Elisandra Pocojeski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PO12AG",
+    "name": "Pedologia",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M2(B5-S2)-3M3(B5-S2)-3M4(B5-S2)",
+        "prof": "Taciara Zborowski Horst",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M2(B5-S2)-3M3(B5-S2)-3M5(B5-S2)",
+        "prof": "Taciara Zborowski Horst",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "PS18ZO",
+    "name": "Piscicultura",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4M2(B5-S1)-4M3(B5-S1)-4M4(B5-S1)-4M5(B5-S1)",
+        "prof": "Ricardo Yuji Sado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP19R",
+    "name": "Planejamento De Propriedades Rurais",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T1(B7-S8)-4T2(B7-S8)",
+        "prof": "Serinei Cesar Grigolo",
+        "opt": "Matriz:6"
+      }
+    ]
+  },
+  {
+    "code": "PD26AG",
+    "name": "Plantas Daninhas",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M2(B5-S6)-5M3(B5-S6)-5M4(B5-S6)-5M5(B5-S6)",
+        "prof": "Pedro Valerio Dutra De Moraes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PF26AG",
+    "name": "Plantas Forrageiras",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T3(B5-S6)-4T4(B5-S6)-4T5(B5-S6)",
+        "prof": "Lilian Regina Rothe Mayer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM18AG",
+    "name": "Plantas Medicinais, Condimentares E Aromáticas",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M4(B8-S5)-4M4(B8-S5)-4M5(B8-S5)-4M5(B8-S5)",
+        "prof": "Celso Eduardo Pereira Ramos, Dalva Paulus",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE14BB",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T1(3PRODSOFT)-3T2(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      },
+      {
+        "turma": "4EB2",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T3(3PRODSOFT)-3T4(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE16SW",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(2PROGR)-2N2(2PROGR)-3N1(4COMP)-3N2(4COMP)",
+        "prof": "Edgar De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE12AG",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(3PRODSOFT)-3T2(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T3(3PRODSOFT)-3T4(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PS19R",
+    "name": "Produção De Sementes",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B3-S6)-2M5(B3-S6)-3M2(B3-S6)-3M3(B3-S6)",
+        "prof": "Jean Carlo Possenti",
+        "opt": "Não"
+      },
+      {
+        "turma": "9AG2",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B3-S6)-2M5(B3-S6)-3M4(B3-S6)-3M5(B3-S6)",
+        "prof": "Jean Carlo Possenti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PA19R",
+    "name": "Projetos, Avaliações E Perícias Rurais",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M3(B7-S7)-4M4(B7-S7)-4M5(B7-S7)",
+        "prof": "Laura Possani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PP10R",
+    "name": "Propagação De Plantas E Manejo De Viveiros",
+    "turmas": [
+      {
+        "turma": "AGOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "5T1(B7-S6)-5T2(B7-S6)-5T3(B7-S6)",
+        "prof": "Americo Wagner Junior",
+        "opt": "Matriz:11, Matriz:55, Matriz:66"
+      }
+    ]
+  },
+  {
+    "code": "QV19SW",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "ESOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(B7-S7)-5N5(B7-S7)",
+        "prof": "Marisangela Pacheco Brittes",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "QA12BB",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T1(B7-S6)-3T2(B7-S6)-3T3(B7-S6)-3T4(LAPOL)",
+        "prof": "Renata Padilha De Souza Nuernberg",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QA12AG",
+    "name": "Química Analítica E Instrumental",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M3(B5-S2)-2M4(B5-S2)-6M2(B5-S2)-6M3(B5-S2)",
+        "prof": "Renata Padilha De Souza Nuernberg",
+        "opt": "Não"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M3(B5-S2)-2M4(B5-S2)-6M4(B5-S2)-6M5(B5-S2)",
+        "prof": "Renata Padilha De Souza Nuernberg",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QF13AG",
+    "name": "Química E Física Do Solo",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T4(B5-S3)-5T4(B5-S3)",
+        "prof": "Elisandra Pocojeski, Andre Pellegrini",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "3AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
+        "prof": "Elisandra Pocojeski, Andre Pellegrini",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "QG11AG",
+    "name": "Química Geral Aplicada",
+    "turmas": [
+      {
+        "turma": "1AG1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "4M1(LABMULT1)-4M2(LABMULT1)-5M1(B5-S1)-5M2(B5-S1)",
+        "prof": "Cristiane Dias Thiesen",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AG2",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "4M3(LABMULT1)-4M4(LABMULT1)-5M1(B5-S1)-5M2(B5-S1)",
+        "prof": "Cristiane Dias Thiesen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QG11FL",
+    "name": "Química Geral E Orgânica",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "11",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M1(LABMULT1)-3M2(LABMULT1)-6M1(B6-S1)-6M2(B6-S1)",
+        "prof": "Cristiane Dias Thiesen",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EF2",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "11",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M3(LABMULT1)-3M4(LABMULT1)-6M1(B6-S1)-6M2(B6-S1)",
+        "prof": "Cristiane Dias Thiesen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RG14AG",
+    "name": "Recursos Genéticos",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M3(B5-S4)-3M4(B5-S4)",
+        "prof": "Joel Donazzolo",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "4AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M3(B5-S4)-3M5(B5-S4)",
+        "prof": "Joel Donazzolo",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "RE19FL",
+    "name": "Restauração Florestal",
+    "turmas": [
+      {
+        "turma": "9EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M2(B3-S3)-3M3(B3-S3)-3M4(B3-S3)-3M5(B3-S3)",
+        "prof": "Mauricio Romero Gorenstein",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SS12BB",
+    "name": "Saúde E Segurança No Trabalho",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "5T1(B8-S2)-5T2(B8-S2)",
+        "prof": "Samara Silva De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SF14FL",
+    "name": "Sementes Florestais",
+    "turmas": [
+      {
+        "turma": "4EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M4(LABSEMENTE)-4M5(LABSEMENTE)-4M6(LABSEMENTE)",
+        "prof": "Daniela Cleide Azevedo De Abreu",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "SR17FL",
+    "name": "Sensoriamento Remoto Aplicado A Engenharia Florestal",
+    "turmas": [
+      {
+        "turma": "7EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M3(B7-S5)-2M4(B7-S5)-2M5(B7-S5)-2M6(B7-S5)",
+        "prof": "Raoni Wainer Duarte Bosquilia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SI27AG",
+    "name": "Silvicultura",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T2(B5-S1)-6T2(B5-S1)-6T3(B5-S1)-6T3(B5-S1)-6T4(B5-S1)-6T4(B5-S1)",
+        "prof": "Eleandro Jose Brun, Flavia Gizele Konig Brun",
+        "opt": "Não"
+      },
+      {
+        "turma": "7AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T2(B5-S1)-6T2(B5-S1)-6T3(B5-S1)-6T3(B5-S1)-6T5(B5-S1)-6T5(B5-S1)",
+        "prof": "Eleandro Jose Brun, Flavia Gizele Konig Brun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SA18FL",
+    "name": "Silvicultura Avançada",
+    "turmas": [
+      {
+        "turma": "8EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "6M1(B6-S6)-6M2(B6-S6)-6M3(B6-S6)",
+        "prof": "Erick Martins Nieri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SU17FL",
+    "name": "Silvicultura Urbana",
+    "turmas": [
+      {
+        "turma": "7EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M1(B8-S2)-5M2(B8-S2)-5M3(B8-S2)",
+        "prof": "Flavia Gizele Konig Brun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SR15FL",
+    "name": "Sociologia Rural",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M1(B7-S6)-4M2(B7-S6)-4M3(B7-S6)",
+        "prof": "Everton Marcos Batistela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SR23AG",
+    "name": "Sociologia Rural",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M1(B5-S3)-4M2(B5-S3)-4M3(B5-S3)",
+        "prof": "Sidemar Presotto Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SR16ZO",
+    "name": "Sociologia Rural E Agronegócio",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "6M1(B6-S3)-6M2(B6-S3)-6M3(B6-S3)",
+        "prof": "Sidemar Presotto Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SC25AG",
+    "name": "Suinocultura",
+    "turmas": [
+      {
+        "turma": "5AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M1(B5-S5)-4M4(B5-S5)-4M5(B5-S5)",
+        "prof": "Patricia Rossi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SU18ZO",
+    "name": "Suinocultura",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2T4(B5-S1)-2T5(B5-S1)-5T2(B6-S4)-5T3(B6-S4)-5T4(B6-S4)",
+        "prof": "Paulo Segatto Cella",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TP17ZO",
+    "name": "Tecnologia Da Produção E Formulação De Rações",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4M1(B6-S6)-4M1(B6-S6)-4M1(B6-S6)-4M2(B6-S6)-4M2(B6-S6)-4M2(B6-S6)-4M3(B6-S6)-4M3(B6-S6)-4M3(B6-S6)-6M1(B8-S2)-6M1(B8-S2)-6M1(B8-S2)-6M2(B8-S2)-6M2(B8-S2)-6M2(B8-S2)",
+        "prof": "Paulo Segatto Cella, Fernando Reimann Skonieski, Fabio Jose Maia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TA29AG",
+    "name": "Tecnologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "AGE1",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(B6-S6)-5T3(B6-S6)-5T4(B6-S6)-6T1(B5-S2)-6T2(B5-S2)",
+        "prof": "Claudia De Andrade Moura",
+        "opt": "Não"
+      },
+      {
+        "turma": "AGE2",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(B6-S6)-5T3(B6-S6)-5T4(B6-S6)-6T3(B5-S2)-6T4(B5-S2)",
+        "prof": "Claudia De Andrade Moura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TA19R",
+    "name": "Tecnologia De Produtos De Origem Animal",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T3(B8-S2)-4T4(B8-S2)-4T5(B8-S2)",
+        "prof": "Claudia De Andrade Moura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TO18ZO",
+    "name": "Tecnologia De Produtos De Origem Animal",
+    "turmas": [
+      {
+        "turma": "8ZT1",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M4(B8-S4)-3M5(B8-S4)-3T2(B6-S3)-3T3(B6-S3)",
+        "prof": "Marcela Tostes Frata",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "8ZT2",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(B8-S4)-3M5(B8-S4)-3T4(B6-S3)-3T5(B6-S3)",
+        "prof": "Marcela Tostes Frata",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "TO28AG",
+    "name": "Tecnologias Para Agricultura Orgânica",
+    "turmas": [
+      {
+        "turma": "8AG1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M2(B7-S8)-6M2(B7-S8)-6M3(B7-S8)-6M3(B7-S8)-6M4(B7-S8)-6M4(B7-S8)-6M5(B7-S8)-6M5(B7-S8)",
+        "prof": "Celso Eduardo Pereira Ramos, Joel Donazzolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE10FL",
+    "name": "Tópicos Especiais Em Geomática",
+    "turmas": [
+      {
+        "turma": "EFOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3T3(B8-S1)-3T4(B8-S1)-3T5(B8-S1)",
+        "prof": "Raoni Wainer Duarte Bosquilia",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "TP14ZO",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "4ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M4(B8-S2)-2M5(B8-S2)-3M4(B6-S1)-3M5(B6-S1)",
+        "prof": "Maria Madalena Santos Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TP12FL",
+    "name": "Topografia I",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M1(B8-S2)-2M2(B8-S2)-2M3(B8-S2)",
+        "prof": "Maria Madalena Santos Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TP13AG",
+    "name": "Topografia I",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M4(B5-S3)-3M5(B5-S3)-5M2(B5-S3)-5M3(B5-S3)",
+        "prof": "Alyne Raminelli Siguel Gemin",
+        "opt": "Não"
+      },
+      {
+        "turma": "3AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M4(B5-S3)-3M5(B5-S3)-5M4(B5-S3)-5M5(B5-S3)",
+        "prof": "Alyne Raminelli Siguel Gemin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TG14AG",
+    "name": "Topografia Ii",
+    "turmas": [
+      {
+        "turma": "4AG1",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M1(B5-S4)-3M2(B5-S4)-4M2(LABTOPOGEO)-4M3(LABTOPOGEO)",
+        "prof": "Fabiani Das Dores Abati Miranda",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AG2",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M1(B5-S4)-3M2(B5-S4)-4M4(LABTOPOGEO)-4M5(LABTOPOGEO)",
+        "prof": "Fabiani Das Dores Abati Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TP13FL",
+    "name": "Topografia Ii",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M1(B7-S8)-3M2(B7-S8)-3M3(B7-S8)",
+        "prof": "Maria Madalena Santos Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC17AG",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "7AG1",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC17R",
+    "name": "Trabalho De Conclusão De Curso I",
+    "turmas": [
+      {
+        "turma": "AGE",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "2N1(B5-S4)-2T6(B5-S4)",
+        "prof": "Dauto Pivetta Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC10R",
+    "name": "Trabalho De Conclusão De Curso Ii",
+    "turmas": [
+      {
+        "turma": "9AG1",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TA18BB",
+    "name": "Tratamento De Águas Residuárias",
+    "turmas": [
+      {
+        "turma": "8EB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T2(B3-S6)-4T2(B3-S6)-4T3(B3-S6)-4T3(B3-S6)-4T4(B3-S6)-4T4(B3-S6)-4T5(B3-S6)-4T5(B3-S6)",
+        "prof": "Elizangela Cavazzini Cesca, Marina Celant De Pra",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "ZG11FL",
+    "name": "Zoologia Geral",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "5M1(B3-S4)-5M2(B3-S4)-5M3(LABZOOLOGI)",
+        "prof": "Dineia Tessaro",
+        "opt": "Não"
+      }
+    ]
+  }
+]

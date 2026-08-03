@@ -1,0 +1,1497 @@
+[
+  {
+    "code": "A2ACC",
+    "name": "Análise De Circuitos Em Corrente Contínua",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M4(A035)-2M5(A035)-2T2(S103)-2T3(S103)-3M4(A035)-3M5(A035)",
+        "prof": "Gabriela Helena Bauab Shiguemoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2ACC",
+    "name": "Análise De Circuitos Em Corrente Contínua",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M4(S202)-2M5(S202)-4M2(SUB005)-4M3(SUB005)-6M4(S103)-6M5(S103)",
+        "prof": "Carolina Ribeiro Rodrigues, Guilherme Masquetti Pelz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65S",
+    "name": "Aprendizagem Profunda",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48B2",
+    "name": "Aprendizagem Profunda",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Matriz:191, Matriz:173, Matriz:143"
+      }
+    ]
+  },
+  {
+    "code": "ES48M",
+    "name": "Aprendizagem Profunda",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "E2CDI1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M4(P201)-3M5(P201)-4M4(A144)-4M5(A144)-5M4(A146)-5M5(A146)",
+        "prof": "Rosileide De Oliveira Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E3CDI2",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "E31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T2(S202)-2T3(S202)-4T2(P104)-4T3(P104)",
+        "prof": "Renata Mascari De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E4CDI3",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "E41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3T2(P103)-3T3(P103)-5T2(P104)-5T3(P104)",
+        "prof": "Alexandra Cristina Menis Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC45G",
+    "name": "Certificadora Da Competência 1",
+    "turmas": [
+      {
+        "turma": "C51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Gisele Alves Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46H",
+    "name": "Certificadora Da Competência 2",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Monique Emidio De Oliveira, Fabio Fernandes Da Rocha Vicente",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC47G",
+    "name": "Certificadora Da Competência 3",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Alessandro Silveira Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E5CCD",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "E51",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M2(S203)-2M3(S203)-4T4(P203)-4T5(P203)",
+        "prof": "Angelo Feracin Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A5CTC",
+    "name": "Controle Contínuo",
+    "turmas": [
+      {
+        "turma": "A51",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T2(SUB004)-2T3(SUB004)-3T4(S201)-3T5(S201)",
+        "prof": "Emerson Ravazzi Pires Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E6CTC",
+    "name": "Controle Contínuo",
+    "turmas": [
+      {
+        "turma": "E61",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T2(SUB005)-2T3(SUB005)-4M4(S201)-4M5(S201)",
+        "prof": "Luiz Francisco Sanches Buzzacchero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65N",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48N",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "ES48J",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "A6ECO",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "A61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4M2(A036)-4M3(A036)",
+        "prof": "Luiz Cesar De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E6ECO",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "E61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "4T2(P202)-4T3(P202)",
+        "prof": "Luiz Cesar De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E1ELB",
+    "name": "Eletricidade Básica",
+    "turmas": [
+      {
+        "turma": "E12",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "2",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3T4(SUB004)-3T5(SUB004)-5T4(S103)-5T5(S103)",
+        "prof": "Vander Teixeira Prado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A5ELTB",
+    "name": "Eletrônica",
+    "turmas": [
+      {
+        "turma": "A51",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3T2(S203)-3T3(S203)-5M2(I101)-5M3(I101)",
+        "prof": "Jancer Frank Zanini Destro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E3ETB",
+    "name": "Eletrônica Básica",
+    "turmas": [
+      {
+        "turma": "E31",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M4(A036)-3M5(A036)-4M4(S101)-4M5(S101)",
+        "prof": "Jancer Frank Zanini Destro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A6ELD",
+    "name": "Eletrônica Digital",
+    "turmas": [
+      {
+        "turma": "A61",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "5M4(S203)-5M5(S203)-6M4(P201)-6M5(P201)",
+        "prof": "Wesley Angelino De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A4EPD",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4T4(P004)-4T5(P004)",
+        "prof": "Cleverson Flor Da Rosa",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "EC47E",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Josieli Soares Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQD",
+    "name": "Equações Diferenciais",
+    "turmas": [
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Elenice Weber Stiegelmeier",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E4EQD",
+    "name": "Equações Diferenciais",
+    "turmas": [
+      {
+        "turma": "E41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "4M2(A142)-4M3(A142)-5T4(A143)-5T5(A143)",
+        "prof": "Douglas Azevedo Sant Anna",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E1FME",
+    "name": "Fundamentos De Matemática Para Engenharia",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3T2(P104)-3T3(P104)-6T2(P103)-6T3(P103)",
+        "prof": "Claudia Brunosi Medeiros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E1GAL",
+    "name": "Geometria Analítica E Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T2(P103)-2T3(P103)-4T2(A136)-4T3(A136)-6T4(P103)-6T5(P103)",
+        "prof": "Rosangela Teixeira Guedes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC47D",
+    "name": "Gerenciamento De Projeto De Software",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Flavia Belintani Blum Haddad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC42L",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "C21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Roberto Bondarik",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "E2OPH16",
+    "name": "História Da Técnica E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica",
+        "h": "2N1(A135)-2N2(A135)",
+        "prof": "Roberto Bondarik",
+        "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
+    "code": "A2OPH4",
+    "name": "Inglês Instrumental",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "5N1(CALEMII)-5T6(CALEMII)",
+        "prof": "Maisa De Alcantara Zakir",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "EC47A",
+    "name": "Inteligência Artificial",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Danilo Sipoli Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65M",
+    "name": "Internet Das Coisas",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48P",
+    "name": "Internet Das Coisas",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "ES48P",
+    "name": "Internet Of Things",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "A2LCD",
+    "name": "Laboratório De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T4(A047)-2T5(A047)",
+        "prof": "Helio Saito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2LCD",
+    "name": "Laboratório De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "6M4(A047)-6M5(A047)",
+        "prof": "Ivo Aparecido Goulart",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E4LTF",
+    "name": "Laboratório De Termodinâmica, Fluidos E Ondas",
+    "turmas": [
+      {
+        "turma": "E41",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "6M4(A045)-6M5(A045)",
+        "prof": "Yuri Vinicius Bruschi De Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2OPH5",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica",
+        "h": "2T2(A143)-2T3(A143)",
+        "prof": "Debora Goncalves Ribeiro Dias",
+        "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
+    "code": "EC46G",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Katia Romero Felizardo Scannavino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES48U",
+    "name": "Métricas E Estimativas De Software",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Alexandre L Erario",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "E6MCC",
+    "name": "Microcontroladores",
+    "turmas": [
+      {
+        "turma": "E61",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M4(S109)-2M5(S109)-3M4(A037)-3M5(A037)",
+        "prof": "Paulo Rogerio Scalassara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65G",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48L",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "ES48E",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "E3PBE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "E31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M2(I203)-2M3(I203)-3T4(I203)-3T5(I203)",
+        "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65F",
+    "name": "Processamento De Imagens",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Claiton De Oliveira",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48K",
+    "name": "Processamento De Imagens",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Claiton De Oliveira",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "ES48D",
+    "name": "Processamento De Imagens",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Claiton De Oliveira",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "A5PDS",
+    "name": "Processamento Digital De Sinais",
+    "turmas": [
+      {
+        "turma": "A51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T4(P005)-2T5(P005)-5T2(P002)-5T3(P002)",
+        "prof": "Eduardo Alves Hodgson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65U",
+    "name": "Programação De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48U",
+    "name": "Programação De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Matriz:191, Matriz:173, Matriz:143"
+      }
+    ]
+  },
+  {
+    "code": "ES48H",
+    "name": "Programação De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "ES48S",
+    "name": "Programação Desktop",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Fabricio Martins Lopes",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS65D",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduarda Maganha De Almeida",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48C",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Alexandre Romolo Moreira Feitosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES47A",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "ES71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Alexandre Romolo Moreira Feitosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC48B",
+    "name": "Programação Web Back-End",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Monique Emidio De Oliveira, Willian Massami Watanabe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC47C",
+    "name": "Programação Web Front-End",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Rosangela De Fatima Pereira Marquesone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES47B",
+    "name": "Programação Web Fullstack",
+    "turmas": [
+      {
+        "turma": "ES71",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Willian Massami Watanabe, Anderson Paulo Avila Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A2OPH7",
+    "name": "Qualidade De Vida 1",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4M4(QUADRA)-4M5(QUADRA)",
+        "prof": "Waldemar Violante Striquer",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A2OPH8",
+    "name": "Qualidade De Vida 2",
+    "turmas": [
+      {
+        "turma": "A31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "5T4(QUADRA)-5T5(QUADRA)",
+        "prof": "Waldemar Violante Striquer",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "AS65Q",
+    "name": "Realidade Estendida",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Filgueiras Damasceno",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48W",
+    "name": "Realidade Estendida",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Eduardo Filgueiras Damasceno",
+        "opt": "Matriz:191, Matriz:173, Matriz:143"
+      }
+    ]
+  },
+  {
+    "code": "ES48L",
+    "name": "Realidade Estendida",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Filgueiras Damasceno",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "EC47B",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Natassya Barlate Floro Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A2OPH17",
+    "name": "Relações Humanas",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "5M4(A140)-5M5(A140)",
+        "prof": "Rosianne Silva Walter",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "EC48C2",
+    "name": "Segurança Da Informação",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Natassya Barlate Floro Da Silva",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "A4SNS",
+    "name": "Sinais E Sistemas",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M4(SUB005)-2M5(SUB005)-4M4(P005)-4M5(P005)",
+        "prof": "Cristiano Marcos Agulhari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E5SNS",
+    "name": "Sinais E Sistemas",
+    "turmas": [
+      {
+        "turma": "E51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M4(P002)-3M5(P002)-4T2(S202)-4T3(S202)",
+        "prof": "Herman Lucas Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC48A",
+    "name": "Sistemas Distribuídos",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Rogerio Santos Pozza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IF68E",
+    "name": "Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "A91",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T2(S109)-2T3(S109)-3T2(S202)-3T3(S202)",
+        "prof": "Andre Sanches Fonseca Sobrinho",
+        "opt": "Matriz:108"
+      }
+    ]
+  },
+  {
+    "code": "EC48D",
+    "name": "Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Andre Sanches Fonseca Sobrinho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A2TCD",
+    "name": "Teoria De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3T2(A035)-3T3(A035)-4T4(A035)-4T5(A035)",
+        "prof": "Fernando Jose Antonio",
+        "opt": "Não"
+      },
+      {
+        "turma": "A22",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3T2(A035)-3T3(A035)-4T4(A035)-4T5(A035)",
+        "prof": "Fernando Jose Antonio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2TCD",
+    "name": "Teoria De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M2(A144)-3M3(A144)-5M2(A144)-5M3(A144)",
+        "prof": "Vagner Alexandre Rigo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A3TEM",
+    "name": "Teoria De Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "A31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4T1(A134)-4T2(A134)-6T1(A134)-6T2(A134)",
+        "prof": "Carlos Alberto Coelho Jousseph",
+        "opt": "Não"
+      },
+      {
+        "turma": "A32",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4T1(A134)-4T2(A134)-6T1(A134)-6T2(A134)",
+        "prof": "Carlos Alberto Coelho Jousseph",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E3TEM",
+    "name": "Teoria De Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "E31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M4(P104)-2M5(P104)-4T4(P104)-4T5(P104)",
+        "prof": "Fabio Campos Poderoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A4TTF",
+    "name": "Teoria De Termodinâmica, Fluidos E Ondas",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M4(SUB004)-3M5(SUB004)-5T4(SUB004)-5T5(SUB004)",
+        "prof": "Ivan Braga Gallo",
+        "opt": "Não"
+      },
+      {
+        "turma": "A42",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M4(SUB004)-3M5(SUB004)-5T4(SUB004)-5T5(SUB004)",
+        "prof": "Ivan Braga Gallo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E4TTF",
+    "name": "Teoria De Termodinâmica, Fluidos E Ondas",
+    "turmas": [
+      {
+        "turma": "E41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M2(A142)-3M3(A142)-5M2(A142)-5M3(A142)",
+        "prof": "Sandra Mara Domiciano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC38F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "C01",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação",
+        "h": "",
+        "prof": "Tatianne Costa Negri Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC47F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "C01",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação",
+        "h": "",
+        "prof": "Camila Dias De Oliveira Sestito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC39A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "C01",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação",
+        "h": "",
+        "prof": "Tatianne Costa Negri Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC48F",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "C01",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação",
+        "h": "",
+        "prof": "Camila Dias De Oliveira Sestito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E7TMD",
+    "name": "Transmissão De Dados",
+    "turmas": [
+      {
+        "turma": "E71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T4(P203)-2T5(P203)-3T4(P003)-3T5(P003)",
+        "prof": "Jose Carlos Marinello Filho",
+        "opt": "Não"
+      }
+    ]
+  }
+]

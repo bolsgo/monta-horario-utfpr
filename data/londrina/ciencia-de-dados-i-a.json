@@ -1,0 +1,87 @@
+[
+  {
+    "code": "CDEEC01",
+    "name": "Algoritmos 1",
+    "turmas": [
+      {
+        "turma": "CD13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência De Dados I A",
+        "h": "4N3(K109)-4N4(K109)-5N2(T106)-5N3(T106)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS32C",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais",
+    "turmas": [
+      {
+        "turma": "CD13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência De Dados I A",
+        "h": "2N3(K308)-2N4(K308)",
+        "prof": "Givan Jose Ferreira Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDEEC02",
+    "name": "Introdução À Ciência De Dados E Inteligência Artificial",
+    "turmas": [
+      {
+        "turma": "CD13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência De Dados I A",
+        "h": "3N3(K106)-3N4(K106)-4N1(K113)-4N2(K113)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT23C",
+    "name": "Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "CD13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência De Dados I A",
+        "h": "2N1(K308)-2N2(K308)-3N1(K308)-3N2(K308)",
+        "prof": "Alireza Mohebi Ashtiani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PEECX01",
+    "name": "Projeto Extensionista",
+    "turmas": [
+      {
+        "turma": "CD13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência De Dados I A",
+        "h": "5N4(K303)-5N5(K303)-6N1(K303)-6N2(K303)-7M2(ZSV11)-7M3(ZSV11)-7M4(ZSV11)-7M5(ZSV11)",
+        "prof": "Claudia Santos Fiuza Lima",
+        "opt": "Não"
+      }
+    ]
+  }
+]

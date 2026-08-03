@@ -1,0 +1,1454 @@
+[
+  {
+    "code": "MME52E",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "MEC2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T3(SALAB9)-5T4(SALAB9)-5T5(SALAB9)",
+        "prof": "Aura Rosa Belzarez Guedez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC59G",
+    "name": "Automação Industrial",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T5(LABA6)-4T6(LABA6)-6T5(LABA6)-6T6(LABA6)",
+        "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME53D",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M2(SALAF10)-4M3(SALAF10)-5M2(SALAF10)-5M3(SALAF10)",
+        "prof": "Juliano Dos Santos Gonschorowski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24A",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T4(SALAH309)-4T5(SALAH309)-4T6(SALAH309)",
+        "prof": "Michel Teston Semensato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME51D",
+    "name": "Cálculo Diferencial 1",
+    "turmas": [
+      {
+        "turma": "DPME",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T4(SALAH209)-5T5(SALAH209)-5T6(SALAH209)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6M2(SALAB9)-6M3(SALAB9)-6M4(SALAB9)",
+        "prof": "Juliano Dos Santos Gonschorowski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME52D",
+    "name": "Cálculo Integral 1",
+    "turmas": [
+      {
+        "turma": "DPME",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6T4(SALAH209)-6T5(SALAH209)-6T6(SALAH209)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAB9)-3T4(SALAB9)-3T5(SALAB9)",
+        "prof": "Aura Rosa Belzarez Guedez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC59H",
+    "name": "Ciência, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T4(SALAH310)-2T5(SALAH310)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC59B",
+    "name": "Comando Numérico Computadorizado",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T4(LABE1)-3T5(LABE1)-3T6(LABE1)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC51C",
+    "name": "Computação Aplicada À Engenharia Mecânica",
+    "turmas": [
+      {
+        "turma": "DPME",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T2(LABB6INF)-3T3(LABB6INF)-4T2(LABB6INF)-4T3(LABB6INF)",
+        "prof": "Carlos Eduardo Andrade Iatskiu",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M4(LABB6INF)-2M5(LABB6INF)-4M2(LABB6INF)-4M3(LABB6INF)",
+        "prof": "Lyvia Regina Biagi Silva Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC51G",
+    "name": "Comunicação Em Engenharia",
+    "turmas": [
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M4(SALAB9)-4M5(SALAB9)",
+        "prof": "Luan Jose Vaz Chagas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC57D",
+    "name": "Condução E Radiação Térmica",
+    "turmas": [
+      {
+        "turma": "MEC7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M4(SALAF12)-4M5(SALAF12)-6M2(SALAF12)-6M3(SALAF12)",
+        "prof": "Sergio Dalmas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58C",
+    "name": "Conformação Mecânica",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(LABE4)-3T2(LABE4)-4T1(LABE4)-4T2(LABE4)",
+        "prof": "Aldo Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58D",
+    "name": "Controle E Comandos Elétricos Aplicados À Engenharia Mecânica",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAF12)-2T3(SALAF12)-2T4(SALAF12)-2T5(SALAF12)",
+        "prof": "Lyvia Regina Biagi Silva Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58E",
+    "name": "Convecção Térmica",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6T2(SALAF12)-6T3(SALAF12)",
+        "prof": "Sergio Dalmas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC54C",
+    "name": "Corrosão E Tratamentos De Superfícies",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T1(SALAF10)-4T2(SALAF10)",
+        "prof": "Marilei De Fatima Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC52A",
+    "name": "Desenho Mecânico",
+    "turmas": [
+      {
+        "turma": "MEC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(LABC1)-3T2(LABC1)",
+        "prof": "David Lira Nunez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC54B",
+    "name": "Dinâmica",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T5(SALAF10)-3T6(SALAF10)-4T5(SALAF10)-4T6(SALAF10)",
+        "prof": "Denise Alves Ramalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58A",
+    "name": "Elementos De Fixação E De Acionamento",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAF12)-3T4(SALAF12)-5T3(SALAF12)-5T4(SALAF12)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC57A",
+    "name": "Elementos De Transmissão",
+    "turmas": [
+      {
+        "turma": "MEC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M2(LABC1)-4M3(LABC1)-5M2(LABC1)-5M3(LABC1)",
+        "prof": "David Lira Nunez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC55F",
+    "name": "Eletrotécnica",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M1(LABA11)-3M2(LABA11)-3M3(LABA11)",
+        "prof": "Marcos Goncalves Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58G",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH307)-3M3(SALAH307)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM49B",
+    "name": "Empreendedorismo E Plano De Negócios",
+    "turmas": [
+      {
+        "turma": "EM9",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH307)-3M3(SALAH307)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1P",
+    "name": "Energias Renováveis",
+    "turmas": [
+      {
+        "turma": "OPME",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M4(LABF7INF)-3M5(LABF7INF)",
+        "prof": "Raquel Da Cunha Ribeiro Da Silva",
+        "opt": "Matriz:20, Matriz:27"
+      }
+    ]
+  },
+  {
+    "code": "MEC56B",
+    "name": "Engenharia Da Qualidade",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M4(SALAH308)-3M5(SALAH308)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC53C",
+    "name": "Engenharia E Ciência De Materiais",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M4(SALAF10)-2M5(SALAF10)-5M4(SALAF10)-5M5(SALAF10)",
+        "prof": "Aldo Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM49C",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "EM9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAF6)-3T4(SALAF6)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC56D",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAF6)-3T4(SALAF6)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC51A",
+    "name": "Engenharia Mecânica No Mundo Moderno",
+    "turmas": [
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAB9)-3M3(SALAB9)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC56C",
+    "name": "Ensaios Mecânicos Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6T5(SALAF12)-6T6(SALAF12)",
+        "prof": "Viviane Teleginski Mazur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME54E",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAF10)-3T4(SALAF10)-5T3(SALAF10)-5T4(SALAF10)",
+        "prof": "Thalita Monteiro Obal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC53B",
+    "name": "Estática",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M4(SALAF10)-3M5(SALAF10)-4M4(SALAF10)-4M5(SALAF10)",
+        "prof": "Marcos Goncalves Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "FME55C",
+    "name": "Física Experimental",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M2(LABB4FIS)-4M3(LABB4FIS)",
+        "prof": "Antonio Carlos Amaro De Faria Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22D",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T3(SALAH310)-5T4(SALAH310)-6T4(SALAH310)-6T5(SALAH310)",
+        "prof": "Aline Milan Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FME52F",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "MEC2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T1(SALAB9)-5T2(SALAB9)-6T1(SALAB9)-6T2(SALAB9)",
+        "prof": "Aline Milan Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT12C",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N2(SALAF11)-2N3(SALAF11)-4N1(SALAF11)-4T6(SALAF11)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6T4(SALAH309)-6T5(SALAH309)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FME53E",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6M2(SALAF10)-6M3(SALAF10)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N2(SALAF10)-4N3(SALAF10)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23D",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(SALAH310)-2M5(SALAH310)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FME54F",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T1(SALAF10)-5T2(SALAF10)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13H",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(SALAF10)-5T6(SALAF10)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC56E",
+    "name": "Fundamentos Da Mecânica Dos Fluidos",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(LABF7INF)-2T3(LABF7INF)-2T4(LABF7INF)-2T5(LABF7INF)",
+        "prof": "Raquel Da Cunha Ribeiro Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC54A",
+    "name": "Fundamentos Da Mecânica Dos Sólidos",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAF10)-2T3(SALAF10)-4T3(SALAF10)-4T4(SALAF10)",
+        "prof": "Carlos Bernardo Gouvea Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC51F",
+    "name": "Fundamentos De Engenharia E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M4(SALAB9)-3M5(SALAB9)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC59C",
+    "name": "Fundamentos De Projetos De Máquinas",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(LABF7INF)-3T2(LABF7INF)",
+        "prof": "Carlos Bernardo Gouvea Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC55D",
+    "name": "Fundamentos De Termodinâmica",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5M4(SALAF11)-5M5(SALAF11)-6M4(SALAF11)-6M5(SALAF11)",
+        "prof": "Sergio Dalmas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC57C",
+    "name": "Fundição E Soldagem",
+    "turmas": [
+      {
+        "turma": "MEC7",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2N1(LABE2)-2T4(LABE2)-2T5(LABE2)-2T6(LABE2)",
+        "prof": "Henrique Ajuz Holzmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME51E",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "DPME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T4(SALAH209)-4T5(SALAH209)-4T6(SALAH209)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5M3(SALAB9)-5M4(SALAB9)-5M5(SALAB9)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1S",
+    "name": "Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3N1(SALAF10)-3N2(SALAF10)",
+        "prof": "Allan Thierry Branco Torres",
+        "opt": "Matriz:20, Matriz:27"
+      }
+    ]
+  },
+  {
+    "code": "MEC57B",
+    "name": "Gestão Da Manutenção",
+    "turmas": [
+      {
+        "turma": "MEC7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M4(SALAF12)-2M5(SALAF12)-6M4(SALAF12)-6M5(SALAF12)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC59F",
+    "name": "Hidráulica E Pneumática",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T5(LABE4)-5T6(LABE4)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1A",
+    "name": "Indústria 4.0",
+    "turmas": [
+      {
+        "turma": "MEIUA",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "3M2(MEI-U)-3M3(MEI-U)-7M2(MEI-U)-7M3(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      },
+      {
+        "turma": "MEIUB",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "4M2(MEI-U)-4M3(MEI-U)-7M4(MEI-U)-7M5(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      }
+    ]
+  },
+  {
+    "code": "OPT5R",
+    "name": "Introdução À Astronomia",
+    "turmas": [
+      {
+        "turma": "ASTR",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "2T4(SALAF6)-2T5(SALAF6)-2T6(SALAF6)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Matriz:20, Matriz:19, Matriz:22, Matriz:7, Matriz:27, Matriz:4"
+      }
+    ]
+  },
+  {
+    "code": "MEC52C",
+    "name": "Laboratório De Manufatura",
+    "turmas": [
+      {
+        "turma": "MEC2A",
+        "enq": "Presencial",
+        "vt": "8",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M4(LABE6)-4M5(LABE6)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC2B",
+        "enq": "Presencial",
+        "vt": "8",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T2(LABE6)-4T3(LABE6)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC2C",
+        "enq": "Presencial",
+        "vt": "8",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T4(LABE6)-4T5(LABE6)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC2D",
+        "enq": "Presencial",
+        "vt": "8",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M2(LABE6)-4M3(LABE6)",
+        "prof": "Denner Traiano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1G",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH209)-3T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T5(SALAH209)-2T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T5(SALAH207)-2T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "HUM1H",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T5(SALAH209)-3T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAH209)-2T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAH207)-3T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "MEC53F",
+    "name": "Língua Inglesa Instrumental",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(SALAH303)-3T2(SALAH303)",
+        "prof": "Ana Beatriz Matte Braun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC55B",
+    "name": "Materiais Metálicos",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M2(SALAF11)-2M3(SALAF11)-3M4(SALAF11)-3M5(SALAF11)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC57E",
+    "name": "Mecânica Dos Fluidos Aplicada",
+    "turmas": [
+      {
+        "turma": "MEC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M2(LABF7INF)-2M3(LABF7INF)-3M2(LABF7INF)-3M3(LABF7INF)",
+        "prof": "Raquel Da Cunha Ribeiro Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC55A",
+    "name": "Mecânica Dos Sólidos Aplicada",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5M2(SALAF11)-5M3(SALAF11)-6M2(SALAF11)-6M3(SALAF11)",
+        "prof": "Carlos Bernardo Gouvea Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC56H",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T3(SALAF6)-5T4(SALAF6)",
+        "prof": "Marizete Righi Cechin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM49D",
+    "name": "Metodologia De Projeto De Máquinas",
+    "turmas": [
+      {
+        "turma": "EM9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(LABF7INF)-3T2(LABF7INF)",
+        "prof": "Carlos Bernardo Gouvea Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC55E",
+    "name": "Métodos Numéricos Computacionais",
+    "turmas": [
+      {
+        "turma": "MEC5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M4(SALAF11)-2M5(SALAF11)-4M4(SALAF11)-4M5(SALAF11)",
+        "prof": "Christian Naaktgeboren",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT6A",
+    "name": "Metrologia Dimensional",
+    "turmas": [
+      {
+        "turma": "OPME",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4M4(LABE1)-4M5(LABE1)",
+        "prof": "Aldo Przybysz",
+        "opt": "Matriz:27"
+      }
+    ]
+  },
+  {
+    "code": "MEC56G",
+    "name": "Planejamento E Controle Da Produção",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T5(SALAF12)-5T6(SALAF12)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MME54D",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "MEC4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(SALAB9)-3T2(SALAB9)-6T3(SALAB9)-6T4(SALAB9)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC53A",
+    "name": "Projeto Mecânico Assistido Por Computador",
+    "turmas": [
+      {
+        "turma": "MEC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M2(LABC1)-2M3(LABC1)-3M2(LABC1)-3M3(LABC1)",
+        "prof": "David Lira Nunez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QME51B",
+    "name": "Química Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MEC1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2M2(SALAB9)-2M3(SALAB9)",
+        "prof": "Marilei De Fatima Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QME52B",
+    "name": "Química Experimental",
+    "turmas": [
+      {
+        "turma": "MEC2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6M4(LABF1QUI)-6M5(LABF1QUI)",
+        "prof": "Marilei De Fatima Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "MEC2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6T3(LABF1QUI)-6T4(LABF1QUI)",
+        "prof": "Marilei De Fatima Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1K",
+    "name": "Simulação De Motores De Combustão Interna",
+    "turmas": [
+      {
+        "turma": "OPME",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "6T1(SALAF10)-6T2(SALAF10)",
+        "prof": "Christian Naaktgeboren",
+        "opt": "Matriz:20, Matriz:27"
+      }
+    ]
+  },
+  {
+    "code": "MEC56F",
+    "name": "Termodinâmica Computacional Aplicada",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "4T3(SALAF11)-4T4(SALAF11)-6T3(SALAF11)-6T4(SALAF11)",
+        "prof": "Christian Naaktgeboren",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T1(SALAF12)-6M1(SALAF12)",
+        "prof": "Sergio Dalmas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM49A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "EM9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Christian Naaktgeboren",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC39D",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "MEC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Christian Naaktgeboren",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC58B",
+    "name": "Usinagem",
+    "turmas": [
+      {
+        "turma": "MEC8",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "5T5(SALAH308)-5T6(SALAH308)",
+        "prof": "Viviane Teleginski Mazur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC56A",
+    "name": "Vibrações Mecânicas",
+    "turmas": [
+      {
+        "turma": "MEC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T1(SALAF11)-3T2(SALAF11)",
+        "prof": "Denise Alves Ramalho",
+        "opt": "Não"
+      }
+    ]
+  }
+]

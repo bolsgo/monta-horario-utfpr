@@ -1,0 +1,104 @@
+[
+  {
+    "code": "EA68A",
+    "name": "Avaliação Dos Impactos Ambientais A",
+    "turmas": [
+      {
+        "turma": "DP81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M3(B203)-5M4(B203)-5M5(B203)",
+        "prof": "Marcelo Eduardo Freres Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE69B",
+    "name": "Economia Do Meio Ambiente",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(A105)-6M5(A105)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU94N",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
+      }
+    ]
+  }
+]

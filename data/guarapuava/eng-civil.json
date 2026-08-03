@@ -1,0 +1,1173 @@
+[
+  {
+    "code": "CIV23C",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5M3(SALAH309)-5M4(SALAH309)-5M5(SALAH309)",
+        "prof": "Aura Rosa Belzarez Guedez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24G",
+    "name": "Algoritmos E Linguagem De Programação",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T3(LABH206)-2T4(LABH206)-5T4(LABH206)-5T5(LABH206)",
+        "prof": "Sediane Carmem Lunardi Hernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV26C",
+    "name": "Análise De Sistemas Estruturais Hiperestáticos",
+    "turmas": [
+      {
+        "turma": "CIV6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T1(SALAH308)-3T2(SALAH308)-4T4(SALAH308)-4T5(SALAH308)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23F",
+    "name": "Análise De Sistemas Estruturais Isostáticos",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M4(SALAH309)-3M5(SALAH309)-4M4(SALAH309)-4M5(SALAH309)",
+        "prof": "Edson Florentino De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22F",
+    "name": "Argamassa E Concreto",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T4(SALAH310)-3T5(SALAH310)-4T4(SALAH310)-4T5(SALAH310)",
+        "prof": "Gessica Katalyne Bilcati Holzmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT2X",
+    "name": "Avaliações E Perícias",
+    "turmas": [
+      {
+        "turma": "OPCI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4N1(SALAH306)-4N2(SALAH306)-4N3(SALAH306)-4N4(SALAH306)",
+        "prof": "Allan Thierry Branco Torres",
+        "opt": "Matriz:22"
+      }
+    ]
+  },
+  {
+    "code": "CIV23B",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M2(SALAH309)-3M3(SALAH309)-4M2(SALAH309)-4M3(SALAH309)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24A",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T4(SALAH309)-4T5(SALAH309)-4T6(SALAH309)",
+        "prof": "Michel Teston Semensato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV21B",
+    "name": "Cálculo Diferencial 1",
+    "turmas": [
+      {
+        "turma": "DPCI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T4(SALAH209)-5T5(SALAH209)-5T6(SALAH209)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22B",
+    "name": "Cálculo Integral 1",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T1(SALAH310)-2T2(SALAH310)-2T3(SALAH310)",
+        "prof": "Alex Sandro De Castilho",
+        "opt": "Não"
+      },
+      {
+        "turma": "DPCI",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6T4(SALAH209)-6T5(SALAH209)-6T6(SALAH209)",
+        "prof": "Francini Damiani E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV25A",
+    "name": "Cálculo Numérico Computacional",
+    "turmas": [
+      {
+        "turma": "CIV5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5M2(SALAH308)-5M3(SALAH308)-6M4(SALAH308)-6M5(SALAH308)",
+        "prof": "Michel Teston Semensato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22G",
+    "name": "Ciência, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T4(SALAH310)-2T5(SALAH310)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28A",
+    "name": "Elementos De Fundações",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T1(SALAH307)-2T2(SALAH307)-6T1(SALAH307)-6T2(SALAH307)",
+        "prof": "Petronio Rodrigo Mello Montezuma",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV27E",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M2(SALAH307)-3M3(SALAH307)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV25E",
+    "name": "Engenharia Da Qualidade",
+    "turmas": [
+      {
+        "turma": "CIV5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M4(SALAH308)-3M5(SALAH308)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV26E",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "CIV6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T4(SALAH308)-2T5(SALAH308)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM49C",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "EM9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3T3(SALAF6)-3T4(SALAF6)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24B",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T1(SALAH309)-2T2(SALAH309)-6T1(SALAH309)-6T2(SALAH309)",
+        "prof": "Michel Teston Semensato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV27C",
+    "name": "Estrutura De Concreto Armado 1",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M4(SALAH307)-4M5(SALAH307)-5M1(SALAH307)-5M2(SALAH307)-5M3(SALAH307)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28C",
+    "name": "Estruturas De Concreto Armado 2",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T3(SALAH307)-5T4(SALAH307)-5T5(SALAH307)-6T3(SALAH307)-6T4(SALAH307)",
+        "prof": "Tassiane Apolinario De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79D",
+    "name": "Estruturas De Fundações",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M2(SALAH306)-2M3(SALAH306)-5M2(SALAH306)-5M3(SALAH306)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28B",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV25B",
+    "name": "Física Experimental",
+    "turmas": [
+      {
+        "turma": "CIV5",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M4(LABB4FIS)-4M5(LABB4FIS)",
+        "prof": "Antonio Carlos Amaro De Faria Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22D",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T3(SALAH310)-5T4(SALAH310)-6T4(SALAH310)-6T5(SALAH310)",
+        "prof": "Aline Milan Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT12C",
+    "name": "Física: Mecânica",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N2(SALAF11)-2N3(SALAF11)-4N1(SALAF11)-4T6(SALAF11)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6T4(SALAH309)-6T5(SALAH309)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13C",
+    "name": "Física: Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N2(SALAF10)-4N3(SALAF10)",
+        "prof": "Diogo Zampieri Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23D",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(SALAH310)-2M5(SALAH310)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FMT13H",
+    "name": "Física: Termodinâmica",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(SALAF10)-5T6(SALAF10)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23G",
+    "name": "Fundamentos De Engenharia E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6M4(SALAH309)-6M5(SALAH309)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV21C",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "DPCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T4(SALAH209)-4T5(SALAH209)-4T6(SALAH209)",
+        "prof": "Flavia Konowalenko",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79C",
+    "name": "Gerenciamento De Obras",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(SALAH306)-2M5(SALAH306)-6M4(SALAH306)-6M5(SALAH306)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28F",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH307)-3T3(SALAH307)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79B",
+    "name": "Gestão De Projetos De Edifícios",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M4(SALAH306)-4M5(SALAH306)-5M4(SALAH306)-5M5(SALAH306)",
+        "prof": "Marcela Maier Farias Czap",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV26H",
+    "name": "Hidráulica",
+    "turmas": [
+      {
+        "turma": "CIV6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T1(SALAH308)-4T2(SALAH308)-5T4(SALAH309)-5T5(SALAH309)",
+        "prof": "Mariane Kempka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV27D",
+    "name": "Hidrologia Para Engenharia Civil",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M4(SALAH307)-3M5(SALAH307)-5M4(SALAH307)-5M5(SALAH307)",
+        "prof": "Dimaghi Schwamback",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1A",
+    "name": "Indústria 4.0",
+    "turmas": [
+      {
+        "turma": "MEIUA",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "3M2(MEI-U)-3M3(MEI-U)-7M2(MEI-U)-7M3(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      },
+      {
+        "turma": "MEIUB",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "4M2(MEI-U)-4M3(MEI-U)-7M4(MEI-U)-7M5(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      }
+    ]
+  },
+  {
+    "code": "CIV27A",
+    "name": "Instalações Elétricas",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T1(SALAH306)-2T2(SALAH306)-6T1(SALAH306)-6T2(SALAH306)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV26A",
+    "name": "Instalações Hidrossanitárias",
+    "turmas": [
+      {
+        "turma": "CIV6",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T2(SALAH308)-2T3(SALAH308)-3T4(SALAH308)-3T5(SALAH308)",
+        "prof": "Rodrigo Scoczynski Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT5R",
+    "name": "Introdução À Astronomia",
+    "turmas": [
+      {
+        "turma": "ASTR",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "2T4(SALAF6)-2T5(SALAF6)-2T6(SALAF6)",
+        "prof": "Ana Lucia Ferreira",
+        "opt": "Matriz:20, Matriz:19, Matriz:22, Matriz:7, Matriz:27, Matriz:4"
+      }
+    ]
+  },
+  {
+    "code": "CIV23A",
+    "name": "Leitura E Produção De Textos Acadêmicos",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T1(SALAH306)-5T2(SALAH306)",
+        "prof": "Ana Beatriz Matte Braun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1G",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH209)-3T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T5(SALAH209)-2T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T5(SALAH207)-2T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "HUM1H",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T5(SALAH209)-3T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAH209)-2T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAH207)-3T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "CIV24F",
+    "name": "Mecânica Dos Fluídos",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T1(SALAH309)-5T2(SALAH309)-5T3(SALAH309)",
+        "prof": "Mariane Kempka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV27M",
+    "name": "Mecânica Dos Solos",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M2(SALAH307)-2M3(SALAH307)-6M4(SALAH307)-6M5(SALAH307)",
+        "prof": "Petronio Rodrigo Mello Montezuma",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22A",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T1(SALAH310)-4T2(SALAH310)",
+        "prof": "Marizete Righi Cechin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22E",
+    "name": "Modelagem Da Informação Da Construção",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T1(LABH206)-3T2(LABH206)-3T3(LABH206)-5T1(LABH206)-5T2(LABH206)",
+        "prof": "Gladis Cristina Furlan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79E",
+    "name": "Patologia E Recuperação Das Construções",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M4(SALAH306)-3M5(SALAH306)-4M2(SALAH306)-4M3(SALAH306)",
+        "prof": "Allan Thierry Branco Torres",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV22C",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "CIV2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T5(SALAH310)-5T6(SALAH310)-6T2(SALAH310)-6T3(SALAH310)",
+        "prof": "Thalita Monteiro Obal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV23E",
+    "name": "Processos E Técnicas Na Construção Civil",
+    "turmas": [
+      {
+        "turma": "CIV3",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M2(SALAH309)-2M3(SALAH309)-6M2(SALAH309)-6M3(SALAH309)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT2L",
+    "name": "Projeto De Construções Metálicas",
+    "turmas": [
+      {
+        "turma": "OPCI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5N1(SALAH306)-5N2(SALAH306)-5N3(SALAH306)-5N4(SALAH306)",
+        "prof": "Tassiane Apolinario De Oliveira",
+        "opt": "Matriz:22"
+      }
+    ]
+  },
+  {
+    "code": "CIV26P",
+    "name": "Projeto De Estradas",
+    "turmas": [
+      {
+        "turma": "CIV6",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T1(SALAH308)-5T2(SALAH308)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV27F",
+    "name": "Projeto E Execução De Pavimentos",
+    "turmas": [
+      {
+        "turma": "CIV7",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(SALAH307)-2M5(SALAH307)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT4H",
+    "name": "Qualidade E Desempenho Das Edificações",
+    "turmas": [
+      {
+        "turma": "OPCI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3N1(SALAH306)-3N2(SALAH306)-3N3(SALAH306)-3N4(SALAH306)",
+        "prof": "Gessica Katalyne Bilcati Holzmann",
+        "opt": "Matriz:22"
+      }
+    ]
+  },
+  {
+    "code": "CIV24E",
+    "name": "Resistência Dos Materiais 1",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T4(SALAH309)-3T5(SALAH309)-4T1(SALAH309)-4T2(SALAH309)",
+        "prof": "Edson Florentino De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV25C",
+    "name": "Resistência Dos Materiais 2",
+    "turmas": [
+      {
+        "turma": "CIV5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5M4(SALAH308)-5M5(SALAH308)-6M2(SALAH308)-6M3(SALAH308)",
+        "prof": "Tassiane Apolinario De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28E",
+    "name": "Saneamento",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T4(SALAH307)-3T5(SALAH307)-5T1(SALAH307)-5T2(SALAH307)",
+        "prof": "Dimaghi Schwamback",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV24D",
+    "name": "Sistemas Complementares E Planejamento Na Construção Civil",
+    "turmas": [
+      {
+        "turma": "CIV4",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T5(SALAH309)-2T6(SALAH309)-3T1(SALAH309)-3T2(SALAH309)",
+        "prof": "Rodrigo Scoczynski Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC78B",
+    "name": "Sistemas Hidráulicos Urbanos",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T4(SALAH305)-2T5(SALAH305)-2T6(SALAH305)",
+        "prof": "Mariane Kempka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT2F",
+    "name": "Tópicos Especiais Em Estruturas De Concreto",
+    "turmas": [
+      {
+        "turma": "OPCI",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2N1(SALAH306)-2N2(SALAH306)-2N3(SALAH306)-2N4(SALAH306)",
+        "prof": "",
+        "opt": "Matriz:22"
+      }
+    ]
+  },
+  {
+    "code": "CIV25T",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "CIV5",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M2(SALAH308)-4M3(SALAH308)",
+        "prof": "Marcela Maier Farias Czap",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CIV28H",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "CIV8",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mariane Kempka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC79F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "EC9",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6N1(SALAH306)-6N2(SALAH306)-6N3(SALAH306)-6N4(SALAH306)",
+        "prof": "Gladis Cristina Furlan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC710A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "EC10",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Mariane Kempka",
+        "opt": "Não"
+      }
+    ]
+  }
+]

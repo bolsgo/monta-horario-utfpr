@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "tec-proc-quim",
+    "label": "Tec. Proc. Quím."
+  },
+  {
+    "slug": "eng-eletronica",
+    "label": "Eng. Eletrônica"
+  },
+  {
+    "slug": "eng-civil",
+    "label": "Eng. Civil"
+  },
+  {
+    "slug": "lic-em-matematica",
+    "label": "Lic. Em Matemática"
+  },
+  {
+    "slug": "sist-para-internet",
+    "label": "Sist. Para Internet"
+  },
+  {
+    "slug": "eng-de-bioprocessos",
+    "label": "Eng.  De Bioprocessos"
+  },
+  {
+    "slug": "eng-de-computacao",
+    "label": "Eng. De Computação"
+  }
+]

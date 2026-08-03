@@ -1,0 +1,199 @@
+[
+  {
+    "code": "ARQ12A",
+    "name": "Desenho Arquitetônico",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "3N1(SALAH208)-3N2(SALAH208)-3N3(SALAH208)-3N4(SALAH208)",
+        "prof": "Marcio Presente De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ12B",
+    "name": "Desenho De Observação E Perspectiva",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "4N1(SALAH209)-4N2(SALAH209)-4N3(SALAH209)-4N4(SALAH209)",
+        "prof": "Rafael Kalinoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ12C",
+    "name": "Estudo Da Forma",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "6N1(SALAH209)-6N2(SALAH209)-6N3(SALAH209)-6N4(SALAH209)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ11E",
+    "name": "Física",
+    "turmas": [
+      {
+        "turma": "DPAR",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5N3(SALAH205)-5N4(SALAH205)-5N5(SALAH205)",
+        "prof": "Aline Milan Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ12E",
+    "name": "Laboratório De Construções De Modelos",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2N1(LABH104)-2N2(LABH104)-2N3(LABH104)-2N4(LABH104)",
+        "prof": "Emeli Lalesca Aparecida Da Guarda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1G",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH209)-3T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T5(SALAH209)-2T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T5(SALAH207)-2T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "HUM1H",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T5(SALAH209)-3T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAH209)-2T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAH207)-3T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "ARQ12D",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "9",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5N3(SALAH209)-5N4(SALAH209)-5N5(SALAH209)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ12F",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "ARQ2",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5N1(SALAH209)-5N2(SALAH209)",
+        "prof": "Marcela Maier Farias Czap",
+        "opt": "Não"
+      }
+    ]
+  }
+]

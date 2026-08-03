@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "design-de-moda",
+    "label": "Design De Moda"
+  },
+  {
+    "slug": "processos-quimicos",
+    "label": "Processos Químicos"
+  },
+  {
+    "slug": "engenharia-textil",
+    "label": "Engenharia Têxtil"
+  },
+  {
+    "slug": "quimica",
+    "label": "Química"
+  },
+  {
+    "slug": "engenharia-quimica",
+    "label": "Engenharia Química"
+  },
+  {
+    "slug": "engenharia-civil",
+    "label": "Engenharia Civil"
+  },
+  {
+    "slug": "engenharia-eletrica",
+    "label": "Engenharia Elétrica"
+  },
+  {
+    "slug": "lingua-inglesa",
+    "label": "Língua Inglesa"
+  },
+  {
+    "slug": "engenharia-computacao",
+    "label": "Engenharia Computação"
+  }
+]

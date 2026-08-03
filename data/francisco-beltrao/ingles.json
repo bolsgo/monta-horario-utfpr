@@ -1,0 +1,36 @@
+[
+  {
+    "code": "ING03",
+    "name": "Inglês 3",
+    "turmas": [
+      {
+        "turma": "ING",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T5(G102B)-3T6(G102B)-5T5(G102B)-5T6(G102B)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ING04",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "ING04",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T3(G102B)-3T4(G102B)-5T3(G102B)-5T4(G102B)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Não"
+      }
+    ]
+  }
+]

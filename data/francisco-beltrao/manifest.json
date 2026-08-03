@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "tecnol-em-alimentos",
+    "label": "Tecnol Em Alimentos"
+  },
+  {
+    "slug": "eng-ambiental",
+    "label": "Eng. Ambiental"
+  },
+  {
+    "slug": "lic-informatica",
+    "label": "Lic. Informática"
+  },
+  {
+    "slug": "eng-quimica",
+    "label": "Eng. Química"
+  },
+  {
+    "slug": "ingles",
+    "label": "Inglês"
+  },
+  {
+    "slug": "eng-de-alimentos",
+    "label": "Eng. De Alimentos"
+  },
+  {
+    "slug": "frances",
+    "label": "Francês"
+  },
+  {
+    "slug": "agronomia",
+    "label": "Agronomia"
+  },
+  {
+    "slug": "sist-informacao",
+    "label": "Sist. Informação"
+  },
+  {
+    "slug": "eng-amb-sanitaria",
+    "label": "Eng. Amb. Sanitária"
+  }
+]

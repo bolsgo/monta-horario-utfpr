@@ -1,0 +1,714 @@
+[
+  {
+    "code": "TSI36D",
+    "name": "Arquitetura De Sistemas Web",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Renata Luiza Stange Carneiro Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI34E",
+    "name": "Banco De Dados Nosql",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N1(LABB6INF)-3N2(LABB6INF)",
+        "prof": "Marcelo Marcos Vichar Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI33D",
+    "name": "Banco De Dados Relacional",
+    "turmas": [
+      {
+        "turma": "TSI3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N3(LABH206)-3N4(LABH206)-5N3(LABH206)-5N4(LABH206)",
+        "prof": "Marcelo Marcos Vichar Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1K",
+    "name": "Ciência, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "OPSI",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N1(SALAB11)-3N2(SALAB11)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:15"
+      }
+    ]
+  },
+  {
+    "code": "TSI36C",
+    "name": "Computação Em Nuvem",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Hermano Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LSI31E",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "TSI1",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N3(SALAB11)-3N4(SALAB11)",
+        "prof": "Luan Jose Vaz Chagas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI34D",
+    "name": "Desenvolvimento De Aplicações Backend",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "5N3(LABB6INF)-5N4(LABB6INF)",
+        "prof": "Diego Marczal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI35D",
+    "name": "Desenvolvimento De Aplicações Backend Com Framework",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Carlos Eduardo Andrade Iatskiu",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI33A",
+    "name": "Desenvolvimento De Aplicações Frontend Web Com Frameworks E Componentes",
+    "turmas": [
+      {
+        "turma": "TSI3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N1(LABC1)-2N2(LABC1)",
+        "prof": "Roni Fabio Banaszewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI32B",
+    "name": "Desenvolvimento De Páginas Web Com Framework E Css",
+    "turmas": [
+      {
+        "turma": "TSI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N1(LABF7INF)-3N2(LABF7INF)-5N3(LABF7INF)-5N4(LABF7INF)",
+        "prof": "Roni Fabio Banaszewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI31A",
+    "name": "Desenvolvimento De Páginas Web Com Html E Css",
+    "turmas": [
+      {
+        "turma": "TSI1",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "4N3(LABC1)-4N4(LABC1)-5N3(LABC1)-5N4(LABC1)",
+        "prof": "Denis Lucas Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI35A",
+    "name": "Desenvolvimento De Projetos Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Andres Jesse Porfirio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI35C",
+    "name": "Desenvolvimento E Operações Na Nuvem",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Hermano Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI33B",
+    "name": "Desenvolvimento E Operações Na Web",
+    "turmas": [
+      {
+        "turma": "TSI3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N3(LABC1)-2N4(LABC1)-4N3(LABB6INF)-4N4(LABB6INF)",
+        "prof": "Hermano Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GSI35B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "TSI5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N3(LABB8INF)-2N4(LABB8INF)",
+        "prof": "Adriano Martins De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "TSI32D",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "TSI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N3(LABF7INF)-2N4(LABF7INF)-4N3(LABF7INF)-4N4(LABF7INF)",
+        "prof": "Eleandro Maschio Krynski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI31B",
+    "name": "Fundamentos De Sistemas Computacionais",
+    "turmas": [
+      {
+        "turma": "TSI1",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N1(LABC1)-3N2(LABC1)-4N1(LABC1)-4N2(LABC1)",
+        "prof": "Sediane Carmem Lunardi Hernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI32C",
+    "name": "Fundamentos Em Servidores Web",
+    "turmas": [
+      {
+        "turma": "TSI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N1(LABF7INF)-2N2(LABF7INF)-3N3(LABF7INF)-3N4(LABF7INF)",
+        "prof": "Sediane Carmem Lunardi Hernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GSI36B",
+    "name": "Gestão De Startups",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT1A",
+    "name": "Indústria 4.0",
+    "turmas": [
+      {
+        "turma": "MEIUA",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "3M2(MEI-U)-3M3(MEI-U)-7M2(MEI-U)-7M3(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      },
+      {
+        "turma": "MEIUB",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica, 1 - Eng. Civil, 1 - Eng. Mecatrônica",
+        "h": "4M2(MEI-U)-4M3(MEI-U)-7M4(MEI-U)-7M5(MEI-U)",
+        "prof": "Andre Luiz Soares",
+        "opt": "Matriz:20, Matriz:19, Matriz:27, Matriz:22, Matriz:17, Matriz:15"
+      }
+    ]
+  },
+  {
+    "code": "HSI36E",
+    "name": "Informática Na Sociedade",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Luciano Ogiboski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI31D",
+    "name": "Introdução À Computação",
+    "turmas": [
+      {
+        "turma": "TSI1",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N1(SALAB11)-2N2(SALAB11)",
+        "prof": "Carlos Eduardo Andrade Iatskiu",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1G",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T2(SALAH209)-3T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T5(SALAH209)-2T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2T5(SALAH207)-2T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "HUM1H",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUCI",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3T5(SALAH209)-3T6(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "2T2(SALAH209)-2T3(SALAH209)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      },
+      {
+        "turma": "HUMT",
+        "enq": "Presencial",
+        "vt": "17",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T5(SALAH207)-3T6(SALAH207)",
+        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
+        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "LSI33E",
+    "name": "Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "TSI3",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "3N1(SALAH303)-3N2(SALAH303)",
+        "prof": "Ana Beatriz Matte Braun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LSI34F",
+    "name": "Língua Inglesa No Contexto De Tecnologia Da Informação",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "5N1(SALAH303)-5N2(SALAH303)",
+        "prof": "Ana Beatriz Matte Braun",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI31C",
+    "name": "Pensamento Computacional E Linguagem De Programação Visual",
+    "turmas": [
+      {
+        "turma": "DPSI",
+        "enq": "Presencial",
+        "vt": "29",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Sistemas Internet",
+        "h": "5N1(SALAB11)-5N2(SALAB11)-6N1(SALAB11)-6N2(SALAB11)-6N3(SALAB11)-6N4(SALAB11)",
+        "prof": "Diego Marczal",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSI1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "5N1(SALAB11)-5N2(SALAB11)-6N1(SALAB11)-6N2(SALAB11)-6N3(SALAB11)-6N4(SALAB11)",
+        "prof": "Renata Luiza Stange Carneiro Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI33C",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "TSI3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "4N1(LABF7INF)-4N2(LABF7INF)-5N1(LABF7INF)-5N2(LABF7INF)",
+        "prof": "Emerson Andre Fedechen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI34A",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N3(LABB6INF)-2N4(LABB6INF)-3N3(LABB6INF)-3N4(LABB6INF)",
+        "prof": "Andres Jesse Porfirio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI32A",
+    "name": "Projeto De Software",
+    "turmas": [
+      {
+        "turma": "TSI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "4N1(LABH206)-4N2(LABH206)-5N1(LABH206)-5N2(LABH206)",
+        "prof": "Denis Lucas Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "XSI34C",
+    "name": "Projetos De Extensão",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "4N3(SALAB11)-4N4(SALAB11)",
+        "prof": "Emerson Andre Fedechen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "XSI35E",
+    "name": "Projetos De Extensão Colaborativos",
+    "turmas": [
+      {
+        "turma": "TSI5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "4N3(SALAB11)-4N4(SALAB11)",
+        "prof": "Luciano Ogiboski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI34B",
+    "name": "Resolução De Problemas",
+    "turmas": [
+      {
+        "turma": "TSI4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "2N1(LABB6INF)-2N2(LABB6INF)-4N1(LABB6INF)-4N2(LABB6INF)",
+        "prof": "Eleandro Maschio Krynski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI36A",
+    "name": "Tópicos Especiais",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roni Fabio Banaszewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI35F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "TSI5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sistemas Internet",
+        "h": "6N1(LABB7INF)-6N2(LABB7INF)",
+        "prof": "Denis Lucas Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SI106E",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "SI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Diego Marczal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI36F",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "TSI6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Diego Marczal",
+        "opt": "Não"
+      }
+    ]
+  }
+]

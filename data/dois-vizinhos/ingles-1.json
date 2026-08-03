@@ -1,0 +1,36 @@
+[
+  {
+    "code": "IN111",
+    "name": "Ingles 1 - Modalidade 1",
+    "turmas": [
+      {
+        "turma": "INGLES1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(B3-S5)-3T3(B3-S5)",
+        "prof": "Francieli Motter Ludovico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IN131",
+    "name": "Inglês 3 - Modalidade 1",
+    "turmas": [
+      {
+        "turma": "INGLES3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(B3-S5)-4T6(B3-S5)",
+        "prof": "Siderlene Muniz Oliveira",
+        "opt": "Não"
+      }
+    ]
+  }
+]

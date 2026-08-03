@@ -1,0 +1,679 @@
+[
+  {
+    "code": "ARC102",
+    "name": "Arquitetura De Computadores",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N2(Q103)-5N3(Q103)-6N2(Q103)-6N3(Q103)",
+        "prof": "Marcos Mincov Tenorio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BDD301",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q204)-6N3(Q204)-6N4(Q204)-6N5(Q204)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CVM401",
+    "name": "Construção, Validação E Manutenção De Software",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N2(Q106)-3N3(Q106)-3N4(Q106)-3N5(Q106)",
+        "prof": "Gustavo Yuji Sato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "WBE501",
+    "name": "Desenvolvimento Web Back-End",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q209)-2N3(Q209)-4N2(Q210)-4N3(Q210)",
+        "prof": "Wellton Costa De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "WFE402",
+    "name": "Desenvolvimento Web Front-End",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q207)-2N5(Q207)-4N2(Q207)-4N3(Q207)",
+        "prof": "Adair Jose Rohling",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT029",
+    "name": "Elementos De Matemática Discreta Para Computação",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q103)-2N3(Q103)-4N2(Q104)-4N3(Q104)",
+        "prof": "Renato Hallal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ADM003",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(R204)-3M5(R204)",
+        "prof": "Lindomar Subtil De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HSA005",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N3(R202)-5N4(R202)-5N5(R202)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N3(R201)-5N4(R201)-5N5(R201)",
+        "prof": "Lindomar Subtil De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "6EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "5T2(R204)-5T3(R204)-5T4(R204)",
+        "prof": "Lindomar Subtil De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDD404",
+    "name": "Estrutura De Dados",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N2(Q106)-5N3(Q106)-5N4(Q106)-5N5(Q106)",
+        "prof": "Flavio De Almeida E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED33L",
+    "name": "Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "ESPECIAL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática",
+        "h": "6T1(Q104)-6T2(Q104)-6T3(Q104)-6T4(Q104)",
+        "prof": "Maici Duarte Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT020",
+    "name": "Fundamentos De Geometria Analítica E Álgebra Linear Para Engenharias",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T3(G202)-2T4(G202)-6M4(G202)-6M5(G202)",
+        "prof": "Stefane Layana Gaffuri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GAM002",
+    "name": "Game Design",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(Q210)-5N3(Q210)-5N4(Q210)-5N5(Q210)",
+        "prof": "Rafael Angelin",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "HSA004",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N3(R208)-3N4(R208)-3N5(R208)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:37, Matriz:41, Matriz:31, Matriz:21, Matriz:25"
+      },
+      {
+        "turma": "8SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "4N2(R205)-4N3(R205)-4N4(R205)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:37, Matriz:41, Matriz:31, Matriz:21, Matriz:25"
+      }
+    ]
+  },
+  {
+    "code": "HSA001",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "7SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N1(R205)-5N2(R205)-5N3(R205)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:24, Matriz:37, Matriz:41, Matriz:25, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "EDU017",
+    "name": "História E Cultura Afro-Brasileira E Indígena",
+    "turmas": [
+      {
+        "turma": "2EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "6T1(R205)-6T2(R205)-6T3(R205)",
+        "prof": "Jose Lucio Da Silva Machado",
+        "opt": "Matriz:45, Matriz:44, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "IES104",
+    "name": "Informática E Sociedade",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N4(Q103)-5N5(Q103)-6N4(Q103)-6N5(Q103)",
+        "prof": "Rafael Wild",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LET017",
+    "name": "Inglês Para Fins Acadêmicos",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N2(G203)-2N3(G203)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "INC702",
+    "name": "Inteligência Computacional",
+    "turmas": [
+      {
+        "turma": "7SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q210)-2N5(Q210)-4N4(Q209)-4N5(Q209)",
+        "prof": "Wellton Costa De Oliveira, Jurandi Daleffe Junior",
+        "opt": "Matriz:31"
+      }
+    ]
+  },
+  {
+    "code": "IHC403",
+    "name": "Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q201)-2N3(Q201)-4N4(Q201)-4N5(Q201)",
+        "prof": "Rafael Angelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LET006",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(R206)-6N3(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T2(G202)-6T3(G202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "LET007",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(R206)-3T6(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T1(R202)-2T2(R202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "LIP201",
+    "name": "Linguagem De Programação",
+    "turmas": [
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática, 1 - Sist. Informação",
+        "h": "",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q201)-2N5(Q201)-3N2(Q201)-3N3(Q201)-3N4(Q201)-3N5(Q201)",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEP602",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q103)-2N5(Q103)",
+        "prof": "Rafael Wild",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MOS302",
+    "name": "Modelagem De Software",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q204)-2N5(Q204)",
+        "prof": "Edson Dos Santos Cordeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "API002",
+    "name": "Novas Tecnologias Em Sistemas De Informação",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q210)-6N3(Q210)-6N4(Q210)-6N5(Q210)",
+        "prof": "Francisco Antonio Fernandes Reinaldo",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "EST003",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M4(R202)-2M5(R202)-5M1(R202)-5M2(R202)",
+        "prof": "Sheila Regina Oro",
+        "opt": "Não"
+      },
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N3(G203)-3N4(G203)-4N2(G203)-4N3(G203)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Não"
+      },
+      {
+        "turma": "4EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(G207)-3T5(G207)-5T2(G207)-5T3(G207)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Não"
+      },
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q208)-6N3(Q208)-6N4(Q208)-6N5(Q208)",
+        "prof": "Naimara Vieira Do Prado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "POO303",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q204)-2N3(Q204)-3N4(Q204)-3N5(Q204)-4N4(Q204)-4N5(Q204)",
+        "prof": "Edson Dos Santos Cordeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PS36L",
+    "name": "Projeto De Software Educacional",
+    "turmas": [
+      {
+        "turma": "ESPECIAL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática",
+        "h": "5T5(Q104)-5T6(Q104)-6T5(Q104)-6T6(Q104)",
+        "prof": "Maici Duarte Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PIN603",
+    "name": "Projeto Integrador Ct&I 2",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q207)-2N3(Q207)",
+        "prof": "Adair Jose Rohling",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RED202",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N4(Q104)-5N5(Q104)-6N4(Q104)-6N5(Q104)",
+        "prof": "Marcos Mincov Tenorio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RC33L",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "ESPECIAL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática",
+        "h": "5T1(Q104)-5T2(Q104)-5T3(Q104)-5T4(Q104)",
+        "prof": "Maici Duarte Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SDU601",
+    "name": "Sistemas Distribuídos E Ubíquos",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "4N2(Q209)-4N3(Q209)-5N4(Q209)-5N5(Q209)",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HCH021",
+    "name": "Trabalho, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N4(Q105)-3N5(Q105)-4N4(Q105)-4N5(Q105)",
+        "prof": "Mayara Cristina Pereira Yamanoe",
+        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "WS38L",
+    "name": "Web Semântica E Ontologias",
+    "turmas": [
+      {
+        "turma": "ESPECIAL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática",
+        "h": "3T5(Q104)-3T6(Q104)",
+        "prof": "Wellton Costa De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  }
+]

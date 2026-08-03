@@ -1,0 +1,2032 @@
+[
+  {
+    "code": "AGR085",
+    "name": "Agricultura De Precisão",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N1(G101)-2N2(G101)-5N2(G207)-5N3(G207)",
+        "prof": "Neilor Bugoni Riquetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR082",
+    "name": "Agricultura Digital",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N4(Q104)-4N5(Q104)-6N4(R205)-6N5(R205)",
+        "prof": "Hernan Vielmo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR054",
+    "name": "Agroecologia",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N1(G206)-6T5(G206)-6T6(G206)",
+        "prof": "Daiana Schmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "INF009",
+    "name": "Algoritmos E Programação",
+    "turmas": [
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2M3(Q201)-2M4(Q201)-2M5(Q201)-2M6(Q201)",
+        "prof": "Francisco Antonio Fernandes Reinaldo",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "6N2(Q201)-6N3(Q201)-6N4(Q201)-6N5(Q201)",
+        "prof": "Vilmar Steffen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI092",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "5M3(G207)-5M4(G207)-5M5(G207)-5M6(G207)",
+        "prof": "Alexandre Da Trindade Alfaro",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "HCH020",
+    "name": "Associativismo E Cooperativismo",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N1(G206)-3N2(G206)-3N3(G206)",
+        "prof": "Rodrigo Kummer",
+        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "AGR087",
+    "name": "Avaliação E Perícia",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N2(R204)-6N3(R204)",
+        "prof": "Antonio Pedro Brusamarello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO020",
+    "name": "Biologia Celular",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(G201)-4N2(G201)-4N3(G201)",
+        "prof": "Elisangela Dusman",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EQ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. Amb. Sanitária",
+        "h": "2M3(G201)-2M4(G201)-2M5(G201)",
+        "prof": "Elisangela Dusman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO019",
+    "name": "Bioquímica Geral",
+    "turmas": [
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "",
+        "prof": "Maria Helene Giovanetti Canteri",
+        "opt": "Não"
+      },
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N4(G203)-4N5(G203)-6T1(G203)-6T2(G203)",
+        "prof": "Eder Da Costa Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "6EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "4M1(G204)-4M2(G204)-5M3(G201)-5M4(G201)",
+        "prof": "Maria Helene Giovanetti Canteri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT015",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "69",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M2(G203)-2M3(G203)-3M5(G203)-3M6(G203)",
+        "prof": "Liliane Hellmann",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "GEO007",
+    "name": "Cartografia Básica",
+    "turmas": [
+      {
+        "turma": "2EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Ambiental, 1 - Eng. Amb. Sanitária",
+        "h": "2M1(G101)-2M2(G101)",
+        "prof": "Fernando Cesar Manosso",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "AGR004",
+    "name": "Classificação Do Solo",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T5(G205)-6T6(G205)",
+        "prof": "Michelle Milanez Franca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEO006",
+    "name": "Climatologia",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T5(G204)-5T6(G204)",
+        "prof": "Fernando Cesar Manosso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA019",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N4(G201)-2N5(G201)",
+        "prof": "Carina Merkle",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EQ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M1(G201)-2M2(G201)",
+        "prof": "Carina Merkle",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR073",
+    "name": "Construções Rurais",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N3(G203)-6N4(G203)-6N5(G203)",
+        "prof": "Camila Zoe Correa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR050",
+    "name": "Controle De Plantas Daninhas",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N2(G207)-4N3(G207)-6T1(G207)-6T2(G207)",
+        "prof": "Antonio Pedro Brusamarello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DES004",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "1EA",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "5M1(Q201)-5M2(Q201)-5M3(Q201)-6M3(Q201)-6M4(Q201)",
+        "prof": "Cleila Cristina Navarini Valdameri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DES005",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N1(R207)-6N2(R207)-6N3(R207)-6T6(R207)",
+        "prof": "Cleila Cristina Navarini Valdameri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO011",
+    "name": "Ecologia Geral",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N2(G202)-5N3(G202)-6T3(Q106)-6T4(Q106)",
+        "prof": "Eder Da Costa Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "3M1(G202)-3M2(G202)-4M1(G202)-4M2(G202)",
+        "prof": "Rodrigo Lingnau",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB057",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "7EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "4M2(G207)-4M3(G207)-4M4(G207)",
+        "prof": "Adir Silverio Cembranel",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "HSA005",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N3(R202)-5N4(R202)-5N5(R202)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N3(R201)-5N4(R201)-5N5(R201)",
+        "prof": "Lindomar Subtil De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "6EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "5T2(R204)-5T3(R204)-5T4(R204)",
+        "prof": "Lindomar Subtil De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB019",
+    "name": "Energia E Desenvolvimento Sustentável",
+    "turmas": [
+      {
+        "turma": "9EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "4M1(G206)-4M2(G206)-4M3(G206)",
+        "prof": "Calisto Nonato Silva Junior",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "AMB041",
+    "name": "Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "9EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(G203)-6M3(G203)-6M4(G203)",
+        "prof": "Adir Silverio Cembranel",
+        "opt": "Matriz:44"
+      }
+    ]
+  },
+  {
+    "code": "BIO021",
+    "name": "Engenharia Genética",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N2(G206)-4N3(G206)",
+        "prof": "Eder Da Costa Dos Santos",
+        "opt": "Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "AGR046",
+    "name": "Entomologia",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N2(G205)-6N3(G205)-6N4(G205)-6N5(G205)",
+        "prof": "Adriano Suchoronczek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST006",
+    "name": "Estatística Aplicada A Experimentos",
+    "turmas": [
+      {
+        "turma": "4AGR1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N1(Q208)-3N2(Q208)-5N1(G101)-5N2(G101)",
+        "prof": "Naimara Vieira Do Prado",
+        "opt": "Não"
+      },
+      {
+        "turma": "4AGR2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N4(Q208)-3N5(Q208)-4N4(Q208)-4N5(Q208)",
+        "prof": "Naimara Vieira Do Prado",
+        "opt": "Não"
+      },
+      {
+        "turma": "5EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M5(G201)-5M6(G201)-6M1(G201)-6M2(G201)",
+        "prof": "Sheila Regina Oro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR008",
+    "name": "Extensão Rural",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N2(G205)-2N3(G205)-2N4(G205)",
+        "prof": "Joao Francisco Marchi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR079",
+    "name": "Fertilidade Do Solo E Adubação",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N1(G206)-2N2(G206)-2N3(G206)-2N4(G206)",
+        "prof": "Jonatas Thiago Piva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR076",
+    "name": "Fisiologia Vegetal",
+    "turmas": [
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N1(G204)-2N2(G204)-6T1(G204)-6T2(G204)",
+        "prof": "Samuel Luiz Fioreze",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR052",
+    "name": "Fitopatologia",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N4(G206)-4N5(G206)-5N1(G206)-5N2(G206)",
+        "prof": "Edilaine Mauricia Gelinski Grabicoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR086",
+    "name": "Forragicultura",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T5(Q105)-6T6(Q105)",
+        "prof": "Antonio Pedro Brusamarello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR021",
+    "name": "Fruticultura",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N4(R204)-2N5(R204)-6T3(R204)-6T4(R204)",
+        "prof": "Adriano Suchoronczek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT031",
+    "name": "Fundamentos De Cálculo",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2N4(G202)-2N5(G202)-4N4(G202)-4N5(G202)",
+        "prof": "Renato Hallal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Fundamentos De Física 1",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia, 1 - Eng. Amb. Sanitária",
+        "h": "2N1(G202)-2N2(G202)-2N3(G202)",
+        "prof": "Jeconias Rocha Guimaraes",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Química",
+        "h": "5M3(G202)-5M4(G202)-5M5(G202)",
+        "prof": "Jeconias Rocha Guimaraes",
+        "opt": "Não"
+      },
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M4(Q105)-5M5(Q105)-5M6(Q105)",
+        "prof": "Alexsander Ramos Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI114",
+    "name": "Fundamentos De Química Orgânica",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N4(G202)-5N5(G202)",
+        "prof": "Alessandra Machado Lunkes",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "FSO204",
+    "name": "Fundamentos De Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q104)-6N3(Q104)",
+        "prof": "Wellton Costa De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEO011",
+    "name": "Gênese E Morfologia Do Solo",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N1(G202)-3N2(G202)-3N3(G202)",
+        "prof": "Michelle Milanez Franca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR094",
+    "name": "Genética Básica",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N3(G203)-5N4(G203)-6T5(G203)-6T6(G203)",
+        "prof": "Ana Carolina Da Costa Lara Fioreze",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO015",
+    "name": "Genética Molecular",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos",
+        "h": "3M1(G203)-3M2(G203)-3M3(G203)",
+        "prof": "Elisangela Dusman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEO009",
+    "name": "Geologia E Pedologia",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Ambiental, 1 - Eng. Amb. Sanitária",
+        "h": "5M1(G203)-5M2(G203)-5M3(G203)-6M5(G203)-6M6(G203)",
+        "prof": "Michelle Milanez Franca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEO010",
+    "name": "Geoprocessamento",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "6M1(G101)-6M2(G101)-6M3(G101)-6M4(G101)",
+        "prof": "Fernando Cesar Manosso",
+        "opt": "Não"
+      },
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N2(G101)-3N3(G101)-3N4(G101)-3N5(G101)",
+        "prof": "Fernando Cesar Manosso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB044",
+    "name": "Gerenciamento E Tratamento De Água",
+    "turmas": [
+      {
+        "turma": "7EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "2M4(G207)-2M5(G207)-2M6(G207)",
+        "prof": "Juan Carlos Pokrywiecki",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "AMB025",
+    "name": "Gerenciamento E Tratamento De Emissões Atmosféricas",
+    "turmas": [
+      {
+        "turma": "9EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "4M4(Q103)-4M5(Q103)-4M6(Q103)",
+        "prof": "Douglas Da Costa Ferreira",
+        "opt": "Matriz:44, Matriz:37, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "AMB049",
+    "name": "Gerenciamento E Tratamento De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "6EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Ambiental, 1 - Eng. Amb. Sanitária",
+        "h": "2M2(G106)-2M3(G106)-2M4(G106)-2M5(G106)",
+        "prof": "Adir Silverio Cembranel",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "HSA004",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N3(R208)-3N4(R208)-3N5(R208)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:37, Matriz:41, Matriz:31, Matriz:21, Matriz:25"
+      },
+      {
+        "turma": "8SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "4N2(R205)-4N3(R205)-4N4(R205)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:37, Matriz:41, Matriz:31, Matriz:21, Matriz:25"
+      }
+    ]
+  },
+  {
+    "code": "HSA003",
+    "name": "Gestão Econômica E Financeira",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "3M1(Q105)-3M2(Q105)-3M3(Q105)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(Q103)-3N2(Q103)-3N3(Q103)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(G204)-4N2(G204)-4N3(G204)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HSA001",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "7SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "5N1(R205)-5N2(R205)-5N3(R205)",
+        "prof": "Melaine Roberta Camarotto",
+        "opt": "Matriz:24, Matriz:37, Matriz:41, Matriz:25, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "AMB042",
+    "name": "Hidráulica",
+    "turmas": [
+      {
+        "turma": "7EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia, 1 - Eng. Amb. Sanitária",
+        "h": "6T1(G206)-6T2(G206)-6T3(G206)-6T4(G206)",
+        "prof": "Wagner De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB043",
+    "name": "Hidrologia",
+    "turmas": [
+      {
+        "turma": "5EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "5M3(G205)-5M4(G205)-5M5(G205)-5M6(G205)",
+        "prof": "Wagner De Aguiar",
+        "opt": "Matriz:44"
+      }
+    ]
+  },
+  {
+    "code": "EDU017",
+    "name": "História E Cultura Afro-Brasileira E Indígena",
+    "turmas": [
+      {
+        "turma": "2EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "6T1(R205)-6T2(R205)-6T3(R205)",
+        "prof": "Jose Lucio Da Silva Machado",
+        "opt": "Matriz:45, Matriz:44, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "AGR078",
+    "name": "Horticultura",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N4(G205)-4N5(G205)",
+        "prof": "Daiana Schmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LET017",
+    "name": "Inglês Para Fins Acadêmicos",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N2(G203)-2N3(G203)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HLA013",
+    "name": "Instrumento Musical - Violino 1",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T5(BLOCOB)-2T6(BLOCOB)-6T2(BLOCOB)-6T3(BLOCOB)",
+        "prof": "Mauro Cesar Cislaghi",
+        "opt": "Matriz:44, Matriz:24, Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HLA014",
+    "name": "Instrumento Musical - Violino 2",
+    "turmas": [
+      {
+        "turma": "4EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T3(BLOCOB)-2T4(BLOCOB)",
+        "prof": "Mauro Cesar Cislaghi",
+        "opt": "Matriz:44, Matriz:24, Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "AGR093",
+    "name": "Introdução À Agronomia",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "4N4(G201)-4N5(G201)",
+        "prof": "Antonio Pedro Brusamarello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Introdução À Física",
+    "turmas": [
+      {
+        "turma": "ESPAGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(R203)-3N2(R203)-3N3(R203)",
+        "prof": "Meire Cristina Fugihara",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "6N1(G201)-6N2(G201)-6N3(G201)",
+        "prof": "Guilherme Bertoldo",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EQ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "5M1(R201)-5M2(R201)-5M3(R201)",
+        "prof": "Alexsander Ramos Duarte",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EA",
+        "enq": "Presencial",
+        "vt": "69",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(G202)-4M4(G202)-4M5(G202)",
+        "prof": "Alexsander Ramos Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR039",
+    "name": "Irrigação E Drenagem",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N3(G207)-2N4(G207)-6T5(G207)-6T6(G207)",
+        "prof": "Neilor Bugoni Riquetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB053",
+    "name": "Legislação Ambiental",
+    "turmas": [
+      {
+        "turma": "4EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "2M3(G204)-2M4(G204)-2M5(G204)",
+        "prof": "Marlise Schoenhals",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "LET008",
+    "name": "Leitura E Produção Textual",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T1(Q103)-4T2(Q103)",
+        "prof": "Carina Merkle",
+        "opt": "Matriz:45, Matriz:37, Matriz:25, Matriz:31, Matriz:41, Matriz:38, Matriz:21, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "LET006",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(R206)-6N3(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T2(G202)-6T3(G202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "LET007",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(R206)-3T6(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T1(R202)-2T2(R202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "HLA005",
+    "name": "Língua Inglesa Ii",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "2T5(G102A)-2T6(G102A)-6T5(G102A)-6T6(G102A)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30, Matriz:24, Matriz:18, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HLA007",
+    "name": "Língua Inglesa Iv",
+    "turmas": [
+      {
+        "turma": "5EAS",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(G102B)-2T2(G102B)-4T2(G102B)-4T3(G102B)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30, Matriz:24, Matriz:21, Matriz:18"
+      }
+    ]
+  },
+  {
+    "code": "AGR081",
+    "name": "Manejo E Conservação Do Solo",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N3(G207)-6N4(G207)-6N5(G207)",
+        "prof": "Jonatas Thiago Piva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR058",
+    "name": "Manejo Integrado De Doenças",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N4(G207)-5N5(G207)-6T3(G207)-6T4(G207)",
+        "prof": "Edilaine Mauricia Gelinski Grabicoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR080",
+    "name": "Manejo Integrado De Pragas",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N4(G206)-3N5(G206)",
+        "prof": "Adriano Suchoronczek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR077",
+    "name": "Mecanização Agrícola",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N4(G205)-5N5(G205)-6T1(G205)-6T2(G205)",
+        "prof": "Neilor Bugoni Riquetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR048",
+    "name": "Melhoramento De Plantas",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N1(G205)-5N2(G205)-6T3(G205)-6T4(G205)",
+        "prof": "Ana Carolina Da Costa Lara Fioreze",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO016",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "2EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3M1(G205)-3M2(G205)-5M1(G205)-5M2(G205)",
+        "prof": "Claudia Eugenia Castro Bravo",
+        "opt": "Não"
+      },
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N1(G203)-3N2(G203)-5N1(G203)-5N2(G203)",
+        "prof": "Claudia Eugenia Castro Bravo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO018",
+    "name": "Morfossistemática E Anatomia Vegetal",
+    "turmas": [
+      {
+        "turma": "2AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N4(G202)-3N5(G202)-4N2(G202)-4N3(G202)",
+        "prof": "Daiana Schmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZOO003",
+    "name": "Nutrição Animal",
+    "turmas": [
+      {
+        "turma": "6AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N3(G206)-5N4(G206)-5N5(G206)",
+        "prof": "Hernan Vielmo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR028",
+    "name": "Olericultura",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N1(R201)-3N2(R201)-6T1(R201)-6T2(R201)",
+        "prof": "Daiana Schmidt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR027",
+    "name": "Paisagismo E Floricultura",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N2(R204)-2N3(R204)-6T5(R204)-6T6(R204)",
+        "prof": "Adriano Suchoronczek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI063",
+    "name": "Planejamento De Projetos Industriais",
+    "turmas": [
+      {
+        "turma": "7EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T1(Q105)-6T2(Q105)-6T3(Q105)",
+        "prof": "Joao Francisco Marchi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR095",
+    "name": "Planejamento Integrado Da Propriedade Rural",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(R204)-4N2(R204)-5N1(R204)-5N2(R204)",
+        "prof": "Hernan Vielmo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR084",
+    "name": "Plantas De Lavoura 1",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N4(R208)-2N5(R208)-6T3(Q107)-6T4(Q107)",
+        "prof": "Samuel Luiz Fioreze",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR088",
+    "name": "Plantas De Lavoura 2",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N1(R204)-3N2(R204)-6T1(R204)-6T2(R204)",
+        "prof": "Adriano Suchoronczek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR030",
+    "name": "Política Agrícola E Mercados Agropecuários",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N4(G207)-4N5(G207)",
+        "prof": "Joao Francisco Marchi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ART004",
+    "name": "Prática De Orquestra",
+    "turmas": [
+      {
+        "turma": "3EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(BLOCOB)-3N2(BLOCOB)-3N3(BLOCOB)",
+        "prof": "Mauro Cesar Cislaghi",
+        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:44, Matriz:25, Matriz:31, Matriz:38, Matriz:21, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "MAT012",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N4(G201)-3N5(G201)-5N2(G201)-5N3(G201)",
+        "prof": "Renato Hallal",
+        "opt": "Matriz:45, Matriz:38"
+      },
+      {
+        "turma": "1EA",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3M3(Q103)-3M4(Q103)-5M4(Q107)-5M5(Q107)",
+        "prof": "Liliane Hellmann",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "EST003",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M4(R202)-2M5(R202)-5M1(R202)-5M2(R202)",
+        "prof": "Sheila Regina Oro",
+        "opt": "Não"
+      },
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N3(G203)-3N4(G203)-4N2(G203)-4N3(G203)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Não"
+      },
+      {
+        "turma": "4EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(G207)-3T5(G207)-5T2(G207)-5T3(G207)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Não"
+      },
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q208)-6N3(Q208)-6N4(Q208)-6N5(Q208)",
+        "prof": "Naimara Vieira Do Prado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR031",
+    "name": "Produção E Tecnologia De Sementes",
+    "turmas": [
+      {
+        "turma": "7AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N1(G207)-3N2(G207)-3N3(G207)-3N4(G207)",
+        "prof": "Ana Carolina Da Costa Lara Fioreze",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR075",
+    "name": "Propriedades Químicas E Físicas Do Solo",
+    "turmas": [
+      {
+        "turma": "3AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N1(G203)-6N2(G203)-6T3(G203)-6T4(G203)",
+        "prof": "Jonatas Thiago Piva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB054",
+    "name": "Qualidade Da Água",
+    "turmas": [
+      {
+        "turma": "6EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "3M3(G206)-3M4(G206)-3M5(G206)",
+        "prof": "Camila Zoe Correa",
+        "opt": "Matriz:44, Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "QUI022",
+    "name": "Química Analítica Teórica",
+    "turmas": [
+      {
+        "turma": "3EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "4M3(G203)-4M4(G203)-4M5(G203)",
+        "prof": "Silvane Mores",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI017",
+    "name": "Química Geral Experimental",
+    "turmas": [
+      {
+        "turma": "1AGR1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T3(E106)-6T4(E106)",
+        "prof": "Davi Zacarias De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AGR2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T5(E106)-6T6(E106)",
+        "prof": "Davi Zacarias De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EQ",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "4M1(E106)-4M2(E106)",
+        "prof": "Pamela Taisline Bandeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI108",
+    "name": "Química Geral Teórica",
+    "turmas": [
+      {
+        "turma": "ESPAGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(R203)-4N2(R203)-6N2(R203)-6N3(R203)",
+        "prof": "Pamela Taisline Bandeira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3N2(G201)-3N3(G201)-5N4(G201)-5N5(G201)",
+        "prof": "Davi Zacarias De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "3M1(Q103)-3M2(Q103)-6M1(Q103)-6M2(Q103)",
+        "prof": "Pamela Taisline Bandeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR083",
+    "name": "Silvicultura",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(Q106)-4N2(Q106)-4N3(Q106)",
+        "prof": "Denise Andreia Szymczak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB059",
+    "name": "Sistema De Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "7EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "6M2(G207)-6M3(G207)-6M4(G207)-6M5(G207)",
+        "prof": "Marlise Schoenhals",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB062",
+    "name": "Sistema De Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N3(G204)-2N4(G204)-2N5(G204)",
+        "prof": "Marlise Schoenhals",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HCH024",
+    "name": "Sociologia Rural",
+    "turmas": [
+      {
+        "turma": "5AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(G205)-4N2(G205)-4N3(G205)",
+        "prof": "Rodrigo Kummer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AGR068",
+    "name": "Tcc 1",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "3N3(R204)-3N4(R204)",
+        "prof": "Luciano Lucchetta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI074",
+    "name": "Tecnologia De Carnes De Bovinos E Suínos",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(Q105)-5T3(Q105)-5T4(Q105)-5T5(Q105)",
+        "prof": "Joao Francisco Marchi",
+        "opt": "Matriz:44, Matriz:37, Matriz:31"
+      }
+    ]
+  },
+  {
+    "code": "ALI081",
+    "name": "Tecnologia De Produtos De Origem Animal",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N3(R204)-4N4(R204)-4N5(R204)",
+        "prof": "Debora Francielly De Oliveira",
+        "opt": "Matriz:37"
+      }
+    ]
+  },
+  {
+    "code": "ALI097",
+    "name": "Tecnologia De Produtos De Origem Vegetal",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2N1(R208)-2N2(R208)-2N3(R208)",
+        "prof": "Luciano Lucchetta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI077",
+    "name": "Tecnologia De Queijos E Lácteos Fermentados",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T3(Q103)-2T4(Q103)-4N1(Q103)-4T6(Q103)",
+        "prof": "Fabiane Picinin De Castro Cislaghi",
+        "opt": "Matriz:44, Matriz:37, Matriz:31"
+      }
+    ]
+  },
+  {
+    "code": "GEO002",
+    "name": "Topografia Geral",
+    "turmas": [
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T3(G204)-6T4(G204)-6T5(G204)-6T6(G204)",
+        "prof": "Hernan Vielmo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIO009",
+    "name": "Zoologia Geral",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2N1(G201)-2N2(G201)-2N3(G201)",
+        "prof": "Rodrigo Lingnau",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZOO001",
+    "name": "Zootecnia 1",
+    "turmas": [
+      {
+        "turma": "8AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6N2(R205)-6N3(R205)",
+        "prof": "Andrea Catia Leal Badaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZOO002",
+    "name": "Zootecnia 2",
+    "turmas": [
+      {
+        "turma": "9AGR",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5N3(R204)-5N4(R204)",
+        "prof": "Andrea Catia Leal Badaro",
+        "opt": "Não"
+      }
+    ]
+  }
+]

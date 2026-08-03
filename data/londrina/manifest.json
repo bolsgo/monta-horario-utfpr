@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "tecnol-alimentos",
+    "label": "Tecnol  Alimentos"
+  },
+  {
+    "slug": "eng-amb-e-sanit",
+    "label": "Eng. Amb. E Sanit."
+  },
+  {
+    "slug": "eng-de-materiais",
+    "label": "Eng De Materiais"
+  },
+  {
+    "slug": "lic-em-quimica",
+    "label": "Lic Em Química"
+  },
+  {
+    "slug": "eng-mecanica",
+    "label": "Eng Mecânica"
+  },
+  {
+    "slug": "eng-de-producao",
+    "label": "Eng De Produção"
+  },
+  {
+    "slug": "eng-quimica",
+    "label": "Eng Química"
+  },
+  {
+    "slug": "eng-ambiental",
+    "label": "Eng. Ambiental"
+  },
+  {
+    "slug": "sistemas-de-informacao",
+    "label": "Sistemas De Informação"
+  },
+  {
+    "slug": "ciencia-de-dados-i-a",
+    "label": "Ciência De Dados I A"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "EM60A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "AMB101",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "opt": "Não"
+      }
+    ]
+  }
+]

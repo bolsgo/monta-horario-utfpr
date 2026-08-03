@@ -1,0 +1,1766 @@
+[
+  {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT71Q",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M1(K212)-4M2(K212)-4M3(K212)",
+        "prof": "Reginaldo Fidelis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ006",
+    "name": "Balanços Materiais Aplicados À Indústria",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T4(K205)-4T5(K205)",
+        "prof": "Ana Maria Da Cruz Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ012",
+    "name": "Bioengenharia",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M2(K214)-5M3(K214)",
+        "prof": "Lucimara Lopes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06P",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT014",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
+        "prof": "Nazira Hanna Harb",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08S",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT017",
+    "name": "Cálculo Multivariado E Vetorial De Funções",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M5(K211)-3M6(K211)-4M4(K211)-4M5(K211)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ009",
+    "name": "Cálculo Numérico Computacional",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T1(K107)-2T2(K107)-2T3(K107)-4T1(K107)-4T2(K107)-4T3(K107)",
+        "prof": "Guilherme Duenhas Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ018",
+    "name": "Catálise E Cinética De Processos Industriais",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M4(K306)-2M5(K306)-2M6(K306)-5M4(K306)-5M5(K306)-5M6(K306)",
+        "prof": "Ana Maria Da Cruz Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ013",
+    "name": "Certificadora 1: Estudos De Caso De Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M1(T106)-3M2(T106)-3M3(T106)",
+        "prof": "Thiago Leandro De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI025",
+    "name": "Certificadora 2: Métodos Instrumentais De Análise Química",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T2(K010)-5T3(K010)-5T4(K010)-6M2(K305)-6M3(K305)",
+        "prof": "Julliana Izabelle Simionato Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ026",
+    "name": "Certificadora 3: Projetos De Equipamentos Na Indústria",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M2(K109)-5M3(K109)",
+        "prof": "Sidmara Bedin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ032",
+    "name": "Certificadora 4: Desafios Da Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "6M4(K209)-6M4(K209)-6M5(K209)-6M5(K209)-7M2(ZSV01)-7M2(ZSV01)-7M3(ZSV01)-7M3(ZSV01)-7M4(ZSV01)-7M4(ZSV01)-7M5(ZSV01)-7M5(ZSV01)",
+        "prof": "Lisandra Ferreira De Lima, Daniel Guerrini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ011",
+    "name": "Comportamento Mecânico Dos Sólidos",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(K203)-3T3(K203)-5T2(K203)-5T3(K203)-5T4(K203)",
+        "prof": "Joel Fernando Nicoleti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS041Q",
+    "name": "Comunicação Oral E Estratégica",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M4(K312)-2M5(K312)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ68C",
+    "name": "Controle De Processos E Instrumentação",
+    "turmas": [
+      {
+        "turma": "DP81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T4(T106)-2T5(T106)-4T2(T106)-4T3(T106)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ301",
+    "name": "Desenho Técnico Para Engenharia Química",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "6M2(T106)-6M3(T106)-6M4(T106)-6M5(T106)",
+        "prof": "Felipi Luiz De Assuncao Bezerra",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ019",
+    "name": "Eletrotécnica Aplicada À Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M2(T106)-2M3(T106)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP033",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T5(K214)-4T6(K214)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE66B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "EQ93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química, 2 - Eng. Amb. E Sanit., 3 - Eng Mecânica",
+        "h": "4T5(K214)-4T6(K214)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE90A",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "EM01",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais, 2 - Eng. Amb. E Sanit., 3 - Eng Química",
+        "h": "6N1(K205)-6N2(K205)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ69A",
+    "name": "Engenharia De Processos",
+    "turmas": [
+      {
+        "turma": "EQ91",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T5(T106)-3T6(T106)-5T4(T106)-5T5(T106)",
+        "prof": "Admilson Lopes Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE69A",
+    "name": "Engenharia Econômica E Finanças",
+    "turmas": [
+      {
+        "turma": "EQ91",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2N3(K306)-2N4(K306)-3N3(K306)-3N4(K306)",
+        "prof": "Jose Angelo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT018",
+    "name": "Equações Diferenciais Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M4(K211)-5M5(K211)-6M3(K211)-6M4(K211)-6M5(K211)",
+        "prof": "Walmir Eno Pottker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ014",
+    "name": "Equilíbrio De Fases Em Sistemas Multicomponentes",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M2(K107)-4M3(K107)-4M4(K107)",
+        "prof": "Guilherme Duenhas Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT10Q",
+    "name": "Estatística Aplicada À Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M2(K211)-2M3(K211)-3T2(K211)-3T3(K211)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS007",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K206)-2M3(K206)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS07T",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T5(A106)-5T6(A106)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS017",
+    "name": "Experimentos De Fenômenos Eletromagnéticos",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T2(K301)-5T3(K301)",
+        "prof": "Kleber Eiti Yamaguti",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ42",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T4(K301)-5T5(K301)",
+        "prof": "Kleber Eiti Yamaguti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS015",
+    "name": "Experimentos De Ondas, Fluidos E Termologia",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M2(K204)-4M3(K204)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ32",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M4(K204)-4M5(K204)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS131",
+    "name": "Experimentos E Aplicações De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T4(K201)-4T5(K201)",
+        "prof": "Alcides Goya",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ22",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T2(K201)-4T3(K201)",
+        "prof": "Alcides Goya",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ015",
+    "name": "Fenômeno De Transferência De Calor",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M2(K306)-3M3(K306)-5M2(K306)-5M3(K306)",
+        "prof": "Ana Maria Da Cruz Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ020",
+    "name": "Fenômeno De Transferência De Massa",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M4(K305)-5M5(K305)-6T1(K214)-6T2(K214)",
+        "prof": "Pricila Marin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ010",
+    "name": "Fenômeno De Transferência De Momento",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T4(K205)-2T5(K205)-4T4(K203)-4T5(K203)",
+        "prof": "Sidmara Bedin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS002",
+    "name": "Fenômenos Físicos",
+    "turmas": [
+      {
+        "turma": "DP11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3N1(K304)-3N2(K304)",
+        "prof": "Marcos Roberto Rossini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS201",
+    "name": "Fenômenos Físicos",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(K304)-3T3(K304)",
+        "prof": "Marcos Roberto Rossini",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ12",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T4(K304)-3T5(K304)",
+        "prof": "Marcos Roberto Rossini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS04P",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K201)-3N2(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K201)-3N4(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS06P",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K204)-5N2(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N3(K204)-5N4(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08P",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K301)-2N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N4(K301)-3N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08S",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K301)-3M6(K301)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QM66A",
+    "name": "Físico Química 4",
+    "turmas": [
+      {
+        "turma": "DP61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Química",
+        "h": "2T1(K305)-2T2(K305)-5T2(K307)-5T3(K307)",
+        "prof": "Marcos Roberto Rossini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT201",
+    "name": "Fundamentos De Cálculo Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T2(K212)-2T3(K212)-4T2(K212)-4T3(K212)",
+        "prof": "Ricardo De Sa Teles",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS121",
+    "name": "Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M4(K212)-3M5(K212)-3M6(K212)",
+        "prof": "Alcides Goya",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS016",
+    "name": "Fundamentos De Eletromagnetismo Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M2(K211)-3M3(K211)-3M4(K211)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI022",
+    "name": "Fundamentos De Físico-Química",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T4(K205)-5T5(K205)",
+        "prof": "Alexei Lorenzetti Novaes Pinheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS014",
+    "name": "Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T4(K206)-2T5(K206)-2T6(K206)",
+        "prof": "Fernando Da Silva Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI024",
+    "name": "Fundamentos De Química Analítica",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M1(K211)-5M2(K211)-5M3(K211)",
+        "prof": "Julliana Izabelle Simionato Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT03P",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K205)-2N4(K205)-2N5(K205)",
+        "prof": "Wellington Donizeti Previero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT301",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T3(K212)-5T4(K212)-5T5(K212)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ025",
+    "name": "Gerenciamento De Resíduos Industriais",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(S004)-3T3(S004)-3T4(S004)-6T3(K214)",
+        "prof": "Silvia Priscila Dias Monte Blanco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS110",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais Na Engenharia",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T1(K212)-5T2(K212)",
+        "prof": "Alessandra Dutra Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC071",
+    "name": "Introdução A Lógica De Programação",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T2(K106)-2T3(K106)-4T2(K109)-4T3(K109)",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ22",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T2(K106)-2T3(K106)-4T4(K109)-4T5(K109)",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ201",
+    "name": "Introdução Ao Laboratório De Química",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T4(K009)-3T5(K009)",
+        "prof": "Janksyn Bertozzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ12",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(K009)-3T3(K009)",
+        "prof": "Janksyn Bertozzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ016",
+    "name": "Laboratório Integrado De Fenômenos E Operações Unitárias",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T2(T008)-4T3(T008)-4T4(T008)",
+        "prof": "Silvia Priscila Dias Monte Blanco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ029",
+    "name": "Laboratório Integrado De Operações Unitárias E Simulação",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T2(T005)-5T3(T005)-5T4(T005)",
+        "prof": "Pricila Marin, Felipi Luiz De Assuncao Bezerra, Sidmara Bedin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ82",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(T005)-3T3(T005)-3T4(T005)",
+        "prof": "Pricila Marin, Felipi Luiz De Assuncao Bezerra, Sidmara Bedin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ024",
+    "name": "Laboratório Integrado De Reatores Químicos E Bioquímicos",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M3(T001)-3M4(T001)-3M5(T001)",
+        "prof": "Patricia Hissae Yassue Cordeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ72",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M3(T001)-4M4(T001)-4M5(T001)",
+        "prof": "Ana Maria Da Cruz Ferrari, Patricia Hissae Yassue Cordeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ67C",
+    "name": "Laboratório Tecnológico De Engenharia Química 1",
+    "turmas": [
+      {
+        "turma": "DP71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "6M2(T008)-6M3(T008)-6M4(T008)-6M5(T008)",
+        "prof": "Sidmara Bedin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ68A",
+    "name": "Laboratório Tecnológico De Engenharia Química 2",
+    "turmas": [
+      {
+        "turma": "DP81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M2(T001)-2M3(T001)-2M4(T001)-2M5(T001)",
+        "prof": "Patricia Hissae Yassue Cordeiro, Felipi Luiz De Assuncao Bezerra",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS05M",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T5(K305)-5T6(K305)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "CHS05T",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "6T5(B204)-6T6(B204)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS06P",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K205)-5N2(K205)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU94N",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "MAT151",
+    "name": "Matemática Da Variação",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M4(K212)-4M5(K212)-6M2(K212)-6M3(K212)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT016",
+    "name": "Matemática Multivariada",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T2(K206)-2T3(K206)-4T2(K205)-4T3(K205)",
+        "prof": "Manuel Francisco Zuloeta Jimenez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI023",
+    "name": "Métodos Clássicos De Análise Química",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "6T2(K010)-6T3(K010)-6T4(K010)",
+        "prof": "Julliana Izabelle Simionato Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ030",
+    "name": "Modelagem, Simulação E Otimização De Processos",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M4(T106)-3M5(T106)-5M4(T106)-5M5(T106)",
+        "prof": "Admilson Lopes Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ017",
+    "name": "Operações Unitárias Para Separação Mecânica",
+    "turmas": [
+      {
+        "turma": "EQ61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M4(K113)-3M5(K113)-6M4(K107)-6M5(K107)",
+        "prof": "Silvia Priscila Dias Monte Blanco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ021",
+    "name": "Operações Unitárias Para Transferência De Calor",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T1(K207)-4T2(K207)-4T3(K207)",
+        "prof": "Joel Fernando Nicoleti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ028",
+    "name": "Operações Unitárias Para Transferência De Calor E Massa",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M2(K107)-3M3(K107)-5M2(K107)-5M3(K107)",
+        "prof": "Guilherme Duenhas Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ027",
+    "name": "Operações Unitárias Para Transferência De Massa",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M4(K107)-2M5(K107)-4M4(T106)-4M5(T106)-4M6(T106)",
+        "prof": "Pricila Marin, Silvia Priscila Dias Monte Blanco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI021",
+    "name": "Preparação De Produtos Orgânicos",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M3(K008)-3M4(K008)-3M5(K008)",
+        "prof": "Fabio Vandresen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ100",
+    "name": "Princípios De Engenharia Química",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T4(K113)-4T5(K113)-4T6(K113)",
+        "prof": "Lisandra Ferreira De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ401",
+    "name": "Processos Industriais",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M1(K102)-2M2(K102)-2M3(K102)-3M2(K212)",
+        "prof": "Larissa Maria Fernandes Gatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ22",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M3(K212)-5M1(T106)-5M2(T106)-5M3(T106)",
+        "prof": "Larissa Maria Fernandes Gatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ031",
+    "name": "Projetos De Instalações Industriais",
+    "turmas": [
+      {
+        "turma": "EQ81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4M2(K209)-4M3(K209)-6M2(K209)-6M3(K209)",
+        "prof": "Larissa Maria Fernandes Gatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ69C",
+    "name": "Projetos Industriais",
+    "turmas": [
+      {
+        "turma": "EQ91",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3N1(T106)-3N1(T106)-3N2(T106)-3N2(T106)-5N1(T106)-5N1(T106)-5T6(T106)-5T6(T106)",
+        "prof": "Lisandra Ferreira De Lima, Admilson Lopes Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ005",
+    "name": "Propriedades Físico-Químicas E Biológicas Da Matéria",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T2(K205)-5T3(K205)-6M2(K214)-6M3(K214)-6M4(K214)",
+        "prof": "Lucimara Lopes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI701",
+    "name": "Química Da Matéria",
+    "turmas": [
+      {
+        "turma": "EQ11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T4(K212)-2T5(K212)-6T2(K212)-6T3(K212)",
+        "prof": "Fabio Cezar Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI191",
+    "name": "Química Dos Compostos Orgânicos",
+    "turmas": [
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5M4(K212)-5M5(K212)-6M4(K212)-6M5(K212)-6M6(K212)",
+        "prof": "Isabel Craveiro Moreira Andrei",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI020",
+    "name": "Química Orgânica Dos Compostos Carbonilados E Nitrogenados",
+    "turmas": [
+      {
+        "turma": "EQ31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3T2(K205)-3T3(K205)-6M5(K203)-6M6(K203)",
+        "prof": "Fabio Vandresen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ023",
+    "name": "Reatores Bioquímicos",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2T1(K214)-2T2(K214)-2T3(K214)",
+        "prof": "Lucimara Lopes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ022",
+    "name": "Reatores Químicos",
+    "turmas": [
+      {
+        "turma": "EQ71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T1(K109)-5T2(K109)-5T3(K109)-5T4(K109)",
+        "prof": "Patricia Hissae Yassue Cordeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ68E",
+    "name": "Reatores Químicos E Bioquímicos",
+    "turmas": [
+      {
+        "turma": "DP81",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "5T1(K109)-5T2(K109)-5T3(K109)",
+        "prof": "Patricia Hissae Yassue Cordeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ64A",
+    "name": "Termodinâmica Clássica",
+    "turmas": [
+      {
+        "turma": "DP61",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M4(K211)-2M5(K211)-6M1(K211)-6M2(K211)",
+        "prof": "Thiago Leandro De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ008",
+    "name": "Termodinâmica De Misturas",
+    "turmas": [
+      {
+        "turma": "EQ51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "3M4(K210)-3M5(K210)-5M4(K214)-5M5(K214)",
+        "prof": "Thiago Leandro De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENQ007",
+    "name": "Termodinâmica De Substâncias Puras",
+    "turmas": [
+      {
+        "turma": "EQ41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "2M4(K211)-2M5(K211)-4M2(K211)-4M3(K211)-6M1(K211)-6M2(K211)",
+        "prof": "Thiago Leandro De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC69C",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "EQ91",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "4T3(K309)-4T4(K309)",
+        "prof": "Larissa Maria Fernandes Gatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC60C",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química",
+        "h": "",
+        "prof": "Larissa Maria Fernandes Gatti",
+        "opt": "Não"
+      }
+    ]
+  }
+]

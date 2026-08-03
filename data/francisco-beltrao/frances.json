@@ -1,0 +1,53 @@
+[
+  {
+    "code": "FRA01",
+    "name": "Francês 1",
+    "turmas": [
+      {
+        "turma": "FRA01",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T3(G102A)-3T4(G102A)-5T3(G102A)-5T4(G102A)",
+        "prof": "Maria Helene Giovanetti Canteri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FRA4",
+    "name": "Francês 4",
+    "turmas": [
+      {
+        "turma": "FRA04",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T1(G102A)-3T2(G102A)-5T1(G102A)-5T2(G102A)",
+        "prof": "Luciano Lucchetta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FRA07",
+    "name": "On Va Parler",
+    "turmas": [
+      {
+        "turma": "FRA07",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T5(G102A)",
+        "prof": "Luciano Lucchetta",
+        "opt": "Matriz:36"
+      }
+    ]
+  }
+]

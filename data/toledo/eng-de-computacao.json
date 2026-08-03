@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CP40I",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CP04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. De Computação",
+        "h": "",
+        "prof": "Luis Carlos Mathias",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "CV40A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CV04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
+        "prof": "Silvana Da Silva",
+        "opt": "Não"
+      }
+    ]
+  }
+]

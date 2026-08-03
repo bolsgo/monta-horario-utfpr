@@ -1,0 +1,19 @@
+[
+  {
+    "code": "MI86A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "MI6",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  }
+]

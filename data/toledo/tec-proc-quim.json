@@ -1,0 +1,19 @@
+[
+  {
+    "code": "PQ56Q",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "",
+        "prof": "Tatiana Shioji Tiuman",
+        "opt": "Não"
+      }
+    ]
+  }
+]

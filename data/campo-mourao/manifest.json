@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "tecnol-alimentos",
+    "label": "Tecnol Alimentos"
+  },
+  {
+    "slug": "eng-ambiental",
+    "label": "Eng Ambiental"
+  },
+  {
+    "slug": "eng-de-alimentos",
+    "label": "Eng De Alimentos"
+  },
+  {
+    "slug": "eng-civil",
+    "label": "Eng Civil"
+  },
+  {
+    "slug": "eng-eletronica",
+    "label": "Eng Eletrônica"
+  },
+  {
+    "slug": "lic-quimica",
+    "label": "Lic Química"
+  },
+  {
+    "slug": "cienc-computacao",
+    "label": "Ciênc Computação"
+  },
+  {
+    "slug": "engenharia-quimica",
+    "label": "Engenharia Química"
+  },
+  {
+    "slug": "eng-amb-sanitaria",
+    "label": "Eng Amb/Sanitária"
+  }
+]

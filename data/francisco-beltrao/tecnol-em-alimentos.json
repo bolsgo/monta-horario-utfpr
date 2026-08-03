@@ -1,0 +1,53 @@
+[
+  {
+    "code": "ALI016",
+    "name": "Embalagens",
+    "turmas": [
+      {
+        "turma": "5EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T5(Q106)-6T6(Q106)",
+        "prof": "Debora Francielly De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ADM002",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "9EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(Q105)-2T2(Q105)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI027",
+    "name": "Tecnologia De Bebidas",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T5(Q103)-2T6(Q103)-5N1(Q103)-5T6(Q103)",
+        "prof": "Ellen Porto Pinto",
+        "opt": "Matriz:21"
+      }
+    ]
+  }
+]

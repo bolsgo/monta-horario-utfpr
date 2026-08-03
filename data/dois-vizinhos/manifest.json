@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "zootecnia",
+    "label": "Zootecnia"
+  },
+  {
+    "slug": "eng-florestal",
+    "label": "Eng. Florestal"
+  },
+  {
+    "slug": "ciencias-biologicas",
+    "label": "Ciências Biológicas"
+  },
+  {
+    "slug": "agronomia",
+    "label": "Agronomia"
+  },
+  {
+    "slug": "ingles-1",
+    "label": "Inglês - 1"
+  },
+  {
+    "slug": "bach-eng-de-software",
+    "label": "Bach Eng De Software"
+  },
+  {
+    "slug": "eng-bioproc-e-biote",
+    "label": "Eng.  Bioproc. E Biote"
+  },
+  {
+    "slug": "biologia-bacharelado",
+    "label": "Biologia Bacharelado"
+  }
+]

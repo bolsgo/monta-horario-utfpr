@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "eng-ind-mecanica",
+    "label": "Eng. Ind.  Mecanica"
+  },
+  {
+    "slug": "eng-ind-eletrica",
+    "label": "Eng. Ind. Eletrica"
+  },
+  {
+    "slug": "analise-de-sistemas",
+    "label": "Analise De Sistemas"
+  },
+  {
+    "slug": "eng-computacao",
+    "label": "Eng. Computação"
+  },
+  {
+    "slug": "eng-eletrica",
+    "label": "Eng. Eletrica"
+  },
+  {
+    "slug": "eng-mecanica",
+    "label": "Eng.  Mecanica"
+  },
+  {
+    "slug": "licenc-matematica",
+    "label": "Licenc. Matemática"
+  },
+  {
+    "slug": "eng-controle-automa",
+    "label": "Eng. Controle/Automa"
+  },
+  {
+    "slug": "eng-eletronica",
+    "label": "Eng. Eletrônica"
+  },
+  {
+    "slug": "bach-eng-de-software",
+    "label": "Bach Eng De Software"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "code": "EL60A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "A101",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Eliana Maria Baldissera",
+        "opt": "Não"
+      }
+    ]
+  }
+]

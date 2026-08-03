@@ -1,0 +1,550 @@
+[
+  {
+    "code": "ALM34C",
+    "name": "Análise Sensorial",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "6N2(C103)-6N3(C103)-6N4(C103)",
+        "prof": "Renata Hernandez Barros Fuchs",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM32D",
+    "name": "Bioquímica Geral",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N2(D104)-4N3(D104)-4N4(D104)-4N5(D104)",
+        "prof": "Marcia Regina Ferreira Geraldo Perdoncini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM34E",
+    "name": "Controle De Qualidade",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N2(D103)-4N3(D103)",
+        "prof": "Aline Takaoka Alves Baptista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM35E",
+    "name": "Desenvolvimento De Novos Produtos",
+    "turmas": [
+      {
+        "turma": "NA5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5T4(D101)-5T5(D101)-5T6(D101)",
+        "prof": "Adriana Aparecida Droval Arcain, Renata Hernandez Barros Fuchs",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM017",
+    "name": "Educação Em Direitos Humanos",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(D108)-5N3(D108)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:81, Matriz:63, Matriz:87, Matriz:89, Matriz:75, Matriz:88, Matriz:86"
+      },
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5N2(D108)-5N3(D108)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:81, Matriz:63, Matriz:87, Matriz:89, Matriz:75, Matriz:88, Matriz:86"
+      }
+    ]
+  },
+  {
+    "code": "ALM34B",
+    "name": "Embalagens",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(D102)-3N3(D102)-3N4(D102)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM32E",
+    "name": "Física Aplicada",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "6N1(D104)-6N2(D104)-6N3(D104)",
+        "prof": "Sergio Henrique Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM32A",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N4(D103)-3N5(D103)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM35A",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "NA5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(D108)-4N2(D108)",
+        "prof": "Marcelo Guelbert",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM34A",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N4(D103)-4N5(D103)",
+        "prof": "Marcelo Guelbert",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM34D",
+    "name": "Industrialização De Produtos De Origem Animal 1",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5N2(D103)-5N3(D103)-5N4(D103)",
+        "prof": "Adriana Aparecida Droval Arcain",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM004",
+    "name": "Inglês Como Leitura E Interação",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(B105)-3T5(B105)",
+        "prof": "Marli Aparecida Pedro",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "LBRS31Q",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N4(D107)-4N5(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:34, Matriz:30, Matriz:44, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "LBRS32Q",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      },
+      {
+        "turma": "NQ8A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T5(B105)-4T6(B105)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "ALM32B",
+    "name": "Linguagem, Cultura E Sociedade",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "6N4(D104)-6N5(D104)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM33C",
+    "name": "Microbiologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "NA3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4T3(C006)-4T4(C006)-4T5(C006)-4T6(C006)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM32F",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5N2(C006)-5N3(C006)-5N4(C006)-5N5(C006)",
+        "prof": "Marcia Regina Ferreira Geraldo Perdoncini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM35B",
+    "name": "Nutrição",
+    "turmas": [
+      {
+        "turma": "NA5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "6T3(D106)-6T4(D106)-6T5(D106)",
+        "prof": "Renata Hernandez Barros Fuchs",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM34F",
+    "name": "Operações Unitárias Na Industria De Alimentos 2",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N3(D102)-2N4(D102)-2N5(D102)",
+        "prof": "Aline Takaoka Alves Baptista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM34G",
+    "name": "Projeto Integrador 1",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N1(D102)-2N2(D102)",
+        "prof": "Roberta De Souza Leone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM36A",
+    "name": "Projeto Integrador 3",
+    "turmas": [
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N1(D104)-2N2(D104)",
+        "prof": "Fabio Henrique Poliseli Scopel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM32G",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N4(C106)-2N5(C106)-3N3(D103)",
+        "prof": "Augusto Tanamati",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TAM39O",
+    "name": "Tecnologia De Amidos E Cereais",
+    "turmas": [
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(F110)-4N2(F110)-4N3(F110)",
+        "prof": "Manuel Salvador Vicente Plata Oviedo",
+        "opt": "Matriz:81"
+      }
+    ]
+  },
+  {
+    "code": "TGR39O",
+    "name": "Tecnologia De Grãos",
+    "turmas": [
+      {
+        "turma": "IGO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos, 1 - Eng De Alimentos",
+        "h": "4N1(F106)-4N2(F106)-4N3(F106)",
+        "prof": "Alberto Cavalcanti Vitorio",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "IQO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(F106)-4N2(F106)-4N3(F106)",
+        "prof": "Alberto Cavalcanti Vitorio",
+        "opt": "Matriz:81"
+      }
+    ]
+  },
+  {
+    "code": "TOG39O",
+    "name": "Tecnologia De Óleos, Gorduras E Derivados",
+    "turmas": [
+      {
+        "turma": "IGO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos, 1 - Eng De Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "IQO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
+        "opt": "Matriz:81"
+      }
+    ]
+  },
+  {
+    "code": "TQJ39O",
+    "name": "Tecnologia De Queijos",
+    "turmas": [
+      {
+        "turma": "IGO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos, 1 - Eng De Alimentos",
+        "h": "2N3(C002)-2N4(C002)-2N5(C002)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "IQO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N3(C002)-2N4(C002)-2N5(C002)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Matriz:81"
+      }
+    ]
+  },
+  {
+    "code": "ALM32C",
+    "name": "Tratamento De Dados Experimentais",
+    "turmas": [
+      {
+        "turma": "NA2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N2(D103)-2N3(D103)",
+        "prof": "Wyrllen Everson De Souza",
+        "opt": "Não"
+      }
+    ]
+  }
+]

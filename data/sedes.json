@@ -10,5 +10,45 @@
   {
     "slug": "pato-branco",
     "label": "Pato Branco"
+  },
+  {
+    "slug": "cornelio-procopio",
+    "label": "Cornélio Procópio"
+  },
+  {
+    "slug": "campo-mourao",
+    "label": "Campo Mourão"
+  },
+  {
+    "slug": "medianeira",
+    "label": "Medianeira"
+  },
+  {
+    "slug": "dois-vizinhos",
+    "label": "Dois Vizinhos"
+  },
+  {
+    "slug": "londrina",
+    "label": "Londrina"
+  },
+  {
+    "slug": "toledo",
+    "label": "Toledo"
+  },
+  {
+    "slug": "apucarana",
+    "label": "Apucarana"
+  },
+  {
+    "slug": "francisco-beltrao",
+    "label": "Francisco Beltrão"
+  },
+  {
+    "slug": "guarapuava",
+    "label": "Guarapuava"
+  },
+  {
+    "slug": "santa-helena",
+    "label": "Santa Helena"
   }
 ]

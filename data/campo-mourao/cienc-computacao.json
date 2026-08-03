@@ -1,0 +1,1689 @@
+[
+  {
+    "code": "OPT001",
+    "name": "Administração De Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(E105)-3T3(E105)-5T4(E105)-5T5(E105)",
+        "prof": "Luiz Arthur Feitosa Dos Santos",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "NCM002",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "5T4(D105)-5T5(D105)-6T4(B102)-6T5(B102)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(B107)-2T3(B107)-4T3(B103)-4T4(B103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N4(B107)-2N5(B107)-5N2(B107)-5N3(B107)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC2001",
+    "name": "Algoritmos",
+    "turmas": [
+      {
+        "turma": "IC2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(E100)-3T3(E100)-4T4(B102)-4T5(B102)",
+        "prof": "Marcos Silvano Almeida",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(E100)-3T5(E100)-4T4(B102)-4T5(B102)",
+        "prof": "Marcos Silvano Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC3001",
+    "name": "Algoritmos E Estruturas De Dados 1",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T2(E001)-2T3(E001)-4T4(E001)-4T5(E001)",
+        "prof": "Rafael Liberato Roberto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC4001",
+    "name": "Algoritmos E Estruturas De Dados 2",
+    "turmas": [
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N2(E001)-3N3(E001)-5N4(E001)-5N5(E001)",
+        "prof": "Juliano Henrique Foleis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC6001",
+    "name": "Algoritmos Em Grafos",
+    "turmas": [
+      {
+        "turma": "IC6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(E001)-3T3(E001)-5T2(E001)-5T3(E001)",
+        "prof": "Aretha Barbosa Alencar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC5001",
+    "name": "Análise De Algoritmos",
+    "turmas": [
+      {
+        "turma": "IC5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(D104)-3N5(D104)-5N2(D104)-5N3(D104)",
+        "prof": "Juliano Henrique Foleis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT108",
+    "name": "Análise De Redes Sociais Utilizando Grafos",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(E102)-3N5(E102)-5N2(E102)-5N3(E102)",
+        "prof": "Andre Luiz Satoshi Kawamoto",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC2004",
+    "name": "Análise E Projeto De Software",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(E007)-3T5(E007)-5T4(B107)-5T5(B107)",
+        "prof": "Lucio Geronimo Valentin",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T2(E007)-2T3(E007)-5T2(F101)-5T3(F101)",
+        "prof": "Lucio Geronimo Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC2003",
+    "name": "Arquitetura E Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(E104)-3N5(E104)-5N4(E104)-5N5(E104)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(E102)-3T5(E102)-6T4(B103)-6T5(B103)",
+        "prof": "Joao Fabricio Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(E102)-3T3(E102)-6T4(B103)-6T5(B103)",
+        "prof": "Joao Fabricio Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC6002",
+    "name": "Aspectos De Linguagens De Programação",
+    "turmas": [
+      {
+        "turma": "IC6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(E001)-3T5(E001)-5T4(G104)-5T5(G104)",
+        "prof": "Rodrigo Hubner",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC2002",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4N2(E001)-4N3(E001)-6T4(B107)-6T5(B107)",
+        "prof": "Marcos Silvano Almeida",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(E001)-2T5(E001)-5T4(E001)-5T5(E001)",
+        "prof": "Andre Luis Schwerz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM004",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "IC2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T2(B102)-4T3(B102)-6T2(B102)-6T3(B102)",
+        "prof": "Raquel Polizeli",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T4(G101)-2T5(G101)-4T5(B103)-4T6(B103)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2N4(D107)-2N5(D107)-6N4(D107)-6N5(D107)",
+        "prof": "Viviane Colucci Boromelo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N4(D107)-2N5(D107)-6N4(D107)-6N5(D107)",
+        "prof": "Viviane Colucci Boromelo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T4(B107)-2T5(B107)-4T5(B101)-4T6(B101)",
+        "prof": "Angela Mognon",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N2(B106)-2N3(B106)-5N4(B106)-5N5(B106)",
+        "prof": "Viviane Colucci Boromelo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T4(B107)-2T5(B107)-4T5(B101)-4T6(B101)",
+        "prof": "Angela Mognon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM003",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "ID4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T5(D104)-2T6(D104)-5T1(F105)-5T2(F105)",
+        "prof": "Wellington Jose Correa",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IF4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M4(D107)-4M5(D107)-5M4(D107)-5M5(D107)",
+        "prof": "Adilandri Mercio Lobeiro",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IG4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T1(D102)-3T2(D102)-5T3(G101)-5T4(G101)",
+        "prof": "Wellington Jose Correa",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IQ4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T1(D102)-3T2(D102)-5T3(G101)-5T4(G101)",
+        "prof": "Wellington Jose Correa",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC5004",
+    "name": "Cibersegurança",
+    "turmas": [
+      {
+        "turma": "IC5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N2(E007)-3N3(E007)-5N4(E007)-5N5(E007)",
+        "prof": "Luiz Arthur Feitosa Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT004",
+    "name": "Ciência De Dados",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N2(E102)-3N3(E102)-5N4(E102)-5N5(E102)",
+        "prof": "Eduardo Henrique Monteiro Pena",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC1003",
+    "name": "Computação E Tecnologia",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T4(B001)-4T5(B001)-6T4(E001)-6T5(E001)",
+        "prof": "Frank Helbert Borsato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC4004",
+    "name": "Computação Física",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N2(E104)-2N3(E104)-4N4(E104)-4N5(E104)",
+        "prof": "Paulo Henrique Sabo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(E104)-2T5(E104)-5T4(D107)-5T5(D107)",
+        "prof": "Frank Helbert Borsato",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC4B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T2(E104)-2T3(E104)-5T4(D107)-5T5(D107)",
+        "prof": "Frank Helbert Borsato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM001",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T2(D108)-4T3(D108)",
+        "prof": "Alex Sandro De Medeiros",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT010",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N2(E104)-3N3(E104)-6N2(E007)-6N3(E007)",
+        "prof": "Marcos Silvano Almeida",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "OPT120",
+    "name": "Desenvolvimento Móvel",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T2(E105)-2T3(E105)-3T4(E105)-3T5(E105)",
+        "prof": "Ivanilton Polato",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC1002",
+    "name": "Elementos De Lógica Digital",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(G103)-3T5(G103)-5T4(E102)-5T5(E102)",
+        "prof": "Paulo Henrique Sabo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC1B",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(G103)-3T5(G103)-5T2(E102)-5T3(E102)",
+        "prof": "Paulo Henrique Sabo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM018",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T2(G103)-2T3(G103)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC4B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(G103)-2T5(G103)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(G103)-2T3(G103)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2T4(G103)-2T5(G103)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL7A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B103)-3N2(B103)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC3004",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(E007)-3T3(E007)-5T2(E007)-5T3(E007)",
+        "prof": "Igor Scaliante Wiese",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC1004",
+    "name": "Ética Em Computação",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "6T2(G103)-6T3(G103)",
+        "prof": "Leandro Augusto Ensina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA39A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "IF9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental",
+        "h": "3M4(B103)-3M5(B103)",
+        "prof": "Maria Cristina Rodrigues Halmeman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP3XA",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T4(F110)-4T5(F110)",
+        "prof": "Jucelia Kuchla Vieira",
+        "opt": "Matriz:75, Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "HUM001",
+    "name": "Filosofia Da Ciência E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N4(D108)-4N5(D108)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "NCM014",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "ID4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3T3(H003)-3T4(H003)-4T3(F101)-4T4(F101)",
+        "prof": "Oscar Rodrigues Dos Santos",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IF4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2T3(F105)-2T4(F105)-5T4(H003)-5T5(H003)",
+        "prof": "Roseli Constantino Schwerz",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IG4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "5T5(G101)-5T6(G101)-6T2(H003)-6T3(H003)",
+        "prof": "Sergio Henrique Fernandes",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IL3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N2(B103)-2N3(B103)-4N4(H003)-4N5(H003)",
+        "prof": "Michel Corci Batista",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IQ4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "5T5(G101)-5T6(G101)-6T2(H003)-6T3(H003)",
+        "prof": "Sergio Henrique Fernandes",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "HUM002",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(F109)-3N3(F109)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "NCM008",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3N1(F101)-3N2(F101)-3N3(F101)",
+        "prof": "Raquel Polizeli",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N1(D108)-3N2(D108)-3N3(D108)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T1(G104)-3T2(G104)-3T3(G104)",
+        "prof": "Raquel Polizeli",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5N1(B102)-5N2(B102)-5N3(B102)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T1(G104)-3T2(G104)-3T3(G104)",
+        "prof": "Raquel Polizeli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM019",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "ID4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T1(F101)-4T2(F101)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Matriz:88, Matriz:84"
+      },
+      {
+        "turma": "IF4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4T1(F101)-4T2(F101)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Matriz:88, Matriz:84"
+      },
+      {
+        "turma": "IG4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "4T4(G105)-4T5(G105)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Matriz:88, Matriz:84"
+      },
+      {
+        "turma": "IQ4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "4T4(G105)-4T5(G105)",
+        "prof": "Tanatiana Ferreira Guelbert",
+        "opt": "Matriz:88, Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "HUM003",
+    "name": "História E Cultura Afro-Brasileira",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N2(D105)-2N3(D105)",
+        "prof": "Alex Sandro De Medeiros",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "OPT011",
+    "name": "Implementação De Linguagens De Programação",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(E100)-3N5(E100)-5N2(E100)-5N3(E100)",
+        "prof": "Rogerio Aparecido Goncalves",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "HUM004",
+    "name": "Inglês Como Leitura E Interação",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(B105)-3T5(B105)",
+        "prof": "Marli Aparecida Pedro",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "BCC6003",
+    "name": "Inteligência Computacional",
+    "turmas": [
+      {
+        "turma": "IC6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N2(E001)-2N3(E001)-4N4(E001)-4N5(E001)",
+        "prof": "Diego Bertolini Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC3002",
+    "name": "Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(B001)-3T5(B001)-6T2(E007)-6T3(E007)",
+        "prof": "Andre Luiz Satoshi Kawamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC1001",
+    "name": "Introdução À Programação",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(D105)-2T5(D105)-5T2(E100)-5T3(E100)",
+        "prof": "Ivanilton Polato",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC1B",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(D105)-2T5(D105)-5T4(E100)-5T5(E100)",
+        "prof": "Ivanilton Polato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LBRS31Q",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N4(D107)-4N5(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:34, Matriz:30, Matriz:44, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "LBRS32Q",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "NA6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      },
+      {
+        "turma": "NQ8A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T5(B105)-4T6(B105)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "HUM007",
+    "name": "Liderança E Relações Interpessoais",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(D108)-4T5(D108)",
+        "prof": "Edson Hirata",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "HUM008",
+    "name": "Linguagem, Cultura E Sociedade",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(D102)-5N3(D102)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Matriz:63, Matriz:87, Matriz:89, Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "BCC4002",
+    "name": "Lógica Matemática",
+    "turmas": [
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "5T2(D107)-5T3(D107)-6T2(D107)-6T3(D107)",
+        "prof": "Joao Fabricio Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM009",
+    "name": "Mercosul, Fronteira E Desenvolvimento Regional",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(D107)-5N5(D107)",
+        "prof": "Emilio Gonzalez",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "BCC4005",
+    "name": "Metodologia De Pesquisa Em Computação",
+    "turmas": [
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(D106)-3N5(D106)-5N2(E001)-5N3(E001)",
+        "prof": "Eduardo Henrique Monteiro Pena",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM010",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM011",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(F110)-2T5(F110)-4T2(D106)-4T3(D106)",
+        "prof": "Magda Cardoso",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(F101)-2T2(F101)-4T5(G102)-4T6(G102)",
+        "prof": "Magda Cardoso",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2T1(F102)-2T2(F102)-6T2(B101)-6T3(B101)",
+        "prof": "Diogo Heron Macowski",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T3(F102)-2T4(F102)-6T4(B001)-6T5(B001)",
+        "prof": "Diogo Heron Macowski",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T3(F102)-2T4(F102)-6T4(B001)-6T5(B001)",
+        "prof": "Diogo Heron Macowski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC4003",
+    "name": "Processamento De Imagens",
+    "turmas": [
+      {
+        "turma": "IC4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T4(E007)-4T5(E007)-6T4(E007)-6T5(E007)",
+        "prof": "Aretha Barbosa Alencar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC5005",
+    "name": "Projeto Integrador",
+    "turmas": [
+      {
+        "turma": "IC5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N2(E007)-2N3(E007)-4N4(E007)-4N5(E007)",
+        "prof": "Reginaldo Re",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT020",
+    "name": "Reconhecimento De Padrões",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N4(E102)-2N5(E102)-4N2(E102)-4N3(E102)",
+        "prof": "Diego Bertolini Goncalves",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC3003",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N2(D106)-3N3(D106)-5N2(E104)-5N3(E104)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3N4(E007)-3N5(E007)-5N2(E007)-5N3(E007)",
+        "prof": "Luiz Arthur Feitosa Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT021",
+    "name": "Sistemas Distribuídos",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N2(E102)-2N3(E102)-4N4(E102)-4N5(E102)",
+        "prof": "Rodrigo Campiolo",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC5002",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "ICE",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T2(G102)-3T3(G102)-5T2(E105)-5T3(E105)",
+        "prof": "Rodrigo Hubner",
+        "opt": "Não"
+      },
+      {
+        "turma": "IC5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N4(E007)-2N5(E007)-4N2(E007)-4N3(E007)",
+        "prof": "Rodrigo Campiolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM012",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(H104)-4N3(H104)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:89, Matriz:85, Matriz:86, Matriz:88, Matriz:87"
+      }
+    ]
+  },
+  {
+    "code": "BCC5003",
+    "name": "Teoria Da Computação",
+    "turmas": [
+      {
+        "turma": "IC5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T4(D104)-3T5(D104)-5T4(F101)-5T5(F101)",
+        "prof": "Rogerio Aparecido Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT101",
+    "name": "Tópicos Especiais Em Interfaces Computacionais",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2N4(E104)-2N5(E104)-4N2(E104)-4N3(E104)",
+        "prof": "Paulo Henrique Sabo",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "OPT098",
+    "name": "Tópicos Especiais Em Sistemas De Computação",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T4(E100)-4T5(E100)-6T4(E102)-6T5(E102)",
+        "prof": "Rodrigo Hubner",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "BCC7001",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "IC7A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciênc Computação",
+        "h": "",
+        "prof": "Luiz Arthur Feitosa Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BCC8001",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "IC8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciênc Computação",
+        "h": "",
+        "prof": "Luiz Arthur Feitosa Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM020",
+    "name": "Viabilidade Econômica E Financeira De Projetos",
+    "turmas": [
+      {
+        "turma": "ID5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3T1(D106)-3T2(D106)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IF7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T4(D108)-3T5(D108)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IG7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "4T1(G103)-4T2(G103)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Matriz:84"
+      },
+      {
+        "turma": "IQ7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "4T1(G103)-4T2(G103)",
+        "prof": "Genilson Valotto Patuzzo",
+        "opt": "Matriz:84"
+      }
+    ]
+  },
+  {
+    "code": "OPT027",
+    "name": "Visualização De Dados",
+    "turmas": [
+      {
+        "turma": "ICO",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "2T4(E102)-2T5(E102)-6T2(E001)-6T3(E001)",
+        "prof": "Aretha Barbosa Alencar",
+        "opt": "Matriz:84"
+      }
+    ]
+  }
+]

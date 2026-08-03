@@ -1,0 +1,812 @@
+[
+  {
+    "code": "ALM002",
+    "name": "Análise De Alimentos 1",
+    "turmas": [
+      {
+        "turma": "A23",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(A308)-2N2(A308)-2N3(A106)-2N4(A106)-2N5(A106)-4N1(A308)",
+        "prof": "Caroline Maria Calliari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI010",
+    "name": "Análise De Alimentos 2",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(A105)-2N2(A105)-2N3(A308)-2N4(A308)-2N5(A308)",
+        "prof": "Amelia Elena Terrile",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM009",
+    "name": "Análise De Alimentos 3",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(A104)-2N2(A104)-2N3(A104)",
+        "prof": "Mayka Reghiany Pedrao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM014",
+    "name": "Análise Sensorial",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(A103)-3N2(A103)-3N3(A103)-3N4(A103)",
+        "prof": "Ana Flavia De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM015",
+    "name": "Assuntos Regulatórios Em Alimentos",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "5N1(A103)-5N2(A103)",
+        "prof": "Paulo De Tarso Carvalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM003",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "A23",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N1(A106)-6N2(A106)-6N3(A106)-6N4(A305)-6N5(A305)",
+        "prof": "Claudio Takeo Ueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM005",
+    "name": "Bioquímica De Alimentos",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(A105)-3N2(A105)-3N3(A105)-5N3(A308)-5N4(A308)",
+        "prof": "Juliany Piazzon Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEXT001",
+    "name": "Ciência E Tecnologia Para A Comunidade",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N1(A105)-6N2(A105)-7M1(ZSV09)-7M2(ZSV09)-7M3(ZSV09)-7M4(ZSV09)",
+        "prof": "Juliany Piazzon Gomes",
+        "opt": "Matriz:63"
+      },
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(K214)-5T3(K214)-7M2(ZSV12)-7M3(ZSV12)-7M4(ZSV12)-7M5(ZSV12)",
+        "prof": "Luciana Furlaneto Maia",
+        "opt": "Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "ENP05A",
+    "name": "Desenvolvimento De Novos Negócios",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N1(K205)-6N2(K205)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM019",
+    "name": "Desenvolvimento De Novos Produtos",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "5N1(A103)-5N2(A103)",
+        "prof": "Paulo De Tarso Carvalho, Fabio Augusto Garcia Coro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP03A",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(K312)-4N2(K312)",
+        "prof": "Jose Luis Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM018",
+    "name": "Embalagens",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(A102)-3N2(A102)",
+        "prof": "Caroline Maria Calliari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM10A",
+    "name": "Empreendedorismo E Plano De Negócios",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "2N1(K305)-2N2(K305)-6N1(K205)-6N2(K205)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT005",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "A23",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N4(B205)-4N5(B205)-5N4(B205)-5N5(B205)",
+        "prof": "Joelmir Andre Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "FIS001",
+    "name": "Fenômenos Físicos Aplicados Na Tecnologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N4(K206)-4N5(K206)-6N1(K206)-6N2(K206)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI002",
+    "name": "Físico-Química Aplicada",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(K206)-4N2(K206)-4N3(K206)",
+        "prof": "Fabio Cezar Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB003",
+    "name": "Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "5N3(A102)-5N4(A102)-5N5(A102)",
+        "prof": "Fabio Augusto Garcia Coro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP10A",
+    "name": "Gestão Da Inovação E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "2N3(K305)-2N4(K305)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP004",
+    "name": "Gestão Da Produção E Da Qualidade",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N3(K312)-4N4(K312)-6N3(K312)-6N4(K312)",
+        "prof": "Jose Luis Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP011",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Eng Mecânica, 3 - Tecnol  Alimentos",
+        "h": "3T5(K212)-3T6(K212)-4N1(K207)-4N2(K207)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP10A",
+    "name": "Gestão De Operações E Serviços",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "4N1(K305)-4N2(K305)-4N3(K305)-4N4(K305)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP006",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(A102)-4N2(A102)",
+        "prof": "Regina Lucia Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS001",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais Na Tecnologia",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N3(K206)-3N4(K206)-3N5(K206)",
+        "prof": "Mirian Ruffini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM001",
+    "name": "Introdução À Tecnologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N3(A103)-2N4(A103)-2N5(A103)",
+        "prof": "Neusa Fatima Seibel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU94N",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "CHS003",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N1(A102)-6N2(A102)",
+        "prof": "Ana Flavia De Oliveira, Mayka Reghiany Pedrao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM004",
+    "name": "Microbiologia Aplicada",
+    "turmas": [
+      {
+        "turma": "A23",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(A106)-3N2(A106)-3N3(A106)-3N4(A305)-3N5(A305)",
+        "prof": "Luciana Furlaneto Maia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM008",
+    "name": "Microbiologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(A105)-4N2(A105)-4N3(A105)-4N4(A305)-4N5(A305)",
+        "prof": "Alexandre Rodrigo Coelho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM007",
+    "name": "Nutrição",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N3(A105)-6N4(A105)-6N5(A105)",
+        "prof": "Ana Flavia De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM006",
+    "name": "Operações Na Indústria De Alimentos 1",
+    "turmas": [
+      {
+        "turma": "A33",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N4(A105)-3N5(A105)-5N1(A105)-5N2(A105)",
+        "prof": "Marianne Ayumi Shirai",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM010",
+    "name": "Operações Na Indústria De Alimentos 2",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(A104)-4N2(A104)-5N4(A104)-5N5(A104)",
+        "prof": "Marianne Ayumi Shirai",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM024",
+    "name": "Projeto Integrador Extensionista 2",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3T4(ZSV03)-3T5(ZSV03)-4T4(ZSV03)-4T5(ZSV03)-5N1(A104)-5N2(A104)",
+        "prof": "Alexandre Rodrigo Coelho, Lyssa Setsuko Sakanaka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM025",
+    "name": "Projeto Integrador Extensionista 3",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(ZSV01)-2T6(ZSV01)-3N5(A103)-4T4(ZSV01)-4T5(ZSV01)-6N3(A102)-6N4(A102)",
+        "prof": "Neusa Fatima Seibel, Caroline Maria Calliari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI036",
+    "name": "Química Analítica 1",
+    "turmas": [
+      {
+        "turma": "Q33",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Em Química, 3 - Eng De Materiais",
+        "h": "3N1(B204)-3N2(B204)-3N3(B204)-5N3(B204)",
+        "prof": "Janksyn Bertozzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI001",
+    "name": "Química Geral Aplicada",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(B305)-3N2(B305)-5N3(K206)-5N4(K206)-5N5(K206)",
+        "prof": "Isabel Craveiro Moreira Andrei",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI009",
+    "name": "Química Orgânica",
+    "turmas": [
+      {
+        "turma": "A23",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N2(K008)-4N3(K008)-5N1(K203)-5N2(K203)-5N3(K203)",
+        "prof": "Juliana Feijo De Souza Daniel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM011",
+    "name": "Segurança Dos Alimentos",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N3(A104)-4N4(A104)-4N5(A104)",
+        "prof": "Juliany Piazzon Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM020",
+    "name": "Tecnologia De Bebidas",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(A102)-2N2(A102)-2N3(A102)-2N4(A002)-2N5(A002)-3N5(A102)",
+        "prof": "Lyssa Setsuko Sakanaka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM017",
+    "name": "Tecnologia De Frutas E Hortaliças",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N3(A103)-4N4(A103)-4N5(A103)",
+        "prof": "Neusa Fatima Seibel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM012",
+    "name": "Tecnologia De Grãos, Amidos E Seus Derivados",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "5N3(A104)-6N1(A104)-6N2(A104)-6N3(A104)-6N4(A104)-6N5(A104)",
+        "prof": "Paulo De Tarso Carvalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM021",
+    "name": "Tecnologia De Óleos E Gorduras Vegetais",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N3(A102)-3N4(A102)",
+        "prof": "Neusa Fatima Seibel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM013",
+    "name": "Tecnologia De Produtos Cárneos",
+    "turmas": [
+      {
+        "turma": "A43",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N1(A104)-3N2(A104)-3N3(A104)-3N4(A004)-3N5(A004)",
+        "prof": "Mayka Reghiany Pedrao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM016",
+    "name": "Tecnologia De Produtos Lácteos",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N2(K206)-2N3(K206)-5N3(A003)-5N4(A003)-5N5(A003)",
+        "prof": "Marly Sayuri Katsuda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT001",
+    "name": "Tópicos De Matemática",
+    "turmas": [
+      {
+        "turma": "A13",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "2N1(A103)-2N2(A103)-5N1(K206)-5N2(K206)",
+        "prof": "Reginaldo Fidelis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC35A",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "A53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "6N1(A102)-6N2(A102)",
+        "prof": "Ana Flavia De Oliveira, Mayka Reghiany Pedrao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC36A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "",
+        "prof": "Alexandre Rodrigo Coelho",
+        "opt": "Não"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "code": "IN12B",
+    "name": "Inglês 2",
+    "turmas": [
+      {
+        "turma": "CALEM2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Língua Inglesa",
+        "h": "5T1(M004)-5T2(M004)",
+        "prof": "Tallyssa Izabella Machado Sirino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IN14D",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "CALEM4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Língua Inglesa",
+        "h": "5T3(M004)-5T4(M004)",
+        "prof": "Tallyssa Izabella Machado Sirino",
+        "opt": "Não"
+      }
+    ]
+  }
+]

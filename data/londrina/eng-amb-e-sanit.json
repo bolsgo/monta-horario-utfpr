@@ -1,0 +1,1767 @@
+[
+  {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB026",
+    "name": "Auditoria Ambiental",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M4(A104)-5M5(A104)-5M6(A104)",
+        "prof": "Rafael Montanhini Soares De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB040",
+    "name": "Avaliação Dos Impactos Ambientais",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M3(B203)-5M4(B203)-5M5(B203)",
+        "prof": "Marcelo Eduardo Freres Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA68A",
+    "name": "Avaliação Dos Impactos Ambientais A",
+    "turmas": [
+      {
+        "turma": "DP81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M3(B203)-5M4(B203)-5M5(B203)",
+        "prof": "Marcelo Eduardo Freres Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB008",
+    "name": "Biologia Dos Organismos",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M5(A102)-4M6(A102)-5M5(B302)-5M6(B302)",
+        "prof": "Patricia Carneiro Lobo, Edson Fontes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM022",
+    "name": "Bioquímica Geral",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M5(A106)-4M6(A106)",
+        "prof": "Claudio Takeo Ueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06P",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT014",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
+        "prof": "Nazira Hanna Harb",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08S",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB009",
+    "name": "Cartografia",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M3(A102)-2M4(A102)-5M1(K113)-5M2(K113)",
+        "prof": "Ligia Flavia Antunes Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB006",
+    "name": "Climatologia A",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(A106)-2M2(A106)-2M3(A106)-2M4(A106)",
+        "prof": "Marcelo Eduardo Freres Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC001",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K107)-3M6(K107)-4M5(K107)-4M6(K107)",
+        "prof": "Fernando Henrique Campos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS04S",
+    "name": "Comunicação Oral E Estratégica",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M3(K206)-6M4(K206)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE69B",
+    "name": "Controle De Odores No Saneamento Ambiental",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "7M5(ZSV05)-7M6(ZSV05)",
+        "prof": "Joseane Debora Peruco Theodoro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB022",
+    "name": "Conversão, Conservação E Eficiência Energética",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(A103)-3M6(A103)-4M1(K102)-4M2(K102)",
+        "prof": "Alexandre Sordi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB002",
+    "name": "Desenho Técnico Assistido Por Computador",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M4(K113)-2M5(K113)-2M6(K113)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS12",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(K113)-2M2(K113)-2M3(K113)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP05S",
+    "name": "Desenvolvimento De Novos Negócios",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M5(K207)-4M6(K207)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB036",
+    "name": "Disposição Final De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(B203)-3M2(B203)",
+        "prof": "Tatiane Cristina Dal Bosco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB012",
+    "name": "Ecologia",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K305)-3M6(K305)-4M1(K305)-4M2(K305)-4M3(K305)",
+        "prof": "Patricia Carneiro Lobo, Edson Fontes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE69B",
+    "name": "Economia Do Meio Ambiente",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(A105)-6M5(A105)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "EEC002",
+    "name": "Eletrotécnica Básica",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M3(K305)-2M4(K305)",
+        "prof": "Marcos Massaki Imamura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE66B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "EQ93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Química, 2 - Eng. Amb. E Sanit., 3 - Eng Mecânica",
+        "h": "4T5(K214)-4T6(K214)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE90A",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "EM01",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais, 2 - Eng. Amb. E Sanit., 3 - Eng Química",
+        "h": "6N1(K205)-6N2(K205)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT012",
+    "name": "Equações Diferenciais E Ordinárias",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K207)-2N5(K207)-5T5(K206)-5T6(K206)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT09S",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A102)-2M6(A102)-3M1(K203)-3M2(K203)",
+        "prof": "Adriana Helena Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT10S",
+    "name": "Estatística Aplicada A Engenharia",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(K209)-2M2(K209)-3M1(K305)-3M2(K305)",
+        "prof": "Joelmir Andre Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EXTAS03",
+    "name": "Estratégias De Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(A105)-2M2(A105)",
+        "prof": "Tatiane Cristina Dal Bosco",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS007",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K206)-2M3(K206)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS07T",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T5(A106)-5T6(A106)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS04P",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K201)-3N2(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K201)-3N4(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS04S",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K201)-2M3(K201)",
+        "prof": "Alcides Goya",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS22",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M4(K201)-2M5(K201)",
+        "prof": "Alcides Goya",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS06P",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K204)-5N2(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N3(K204)-5N4(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS06S",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M2(K204)-6M3(K204)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS32",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(K204)-6M5(K204)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08P",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K301)-2N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N4(K301)-3N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08S",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K301)-3M6(K301)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS03S",
+    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(K206)-3M2(K206)-3M3(K206)",
+        "prof": "Joao Paulo Camargo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS05S",
+    "name": "Física 2 Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(A106)-3M4(A106)-3M5(A106)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI02S",
+    "name": "Físico-Química Aplicada",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(K305)-6M5(K305)-6M6(K305)",
+        "prof": "Alexei Lorenzetti Novaes Pinheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Fundamentos De Cálculo Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(K308)-4M4(K308)-5M2(K308)-5M3(K308)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB020",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit., 2 - Eng De Materiais",
+        "h": "5M1(A103)-5M2(A103)-5M3(A103)",
+        "prof": "Sueli Tavares De Melo Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB013",
+    "name": "Fundamentos De Geomática",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(K305)-3M4(K305)-5M3(K113)-5M4(K113)",
+        "prof": "Ligia Flavia Antunes Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB007",
+    "name": "Geologia",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(A106)-3M2(A106)-5M1(A106)-5M2(A106)",
+        "prof": "Mauricio Moreira Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT003",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M3(K308)-6M4(K308)-6M5(K308)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT03P",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K205)-2N4(K205)-2N5(K205)",
+        "prof": "Wellington Donizeti Previero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB010",
+    "name": "Geotecnia Ambiental",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(K106)-6M5(K106)-6M6(K106)",
+        "prof": "Mauricio Moreira Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB038",
+    "name": "Gerenciamento De Recursos Hídricos",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M2(B203)-4M3(B203)-4M4(B203)",
+        "prof": "Ricardo Nagamine Costanzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB029",
+    "name": "Gerenciamento De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M3(A104)-2M4(A104)-3M3(A104)-3M4(A104)-3M5(A104)",
+        "prof": "Tatiane Cristina Dal Bosco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA69B",
+    "name": "Gerenciamento E Tratamento De Água",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(A105)-4M2(A105)-5M1(A105)-5M2(A105)",
+        "prof": "Edilaine Regina Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA69D",
+    "name": "Gerenciamento E Tratamento De Efluentes Industriais",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(A105)-4M4(A105)-4M5(A105)",
+        "prof": "Bruno De Oliveira Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB035",
+    "name": "Gerenciamento E Tratamento De Esgoto Sanitário",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(B203)-3M4(B203)-3M5(B203)",
+        "prof": "Bruno De Oliveira Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB034",
+    "name": "Gerenciamento E Tratamento De Poluentes Atmosféricos",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M2(B203)-6M3(B203)-6M4(B203)-6M5(B203)-6M6(B203)",
+        "prof": "Joseane Debora Peruco Theodoro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB017",
+    "name": "Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(K306)-6M5(K306)-6M6(K306)",
+        "prof": "Rafael Montanhini Soares De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB023",
+    "name": "Hidráulica Aplicada",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(A103)-2M2(A103)-3M3(A103)-3M4(A103)",
+        "prof": "Orlando De Carvalho Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB024",
+    "name": "Hidrologia Aplicada",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(A103)-3M2(A103)-4M5(A103)-4M6(A103)",
+        "prof": "Edilaine Regina Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB032",
+    "name": "Instalações Prediais Hidrossanitárias",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A104)-6M2(A104)-6M3(A104)",
+        "prof": "Ricardo Nagamine Costanzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA69C",
+    "name": "Instalações Prediais Hidrossanitárias",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A104)-6M2(A104)-6M3(A104)",
+        "prof": "Ricardo Nagamine Costanzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS002",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais Na Engenharia",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(K308)-3M4(K308)",
+        "prof": "Alessandra Dutra Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB001",
+    "name": "Introdução À Engenharia Ambiental E Sanitária",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K303)-4M2(K303)",
+        "prof": "Ligia Flavia Antunes Batista, Orlando De Carvalho Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI011",
+    "name": "Laboratório De Química Geral",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M4(K009)-2M5(K009)",
+        "prof": "Natalia Mariana Monezi",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS22",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K009)-2M3(K009)",
+        "prof": "Fabio Cezar Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB018",
+    "name": "Legislação Ambiental",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A103)-2M6(A103)",
+        "prof": "Marcelo Eduardo Freres Stipp",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS05M",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T5(K305)-5T6(K305)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "CHS05T",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "6T5(B204)-6T6(B204)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS06P",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K205)-5N2(K205)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU94N",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "EXTAS02",
+    "name": "Mapeamento Colaborativo",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M2(K113)-6M3(K113)-6M4(K113)-6M5(K113)",
+        "prof": "Ligia Flavia Antunes Batista",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB015",
+    "name": "Mecânica Dos Fluidos 1",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M4(K305)-4M5(K305)-4M6(K305)",
+        "prof": "Joseane Debora Peruco Theodoro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB011",
+    "name": "Mecânica Geral 1",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(A102)-4M4(A102)-5M3(K307)-5M4(K307)",
+        "prof": "Alexandre Sordi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS03S",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(A106)-4M4(A106)",
+        "prof": "Tatiane Cristina Dal Bosco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB021",
+    "name": "Microbiologia Aplicada",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M3(A103)-2M4(A103)-4M3(A306)-4M4(A306)",
+        "prof": "Katia Valeria Marques Cardoso Prates",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB030",
+    "name": "Modelagem Aplicada Ao Ambiente",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(K102)-2M6(K102)-3M1(K102)-3M2(K102)",
+        "prof": "Alexandre Sordi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB033",
+    "name": "Operações Unitárias A",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M1(A104)-2M2(A104)-4M5(A104)-4M6(A104)",
+        "prof": "Fabio Augusto Garcia Coro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE69G",
+    "name": "Poluição Das Águas Subterrâneas",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5T1(A105)-5T2(A105)",
+        "prof": "Mauricio Moreira Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB028",
+    "name": "Poluição Dos Solos",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(S002)-4M2(S002)",
+        "prof": "Marcelo Hidemassa Anami",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS72",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(S002)-4M4(S002)",
+        "prof": "Marcelo Hidemassa Anami",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB005",
+    "name": "Princípios De Ciência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M4(K206)-3M5(K206)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB014",
+    "name": "Qualidade Da Água",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M1(K305)-5M2(K305)-6M1(S004)-6M2(S004)-6M3(S004)",
+        "prof": "Orlando De Carvalho Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI013",
+    "name": "Química Analítica Ambiental",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M3(A106)-5M4(A106)-5M5(A106)",
+        "prof": "Alessandra Furtado Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI014",
+    "name": "Química Analítica Ambiental Experimental",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(K010)-3M4(K010)",
+        "prof": "Alessandra Furtado Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI004",
+    "name": "Química Geral Inorgânica",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M4(K303)-5M5(K303)-6M1(K303)-6M2(K303)",
+        "prof": "Alexei Lorenzetti Novaes Pinheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI012",
+    "name": "Química Orgânica Ambiental",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M4(K206)-4M5(K206)-4M6(K206)",
+        "prof": "Juliana Feijo De Souza Daniel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB027",
+    "name": "Recuperação De Ecossistemas Aquáticos",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M1(A104)-5M2(A104)-5M3(A104)",
+        "prof": "Edson Fontes De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB016",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(K305)-2M6(K305)-5M5(A105)-5M6(A105)",
+        "prof": "Sueli Tavares De Melo Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB019",
+    "name": "Restauração Florestal",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A103)-6M2(A103)-6M3(A103)",
+        "prof": "Patricia Carneiro Lobo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB037",
+    "name": "Sistemas De Drenagem Urbana",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M3(B203)-2M4(B203)-2M5(B203)",
+        "prof": "Ricardo Nagamine Costanzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB031",
+    "name": "Sistemas Urbanos De Abastecimento De Água E Esgotamento Sanitário",
+    "turmas": [
+      {
+        "turma": "AS71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(A104)-6M5(A104)-6M6(A104)",
+        "prof": "Bruno De Oliveira Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EXTAS01",
+    "name": "Topicos Em Arborização Urbana",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4N2(A103)-6M4(A106)-6M5(A106)-6M6(A106)",
+        "prof": "Patricia Carneiro Lobo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB004",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M1(S002)-5M2(S002)-6M1(K206)-6M2(K206)",
+        "prof": "Marcelo Hidemassa Anami",
+        "opt": "Não"
+      },
+      {
+        "turma": "AS22",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M3(S002)-5M4(S002)-6M1(K206)-6M2(K206)",
+        "prof": "Marcelo Hidemassa Anami",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC69A",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "7M2(A104)-7M3(A104)-7M4(A104)-7M5(A104)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC60A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB039",
+    "name": "Trabalho De Conclusão 1",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "7M2(A104)-7M3(A104)-7M4(A104)-7M5(A104)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB025",
+    "name": "Transferência De Calor E De Massa",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M4(A103)-5M5(A103)-5M6(A103)",
+        "prof": "Joseane Debora Peruco Theodoro",
+        "opt": "Não"
+      }
+    ]
+  }
+]

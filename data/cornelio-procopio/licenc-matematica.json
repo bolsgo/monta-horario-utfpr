@@ -1,0 +1,36 @@
+[
+  {
+    "code": "LM16A",
+    "name": "Análise Real 1",
+    "turmas": [
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Debora Aparecida Francisco Albanez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM38B",
+    "name": "Prática De Ensino D",
+    "turmas": [
+      {
+        "turma": "L81A",
+        "enq": "Presencial",
+        "vt": "4",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Thiago De Souza Pinto",
+        "opt": "Não"
+      }
+    ]
+  }
+]

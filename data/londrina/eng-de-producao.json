@@ -1,0 +1,1717 @@
+[
+  {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ST17B",
+    "name": "Automação Da Produção",
+    "turmas": [
+      {
+        "turma": "DP73",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K307)-4N2(K307)",
+        "prof": "Roger Nabeyama Michels",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06P",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT014",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
+        "prof": "Nazira Hanna Harb",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08S",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT11P",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K207)-3N4(K207)-4N3(K106)-4N4(K106)",
+        "prof": "Wellington Donizeti Previero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP012",
+    "name": "Ciência Dos Dados",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K107)-2T6(K107)-3N1(K107)-3N2(K107)",
+        "prof": "Rogerio Tondato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ST19A",
+    "name": "Comportamento Humano",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K306)-6N2(K306)-6N3(K205)-6N4(K205)",
+        "prof": "Rosana Travessini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP29",
+    "name": "Comportamento Organizacional",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K306)-6N2(K306)-6N3(K205)-6N4(K205)",
+        "prof": "Rosana Travessini",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "EEC005",
+    "name": "Computação Aplicada",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K106)-2N2(K106)-3N3(K107)-3N4(K107)",
+        "prof": "Fernando Henrique Campos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC001",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K106)-4T6(K106)-6T5(K106)-6T6(K106)",
+        "prof": "Henrique Yoshikazu Shishido",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS04P",
+    "name": "Comunicação Oral Estratégica",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K308)-2T6(K308)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP19",
+    "name": "Contabilidade Gerencial",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K307)-5N2(K307)-5N3(K307)-5N4(K307)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "ENP013",
+    "name": "Controle Estatístico Da Qualidade",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K107)-5N2(K107)-5N3(K107)-5N4(K107)",
+        "prof": "Rafael Henrique Palma Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP17Y",
+    "name": "Controle Estatístico Da Qualidade",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K107)-5N2(K107)-5N3(K107)-5N4(K107)",
+        "prof": "Rafael Henrique Palma Lima",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "ENP003",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K312)-4N2(K312)",
+        "prof": "Jose Luis Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE69B",
+    "name": "Economia Do Meio Ambiente",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M4(A105)-6M5(A105)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "EEC02P",
+    "name": "Eletrotécnica Básica",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N3(K306)-4N4(K306)",
+        "prof": "Marcos Massaki Imamura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM10A",
+    "name": "Empreendedorismo E Plano De Negócios",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "2N1(K305)-2N2(K305)-6N1(K205)-6N2(K205)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP023",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K306)-2N4(K306)-3N3(K306)-3N4(K306)",
+        "prof": "Jose Angelo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT012",
+    "name": "Equações Diferenciais E Ordinárias",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K207)-2N5(K207)-5T5(K206)-5T6(K206)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT09S",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A102)-2M6(A102)-3M1(K203)-3M2(K203)",
+        "prof": "Adriana Helena Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP014",
+    "name": "Ergonomia",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N4(K006)-4N5(K006)-5N5(K006)",
+        "prof": "Erico Daniel Ricardi Guerreiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS018",
+    "name": "Estudos Da Tradução",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K306)-4T6(K306)",
+        "prof": "Mirian Ruffini",
+        "opt": "Matriz:30, Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "CHS007",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K206)-2M3(K206)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS07T",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T5(A106)-5T6(A106)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC028",
+    "name": "Expressão Gráfica",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K113)-5N2(K113)-5T5(K113)-5T6(K113)",
+        "prof": "Genaro Marcial Mamani Gilapa",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP24",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K113)-6N2(K113)-6T5(K113)-6T6(K113)",
+        "prof": "Genaro Marcial Mamani Gilapa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC030",
+    "name": "Fenômenos De Transportes",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K209)-4N2(K209)-4N3(K209)",
+        "prof": "Ismael De Marchi Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS04P",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K201)-3N2(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K201)-3N4(K201)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS06P",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K204)-5N2(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N3(K204)-5N4(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08P",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K301)-2N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N4(K301)-3N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08S",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K301)-3M6(K301)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS009",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K210)-4N2(K210)-4N3(K210)",
+        "prof": "Joao Paulo Camargo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC029",
+    "name": "Fundamentos Da Mecânica",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K207)-6N2(K207)-6T5(K207)-6T6(K207)",
+        "prof": "Jederson Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI003",
+    "name": "Fundamentos De Química",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5T4(K208)-5T5(K208)-5T6(K208)",
+        "prof": "Janksyn Bertozzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT03P",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K205)-2N4(K205)-2N5(K205)",
+        "prof": "Wellington Donizeti Previero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP024",
+    "name": "Gestão Da Cadeia De Suprimentos",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K306)-2T6(K306)-5N3(K306)-5N4(K306)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP10A",
+    "name": "Gestão Da Inovação E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "2N3(K305)-2N4(K305)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP22",
+    "name": "Gestão Da Inovação E Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K305)-2N4(K305)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "ENP021",
+    "name": "Gestão Da Manutenção",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K211)-3N4(K211)-5N3(K211)-5N4(K211)",
+        "prof": "Rosana Travessini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE19A",
+    "name": "Gestão Da Manutenção",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K211)-3N4(K211)-5N3(K211)-5N4(K211)",
+        "prof": "Rosana Travessini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP011",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção, 2 - Eng Mecânica, 3 - Tecnol  Alimentos",
+        "h": "3T5(K212)-3T6(K212)-4N1(K207)-4N2(K207)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP009",
+    "name": "Gestão De Custos",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K109)-2T6(K109)-3T5(K109)-3T6(K109)",
+        "prof": "Jose Angelo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP10A",
+    "name": "Gestão De Operações E Serviços",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção, 2 - Tecnol  Alimentos",
+        "h": "4N1(K305)-4N2(K305)-4N3(K305)-4N4(K305)",
+        "prof": "Raul Hidetoci Mioshi Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP022",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5T5(K211)-5T6(K211)-6T5(K211)-6T6(K211)",
+        "prof": "Rosana Travessini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP029",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "EP83",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K209)-4T6(K209)-6N1(K305)-6N2(K305)",
+        "prof": "Jose Luis Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP018",
+    "name": "Gestão De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K211)-2N4(K211)-2N5(K211)",
+        "prof": "Pedro Rochavetz De Lara Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP006",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "4N1(A102)-4N2(A102)",
+        "prof": "Regina Lucia Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE19B",
+    "name": "Gestão Mercadológica",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K307)-2N2(K307)-3N1(K307)-3N2(K307)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP24",
+    "name": "Gestão Mercadológica",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K307)-2N2(K307)-3N1(K307)-3N2(K307)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "EEC006",
+    "name": "Instalações Elétricas Industriais",
+    "turmas": [
+      {
+        "turma": "EP83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K205)-4N2(K205)",
+        "prof": "Marcos Massaki Imamura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS002",
+    "name": "Interpretação E Produção De Textos Científicos E Profissionais Na Engenharia",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K208)-2T6(K208)",
+        "prof": "Mirian Ruffini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP002",
+    "name": "Introdução À Administração",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K208)-2N4(K208)-4N3(K208)-4N4(K208)",
+        "prof": "Regina Lucia Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP001",
+    "name": "Introdução À Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K211)-5N2(K211)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT004",
+    "name": "Introdução Ao Cálculo",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K208)-3N2(K208)-4N1(K208)-4N2(K208)",
+        "prof": "Wellington Donizeti Previero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI008",
+    "name": "Laboratório De Química",
+    "turmas": [
+      {
+        "turma": "EP13",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3T4(K010)-3T5(K010)",
+        "prof": "Leila Droprinchinski Martins",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP14",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K009)-2N2(K009)",
+        "prof": "Leila Droprinchinski Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS05M",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T5(K305)-5T6(K305)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "CHS05T",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "6T5(B204)-6T6(B204)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS06P",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K205)-5N2(K205)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "HU94N",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
+      }
+    ]
+  },
+  {
+    "code": "ENP010",
+    "name": "Macroeconomia",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K206)-4T6(K206)",
+        "prof": "Regina Lucia Sanches",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP031",
+    "name": "Metodologia Do Tcc Na Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "EP83",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K106)-2T6(K106)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP40",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K102)-2N2(K102)-4N1(K102)-4N2(K102)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "OP17AW",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K102)-2N2(K102)-4N1(K102)-4N2(K102)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "ENP015",
+    "name": "Pesquisa Operacional 1",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K209)-2T6(K209)-3N1(K209)-3N2(K209)",
+        "prof": "Pedro Rochavetz De Lara Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP019",
+    "name": "Pesquisa Operacional 2",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K107)-6N2(K107)-6N3(K107)-6N4(K107)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP17A",
+    "name": "Pesquisa Operacional 2",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6N1(K107)-6N2(K107)-6N3(K107)-6N4(K107)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "ENP016",
+    "name": "Planejamento E Controle Da Produção 1",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K107)-4T6(K107)-5T5(K109)-5T6(K109)",
+        "prof": "Marco Antonio Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP020",
+    "name": "Planejamento E Controle Da Produção 2",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K312)-2N2(K312)-3N1(K312)-3N2(K312)",
+        "prof": "Jose Angelo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP27",
+    "name": "Planejamento Estratégico",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K305)-3T6(K305)-4N1(K303)-4N2(K303)",
+        "prof": "Fabiano Palhares Galao",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "MAT013",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K210)-2N4(K210)-4N4(K210)-4N5(K210)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PF10A",
+    "name": "Processos De Fabricação Mecânica",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K209)-5N2(K209)-5N3(K209)-5N4(K209)",
+        "prof": "Jose Aecio Gomes De Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PF19A",
+    "name": "Projeto De Fábrica E Arranjo Físico",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N3(K107)-2N4(K107)-4N3(K107)-4N4(K107)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP028",
+    "name": "Projeto De Instalações Industriais",
+    "turmas": [
+      {
+        "turma": "EP83",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N3(K107)-2N4(K107)-4N3(K107)-4N4(K107)",
+        "prof": "Bruno Samways Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP026",
+    "name": "Projeto De Produto",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4T5(K006)-4T6(K006)-5T5(K006)-5T6(K006)",
+        "prof": "Erico Daniel Ricardi Guerreiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP017",
+    "name": "Projeto Do Trabalho",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K211)-4N2(K211)-5N1(K006)-5N2(K006)",
+        "prof": "Erico Daniel Ricardi Guerreiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP042",
+    "name": "Projeto Extensionista 1",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K308)-3T6(K308)-7M1(ZSV06)-7M2(ZSV06)-7M3(ZSV06)-7M4(ZSV06)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP043",
+    "name": "Projeto Extensionista 2",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K308)-3T6(K308)-7M1(ZSV06)-7M2(ZSV06)-7M3(ZSV06)-7M4(ZSV06)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP044",
+    "name": "Projeto Extensionista 3",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K309)-3N2(K309)-4N5(ZSV09)-5N5(ZSV09)-7M5(ZSV02)-7M6(ZSV02)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP030",
+    "name": "Projeto Integrador 1 (Melhoria De Sistemas Produtivos)",
+    "turmas": [
+      {
+        "turma": "EP83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K309)-3N4(K309)-7M1(ZSV03)-7M2(ZSV03)-7M3(ZSV03)-7M4(ZSV03)-7M5(ZSV03)-7M6(ZSV03)",
+        "prof": "Rogerio Tondato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP025",
+    "name": "Simulação De Sistemas Discretos",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K107)-2N2(K107)-3T5(K107)-3T6(K107)",
+        "prof": "Rogerio Tondato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP027",
+    "name": "Sistemas De Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "EP73",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N1(K306)-4N2(K306)-5N1(K306)-5N2(K306)",
+        "prof": "Marco Antonio Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SI10A",
+    "name": "Sistemas De Informações Gerenciais",
+    "turmas": [
+      {
+        "turma": "EP03",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K211)-3N2(K211)",
+        "prof": "Fernando Henrique Campos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ENP008",
+    "name": "Sistemas Produtivos",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "4N3(K312)-4N4(K312)-6N3(K312)-6N4(K312)",
+        "prof": "Jose Luis Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC19A",
+    "name": "Tcc 1",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "5T6(K314)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP94",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "6M6(ZSV02)",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC10A",
+    "name": "Tcc 2",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEP20",
+    "name": "Teoria E Estratégia Do Desenvolvimento Sustentável",
+    "turmas": [
+      {
+        "turma": "EP93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N3(K307)-6N4(K307)",
+        "prof": "Carlos Alberto Ribas",
+        "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "MEC031",
+    "name": "Tópicos De Ciências E Engenharia Dos Materiais",
+    "turmas": [
+      {
+        "turma": "EP63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "2T5(K214)-2T6(K214)-4T5(K211)-4T6(K211)",
+        "prof": "Haroldo Lhou Hasegawa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCCEP2",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "TCC",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Produção",
+        "h": "",
+        "prof": "Silvana Rodrigues Quintilhano",
+        "opt": "Não"
+      }
+    ]
+  }
+]

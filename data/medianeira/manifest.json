@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "tecnol-em-gestao-amb",
+    "label": "Tecnol Em Gestão Amb"
+  },
+  {
+    "slug": "tecnol-em-alimentos",
+    "label": "Tecnol Em Alimentos"
+  },
+  {
+    "slug": "eng-producao",
+    "label": "Eng.Produção"
+  },
+  {
+    "slug": "engenharia-alimentos",
+    "label": "Engenharia Alimentos"
+  },
+  {
+    "slug": "engenharia-ambiental",
+    "label": "Engenharia Ambiental"
+  },
+  {
+    "slug": "ciencia-computacao",
+    "label": "Ciência Computação"
+  },
+  {
+    "slug": "engenharia-eletrica",
+    "label": "Engenharia Elétrica"
+  }
+]

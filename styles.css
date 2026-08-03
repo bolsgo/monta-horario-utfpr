@@ -711,3 +711,15 @@
     .cell-block .b-name{font-size:7px;}
     .cell-block .b-sub{font-size:5.5px;}
   }
+/* Bloco de texto para SEO — conteúdo indexável explicando a ferramenta,
+   fora do fluxo interativo do app. Segue a mesma largura/paleta do main. */
+.seo-intro{max-width:1650px;margin:8px auto 32px;padding:0 26px;color:var(--text);}
+.seo-intro h2{font-size:17px;font-weight:700;margin:24px 0 8px;font-family:var(--font-display);}
+.seo-intro h3{font-size:14px;font-weight:600;margin:18px 0 6px;color:var(--text);font-family:var(--font-display);}
+.seo-intro p{font-size:13px;line-height:1.6;color:var(--muted);margin:0 0 4px;max-width:820px;}
+@media(max-width:700px){
+  .seo-intro{padding:0 14px;}
+  .seo-intro h2{font-size:15px;}
+  .seo-intro h3{font-size:13px;}
+  .seo-intro p{font-size:12.5px;}
+}

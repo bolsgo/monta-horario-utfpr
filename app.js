@@ -1246,11 +1246,8 @@ function subjectColor(code, contextCodes) {
   }
 
   function updateCourseHeader(slug) {
-    const course = findCourse(slug);
-    const label = course ? course.label : slug;
-    // O título visível no header (h1) fica sempre fixo em "MontaHorário
-    // UTFPR" — só o título da aba do navegador reflete o curso atual.
-    document.title = `Monta Horário ${label} UTFPR`;
+    // O título da aba fica sempre fixo — não reflete mais o curso atual.
+    document.title = "MontaHorário UTFPR 2026/2";
   }
 
   // Busca data/<sede>/<slug>.json e carrega o curso. switching=true indica

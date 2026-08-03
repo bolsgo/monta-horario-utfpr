@@ -1163,36 +1163,45 @@ function subjectColor(code, contextCodes) {
 
   /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular) ==============
      A mini-grade fica fixa na tela (ver CSS) exceto em dois casos, em que
-     ela some para não duplicar informação já visível:
-     1) quando a tabela grande já está visível na tela; e
-     2) quando a página é rolada até o final (ali só há rodapé/legenda,
-        e sem isso a mini-grade "reaparecia" ao passar da tabela grande). */
+     ela some para não duplicar informação já visível ou aparecer depois
+     de qualquer conteúdo abaixo da tabela (ex.: a seção "O que é..."):
+     1) quando a tabela grande JÁ APARECEU um pouco na tela (não no
+        primeiro pixel — só depois de uns MINI_GRID_REVEAL_PX de tabela
+        visível, pra não sumir a mini-grade cedo demais); e
+     2) quando o usuário já rolou para ALÉM da tabela grande — nesse caso
+        ela fica travada escondida até o usuário rolar de volta para cima,
+        antes da tabela. Isso substitui o antigo "atBottom" (que só
+        cobria o fim absoluto da página e deixava a mini-grade reaparecer
+        em qualquer conteúdo novo inserido depois da tabela). */
   function initMiniGridVisibility() {
     const miniGrid = document.getElementById("miniGrid");
     const gridWrap = document.querySelector(".grid-wrap");
     if (!miniGrid) return;
+    const MINI_GRID_REVEAL_PX = 120; // quanto da tabela precisa aparecer antes de sumir a mini-grade
     let gridVisible = false;
-    let atBottom = false;
+    let pastGrid = false;
     const applyVisibility = () => {
-      miniGrid.classList.toggle("mini-hidden", gridVisible || atBottom);
+      miniGrid.classList.toggle("mini-hidden", gridVisible || pastGrid);
     };
     if (gridWrap && "IntersectionObserver" in window) {
       const io = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
           gridVisible = entry.isIntersecting;
+          if (entry.isIntersecting) {
+            // Tabela voltou a aparecer (rolando pra cima ou pra baixo):
+            // ainda não "passamos" dela.
+            pastGrid = false;
+          } else if (entry.boundingClientRect.bottom < 0) {
+            // Tabela ficou inteira acima da tela: rolamos para além dela.
+            pastGrid = true;
+          }
           applyVisibility();
         });
-      }, { threshold: 1.0 });
+      }, { threshold: [0, 1.0], rootMargin: `0px 0px -${MINI_GRID_REVEAL_PX}px 0px` });
       io.observe(gridWrap);
-    }
-    const checkBottom = () => {
-      const scrollBottom = window.scrollY + window.innerHeight;
-      atBottom = scrollBottom >= document.documentElement.scrollHeight - 24;
+    } else {
       applyVisibility();
-    };
-    window.addEventListener("scroll", checkBottom, { passive: true });
-    window.addEventListener("resize", checkBottom);
-    checkBottom();
+    }
   }
 
   /* ============== CARREGAMENTO DE SEDE E CURSO ==============

@@ -201,6 +201,17 @@
   .t-vagas{color:var(--muted);font-weight:500;}
   .turma-opt .t-meta .t-vagas{font-size:10px;}
   .subject-code .t-vagas.vagas-inline{font-size:9.5px;color:var(--info-strong);line-height:1;}
+  /* Só no tema claro: professor, vagas e o selo de reserva (Aberta/
+     Fechada/Sem reserva) de cada turma na lista ficam num tom só,
+     um pouco mais escuro que --muted (#83766a) — mantém a mesma
+     "família" de cor do site, só reduz o contraste/protagonismo desse
+     texto secundário. O tema escuro continua exatamente como estava. */
+  html[data-theme="light"] .turma-opt .t-prof,
+  html[data-theme="light"] .turma-opt .t-meta,
+  html[data-theme="light"] .t-vagas,
+  html[data-theme="light"] .t-res-fechada,
+  html[data-theme="light"] .t-res-aberta,
+  html[data-theme="light"] .t-res-sem-reserva{color:#6f6255;}
   .turma-opt .t-remove{align-self:stretch;height:auto;color:var(--danger);font-size:13px;background:none;border:none;cursor:pointer;padding:2px 8px;display:flex;align-items:center;justify-content:center;}
   /* Botão de fixar (pin) no modo normal — mesmo estado do modo compacto
      (ver State.pinned em app.js), só muda a aparência/posição pra

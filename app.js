@@ -647,6 +647,15 @@ function subjectColor(code, contextCodes) {
           if (e.pointerType === "touch") return;
           if (isActive) {
             setLinkedHover(sub.code, true);
+            // Turma já selecionada não usa prévia (ela já está "aplicada" na
+            // grade) — mas se o mouse veio rápido de cima de outra turma
+            // (não selecionada) que tinha deixado uma prévia verde/vermelha
+            // ativa, essa prévia ficava presa na grade porque este ramo
+            // nunca a limpava. Limpa aqui, sempre que entra numa ativa.
+            if (State.getPreview()) {
+              State.setPreview(null);
+              renderGridPreviewOnly();
+            }
           } else {
             const conflict = wouldConflict(slots, sub.code);
             State.setPreview({ slots, conflict });

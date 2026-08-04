@@ -390,6 +390,15 @@ function subjectColor(code, contextCodes) {
 
   function renderSubjectList(occ) {
     const q = normalizeText(searchBox.value.trim());
+    // A lista inteira é reconstruída (innerHTML="" + reapend de tudo) a
+    // cada seleção/remoção — em touch (especialmente iOS), zerar o
+    // conteúdo por um instante zera também o scrollHeight do container,
+    // e o navegador "clampa" o scrollTop dele a 0 nesse meio-tempo; depois
+    // que o conteúdo volta, o scroll não é restaurado sozinho. Isso fazia
+    // a lista pular pro topo sozinha ao selecionar uma turma mais abaixo.
+    // Guardamos o scrollTop de antes e reaplicamos no fim, depois que todo
+    // o conteúdo novo já foi inserido de volta.
+    const prevScrollTop = subjectListEl.scrollTop;
     subjectListEl.innerHTML = "";
     const conflictSet = computeConflictCodes(occ);
     const selected = State.getSelected();
@@ -705,6 +714,10 @@ function subjectColor(code, contextCodes) {
     if (subjectListEl.children.length === 0) {
       subjectListEl.innerHTML = `<div class="empty-state">Nenhuma disciplina encontrada.</div>`;
     }
+    // Restaura a posição de rolagem de antes do rebuild (ver comentário no
+    // início da função). Precisa ser depois de todo o conteúdo já estar de
+    // volta no DOM, senão o scrollHeight ainda não reflete a lista cheia.
+    subjectListEl.scrollTop = prevScrollTop;
   }
 
   /* ============== CONFLITOS ============== */

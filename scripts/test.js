@@ -319,6 +319,35 @@ test("State: alternar entre templates preserva o historico de desfazer/refazer d
   assert.ok(State.canUndo(), "historico do template 2 continua intacto");
 });
 
+test("State: grade salva antes dos templates existirem e migrada pro template 1", () => {
+  const sede = "sede-teste";
+  const curso = "curso-teste-migracao";
+  const legacyKey = `utfpr_horario_v2_${sede}_${curso}`;
+  const t1Key = `${legacyKey}_t1`;
+  localStorage.setItem(legacyKey, JSON.stringify({ MAT101: { code: "MAT101", name: "Calculo I" } }));
+
+  State.switchCourse(sede, curso);
+
+  assert.equal(State.getActiveTemplate(), "1", "deve abrir no template 1");
+  assert.ok(State.isSelected("MAT101"), "a grade salva antes dos templates deve aparecer no template 1");
+  assert.equal(localStorage.getItem(t1Key), JSON.stringify({ MAT101: { code: "MAT101", name: "Calculo I" } }), "deve ter copiado o valor antigo pra chave do template 1");
+  assert.equal(localStorage.getItem(legacyKey), null, "a chave antiga deve ser removida apos a migracao");
+});
+
+test("State: migracao nao sobrescreve o template 1 se ele ja tiver dados proprios", () => {
+  const sede = "sede-teste";
+  const curso = "curso-teste-migracao-2";
+  const legacyKey = `utfpr_horario_v2_${sede}_${curso}`;
+  const t1Key = `${legacyKey}_t1`;
+  localStorage.setItem(t1Key, JSON.stringify({ FIS201: { code: "FIS201", name: "Fisica I" } }));
+  localStorage.setItem(legacyKey, JSON.stringify({ MAT101: { code: "MAT101", name: "Calculo I" } }));
+
+  State.switchCourse(sede, curso);
+
+  assert.ok(State.isSelected("FIS201"), "dados ja existentes no template 1 nao devem ser substituidos");
+  assert.ok(!State.isSelected("MAT101"), "o valor antigo nao deve sobrescrever um template 1 ja em uso");
+});
+
 /* ============== VALIDACAO DOS ARQUIVOS data/*.json ==============
    Diferente dos testes acima (que usam strings de exemplo fixas), esta
    secao le de verdade os arquivos data/sedes.json, data/<sede>/manifest.json

@@ -177,6 +177,29 @@ function subjectColor(code, contextCodes) {
 
     function templateStorageKey() { return baseStorageKey + "_t" + activeTemplate; }
 
+    // Antes dos templates existirem, a grade de cada curso ficava salva
+    // direto em "utfpr_horario_v2_<sede>_<slug>" (sem sufixo de
+    // template). Agora o app só lê de "..._t1/_t2/_t3", então, sem essa
+    // migração, quem já tinha uma grade montada veria ela "sumir" ao
+    // abrir o app de novo — os dados continuariam no localStorage, só
+    // que numa chave que ninguém mais olha. Aqui a gente copia esse
+    // valor antigo (se existir) pra dentro do template 1 na primeira
+    // vez que o curso é aberto depois da atualização, e apaga a chave
+    // antiga (evita reprocessar essa migração toda vez, e evita ela
+    // sobrescrever o template 1 se o usuário já tiver mexido nele desde
+    // então — só migra se o template 1 ainda estiver vazio).
+    function migrateLegacyStorage() {
+      const legacyKey = baseStorageKey;
+      const t1Key = baseStorageKey + "_t1";
+      try {
+        const legacyRaw = localStorage.getItem(legacyKey);
+        if (legacyRaw && !localStorage.getItem(t1Key)) {
+          localStorage.setItem(t1Key, legacyRaw);
+        }
+        if (legacyRaw) localStorage.removeItem(legacyKey);
+      } catch (e) { /* localStorage indisponível ou corrompido: ignora */ }
+    }
+
     function snapshot() { return JSON.stringify(selected); }
 
     return {
@@ -345,6 +368,7 @@ function subjectColor(code, contextCodes) {
         PIN_STORAGE_KEY = "utfpr_pinned_v1_" + sedeSlug + "_" + slug;
         activeTemplate = "1";
         undoRedoByTemplate = {};
+        migrateLegacyStorage();
         selected = {};
         openSubjects = new Set();
         openInfo = new Set();

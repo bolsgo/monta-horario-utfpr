@@ -417,8 +417,9 @@ function subjectColor(code, contextCodes) {
       // Só interessa a cor de disciplinas selecionadas (é só onde ela é
       // exibida) — pra que calcular pras outras ~140+ da lista à toa?
       const color = isSelected ? colorMap.get(sub.code) : null;
-      // Só mostra o selo quando a turma SELECIONADA dessa matéria é EAD
-      // (igual ao professor, que também só aparece quando selecionado).
+      // Selo "EAD" ao lado do nome da matéria: some quando a turma
+      // SELECIONADA é EAD, e também temporariamente ao passar o mouse
+      // sobre qualquer turma da lista (ver setHeaderInfo() mais abaixo).
       // O indicador de EAD vem do campo "enq" (ex.: "EaD" vs "Presencial").
       const hasEAD = isSelected && /\bead\b/i.test(selected[sub.code].enq || "");
 
@@ -429,7 +430,7 @@ function subjectColor(code, contextCodes) {
       head.setAttribute("aria-expanded", State.isOpen(sub.code) ? "true" : "false");
       head.innerHTML = `
         <div class="subject-head-text">
-          <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)} ${hasEAD ? '<span class="badge badge-ead">EAD</span>' : ""}</div>
+          <div class="subject-title${isSelected ? " subject-title-colored" : ""}" style="color:${isSelected ? color : "inherit"}">${esc(sub.name)} <span class="badge badge-ead${hasEAD ? "" : " badge-ead-hidden"}">EAD</span></div>
           <div class="subject-code">
             <span class="subject-code-text">${esc(sub.code)}</span>
             <span class="turma-chip${isSelected ? "" : " chip-empty"}">
@@ -469,7 +470,8 @@ function subjectColor(code, contextCodes) {
       const resInlineEl = head.querySelector(".t-res.res-inline");
       const vagasInlineEl = head.querySelector(".t-vagas.vagas-inline");
       const profLineEl = head.querySelector(".subject-prof");
-      function setHeaderInfo(turma, res, prof, hasOtherCampus, vagas) {
+      const eadBadgeEl = head.querySelector(".badge-ead");
+      function setHeaderInfo(turma, res, prof, hasOtherCampus, vagas, ead) {
         if (turmaChipTextEl) turmaChipTextEl.textContent = turma || "";
         if (turmaChipEl) turmaChipEl.classList.toggle("chip-empty", !turma);
         if (turmaChipStarEl) turmaChipStarEl.textContent = hasOtherCampus ? "*" : "";
@@ -479,13 +481,14 @@ function subjectColor(code, contextCodes) {
         }
         if (vagasInlineEl) vagasInlineEl.textContent = vagas || "";
         if (profLineEl) profLineEl.textContent = prof || "";
+        if (eadBadgeEl) eadBadgeEl.classList.toggle("badge-ead-hidden", !ead);
       }
       const baseTurma = isSelected ? selected[sub.code].turma : "";
       const baseRes = isSelected ? (selected[sub.code].res || "-") : "";
       const baseProf = isSelected ? (selected[sub.code].prof || "-") : "";
       const baseHasOtherCampus = isSelected && !!(selected[sub.code].slots && selected[sub.code].slots.some(s => s.otherCampus));
       const baseVagas = isSelected ? vagasLabel(selected[sub.code]) : "";
-      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus, baseVagas);
+      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus, baseVagas, hasEAD);
 
 
       const isTwoCol = compactOn && sub.turmas.length > 8;
@@ -649,7 +652,7 @@ function subjectColor(code, contextCodes) {
             State.setPreview({ slots, conflict });
             renderGridPreviewOnly();
           }
-          setHeaderInfo(t.turma, t.res || "-", t.prof || "-", hasOther, vagasLabel(t));
+          setHeaderInfo(t.turma, t.res || "-", t.prof || "-", hasOther, vagasLabel(t), /\bead\b/i.test(t.enq || ""));
         };
         optDiv.onpointerleave = (e) => {
           if (e.pointerType === "touch") return;

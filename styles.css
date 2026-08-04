@@ -320,6 +320,7 @@
   .badge{display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:700;margin-left:6px;}
   .badge.selected-badge{background:var(--accent);color:var(--on-accent);}
   .badge.badge-ead{background:none;color:var(--ead-text);padding:0;font-weight:800;vertical-align:middle;}
+  .badge.badge-ead.badge-ead-hidden{display:none;}
   html[data-theme="dark"] .badge.selected-badge{background:var(--mini-last);}
   .grid-wrap{overflow-x:auto;border-radius:5px;position:relative;}
   table.grid{border-collapse:separate;border-spacing:0;width:100%;min-width:860px;background:var(--panel);border-radius:5px;}

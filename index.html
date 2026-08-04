@@ -96,7 +96,14 @@
   </div>
 
   <div class="content-col">
-    <div class="stats" id="statsBar" role="status" aria-live="polite"></div>
+    <div class="stats-row" id="statsRow">
+      <div class="stats" id="statsBar" role="status" aria-live="polite"></div>
+      <div class="template-bar" id="templateBar" role="group" aria-label="Templates de grade">
+        <button type="button" class="template-btn" data-template="1" title="Template 1" aria-label="Template 1">1</button>
+        <button type="button" class="template-btn" data-template="2" title="Template 2" aria-label="Template 2">2</button>
+        <button type="button" class="template-btn" data-template="3" title="Template 3" aria-label="Template 3">3</button>
+      </div>
+    </div>
     <div class="conflict-banner" id="conflictBanner" role="alert" aria-live="assertive"></div>
     <div class="grid-wrap">
       <table class="grid" id="gridTable"></table>

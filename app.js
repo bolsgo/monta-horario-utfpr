@@ -152,16 +152,30 @@ function subjectColor(code, contextCodes) {
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
     let redoStack = [];
+    // Histórico de desfazer/refazer de cada template (1/2/3), guardado só
+    // em memória (não vai pro localStorage — "por sessão": some ao
+    // recarregar a página, mas fica preservado ao alternar entre
+    // templates enquanto a aba continua aberta). Indexado pelo id do
+    // template ("1"/"2"/"3"); é zerado inteiro em switchCourse(), já que
+    // aí é um curso novo.
+    let undoRedoByTemplate = {};
     let lastSelectedCode = null;    // código da última matéria escolhida (destaque azul na mini-grade)
     // A chave de storage inclui o slug do curso: cada curso guarda sua
     // própria seleção separadamente (trocar de curso não apaga nem
-    // mistura o que foi salvo nos outros).
-    let STORAGE_KEY = "utfpr_horario_v2";
+    // mistura o que foi salvo nos outros). Além disso, cada curso tem 3
+    // "templates" de grade independentes (botões 1/2/3 na tela) — por
+    // isso a chave final também leva o template ativo no final
+    // ("..._t1", "..._t2", "..._t3"). Trocar de curso/sede sempre volta
+    // para o template "1" (activeTemplate abaixo).
+    let baseStorageKey = "utfpr_horario_v2";
+    let activeTemplate = "1";
     // Chave de storage das turmas fixadas (pin) — mesmo esquema do
-    // STORAGE_KEY acima: namespaced por sede+curso em switchCourse(), pra
+    // baseStorageKey acima: namespaced por sede+curso em switchCourse(), pra
     // cada curso/sede guardar seus próprios pins sem misturar com os
     // de outro curso.
     let PIN_STORAGE_KEY = "utfpr_pinned_v1";
+
+    function templateStorageKey() { return baseStorageKey + "_t" + activeTemplate; }
 
     function snapshot() { return JSON.stringify(selected); }
 
@@ -285,26 +299,52 @@ function subjectColor(code, contextCodes) {
         return true;
       },
 
+      getActiveTemplate() { return activeTemplate; },
+
       load() {
         try {
-          const raw = localStorage.getItem(STORAGE_KEY);
-          if (raw) selected = JSON.parse(raw);
-        } catch (e) { /* estado corrompido: ignora e começa vazio */ }
+          const raw = localStorage.getItem(templateStorageKey());
+          selected = raw ? JSON.parse(raw) : {};
+        } catch (e) { selected = {}; /* estado corrompido: ignora e começa vazio */ }
       },
       save() {
-        localStorage.setItem(STORAGE_KEY, snapshot());
+        localStorage.setItem(templateStorageKey(), snapshot());
+      },
+
+      // Chamado ao clicar num dos botões de template (1/2/3): salva a
+      // grade atual na chave do template que estava ativo, troca para o
+      // template escolhido e carrega a grade salva dele (ou vazia, se
+      // ainda não houver nada salvo). Cada template guarda sua própria
+      // seleção, accordions/desfazer-refazer não fazem sentido entre um
+      // template e outro, então são resetados aqui também.
+      switchTemplate(id) {
+        if (id === activeTemplate) return;
+        this.save();
+        undoRedoByTemplate[activeTemplate] = { undo: undoStack, redo: redoStack };
+        activeTemplate = id;
+        openSubjects = new Set();
+        openInfo = new Set();
+        previewSlots = null;
+        const saved = undoRedoByTemplate[id];
+        undoStack = saved ? saved.undo : [];
+        redoStack = saved ? saved.redo : [];
+        lastSelectedCode = null;
+        this.load();
       },
 
       // Chamado ao trocar de curso: aponta o storage para a chave do
       // novo curso, namespaced por sede (cada curso de cada sede tem sua
       // própria "utfpr_horario_v2_<sede>_<slug>" — evita colisão caso duas
-      // sedes venham a ter cursos com o mesmo slug), carrega a seleção
-      // salva desse curso (se houver) e limpa todo estado de UI/histórico
-      // que só fazia sentido para o curso anterior (accordions abertos,
-      // desfazer/refazer, preview de hover etc.).
+      // sedes venham a ter cursos com o mesmo slug), volta o template
+      // ativo para "1", carrega a seleção salva desse curso/template (se
+      // houver) e limpa todo estado de UI/histórico que só fazia sentido
+      // para o curso anterior (accordions abertos, desfazer/refazer,
+      // preview de hover etc.).
       switchCourse(sedeSlug, slug) {
-        STORAGE_KEY = "utfpr_horario_v2_" + sedeSlug + "_" + slug;
+        baseStorageKey = "utfpr_horario_v2_" + sedeSlug + "_" + slug;
         PIN_STORAGE_KEY = "utfpr_pinned_v1_" + sedeSlug + "_" + slug;
+        activeTemplate = "1";
+        undoRedoByTemplate = {};
         selected = {};
         openSubjects = new Set();
         openInfo = new Set();
@@ -1091,6 +1131,26 @@ function subjectColor(code, contextCodes) {
     }
   };
 
+  /* Botões de template (1/2/3): cada um guarda sua própria grade de
+     turmas para o curso atual (ver State.switchTemplate). O botão ativo
+     é só um reflexo visual do template atual — não precisa de
+     localStorage próprio, porque State.switchCourse() sempre volta pro
+     template "1" ao trocar de curso/sede, e updateActiveTemplateBtn()
+     é chamado depois de toda troca de curso pra manter a UI sincronizada. */
+  const templateBtns = document.querySelectorAll(".template-btn");
+  function updateActiveTemplateBtn() {
+    const active = State.getActiveTemplate();
+    templateBtns.forEach(b => b.classList.toggle("active", b.dataset.template === active));
+  }
+  templateBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      State.switchTemplate(btn.dataset.template);
+      applyDataset(DATA);
+      updateActiveTemplateBtn();
+      renderAll();
+    });
+  });
+
   document.getElementById("btnUndo").onclick = () => {
     if (State.undo()) { renderAll(); toast("Última ação desfeita."); }
   };
@@ -1339,6 +1399,7 @@ function subjectColor(code, contextCodes) {
       applyDataset(disciplinas);
       localStorage.setItem(courseKeyFor(currentSede), slug);
       updateCourseHeader(slug);
+      updateActiveTemplateBtn();
       renderAll();
       if (switching) toast(`Curso alterado: ${(findCourse(slug) || {}).label || slug}.`);
     } catch (e) {
@@ -1435,8 +1496,11 @@ function subjectColor(code, contextCodes) {
 
   /* ============== EXPORT PARA TESTES (Node) ==============
      Só roda em Node (module.exports não existe no browser), então isso
-     nunca afeta o app rodando no navegador. Expõe as funções puras —
-     sem DOM, sem State — para serem testadas isoladamente em test.js. */
+     nunca afeta o app rodando no navegador. Expõe as funções puras
+     (sem DOM) e também o State (seleção de turmas, templates 1/2/3,
+     desfazer/refazer) para serem testados isoladamente em test.js — o
+     State não toca o DOM diretamente, só localStorage, então funciona
+     igual no sandbox de teste. */
   if (typeof module !== "undefined" && module.exports) {
     module.exports = {
       parseHorario,
@@ -1445,6 +1509,7 @@ function subjectColor(code, contextCodes) {
       colorDistance,
       computeColorMap,
       esc,
+      State,
     };
   }
 })();

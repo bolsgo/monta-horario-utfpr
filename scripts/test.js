@@ -72,6 +72,7 @@ const {
   colorDistance,
   computeColorMap,
   esc,
+  State,
 } = sandbox.module.exports;
 
 const GREEN = "\x1b[32m";
@@ -214,6 +215,108 @@ test("esc: trata null/undefined como string vazia", () => {
 
 test("esc: nao altera texto sem caracteres especiais", () => {
   assert.equal(esc("Calculo I"), "Calculo I");
+});
+
+/* ============== STATE: TEMPLATES (botoes 1/2/3) ==============
+   Usa sede/curso "de mentira" (sede-teste, curso-teste-*) so pra isolar
+   esses testes de qualquer chave real que a UI use no localStorage -
+   State.switchCourse() so monta strings de chave, nao busca nada pela
+   rede, entao funciona igual num curso real ou inventado. Cada test()
+   comeca com State.switchCourse() de novo pra nao herdar estado deixado
+   por um teste anterior (o State e um singleton compartilhado pelo
+   arquivo inteiro, igual seria no navegador). */
+
+function fakeSub(code, name) {
+  return { code, name };
+}
+function fakeTurma(turma, h) {
+  return { turma, prof: "Prof. Teste", h, enq: "", vt: 1, vc: 1, res: "aberta", prio: false, opt: false };
+}
+function selecionarFake(code, name, turma, h) {
+  State.selectTurma(fakeSub(code, name), fakeTurma(turma, h), parseHorario(h));
+}
+
+test("State.switchCourse: comeca sempre no template 1", () => {
+  State.switchCourse("sede-teste", "curso-teste-templates");
+  assert.equal(State.getActiveTemplate(), "1");
+});
+
+test("State: cada template guarda sua propria selecao de turmas", () => {
+  State.switchCourse("sede-teste", "curso-teste-templates");
+  selecionarFake("MAT101", "Calculo I", "A", "5N1(CE-102)");
+  assert.ok(State.isSelected("MAT101"));
+
+  State.switchTemplate("2");
+  assert.equal(State.countSelected(), 0, "template 2 deve comecar vazio");
+  selecionarFake("FIS201", "Fisica I", "B", "3T1(B-201)");
+  assert.ok(State.isSelected("FIS201"));
+
+  State.switchTemplate("1");
+  assert.ok(State.isSelected("MAT101"), "template 1 deve manter o que foi selecionado nele");
+  assert.ok(!State.isSelected("FIS201"), "template 1 nao deve enxergar a selecao do template 2");
+
+  State.switchTemplate("2");
+  assert.ok(State.isSelected("FIS201"), "template 2 deve manter sua propria selecao ao voltar pra ele");
+  assert.ok(!State.isSelected("MAT101"));
+});
+
+test("State: a selecao de cada template fica salva no localStorage com chave propria", () => {
+  State.switchCourse("sede-teste", "curso-teste-templates");
+  selecionarFake("MAT101", "Calculo I", "A", "5N1(CE-102)");
+  State.switchTemplate("2");
+  selecionarFake("FIS201", "Fisica I", "B", "3T1(B-201)");
+  State.switchTemplate("1"); // forca o save() do template 2 antes de ler o localStorage
+
+  const raw1 = localStorage.getItem("utfpr_horario_v2_sede-teste_curso-teste-templates_t1");
+  const raw2 = localStorage.getItem("utfpr_horario_v2_sede-teste_curso-teste-templates_t2");
+  assert.ok(raw1 && raw1.includes("MAT101"), "template 1 deve estar salvo com chave propria (_t1)");
+  assert.ok(raw2 && raw2.includes("FIS201"), "template 2 deve estar salvo com chave propria (_t2)");
+});
+
+test("State.switchTemplate: clicar no template ja ativo nao reseta nada", () => {
+  State.switchCourse("sede-teste", "curso-teste-noop");
+  selecionarFake("MAT101", "Calculo I", "A", "5N1(CE-102)");
+  State.switchTemplate("1"); // ja esta no "1"
+  assert.ok(State.isSelected("MAT101"), "selecionar o template ja ativo nao pode limpar a selecao");
+  assert.ok(State.canUndo(), "nem o historico de desfazer");
+});
+
+test("State.switchCourse: trocar de curso sempre volta pro template 1", () => {
+  State.switchCourse("sede-teste", "curso-teste-templates");
+  State.switchTemplate("3");
+  assert.equal(State.getActiveTemplate(), "3");
+
+  State.switchCourse("sede-teste", "outro-curso-teste");
+  assert.equal(State.getActiveTemplate(), "1", "trocar de curso deve resetar pro template 1");
+  assert.equal(State.countSelected(), 0, "curso novo deve comecar sem selecao");
+});
+
+test("State.switchCourse: trocar de sede tambem volta pro template 1", () => {
+  State.switchCourse("sede-teste", "curso-teste-templates");
+  State.switchTemplate("2");
+  State.switchCourse("outra-sede-teste", "curso-teste-templates");
+  assert.equal(State.getActiveTemplate(), "1", "trocar de sede deve resetar pro template 1");
+});
+
+test("State: alternar entre templates preserva o historico de desfazer/refazer de cada um", () => {
+  State.switchCourse("sede-teste", "curso-teste-undo");
+
+  selecionarFake("MAT101", "Calculo I", "A", "5N1(CE-102)");
+  assert.ok(State.canUndo(), "template 1 deve ter historico apos selecionar uma turma");
+
+  State.switchTemplate("2");
+  assert.ok(!State.canUndo(), "template 2 comeca sem historico de desfazer");
+  selecionarFake("FIS201", "Fisica I", "B", "3T1(B-201)");
+  assert.ok(State.canUndo(), "template 2 deve ganhar historico apos selecionar uma turma nele");
+
+  State.switchTemplate("1");
+  assert.ok(State.canUndo(), "voltar ao template 1 deve restaurar o historico dele");
+  assert.ok(State.undo(), "desfazer no template 1 deve funcionar");
+  assert.ok(!State.isSelected("MAT101"), "desfazer deve remover a selecao feita no template 1");
+
+  State.switchTemplate("2");
+  assert.ok(State.isSelected("FIS201"), "template 2 nao pode ser afetado pelo desfazer feito no template 1");
+  assert.ok(State.canUndo(), "historico do template 2 continua intacto");
 });
 
 /* ============== VALIDACAO DOS ARQUIVOS data/*.json ==============

@@ -351,6 +351,23 @@ function subjectColor(code, contextCodes) {
     return esc(linhas.join("\n"));
   }
 
+  /* Monta o texto curto de vagas ("Vagas:30" ou "Vagas:30 Cal.:5") a
+     partir dos campos vt (vagas total) e vc (vagas calouros) de uma
+     turma. Quando vt é "0", exibe "-" no lugar (sem vaga = sem
+     número fazendo sentido mostrar). Só mostra a parte "Cal." quando
+     existe reserva de vagas para calouros (vc presente e maior que
+     zero) — igual antes. */
+  function vagasLabel(t) {
+    if (!t || t.vt === undefined || t.vt === null || t.vt === "" || t.vt === "-") return "";
+    const vtDisplay = Number(t.vt) === 0 ? "-" : t.vt;
+    let label = `Vagas:${vtDisplay}`;
+    const vc = t.vc;
+    if (vc !== undefined && vc !== null && vc !== "" && vc !== "-" && Number(vc) > 0) {
+      label += ` Cal.:${vc}`;
+    }
+    return label;
+  }
+
   /* checa conflito de um conjunto de slots candidatos contra a seleção atual,
      ignorando um código específico */
   function wouldConflict(slots, ignoreCode) {
@@ -422,6 +439,7 @@ function subjectColor(code, contextCodes) {
               <span class="turma-chip-text">${isSelected ? esc(selected[sub.code].turma) : ""}</span><span class="turma-chip-star other-campus">${isSelected && selected[sub.code].slots && selected[sub.code].slots.some(s => s.otherCampus) ? "*" : ""}</span>
             </span>
             <span class="t-res res-inline${isSelected ? " t-res-" + (selected[sub.code].res || "").toLowerCase().replace(/\s+/g, "-") : ""}">${isSelected ? esc(selected[sub.code].res || "-") : ""}</span>
+            <span class="t-vagas vagas-inline">${isSelected ? esc(vagasLabel(selected[sub.code])) : ""}</span>
           </div>
           <div class="subject-prof">${isSelected ? esc(selected[sub.code].prof || "-") : ""}</div>
         </div>
@@ -449,8 +467,9 @@ function subjectColor(code, contextCodes) {
       const turmaChipTextEl = head.querySelector(".turma-chip-text");
       const turmaChipStarEl = head.querySelector(".turma-chip-star");
       const resInlineEl = head.querySelector(".t-res.res-inline");
+      const vagasInlineEl = head.querySelector(".t-vagas.vagas-inline");
       const profLineEl = head.querySelector(".subject-prof");
-      function setHeaderInfo(turma, res, prof, hasOtherCampus) {
+      function setHeaderInfo(turma, res, prof, hasOtherCampus, vagas) {
         if (turmaChipTextEl) turmaChipTextEl.textContent = turma || "";
         if (turmaChipEl) turmaChipEl.classList.toggle("chip-empty", !turma);
         if (turmaChipStarEl) turmaChipStarEl.textContent = hasOtherCampus ? "*" : "";
@@ -458,13 +477,15 @@ function subjectColor(code, contextCodes) {
           resInlineEl.textContent = res || "";
           resInlineEl.className = "t-res res-inline" + (res ? " t-res-" + res.toLowerCase().replace(/\s+/g, "-") : "");
         }
+        if (vagasInlineEl) vagasInlineEl.textContent = vagas || "";
         if (profLineEl) profLineEl.textContent = prof || "";
       }
       const baseTurma = isSelected ? selected[sub.code].turma : "";
       const baseRes = isSelected ? (selected[sub.code].res || "-") : "";
       const baseProf = isSelected ? (selected[sub.code].prof || "-") : "";
       const baseHasOtherCampus = isSelected && !!(selected[sub.code].slots && selected[sub.code].slots.some(s => s.otherCampus));
-      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus);
+      const baseVagas = isSelected ? vagasLabel(selected[sub.code]) : "";
+      const restoreHeaderInfo = () => setHeaderInfo(baseTurma, baseRes, baseProf, baseHasOtherCampus, baseVagas);
 
 
       const isTwoCol = compactOn && sub.turmas.length > 8;
@@ -581,7 +602,7 @@ function subjectColor(code, contextCodes) {
             <div class="t-left">
               <div class="t-turma">Turma ${esc(t.turma)} ${hasOther ? '<span class="other-campus">*</span>' : ""}${(!isActive && isPinned) ? `<span class="t-pin-indicator" title="Turma fixada" aria-hidden="true">${pinIcon(true)}</span>` : ""}</div>
               <div class="t-prof">${esc(t.prof)}</div>
-              <div class="t-meta"><span class="t-res t-res-${(t.res || "").toLowerCase().replace(/\s+/g, "-")}">${esc(t.res || "-")}</span> &middot; ${esc(t.prio || "-")}</div>
+              <div class="t-meta"><span class="t-res t-res-${(t.res || "").toLowerCase().replace(/\s+/g, "-")}">${esc(t.res || "-")}</span>${vagasLabel(t) ? ` <span class="t-vagas">${esc(vagasLabel(t))}</span>` : ""} &middot; ${esc(t.prio || "-")}</div>
             </div>
             ${isActive ? `<button type="button" class="t-pin-btn${isPinned ? " pinned" : ""}" title="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-label="${isPinned ? "Desafixar turma" : "Fixar turma no topo"}" aria-pressed="${isPinned ? "true" : "false"}">${pinIcon(isPinned)}</button>` : ""}
             ${isActive ? '<button class="t-remove" title="Remover">✕</button>' : ""}
@@ -621,13 +642,18 @@ function subjectColor(code, contextCodes) {
            separadamente acima). */
         optDiv.onpointerenter = (e) => {
           if (e.pointerType === "touch") return;
-          const conflict = wouldConflict(slots, sub.code);
-          State.setPreview({ slots, conflict });
-          renderGridPreviewOnly();
-          setHeaderInfo(t.turma, t.res || "-", t.prof || "-", hasOther);
+          if (isActive) {
+            setLinkedHover(sub.code, true);
+          } else {
+            const conflict = wouldConflict(slots, sub.code);
+            State.setPreview({ slots, conflict });
+            renderGridPreviewOnly();
+          }
+          setHeaderInfo(t.turma, t.res || "-", t.prof || "-", hasOther, vagasLabel(t));
         };
         optDiv.onpointerleave = (e) => {
           if (e.pointerType === "touch") return;
+          if (isActive) setLinkedHover(sub.code, false);
           restoreHeaderInfo();
         };
         tp.appendChild(optDiv);
@@ -820,15 +846,23 @@ function subjectColor(code, contextCodes) {
   });
   subjectListEl.addEventListener("pointerover", (e) => {
     if (e.pointerType === "touch") return;
-    const subject = e.target.closest(".subject");
+    // Só conta como hover cruzado o cabeçalho da matéria (hover na matéria
+    // inteira) ou a turma-opt já ativa/selecionada — turmas não selecionadas
+    // ficam de fora, senão passar o mouse por qualquer turma da lista
+    // acenderia o mesmo destaque na grade.
+    const trigger = e.target.closest(".subject-head, .turma-opt.active");
+    if (!trigger) return;
+    const subject = trigger.closest(".subject");
     if (!subject) return;
     setLinkedHover(subject.dataset.code, true);
   });
   subjectListEl.addEventListener("pointerout", (e) => {
     if (e.pointerType === "touch") return;
-    const subject = e.target.closest(".subject");
+    const trigger = e.target.closest(".subject-head, .turma-opt.active");
+    if (!trigger) return;
+    const subject = trigger.closest(".subject");
     if (!subject) return;
-    if (subject.contains(e.relatedTarget)) return;
+    if (trigger.contains(e.relatedTarget)) return;
     setLinkedHover(subject.dataset.code, false);
   });
 
@@ -1161,7 +1195,7 @@ function subjectColor(code, contextCodes) {
     });
   }
 
-  /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular) ==============
+  /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular/tablet) ==============
      A mini-grade fica fixa na tela (ver CSS) exceto em dois casos, em que
      ela some para não duplicar informação já visível ou aparecer depois
      de qualquer conteúdo abaixo da tabela (ex.: a seção "O que é..."):
@@ -1172,12 +1206,26 @@ function subjectColor(code, contextCodes) {
         ela fica travada escondida até o usuário rolar de volta para cima,
         antes da tabela. Isso substitui o antigo "atBottom" (que só
         cobria o fim absoluto da página e deixava a mini-grade reaparecer
-        em qualquer conteúdo novo inserido depois da tabela). */
+        em qualquer conteúdo novo inserido depois da tabela).
+
+     Tablet na vertical tem uma tela bem mais alta que um celular, então a
+     lista de disciplinas (que fica empilhada acima da tabela, ver CSS) é
+     proporcionalmente mais curta perto do fim da tela — a tabela grande já
+     aparece (mesmo que só uma fatia no rodapé da viewport) bem mais cedo
+     durante a rolagem da lista, quando na prática ainda falta muito pra
+     realmente chegar nela. Usar os mesmos 120px fixos do celular escondia a
+     mini-grade cedo demais nesse caso. Por isso, em tablets no modo retrato,
+     exigimos uma fatia bem maior da tabela visível (proporcional à altura da
+     tela) antes de considerar que ela "já apareceu" e esconder a mini-grade. */
   function initMiniGridVisibility() {
     const miniGrid = document.getElementById("miniGrid");
     const gridWrap = document.querySelector(".grid-wrap");
     if (!miniGrid) return;
-    const MINI_GRID_REVEAL_PX = 120; // quanto da tabela precisa aparecer antes de sumir a mini-grade
+    const isTabletPortrait = window.matchMedia("(min-width:701px) and (orientation:portrait)").matches;
+    // Celular: 120px fixos (tela curta, a tabela some cedo mesmo).
+    // Tablet retrato: 55% da altura da tela — só esconde quando boa parte
+    // da tabela já está de fato visível, não só uma tirinha no rodapé.
+    const MINI_GRID_REVEAL_PX = isTabletPortrait ? Math.round(window.innerHeight * 0.55) : 120;
     let gridVisible = false;
     let pastGrid = false;
     const applyVisibility = () => {

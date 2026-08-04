@@ -92,7 +92,7 @@
      próprio, a coluna do grid (e a página inteira) era empurrada para
      além da viewport no celular, mesmo com overflow-x:hidden no body. */
   main > *{min-width:0;}
-  @media(max-width:980px){main{grid-template-columns:1fr;}}
+  @media(max-width:980px),(orientation:portrait){main{grid-template-columns:1fr;}}
   .panel{background:var(--panel);border-radius:5px;padding:16px;}
   .search{width:100%;padding:10px 22px 10px 24px;border-radius:0;border:none;border-bottom:1px solid var(--border);background:transparent;
     color:var(--text);font-size:14px;font-family:var(--font-body);}
@@ -195,6 +195,12 @@
   .subject-code .t-res.res-inline.t-res-fechada,
   .subject-code .t-res.res-inline.t-res-aberta,
   .subject-code .t-res.res-inline.t-res-sem-reserva{background:none;color:var(--info-strong);font-weight:500;padding:0;line-height:1;}
+  /* Vagas total/calouros, exibido logo ao lado do selo de reserva
+     (Aberta/Fechada/Sem reserva), tanto na lista de turmas quanto no
+     resumo ao lado do código da matéria. */
+  .t-vagas{color:var(--muted);font-weight:500;}
+  .turma-opt .t-meta .t-vagas{font-size:10px;}
+  .subject-code .t-vagas.vagas-inline{font-size:9.5px;color:var(--info-strong);line-height:1;}
   .turma-opt .t-remove{align-self:stretch;height:auto;color:var(--danger);font-size:13px;background:none;border:none;cursor:pointer;padding:2px 8px;display:flex;align-items:center;justify-content:center;}
   /* Botão de fixar (pin) no modo normal — mesmo estado do modo compacto
      (ver State.pinned em app.js), só muda a aparência/posição pra
@@ -423,7 +429,7 @@
      da grade enquanto se rola a lista de disciplinas. Por isso ela usa o
      mesmo breakpoint do layout, em vez do breakpoint mais estreito (700px)
      usado pelos ajustes exclusivos de celular logo abaixo. */
-  @media(max-width:980px){
+  @media(max-width:980px),(orientation:portrait){
     /* Mini-grade flutuante: presa logo abaixo da barra de ações fixa,
        ancorada via CSS (position:absolute dentro do .action-bar, que é
        sticky) — acompanha a barra sem "pular" ao rolar e sem depender de
@@ -612,7 +618,7 @@
      os filtros ocupem, ela sempre absorve exatamente o restante, sem contas
      manuais. O max() garante uma altura mínima utilizável em telas muito
      baixas, mesmo que isso implique rolar a página nesse caso extremo. */
-  @media(min-width:981px){
+  @media(min-width:981px) and (orientation:landscape){
     .panel{display:flex;flex-direction:column;
       height:max(calc(100vh - var(--header-h) - var(--action-bar-h) - var(--main-vpad) - 6px), 400px);}
     .subject-list{flex:1;min-height:160px;max-height:none;overflow-y:auto;}

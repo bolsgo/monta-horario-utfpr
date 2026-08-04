@@ -741,7 +741,15 @@ function subjectColor(code, contextCodes) {
         optDiv.onpointerleave = (e) => {
           if (e.pointerType === "touch") return;
           if (isActive) setLinkedHover(sub.code, false);
-          restoreHeaderInfo();
+          /* restoreHeaderInfo() NÃO fica mais aqui: se ficasse, ao mover o
+             mouse de uma turma pra outra vizinha (mesmo painel) ele
+             restauraria o texto da turma selecionada por um instante antes
+             do pointerenter da próxima turma sobrescrever de novo — dando
+             aquele "pulo" (turma de cima > selecionada > turma de baixo)
+             no cabeçalho. A restauração agora só acontece no pointerleave
+             do painel inteiro (tp, logo abaixo), que só dispara quando o
+             mouse sai de toda a lista de turmas daquela matéria — nunca ao
+             passar entre turmas vizinhas. */
         };
         tp.appendChild(optDiv);
 
@@ -771,6 +779,15 @@ function subjectColor(code, contextCodes) {
         info.innerHTML = bottomInfoHtml;
         tp.appendChild(info);
       }
+
+      /* pointerleave do painel inteiro (não bubble, então só dispara quando
+         o mouse sai de fato de toda a área de turmas desta matéria — ver
+         comentário no onpointerleave de cada .turma-opt, acima). É aqui que
+         o cabeçalho volta a mostrar a turma selecionada. */
+      tp.onpointerleave = (e) => {
+        if (e.pointerType === "touch") return;
+        restoreHeaderInfo();
+      };
 
       div.appendChild(tp);
       subjectListEl.appendChild(div);

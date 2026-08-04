@@ -1357,4 +1357,19 @@ function subjectColor(code, contextCodes) {
     await loadSedeCourses(initialSede, false);
     initMiniGridVisibility();
   })();
+
+  /* ============== EXPORT PARA TESTES (Node) ==============
+     Só roda em Node (module.exports não existe no browser), então isso
+     nunca afeta o app rodando no navegador. Expõe as funções puras —
+     sem DOM, sem State — para serem testadas isoladamente em test.js. */
+  if (typeof module !== "undefined" && module.exports) {
+    module.exports = {
+      parseHorario,
+      dedupeHorarios,
+      hexToRgb,
+      colorDistance,
+      computeColorMap,
+      esc,
+    };
+  }
 })();

@@ -1,5 +1,13 @@
-# Scripts folder (não versionar)
-scripts/
+# Scripts folder agora e versionado (contem o test.js e outras
+# ferramentas), exceto os itens especificos abaixo.
+scripts/.auth
+scripts/__pycache__/
+scripts/venv/
+scripts/courses.example.json
+scripts/README.md
+scripts/requirements.txt
+scripts/sync_horarios.py
+scripts/tutorial_sync_horarios.txt
 
 # Logs
 logs

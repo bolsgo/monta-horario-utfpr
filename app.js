@@ -394,9 +394,6 @@ function subjectColor(code, contextCodes) {
     const conflictSet = computeConflictCodes(occ);
     const selected = State.getSelected();
     const filterMode = State.getFilterMode();
-    // Uma passada só pra todas as cores deste render, em vez de recomeçar
-    // o cálculo O(selecionadas × paleta) a cada disciplina da lista.
-    const colorMap = computeColorMap(Object.keys(selected));
     // Modo compacto: cada painel de turmas (matéria aberta) com muitas
     // opções vira 2 colunas em vez de scroll longo — ver uso de "two-col"
     // logo abaixo, aplicado por matéria (cada uma pode ter uma quantidade
@@ -414,9 +411,14 @@ function subjectColor(code, contextCodes) {
       const div = document.createElement("div");
       div.className = "subject" + (isSelected ? " selected" : "") + (State.isOpen(sub.code) ? " open" : "");
       div.setAttribute("data-code", sub.code);
-      // Só interessa a cor de disciplinas selecionadas (é só onde ela é
-      // exibida) — pra que calcular pras outras ~140+ da lista à toa?
-      const color = isSelected ? colorMap.get(sub.code) : null;
+      // Usa a MESMA cor já fixada em selected[code].color (definida uma
+      // única vez ao selecionar a turma — ver State.selectTurma) em vez de
+      // recalcular na hora: recalcular aqui reordenava as cores de outras
+      // matérias já selecionadas sempre que uma matéria era removida
+      // (a cor de cada uma dependia da posição das demais na lista de
+      // selecionadas), fazendo a lista mostrar uma cor diferente da usada
+      // na grade/legenda para a mesma matéria.
+      const color = isSelected ? selected[sub.code].color : null;
       // Selo "EAD" ao lado do nome da matéria: some quando a turma
       // SELECIONADA é EAD, e também temporariamente ao passar o mouse
       // sobre qualquer turma da lista (ver setHeaderInfo() mais abaixo).

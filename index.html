@@ -61,9 +61,9 @@
     <button id="btnRedo" class="icon-btn" title="Refazer (Ctrl+Y)" aria-label="Refazer" disabled>
       <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
     </button>
-    <button id="btnCopy">Copiar Turmas</button>
-    <button id="btnPaste">Colar Turmas</button>
-    <button id="btnClear" class="danger icon-btn" title="Limpar tudo" aria-label="Limpar tudo">
+    <button id="btnCopy" title="Copiar seleção (Ctrl+C)">Copiar Turmas</button>
+    <button id="btnPaste" title="Colar seleção (Ctrl+V)">Colar Turmas</button>
+    <button id="btnClear" class="danger icon-btn" title="Limpar tudo (Delete)" aria-label="Limpar tudo">
       <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"></path><path d="M10 11v6"></path><path d="M14 11v6"></path><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"></path></svg>
     </button>
   </div>
@@ -83,7 +83,7 @@
     <label class="visually-hidden" for="searchBox">Buscar disciplina, código, professor ou sigla</label>
     <div class="search-wrap">
       <svg class="search-icon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-      <input class="search" id="searchBox" placeholder="Buscar disciplina, código, professor ou sigla...">
+      <input class="search" id="searchBox" placeholder="Buscar disciplina, código, professor ou sigla..." title="Buscar (atalho: /)">
       <button type="button" class="search-clear" id="searchClear" title="Limpar busca" aria-label="Limpar busca" hidden>
         <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><line x1="5" y1="5" x2="19" y2="19"></line><line x1="19" y1="5" x2="5" y2="19"></line></svg>
       </button>
@@ -122,6 +122,15 @@
 
   <h3>Todos os cursos e câmpus da UTFPR</h3>
   <p>A ferramenta cobre as disciplinas de diversos cursos e câmpus da UTFPR, incluindo turmas ofertadas em unidades como Ecoville e Neoville, com busca por disciplina, código, professor ou sigla para encontrar rápido o que você procura. A grade pode ser copiada e colada depois, o que facilita comparar simulações diferentes antes de fechar a matrícula do semestre.</p>
+
+  <div class="shortcuts-row" aria-label="Atalhos de teclado">
+    <span class="shortcut"><kbd>/</kbd><span>Buscar</span></span>
+    <span class="shortcut"><kbd>Ctrl</kbd>+<kbd>C</kbd><span>Copiar</span></span>
+    <span class="shortcut"><kbd>Ctrl</kbd>+<kbd>V</kbd><span>Colar</span></span>
+    <span class="shortcut"><kbd>Ctrl</kbd>+<kbd>Z</kbd><span>Desfazer</span></span>
+    <span class="shortcut"><kbd>Ctrl</kbd>+<kbd>Y</kbd><span>Refazer</span></span>
+    <span class="shortcut"><kbd>Delete</kbd><span>Limpar tudo</span></span>
+  </div>
 </section>
 
 <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>

@@ -761,9 +761,21 @@
 .seo-intro h2{font-size:17px;font-weight:700;margin:24px 0 8px;font-family:var(--font-display);}
 .seo-intro h3{font-size:14px;font-weight:600;margin:18px 0 6px;color:var(--text);font-family:var(--font-display);}
 .seo-intro p{font-size:13px;line-height:1.6;color:var(--muted);margin:0 0 4px;max-width:820px;}
+/* Fileira compacta de atalhos de teclado, em forma de "chips": cada um é
+   uma tecla (ou combinação) em estilo de keycap + uma legenda curta ao
+   lado. Usa as mesmas variáveis de tema do resto do site (painel/borda/
+   texto), então acompanha claro/escuro automaticamente. */
+.shortcuts-row{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:16px;}
+.shortcut{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--muted);white-space:nowrap;}
+kbd{font-family:var(--font-display);font-size:10.5px;font-weight:600;color:var(--text);
+  background:var(--panel2);border:1px solid var(--border);border-radius:4px;
+  padding:2px 6px;line-height:1.5;box-shadow:0 1.5px 0 var(--border);}
 @media(max-width:700px){
   .seo-intro{padding:0 14px;}
   .seo-intro h2{font-size:15px;}
   .seo-intro h3{font-size:13px;}
   .seo-intro p{font-size:12.5px;}
+  .shortcuts-row{gap:7px 14px;margin-top:14px;}
+  .shortcut{font-size:11px;}
+  kbd{font-size:10px;padding:1.5px 5px;}
 }

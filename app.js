@@ -1098,8 +1098,12 @@ function subjectColor(code, contextCodes) {
     toastTimer = setTimeout(() => t.classList.remove("show"), 2400);
   }
 
-  /* ============== COPY / PASTE ============== */
-  document.getElementById("btnCopy").onclick = async () => {
+  /* ============== COPY / PASTE / LIMPAR ==============
+     Extraídas em funções nomeadas (em vez de ficarem só dentro do
+     onclick de cada botão) porque agora também são disparadas pelos
+     atalhos de teclado (Ctrl+C, Ctrl+V, Delete) mais abaixo — assim os
+     botões e os atalhos chamam exatamente a mesma lógica. */
+  async function doCopySelection() {
     const items = Object.values(State.getSelected());
     if (!items.length) { toast("Nada selecionado para copiar."); return; }
     const lines = items.map(s => `${s.code}, ${s.turma}`);
@@ -1110,9 +1114,9 @@ function subjectColor(code, contextCodes) {
     } catch (e) {
       toast("Não foi possível copiar automaticamente.");
     }
-  };
+  }
 
-  document.getElementById("btnPaste").onclick = async () => {
+  async function doPasteSelection() {
     try {
       const text = await navigator.clipboard.readText();
       const pairRe = /([A-Za-z]{2,}\d[A-Za-z0-9]*)\s*,\s*([A-Za-z]*\d+[A-Za-z0-9]*)/g;
@@ -1144,16 +1148,20 @@ function subjectColor(code, contextCodes) {
     } catch (e) {
       toast("Erro ao colar: verifique se copiou os dados corretos.");
     }
-  };
+  }
 
-  document.getElementById("btnClear").onclick = () => {
+  function doClearAll() {
     if (State.countSelected() === 0) return;
     if (confirm("Tem certeza que deseja limpar todas as disciplinas selecionadas?")) {
       State.clearSelection();
       renderAll();
       toast("Seleção limpa.");
     }
-  };
+  }
+
+  document.getElementById("btnCopy").onclick = doCopySelection;
+  document.getElementById("btnPaste").onclick = doPasteSelection;
+  document.getElementById("btnClear").onclick = doClearAll;
 
   /* Botões de template (1/2/3): cada um guarda sua própria grade de
      turmas para o curso atual (ver State.switchTemplate). O botão ativo
@@ -1184,8 +1192,22 @@ function subjectColor(code, contextCodes) {
 
   document.addEventListener("keydown", (e) => {
     const tag = (e.target.tagName || "").toLowerCase();
-    if (tag === "input" || tag === "textarea") return; // não interceptar digitação normal
+    const isTyping = tag === "input" || tag === "textarea" || e.target.isContentEditable;
     const key = e.key.toLowerCase();
+
+    // "/" foca a busca de qualquer lugar da página (padrão tipo GitHub) —
+    // checado antes do "isTyping" de propósito, mas só dispara quando o
+    // foco NÃO já está em um campo de texto (senão a pessoa nunca
+    // conseguiria digitar uma barra dentro da própria busca).
+    if (!isTyping && key === "/") {
+      e.preventDefault();
+      searchBox.focus();
+      searchBox.select();
+      return;
+    }
+
+    if (isTyping) return; // não interceptar digitação normal
+
     if ((e.ctrlKey || e.metaKey) && key === "z") {
       e.preventDefault();
       if (e.shiftKey) { if (State.redo()) { renderAll(); toast("Ação refeita."); } }
@@ -1193,6 +1215,22 @@ function subjectColor(code, contextCodes) {
     } else if ((e.ctrlKey || e.metaKey) && key === "y") {
       e.preventDefault();
       if (State.redo()) { renderAll(); toast("Ação refeita."); }
+    } else if ((e.ctrlKey || e.metaKey) && key === "c") {
+      // Só assume o Ctrl+C quando não há texto selecionado manualmente na
+      // página — senão quebraria o copiar nativo de qualquer trecho que
+      // a pessoa tenha selecionado (ex: um texto do rodapé ou das
+      // estatísticas), que deve continuar funcionando normalmente.
+      const hasTextSelection = !!(window.getSelection && window.getSelection().toString());
+      if (!hasTextSelection) {
+        e.preventDefault();
+        doCopySelection();
+      }
+    } else if ((e.ctrlKey || e.metaKey) && key === "v") {
+      e.preventDefault();
+      doPasteSelection();
+    } else if (key === "delete") {
+      e.preventDefault();
+      doClearAll();
     }
   });
 

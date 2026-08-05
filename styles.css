@@ -400,10 +400,28 @@
   .legend-dot{width:9px;height:9px;border-radius:2px;flex-shrink:0;}
   .footer-note{font-size:10px;color:var(--muted);text-align:center;padding:8px;}
   .footer-note .dot-red{color:var(--danger);font-weight:800;}
-  .filter-row{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
-  .filter-row button{flex:1;font-size:11px;padding:7px 8px;background:transparent;}
+  /* flex-wrap:nowrap de propósito: com o botão de pin (fixadas) somado aos
+     três filtros de texto, preferimos que os três encolham horizontalmente
+     (flex:1 os deixa dividir igualmente o espaço que sobra) a quebrar linha
+     — o botão de pin tem largura fixa (flex:0 0 auto) e não participa
+     dessa divisão. */
+  .filter-row{display:flex;gap:6px;margin-bottom:12px;flex-wrap:nowrap;}
+  .filter-row button{flex:1 1 0;font-size:11px;padding:7px 6px;background:transparent;min-width:0;}
   .filter-row button:hover{background:var(--panel2);}
   .filter-row button.active{background:var(--accent2);color:var(--on-accent);}
+  /* Os três botões de texto não dividem o espaço igualmente: "Selecionadas"
+     é uma palavra única e comprida (não quebra linha), então recebe mais
+     espaço; "Todas" é curto e sobra espaço à toa se ficar igual aos
+     outros, então recebe menos. "Com conflito" fica com a proporção
+     padrão (1), no meio dos dois. */
+  .filter-row #filterAll{flex:0.7 1 0;}
+  .filter-row #filterSelected{flex:1.7 1 0;}
+  /* Botão de pin (fixadas): mesma altura dos outros três, mas largura fixa
+     e ícone centralizado, igual aos .icon-btn da action-bar — não encolhe
+     junto com os filtros de texto (flex:0 0 auto). */
+  .filter-row .filter-pin-btn{flex:0 0 32px;width:32px;padding:0;justify-content:center;color:var(--accent2);}
+  .filter-row .filter-pin-btn svg{flex-shrink:0;}
+  .filter-row .filter-pin-btn.active{background:var(--accent2);color:var(--on-accent);}
   .icon-btn{padding:9px;width:34px;height:34px;justify-content:center;}
   .icon-btn svg{flex-shrink:0;}
   .github-link{background:var(--panel2);color:var(--text);border-radius:4px;text-decoration:none;display:inline-flex;box-sizing:border-box;transition:.15s;}
@@ -494,7 +512,13 @@
 
     .search-wrap,
     .filter-row{margin-right:96px;}
-    .filter-row button{font-size:10.5px;padding:7px 6px;}
+    .filter-row button{font-size:10.5px;padding:7px 4px;}
+    /* O pin fica um pouco mais estreito aqui: é o mesmo margin-right:96px
+       acima que já limita até onde a fileira de filtros pode chegar (pra
+       não passar por baixo da mini-grade flutuante); o pin, por estar
+       dentro de .filter-row, respeita esse mesmo limite — só precisa ceder
+       um pouco de largura própria pros três botões de texto caberem. */
+    .filter-row .filter-pin-btn{flex-basis:28px;width:28px;}
 
     /* Grade sem scroll lateral: o min-width:860px da tabela (regra base,
        pensada pra desktop) era maior que a largura disponível em muitos
@@ -573,6 +597,8 @@
     .search{font-size:17px;padding:14px 26px 14px 27px;}
     .search-icon{width:17px;height:17px;left:3px;}
     .filter-row button{font-size:13.5px;padding:10px 12px;}
+    .filter-row .filter-pin-btn{flex-basis:40px;width:40px;}
+    .filter-row .filter-pin-btn svg{width:16px;height:16px;}
     .subject-title{font-size:19px;}
     .subject-code{font-size:14px;height:19px;}
     .subject-prof{font-size:13px;height:16px;line-height:16px;}
@@ -610,6 +636,8 @@
     .search{font-size:20px;padding:16px 30px 16px 30px;}
     .search-icon{width:19px;height:19px;left:4px;}
     .filter-row button{font-size:16px;padding:12px 14px;}
+    .filter-row .filter-pin-btn{flex-basis:48px;width:48px;}
+    .filter-row .filter-pin-btn svg{width:18px;height:18px;}
     .subject-title{font-size:22px;}
     .subject-code{font-size:16px;height:21px;}
     .subject-prof{font-size:15px;height:18px;line-height:18px;}

@@ -148,7 +148,7 @@ function subjectColor(code, contextCodes) {
     // pra 1ª posição, 2ª fixada pra 2ª, etc). Não entra na pilha de
     // desfazer/refazer nem é persistido: é só um atalho de visualização.
     let pinned = {};
-    let filterMode = "all";         // "all" | "selected" | "conflict"
+    let filterMode = "all";         // "all" | "selected" | "conflict" | "pinned"
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
     let redoStack = [];
@@ -477,6 +477,7 @@ function subjectColor(code, contextCodes) {
       const isSelected = State.isSelected(sub.code);
       if (filterMode === "selected" && !isSelected) return;
       if (filterMode === "conflict" && !conflictSet.has(sub.code)) return;
+      if (filterMode === "pinned" && State.getPinnedOrder(sub.code).length === 0) return;
       if (q) {
         const hay = normalizeText(sub.code + " " + sub.name + " " + sub.turmas.map(t => t.prof + " " + t.turma).join(" "));
         if (!hay.includes(q)) return;
@@ -1269,6 +1270,10 @@ function subjectColor(code, contextCodes) {
   document.getElementById("filterAll").onclick = (e) => { setFilter("all", e.target); };
   document.getElementById("filterSelected").onclick = (e) => { setFilter("selected", e.target); };
   document.getElementById("filterConflict").onclick = (e) => { setFilter("conflict", e.target); };
+  // O botão de pin tem um <svg> filho: um clique no ícone faz e.target
+  // apontar pro <svg>/<path> em vez do <button>, por isso usa
+  // e.currentTarget (sempre o elemento com o listener) em vez de e.target.
+  document.getElementById("filterPin").onclick = (e) => { setFilter("pinned", e.currentTarget); };
   function setFilter(mode, btn) {
     const prevMode = State.getFilterMode();
     // Fecha todas as disciplinas expandidas na lista sempre que o filtro

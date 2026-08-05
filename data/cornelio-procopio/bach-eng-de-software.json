@@ -1,5 +1,84 @@
 [
   {
+    "code": "EC41A",
+    "name": "Algoritmos 1",
+    "turmas": [
+      {
+        "turma": "C12",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação",
+        "h": "2T2(P002)-2T3(P002)-3T2(P002)-3T3(P002)-3T4(P002)-3T5(P002)",
+        "prof": "Adriane Carla Anastacio Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES41A",
+    "name": "Algoritmos 1",
+    "turmas": [
+      {
+        "turma": "ES11A",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P101)-2N3(P101)-2N4(P101)-2N5(P101)-3N2(P101)-3N3(P101)",
+        "prof": "Adriane Carla Anastacio Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ES11B",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P001)-2N3(P001)-2N4(P001)-2N5(P001)-3N2(P001)-3N3(P001)",
+        "prof": "Alessandro Silveira Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC42A",
+    "name": "Algoritmos 2",
+    "turmas": [
+      {
+        "turma": "C21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2M4(P205)-2M5(P205)-4M4(P205)-4M5(P205)",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES42B",
+    "name": "Algoritmos 2",
+    "turmas": [
+      {
+        "turma": "ES21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N2(P004)-4N3(P004)-5N4(P004)-5N5(P004)",
+        "prof": "Gabriel Canhadas Genvigir",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AS65S",
     "name": "Aprendizagem Profunda",
     "turmas": [
@@ -26,10 +105,151 @@
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Silvio Ricardo Rodrigues Sanches",
         "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS64B",
+    "name": "Arquitetura De Software",
+    "turmas": [
+      {
+        "turma": "N14",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "3N4(P102)-3N5(P102)-5N2(P102)-5N3(P102)",
+        "prof": "Adriano Rivolli Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46A",
+    "name": "Arquitetura De Software",
+    "turmas": [
+      {
+        "turma": "ES61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N2(P005)-3N3(P005)-5N4(P005)-5N5(P005)",
+        "prof": "Adriano Rivolli Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS62C",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N4(P004)-2N5(P004)-3N2(P004)-3N3(P004)",
+        "prof": "Claiton De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES42E",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "ES21A",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P105)-2N3(P105)-3N2(P105)-3N3(P105)",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC44B",
+    "name": "Bancos De Dados",
+    "turmas": [
+      {
+        "turma": "C41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T2(P205)-2T3(P205)-3T2(P205)-3T3(P205)",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS61F",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "N11A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software",
+        "h": "4N4(P103)-4N5(P103)-5N4(P103)-5N5(P103)",
+        "prof": "Guadalupe Estrelita Dos Santos Menta",
+        "opt": "Não"
+      },
+      {
+        "turma": "N11B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software",
+        "h": "4N4(P204)-4N5(P204)-5N4(P204)-5N5(P204)",
+        "prof": "Juliana De Andrade Tonhato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES41E",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "ES11A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N4(P103)-3N5(P103)-5N2(P103)-5N3(P103)",
+        "prof": "Guadalupe Estrelita Dos Santos Menta",
+        "opt": "Não"
+      },
+      {
+        "turma": "ES11B",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N4(P204)-3N5(P204)-5N2(P204)-5N3(P204)",
+        "prof": "Juliana De Andrade Tonhato",
+        "opt": "Não"
       }
     ]
   },
@@ -77,7 +297,7 @@
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Paulo Augusto Nardi",
         "opt": "Matriz:175"
@@ -102,6 +322,23 @@
     ]
   },
   {
+    "code": "AS62B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "4N4(P105)-4N5(P105)",
+        "prof": "Jair De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EC47E",
     "name": "Empreendedorismo",
     "turmas": [
@@ -114,6 +351,210 @@
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
         "prof": "Josieli Soares Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM47D",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "M71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "3T4(P101)-3T5(P101)",
+        "prof": "Jair De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EPD",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T2(P101)-3T3(P101)",
+        "prof": "Jair De Oliveira",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
+    "code": "ES44E",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N2(P101)-4N3(P101)",
+        "prof": "Joao Luiz Dallamuta Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS63F",
+    "name": "Estratégias De Inovação",
+    "turmas": [
+      {
+        "turma": "N13",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N4(P105)-2N5(P105)",
+        "prof": "Cleverson Flor Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46E",
+    "name": "Estratégias De Inovação",
+    "turmas": [
+      {
+        "turma": "ES61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P202)-2N3(P202)",
+        "prof": "Cleverson Flor Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS64D",
+    "name": "Estratégias De Programação",
+    "turmas": [
+      {
+        "turma": "N14",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "3N2(P102)-3N3(P102)-4N4(P102)-4N5(P102)",
+        "prof": "Clayton Kossoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS63B",
+    "name": "Estrutura De Dados",
+    "turmas": [
+      {
+        "turma": "N13",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N2(I202)-2N3(I202)-3N4(I202)-3N5(I202)",
+        "prof": "Clayton Kossoski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43A",
+    "name": "Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "C31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T4(P205)-2T5(P205)-3T4(P205)-3T5(P205)",
+        "prof": "Fabricio Martins Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES43A",
+    "name": "Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "ES31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(I205)-2N3(I205)-3N4(I205)-3N5(I205)",
+        "prof": "Monique Emidio De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC44A",
+    "name": "Estrutura De Dados 2",
+    "turmas": [
+      {
+        "turma": "C41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T4(P105)-2T5(P105)-3T4(P105)-3T5(P105)",
+        "prof": "Rosangela De Fatima Pereira Marquesone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES44A",
+    "name": "Estrutura De Dados 2",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(P205)-2N5(P205)-3N2(P205)-3N3(P205)",
+        "prof": "Rosangela De Fatima Pereira Marquesone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES41D",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ES11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N4(P201)-5N5(P201)-6N2(P201)-6N3(P201)",
+        "prof": "Valter Henrique Biscaro Raposo",
         "opt": "Não"
       }
     ]
@@ -136,18 +577,69 @@
     ]
   },
   {
+    "code": "ES42F",
+    "name": "Fundamentos De Ética",
+    "turmas": [
+      {
+        "turma": "ES21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N2(P203)-6N3(P203)",
+        "prof": "Dirceu Casa Grande Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EC47D",
     "name": "Gerenciamento De Projeto De Software",
     "turmas": [
       {
         "turma": "C71",
         "enq": "Presencial",
-        "vt": "42",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
         "prof": "Flavia Belintani Blum Haddad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES45D",
+    "name": "Gerenciamento De Projeto De Software",
+    "turmas": [
+      {
+        "turma": "ES51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P002)-2N3(P002)-4N4(P002)-4N5(P002)",
+        "prof": "Flavia Belintani Blum Haddad",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46B",
+    "name": "Gerência De Configuração E Manutenção De Software",
+    "turmas": [
+      {
+        "turma": "ES61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N4(P004)-4N5(P004)-6N2(P004)-6N3(P004)",
+        "prof": "Eduarda Maganha De Almeida",
         "opt": "Não"
       }
     ]
@@ -187,19 +679,104 @@
     ]
   },
   {
+    "code": "AS62D",
+    "name": "Inglês Instrumental",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "6N4(P103)-6N5(P103)",
+        "prof": "Fabiano Bernardes De Toledo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES41F",
+    "name": "Inglês Instrumental",
+    "turmas": [
+      {
+        "turma": "ES11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N2(P201)-4N3(P201)",
+        "prof": "Fabiano Bernardes De Toledo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EC47A",
     "name": "Inteligência Artificial",
     "turmas": [
       {
         "turma": "C71",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
         "prof": "Danilo Sipoli Sanches",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS62E",
+    "name": "Interação Homem Computador",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N2(P004)-2N3(P004)",
+        "prof": "Camila Dias De Oliveira Sestito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES44D",
+    "name": "Interação Homem Computador",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N2(P005)-5N3(P005)",
+        "prof": "Camila Dias De Oliveira Sestito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES48P",
+    "name": "Internet Of Things",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Matriz:175"
       }
     ]
   },
@@ -238,19 +815,36 @@
     ]
   },
   {
-    "code": "ES48P",
-    "name": "Internet Of Things",
+    "code": "ES41B",
+    "name": "Introdução À Engenharia De Software",
     "turmas": [
       {
-        "turma": "ES81",
+        "turma": "ES11",
         "enq": "Presencial",
-        "vt": "13",
+        "vt": "44",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N4(P201)-4N5(P201)",
+        "prof": "Eduardo Filgueiras Damasceno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES42G",
+    "name": "Matemática Discreta",
+    "turmas": [
+      {
+        "turma": "ES21",
+        "enq": "Presencial",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Lucas Dias Hiera Sampaio",
-        "opt": "Matriz:175"
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(P203)-2N5(P203)-5N2(P203)-5N3(P203)",
+        "prof": "Josimar Da Silva Rocha",
+        "opt": "Não"
       }
     ]
   },
@@ -261,7 +855,7 @@
       {
         "turma": "C61",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
@@ -272,19 +866,19 @@
     ]
   },
   {
-    "code": "ES48U",
-    "name": "Métricas E Estimativas De Software",
+    "code": "ES46D",
+    "name": "Metodologia De Pesquisa",
     "turmas": [
       {
-        "turma": "ES81",
+        "turma": "ES61",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Alexandre L Erario",
-        "opt": "Matriz:175"
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N2(P004)-5N3(P004)-6N4(P004)-6N5(P004)",
+        "prof": "Juliana Ferri",
+        "opt": "Não"
       }
     ]
   },
@@ -332,10 +926,78 @@
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Giovani Volnei Meinerz",
         "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "ES48U",
+    "name": "Métricas E Estimativas De Software",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "",
+        "prof": "Alexandre L Erario",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "IF66K",
+    "name": "Oficina De Integração 2",
+    "turmas": [
+      {
+        "turma": "ESO71",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(I202)-2N5(I202)",
+        "prof": "Antonio Carlos Fernandes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46F",
+    "name": "Oficina De Integração 1",
+    "turmas": [
+      {
+        "turma": "ES61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N4(P005)-3N5(P005)",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES63G",
+    "name": "Oficina De Integração 1",
+    "turmas": [
+      {
+        "turma": "ESO61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N1(I202)-3N2(I202)-3N3(I202)-3N4(P005)-3N5(P005)",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Não"
       }
     ]
   },
@@ -346,12 +1008,63 @@
       {
         "turma": "ES71",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Antonio Carlos Fernandes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC42B",
+    "name": "Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "C21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T2(P001)-5T3(P001)",
+        "prof": "Andre Luiz Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES41C",
+    "name": "Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "ES11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "6N4(P105)-6N5(P105)",
+        "prof": "Andre Luiz Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A4PBE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3T2(A144)-3T3(A144)-5T2(A143)-5T3(A143)",
+        "prof": "Josimar Da Silva Rocha",
         "opt": "Não"
       }
     ]
@@ -369,6 +1082,74 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M2(I203)-2M3(I203)-3T4(I203)-3T5(I203)",
         "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43G",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "C31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3T2(I203)-3T3(I203)-4T4(I203)-4T5(I203)",
+        "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM42G",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2T4(I204)-2T5(I204)-4T2(I204)-4T3(I204)",
+        "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES43D",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "ES31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N4(I201)-4N5(I201)-6N2(I201)-6N3(I201)",
+        "prof": "Henrique Tapparello Moresco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PBE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4M4(I203)-4M5(I203)-6M4(I203)-6M5(I203)",
+        "prof": "Henrique Tapparello Moresco",
         "opt": "Não"
       }
     ]
@@ -417,10 +1198,265 @@
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Claiton De Oliveira",
         "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "ES42C",
+    "name": "Processo De Produção De Software",
+    "turmas": [
+      {
+        "turma": "ES21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N4(P205)-3N5(P205)",
+        "prof": "Alessandro Silveira Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES48S",
+    "name": "Programação Desktop",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "",
+        "prof": "Fabricio Martins Lopes",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS62A",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "3N4(P105)-3N5(P105)-4N2(P105)-4N3(P105)-5N4(P105)-5N5(P105)",
+        "prof": "Jose Antonio Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC45A",
+    "name": "Programação Orientada A Objetos 1",
+    "turmas": [
+      {
+        "turma": "C51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T2(P105)-2T3(P105)-5T2(P105)-5T3(P105)",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES43B",
+    "name": "Programação Orientada A Objetos 1",
+    "turmas": [
+      {
+        "turma": "ES31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N2(I205)-3N3(I205)-5N2(I205)-5N3(I205)",
+        "prof": "Jose Antonio Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46A",
+    "name": "Programação Orientada A Objetos 2",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T4(P005)-5T5(P005)-6T2(P005)-6T3(P005)",
+        "prof": "Gisele Alves Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES44B",
+    "name": "Programação Orientada A Objetos 2",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N4(P205)-5N5(P205)-6N2(P205)-6N3(P205)",
+        "prof": "Gisele Alves Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC48B",
+    "name": "Programação Web Back-End",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Monique Emidio De Oliveira, Willian Massami Watanabe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS63A",
+    "name": "Programação Web Back-End",
+    "turmas": [
+      {
+        "turma": "N13",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "5N4(A040)-5N5(A040)-6N2(A040)-6N3(A040)",
+        "prof": "Tatianne Costa Negri Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES45B",
+    "name": "Programação Web Back-End",
+    "turmas": [
+      {
+        "turma": "ES51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N2(A040)-5N3(A040)-6N4(A040)-6N5(A040)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC47C",
+    "name": "Programação Web Front-End",
+    "turmas": [
+      {
+        "turma": "C71",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Rosangela De Fatima Pereira Marquesone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS62F",
+    "name": "Programação Web Front-End",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "5N2(P105)-5N3(P105)-6N2(P002)-6N3(P002)",
+        "prof": "Gabriel Canhadas Genvigir",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES44C",
+    "name": "Programação Web Front-End",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N4(P005)-4N5(P005)-6N4(P005)-6N5(P005)",
+        "prof": "Gabriel Canhadas Genvigir",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS64A",
+    "name": "Programação Web Fullstack",
+    "turmas": [
+      {
+        "turma": "N14",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "4N2(P102)-4N3(P102)-5N4(P102)-5N5(P102)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES47B",
+    "name": "Programação Web Fullstack",
+    "turmas": [
+      {
+        "turma": "ES71",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "",
+        "prof": "Willian Massami Watanabe, Anderson Paulo Avila Santos",
+        "opt": "Não"
       }
     ]
   },
@@ -465,29 +1501,12 @@
       {
         "turma": "ES81",
         "enq": "Presencial",
-        "vt": "39",
+        "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Eduardo Cotrin Teixeira",
-        "opt": "Matriz:175"
-      }
-    ]
-  },
-  {
-    "code": "ES48S",
-    "name": "Programação Desktop",
-    "turmas": [
-      {
-        "turma": "ES81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Fabricio Martins Lopes",
         "opt": "Matriz:175"
       }
     ]
@@ -499,7 +1518,7 @@
       {
         "turma": "N15",
         "enq": "Presencial",
-        "vt": "39",
+        "vt": "20",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
@@ -533,7 +1552,7 @@
       {
         "turma": "ES71",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
@@ -544,52 +1563,18 @@
     ]
   },
   {
-    "code": "EC48B",
-    "name": "Programação Web Back-End",
+    "code": "ES45C",
+    "name": "Qualidade De Software",
     "turmas": [
       {
-        "turma": "C81",
+        "turma": "ES51",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
-        "h": "",
-        "prof": "Monique Emidio De Oliveira, Willian Massami Watanabe",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EC47C",
-    "name": "Programação Web Front-End",
-    "turmas": [
-      {
-        "turma": "C71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
-        "h": "",
-        "prof": "Rosangela De Fatima Pereira Marquesone",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ES47B",
-    "name": "Programação Web Fullstack",
-    "turmas": [
-      {
-        "turma": "ES71",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Willian Massami Watanabe, Anderson Paulo Avila Santos",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(P002)-2N5(P002)-3N2(P002)-3N3(P002)",
+        "prof": "Camila Dias De Oliveira Sestito",
         "opt": "Não"
       }
     ]
@@ -608,6 +1593,23 @@
         "h": "4M4(QUADRA)-4M5(QUADRA)",
         "prof": "Waldemar Violante Striquer",
         "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "E2OPH7",
+    "name": "Qualidade De Vida 1",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Eletrônica, 3 - Eng. Controle/Automa",
+        "h": "2M2(QUADRA)-2M3(QUADRA)",
+        "prof": "Sonia Maria Rodrigues",
+        "opt": "Matriz:178"
       }
     ]
   },
@@ -652,13 +1654,30 @@
       {
         "turma": "ES81",
         "enq": "Presencial",
-        "vt": "38",
+        "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software",
         "h": "",
         "prof": "Eduardo Filgueiras Damasceno",
         "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS63D",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "N13",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "4N4(P003)-4N5(P003)-6N4(P003)-6N5(P003)",
+        "prof": "Robson Parmezan Bonidia",
+        "opt": "Não"
       }
     ]
   },
@@ -669,12 +1688,46 @@
       {
         "turma": "C71",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
         "prof": "Natassya Barlate Floro Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES43E",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "ES31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "4N2(P003)-4N3(P003)-5N4(P003)-5N5(P003)",
+        "prof": "Robson Parmezan Bonidia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES43C",
+    "name": "Requisitos De Software",
+    "turmas": [
+      {
+        "turma": "ES31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(P003)-2N5(P003)-6N4(P001)-6N5(P001)",
+        "prof": "Eduarda Maganha De Almeida",
         "opt": "Não"
       }
     ]
@@ -686,7 +1739,7 @@
       {
         "turma": "C81",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
@@ -697,18 +1750,120 @@
     ]
   },
   {
+    "code": "ES44F",
+    "name": "Segurança Da Informação",
+    "turmas": [
+      {
+        "turma": "ES41",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N2(P003)-2N3(P003)-3N4(P003)-3N5(P003)",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES45A",
+    "name": "Sistemas Distribuidos",
+    "turmas": [
+      {
+        "turma": "ES51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "3N4(P101)-3N5(P101)-4N2(A040)-4N3(A040)",
+        "prof": "Rogerio Santos Pozza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EC48A",
     "name": "Sistemas Distribuídos",
     "turmas": [
       {
         "turma": "C81",
         "enq": "Presencial",
-        "vt": "45",
+        "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
         "prof": "Rogerio Santos Pozza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46B",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3M4(P003)-3M5(P003)-4M4(P003)-4M5(P003)",
+        "prof": "Luciano Tadeu Esteves Pansanato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES42D",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "ES21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "4N4(P205)-4N5(P205)-6N4(P205)-6N5(P205)",
+        "prof": "Monique Emidio De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES45E",
+    "name": "Teoria Da Computação",
+    "turmas": [
+      {
+        "turma": "ES51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "5N4(REM)-5N5(REM)-6N2(REM)-6N3(REM)",
+        "prof": "Fabio Fernandes Da Rocha Vicente",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES46C",
+    "name": "Teste De Software",
+    "turmas": [
+      {
+        "turma": "ES61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N4(P005)-2N5(P005)-4N2(P005)-4N3(P005)",
+        "prof": "Cleber Gimenez Correa",
         "opt": "Não"
       }
     ]

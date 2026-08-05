@@ -1,5 +1,1053 @@
 [
   {
+    "code": "ALM1015",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M3(H39)-6M4(H39)-6M5(H39)",
+        "prof": "Deisy Alessandra Drunkler",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1048",
+    "name": "Análise Sensorial",
+    "turmas": [
+      {
+        "turma": "TAL4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "3N1(H36)-3N2(H36)-3N3(H36)",
+        "prof": "Rosana Aparecida Da Silva Buzanello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1021",
+    "name": "Análise Sensorial De Alimentos",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M3(H35)-6M4(H35)-6M5(H35)",
+        "prof": "Rosana Aparecida Da Silva Buzanello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1017",
+    "name": "Aplicações De Transferência De Calor",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M3(H35)-2M4(H35)-2M5(H35)",
+        "prof": "Elciane Regina Zanatta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1024",
+    "name": "Aplicações De Transferência De Massa",
+    "turmas": [
+      {
+        "turma": "ALI8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M1(H37)-6M2(H37)-6M3(H37)",
+        "prof": "Carolina Castilho Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1003",
+    "name": "Bioquímica Geral",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M1(H36)-3M2(H36)-3M3(H36)",
+        "prof": "Valdemar Padilha Feltrin",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "3N3(L21)-3N4(L21)-3N5(L21)",
+        "prof": "Flavio Dias Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1034",
+    "name": "Biotecnologia",
+    "turmas": [
+      {
+        "turma": "TAL6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N4(I42)-4N5(I42)",
+        "prof": "Ivonei Ottobelli",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "ALM1013",
+    "name": "Ciências E Engenharia De Materiais",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M2(H39)-3M3(H39)-3M4(H39)",
+        "prof": "Daiane Cristina Lenhard",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1004",
+    "name": "Conservação De Massa E Energia Em Processos Industriais",
+    "turmas": [
+      {
+        "turma": "ALI4EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M4(I16)-3M5(I16)",
+        "prof": "Aziza Kamal Genena",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1025",
+    "name": "Controle De Processos E Instrumentação",
+    "turmas": [
+      {
+        "turma": "ALI8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M3(H37)-4M4(H37)-4M5(H37)",
+        "prof": "Ilton Jose Baraldi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1001",
+    "name": "Desenho Técnico Assistido Por Computador",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T1(I21)-6T2(I21)-6T3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "2M1(I21)-2M2(I21)-2M3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1027",
+    "name": "Desenvolvimento De Novos Produtos",
+    "turmas": [
+      {
+        "turma": "ALI8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M4(H37)",
+        "prof": "Carolina Castilho Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1018",
+    "name": "Engenharia Bioquímica",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M5(H35)-5M4(H35)-5M5(H35)",
+        "prof": "Eliane Colla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1002",
+    "name": "Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(L21)-5T5(L21)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1002",
+    "name": "Estruturas Geométricas E Vetores",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "3N3(L22)-3N4(L22)-3N5(L22)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1006",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "3M4(L21)-3M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "MAT1001",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "58",
+        "vc": "48",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
+        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
+        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1012",
+    "name": "Fundamentos De Nutrição",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M1(H39)-6M2(H39)",
+        "prof": "Rosana Aparecida Da Silva Buzanello",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "3N4(I41)-3N5(I41)",
+        "prof": "Rosana Aparecida Da Silva Buzanello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1020",
+    "name": "Higiene Industrial E Segurança De Alimentos",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M2(H35)-4M3(H35)-4M4(H35)",
+        "prof": "Gisele Teixeira De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1001",
+    "name": "Informática Instrumental",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(L12A)-2N2(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N3(L12A)-2N4(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L12A)-3T5(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(I21)-3M5(I21)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(L18)-2N2(L18)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 2 - Tecnol Em Alimentos",
+        "h": "5N1(L12A)-5N2(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1008",
+    "name": "Inglês Básico 1",
+    "turmas": [
+      {
+        "turma": "OPTAH",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "EL59D",
+    "name": "Laboratório De Fenômenos De Transporte E Operações Unitárias",
+    "turmas": [
+      {
+        "turma": "A91",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M2(H33)-4M3(H33)-4M4(H33)-4M5(H33)",
+        "prof": "Daiane Cristina Lenhard",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N4(I12)-3N5(I12)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N1(I11)-5N2(I11)",
+        "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(L41)-2T5(L41)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(I11)-5M3(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(I42)-5N2(I42)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N4(I16)-4N5(I16)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1004",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPTAHUMAN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M1(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "ALM1002",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M2(J22)-4M3(J22)",
+        "prof": "Eliane Colla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1010",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(I25)-4N2(I25)",
+        "prof": "Rafael Arioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1008",
+    "name": "Microbiologia",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M4(I41)-3M5(I41)-5M1(I41)-5M2(I41)",
+        "prof": "Valdemar Padilha Feltrin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1042",
+    "name": "Microscopia De Alimentos",
+    "turmas": [
+      {
+        "turma": "TAL3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "3N4(H35)-3N5(H35)",
+        "prof": "Valdemar Padilha Feltrin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EL59C",
+    "name": "Modelagem E Simulação De Processos",
+    "turmas": [
+      {
+        "turma": "A91",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M2(H33)-3M3(H33)-3M4(H33)-3M5(H33)",
+        "prof": "Elciane Regina Zanatta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1016",
+    "name": "Oficina De Intervenção No Contexto Da Engenharia",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M4(H39)",
+        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1010",
+    "name": "Oficina De Investigação De Soluções Para Problemas De Engenharia",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M3(I41)",
+        "prof": "Ilton Jose Baraldi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1023",
+    "name": "Oficina De Projetos",
+    "turmas": [
+      {
+        "turma": "ALI8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M5(H33)",
+        "prof": "Daiane Cristina Lenhard",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1006",
+    "name": "Oficina De Resolução De Problemas De Engenharia",
+    "turmas": [
+      {
+        "turma": "ALI4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M1(I21)",
+        "prof": "Elciane Regina Zanatta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1066",
+    "name": "Planejamento Experimental E Otimização De Processos",
+    "turmas": [
+      {
+        "turma": "TAL6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(I25)-5N2(I25)",
+        "prof": "Eliane Colla",
+        "opt": "Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "ALM1019",
+    "name": "Processamento De Produtos De Origem Animal",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M2(H35)-3M3(H35)-3M4(H35)-3M5(H35)",
+        "prof": "Marines Paula Corso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1011",
+    "name": "Processamento De Produtos De Origem Vegetal",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M3(H36)-2M4(H36)-2M5(H36)",
+        "prof": "Nadia Cristiane Steinmacher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1005",
+    "name": "Química De Alimentos",
+    "turmas": [
+      {
+        "turma": "ALI4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(L28)-5M2(L28)-5M3(L28)",
+        "prof": "Eliana Maria Baldissera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1001",
+    "name": "Química Geral E Inorgânica",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
+        "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L33)-4T3(L33)-4T4(L44)-4T5(L44)",
+        "prof": "Suelen Specht Calegaro Milioli, Ana Cristina Trindade Cursino",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
+        "prof": "Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1026",
+    "name": "Sistemas Da Qualidade",
+    "turmas": [
+      {
+        "turma": "ALI8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M3(H37)-3M4(H37)-3M5(H37)",
+        "prof": "Fabio Avelino Bublitz Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1001",
+    "name": "Sustentabilidade E Gestão",
+    "turmas": [
+      {
+        "turma": "ELE5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(H34)-6T4(H34)-6T5(H34)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      },
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
+        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "ALM1032",
+    "name": "Tecnologia De Bebidas",
+    "turmas": [
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N4(I41)-5N5(I41)",
+        "prof": "Glaucia Cristina Moreira",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "ALM1057",
+    "name": "Tecnologia De Derivados Lácteos",
+    "turmas": [
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N2(H38)-4N3(H38)-4N4(H38)-4N5(H38)",
+        "prof": "Celeide Pereira",
+        "opt": "Matriz:665"
+      }
+    ]
+  },
+  {
+    "code": "ALM1050",
+    "name": "Tecnologia De Leites De Consumo",
+    "turmas": [
+      {
+        "turma": "TAL4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(H38)-5N2(H38)-5N3(H38)",
+        "prof": "Celeide Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1033",
+    "name": "Tecnologia De Pescado",
+    "turmas": [
+      {
+        "turma": "TAL6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N1(I42)-4N2(I42)",
+        "prof": "Marines Paula Corso",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "ALM1056",
+    "name": "Tecnologia De Produtos Cárneos",
+    "turmas": [
+      {
+        "turma": "TAL5AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Gestão Do Agronegócio",
+        "h": "3N1(I41)-3N2(I41)-3N3(I41)",
+        "prof": "Cleusa Ines Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1055",
+    "name": "Tecnologia De Vegetais",
+    "turmas": [
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Engenharia Alimentos",
+        "h": "5N1(I41)-5N2(I41)-5N3(I41)",
+        "prof": "Glaucia Cristina Moreira",
+        "opt": "Matriz:665"
+      }
+    ]
+  },
+  {
+    "code": "ALM1031",
+    "name": "Tecnologia De Óleos E Gorduras",
+    "turmas": [
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "6N1(I41)-6N2(I41)",
+        "prof": "Cleusa Ines Weber",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "ALM1035",
+    "name": "Tecnologias Emergentes Para Conservação De Alimentos",
+    "turmas": [
+      {
+        "turma": "TAL4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N4(H36)-4N5(H36)",
+        "prof": "Gisele Teixeira De Souza",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "ALM1009",
+    "name": "Termodinâmica Aplicada",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M2(H33)-6M3(H33)-6M4(H33)",
+        "prof": "Ilton Jose Baraldi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1022",
+    "name": "Toxicologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "ALI7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M1(H35)-2M2(H35)",
+        "prof": "Nadia Cristiane Steinmacher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EL60A",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -12,6 +1060,40 @@
         "prio": "",
         "h": "",
         "prof": "Eliana Maria Baldissera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1014",
+    "name": "Transferência De Calor E Massa",
+    "turmas": [
+      {
+        "turma": "ALI6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M4(I16)-4M5(I16)-5M2(I16)-5M3(I16)",
+        "prof": "Aziza Kamal Genena",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1007",
+    "name": "Transporte E Separação De Sólidos E Fluidos",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M1(I16)-4M2(I16)-5M4(I16)-5M5(I16)",
+        "prof": "Aziza Kamal Genena",
         "opt": "Não"
       }
     ]

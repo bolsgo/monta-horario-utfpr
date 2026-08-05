@@ -1,63 +1,63 @@
 [
   {
-    "code": "AMB1003",
-    "name": "Avaliação De Impacto Ambiental",
+    "code": "ALM1046",
+    "name": "Bioquímica De Alimentos",
     "turmas": [
       {
-        "turma": "AMB7",
+        "turma": "TAL3",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "6N1(H36)-6N2(H36)",
-        "prof": "Elias Lira Dos Santos Junior",
-        "opt": "Matriz:656"
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(H33)-2N2(H33)-2N3(H33)",
+        "prof": "Flavio Dias Ferreira",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "MEC1001",
-    "name": "Desenho Técnico Assistido Por Computador",
+    "code": "ALM1003",
+    "name": "Bioquímica Geral",
     "turmas": [
       {
-        "turma": "ELE1",
+        "turma": "ALI3",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
+        "vt": "30",
+        "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T1(I21)-6T2(I21)-6T3(I21)",
-        "prof": "Carlos Aparecido Fernandes",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M1(H36)-3M2(H36)-3M3(H36)",
+        "prof": "Valdemar Padilha Feltrin",
         "opt": "Não"
       },
       {
-        "turma": "EP1",
+        "turma": "TAL2",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
-        "h": "2M1(I21)-2M2(I21)-2M3(I21)",
-        "prof": "Carlos Aparecido Fernandes",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "3N3(L21)-3N4(L21)-3N5(L21)",
+        "prof": "Flavio Dias Ferreira",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "PRO1002",
-    "name": "Engenharia De Segurança Do Trabalho",
+    "code": "AMB1006",
+    "name": "Biologia Celular E Princípios De Biologia Molecular",
     "turmas": [
       {
-        "turma": "ELE1",
+        "turma": "BQ5",
         "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
+        "vt": "20",
+        "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T4(L21)-5T5(L21)",
-        "prof": "Peterson Diego Kunh",
-        "opt": "Não"
+        "prio": "1 - Química Industrial",
+        "h": "2N1(I16)-2N2(I16)-2N3(I16)",
+        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "opt": "Matriz:657"
       }
     ]
   },
@@ -131,6 +131,40 @@
         "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
         "prof": "Cleverson Goncalves Dos Santos",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1007",
+    "name": "Fundamentos Da Química Dos Minerais",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "6N4(I43)-6N5(I43)",
+        "prof": "Ana Cristina Trindade Cursino",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "AMB1066",
+    "name": "Fundamentos De Microbiologia Geral E Industrial",
+    "turmas": [
+      {
+        "turma": "BQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "3N1(I12)-3N2(I12)-3N3(I12)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
+        "opt": "Matriz:657"
       }
     ]
   },
@@ -224,23 +258,6 @@
     ]
   },
   {
-    "code": "ELE1004",
-    "name": "Introdução À Engenharia Elétrica",
-    "turmas": [
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T2(L22)-5T3(L22)",
-        "prof": "Leandro Antonio Pasa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "HLA1001",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -313,153 +330,46 @@
     ]
   },
   {
-    "code": "HLA1004",
-    "name": "Libras 1",
+    "code": "ALM1043",
+    "name": "Microbiologia De Alimentos",
     "turmas": [
       {
-        "turma": "OPTAHUMAN",
+        "turma": "TAL3",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "5M1(I11)",
-        "prof": "Dayse Grassi Bernardon",
-        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
-      }
-    ]
-  },
-  {
-    "code": "ELE1005",
-    "name": "Materiais Elétricos E Eletrônicos",
-    "turmas": [
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T1(J43)-2T2(J43)-2T3(J43)",
-        "prof": "Alexandre Victor Casella",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N3(L39C)-4N4(L39C)-4N5(L39C)",
+        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1002",
-    "name": "Metodologia Da Pesquisa",
+    "code": "ALM1040",
+    "name": "Microbiologia Geral",
     "turmas": [
       {
-        "turma": "ALI3",
+        "turma": "AGR3",
         "enq": "Presencial",
-        "vt": "40",
+        "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "4M2(J22)-4M3(J22)",
-        "prof": "Eliane Colla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB1010",
-    "name": "Metodologia Da Pesquisa",
-    "turmas": [
-      {
-        "turma": "AMB1",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(I25)-4N2(I25)",
-        "prof": "Rafael Arioli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1001",
-    "name": "Química Geral E Inorgânica",
-    "turmas": [
-      {
-        "turma": "AMB1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
-        "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(H39)-2N2(H39)-2N3(H39)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
         "opt": "Não"
       },
       {
-        "turma": "ELE1",
+        "turma": "TAL2",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4T2(L33)-4T3(L33)-4T4(L44)-4T5(L44)",
-        "prof": "Suelen Specht Calegaro Milioli, Ana Cristina Trindade Cursino",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção",
-        "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
-        "prof": "Suelen Specht Calegaro Milioli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB1001",
-    "name": "Sustentabilidade E Gestão",
-    "turmas": [
-      {
-        "turma": "ELE5",
-        "enq": "Presencial",
-        "vt": "40",
+        "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T3(H34)-6T4(H34)-6T5(H34)",
-        "prof": "Renato Santos Flauzino",
-        "opt": "Matriz:654"
-      },
-      {
-        "turma": "EP7",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
-        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
-        "prof": "Renato Santos Flauzino",
-        "opt": "Matriz:654"
-      }
-    ]
-  },
-  {
-    "code": "EE60A",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "E101",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Hugo Andres Ruiz Florez",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N3(L39C)-5N4(L39C)-5N5(L39C)",
+        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
         "opt": "Não"
       }
     ]

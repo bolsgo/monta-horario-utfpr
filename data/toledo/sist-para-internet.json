@@ -1,6 +1,40 @@
 [
   {
-    "code": "TSIN36F",
+    "code": "HUM002",
+    "name": "Economia Contemporânea",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM041",
+    "name": "Soft Skills",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TSI36D",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
       {
@@ -17,7 +51,7 @@
     ]
   },
   {
-    "code": "TSI36D",
+    "code": "TSIN36F",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
       {

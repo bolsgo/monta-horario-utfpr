@@ -136,23 +136,6 @@
     ]
   },
   {
-    "code": "AA13ZO",
-    "name": "Análise De Alimentos",
-    "turmas": [
-      {
-        "turma": "3ZT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "3M1(B6-S3)-3M2(B6-S3)-4T2(B6-S3)-4T3(B6-S3)",
-        "prof": "Magali Floriano Da Silveira",
-        "opt": "Matriz:53"
-      }
-    ]
-  },
-  {
     "code": "AA11ZO",
     "name": "Anatomia Animal",
     "turmas": [
@@ -183,6 +166,23 @@
         "h": "2M1(B3-S2)-2M2(B3-S2)-2M3(LABMULT2)-2M4(LABMULT2)",
         "prof": "Daniela Macedo De Lima",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AA13ZO",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M1(B6-S3)-3M2(B6-S3)-4T2(B6-S3)-4T3(B6-S3)",
+        "prof": "Magali Floriano Da Silveira",
+        "opt": "Matriz:53"
       }
     ]
   },
@@ -447,23 +447,6 @@
     ]
   },
   {
-    "code": "CC17ZO",
-    "name": "Ciência Da Carne E Tipificação De Carcaças",
-    "turmas": [
-      {
-        "turma": "7ZT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "2M3(B6-S2)-2M4(B6-S2)-2M5(B6-S2)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CH11ZO",
     "name": "Citologia E Histologia Animal",
     "turmas": [
@@ -492,6 +475,23 @@
     ]
   },
   {
+    "code": "CC17ZO",
+    "name": "Ciência Da Carne E Tipificação De Carcaças",
+    "turmas": [
+      {
+        "turma": "7ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "2M3(B6-S2)-2M4(B6-S2)-2M5(B6-S2)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CL13ZO",
     "name": "Climatologia",
     "turmas": [
@@ -503,6 +503,23 @@
         "res": "Aberta",
         "prio": "1 - Zootecnia",
         "h": "6M3(B8-S3)-6M4(B8-S3)-6M5(B8-S3)",
+        "prof": "Frederico Marcio Correa Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL43B",
+    "name": "Climatologia",
+    "turmas": [
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Frederico Marcio Correa Vieira",
         "opt": "Não"
       }
@@ -662,23 +679,6 @@
     ]
   },
   {
-    "code": "EG15ZO",
-    "name": "Ecologia E Gestão Ambiental",
-    "turmas": [
-      {
-        "turma": "5ZT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "5T1(B7-S8)-5T2(B7-S8)-5T3(B7-S8)",
-        "prof": "Dineia Tessaro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EF12FL",
     "name": "Ecologia Florestal",
     "turmas": [
@@ -690,6 +690,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. Florestal",
         "h": "6M4(B3-S3)-6M5(B3-S3)-6M6(B3-S3)",
+        "prof": "Dineia Tessaro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EG15ZO",
+    "name": "Ecologia E Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "5ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "5T1(B7-S8)-5T2(B7-S8)-5T3(B7-S8)",
         "prof": "Dineia Tessaro",
         "opt": "Não"
       }
@@ -725,6 +742,23 @@
         "prio": "1 - Zootecnia",
         "h": "6M3(B6-S1)-6M4(B6-S1)-6M5(B6-S1)",
         "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EQ48B",
+    "name": "Equinocultura",
+    "turmas": [
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Fernando Kuss",
         "opt": "Não"
       }
     ]
@@ -776,23 +810,6 @@
         "prio": "1 - Eng. Florestal",
         "h": "4M1(B3-S3)-4M2(B3-S3)",
         "prof": "Alvaro Boson De Castro Faria",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ET18R",
-    "name": "Ética, Legislação Agrária E Ambiental",
-    "turmas": [
-      {
-        "turma": "AGE",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5M1(B7-S5)-5M1(B7-S5)-5M2(B7-S5)-5M2(B7-S5)",
-        "prof": "Sidemar Presotto Nunes, Taciara Zborowski Horst",
         "opt": "Não"
       }
     ]
@@ -962,23 +979,6 @@
     ]
   },
   {
-    "code": "FG12ZO",
-    "name": "Física Geral",
-    "turmas": [
-      {
-        "turma": "2ZT1",
-        "enq": "Presencial",
-        "vt": "29",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "4T3(B8-S4)-4T4(B8-S4)-4T5(B8-S4)",
-        "prof": "Raquel De Almeida Rocha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FI11ZO",
     "name": "Fisiologia Animal I",
     "turmas": [
@@ -1003,6 +1003,17 @@
         "h": "3T2(B6-S1)-3T3(B6-S1)-3T5(LABANATOMI)",
         "prof": "Ricardo Yuji Sado",
         "opt": "Não"
+      },
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Ricardo Yuji Sado",
+        "opt": "Não"
       }
     ]
   },
@@ -1018,6 +1029,17 @@
         "res": "Aberta",
         "prio": "1 - Zootecnia",
         "h": "3M2(B6-S2)-3M3(B6-S2)-3M4(B6-S2)-3M5(B6-S2)",
+        "prof": "Ricardo Yuji Sado",
+        "opt": "Não"
+      },
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Ricardo Yuji Sado",
         "opt": "Não"
       }
@@ -1075,6 +1097,34 @@
     ]
   },
   {
+    "code": "FG12ZO",
+    "name": "Física Geral",
+    "turmas": [
+      {
+        "turma": "2ZT1",
+        "enq": "Presencial",
+        "vt": "29",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "4T3(B8-S4)-4T4(B8-S4)-4T5(B8-S4)",
+        "prof": "Raquel De Almeida Rocha",
+        "opt": "Não"
+      },
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Raquel De Almeida Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "GA14ZO",
     "name": "Genética Animal",
     "turmas": [
@@ -1126,6 +1176,23 @@
     ]
   },
   {
+    "code": "GE16ZO",
+    "name": "Gestão Econômica Aplicada À Zootecnia",
+    "turmas": [
+      {
+        "turma": "6ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "5T1(B8-S3)-5T2(B8-S3)-5T3(B8-S3)",
+        "prof": "Laura Possani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "GP13SW",
     "name": "Gestão De Pessoas",
     "turmas": [
@@ -1172,23 +1239,6 @@
         "prio": "1 - Agronomia",
         "h": "6M1(B7-S7)-6M2(B7-S7)-6M3(B7-S7)",
         "prof": "Fernanda Leite Cunha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GE16ZO",
-    "name": "Gestão Econômica Aplicada À Zootecnia",
-    "turmas": [
-      {
-        "turma": "6ZT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "5T1(B8-S3)-5T2(B8-S3)-5T3(B8-S3)",
-        "prof": "Laura Possani",
         "opt": "Não"
       }
     ]
@@ -1375,6 +1425,23 @@
     ]
   },
   {
+    "code": "MI26AG",
+    "name": "Manejo Integrado De Pragas",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M3(B5-S6)-6M4(B5-S6)-6M5(B5-S6)",
+        "prof": "Alfredo De Gouvea",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MF16ZO",
     "name": "Manejo E Conservação De Forragem",
     "turmas": [
@@ -1438,23 +1505,6 @@
         "prio": "1 - Zootecnia",
         "h": "6M4(B6-S5)-6M5(B6-S5)-6M6(B6-S5)",
         "prof": "Paulo Cesar Conceicao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MI26AG",
-    "name": "Manejo Integrado De Pragas",
-    "turmas": [
-      {
-        "turma": "6AG1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "6M3(B5-S6)-6M4(B5-S6)-6M5(B5-S6)",
-        "prof": "Alfredo De Gouvea",
         "opt": "Não"
       }
     ]
@@ -1562,6 +1612,23 @@
     ]
   },
   {
+    "code": "MI46B",
+    "name": "Melhoramento Animal 2",
+    "turmas": [
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Fabiana Martins Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MV15AG",
     "name": "Melhoramento Vegetal",
     "turmas": [
@@ -1664,40 +1731,6 @@
     ]
   },
   {
-    "code": "CG16BB",
-    "name": "Métodos Cromatográficos",
-    "turmas": [
-      {
-        "turma": "6EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4M4(B8-S3)-4M5(B8-S3)",
-        "prof": "Paula Fernandes Montanher",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ME13BB",
-    "name": "Métodos Espectrofotométricos",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4M3(B6-S4)-4M4(B6-S4)-4M5(B6-S4)",
-        "prof": "Guilherme Garcia Bessegato",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MG13BB",
     "name": "Microbiologia Geral",
     "turmas": [
@@ -1738,6 +1771,40 @@
         "prio": "1 - Zootecnia",
         "h": "4T2(LABMICROBI)-5M4(B6-S6)-5M5(B6-S6)",
         "prof": "Marcela Tostes Frata",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CG16BB",
+    "name": "Métodos Cromatográficos",
+    "turmas": [
+      {
+        "turma": "6EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M4(B8-S3)-4M5(B8-S3)",
+        "prof": "Paula Fernandes Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME13BB",
+    "name": "Métodos Espectrofotométricos",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M3(B6-S4)-4M4(B6-S4)-4M5(B6-S4)",
+        "prof": "Guilherme Garcia Bessegato",
         "opt": "Não"
       }
     ]
@@ -1788,6 +1855,17 @@
         "res": "Aberta",
         "prio": "1 - Zootecnia",
         "h": "3T2(B6-S2)-3T3(B6-S2)-3T4(B6-S2)-3T5(B6-S2)",
+        "prof": "Vicente De Paulo Macedo",
+        "opt": "Não"
+      },
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Vicente De Paulo Macedo",
         "opt": "Não"
       }
@@ -2223,23 +2301,6 @@
     ]
   },
   {
-    "code": "TO49B",
-    "name": "Tópicos Especiais Em Qualidade De Ovos",
-    "turmas": [
-      {
-        "turma": "ZTOPT",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Zootecnia",
-        "h": "4T3(B6-S6)-4T4(B6-S6)-4T5(B6-S6)",
-        "prof": "Patricia Rossi",
-        "opt": "Matriz:14"
-      }
-    ]
-  },
-  {
     "code": "TP14ZO",
     "name": "Topografia",
     "turmas": [
@@ -2404,6 +2465,23 @@
     ]
   },
   {
+    "code": "TO49B",
+    "name": "Tópicos Especiais Em Qualidade De Ovos",
+    "turmas": [
+      {
+        "turma": "ZTOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Zootecnia",
+        "h": "4T3(B6-S6)-4T4(B6-S6)-4T5(B6-S6)",
+        "prof": "Patricia Rossi",
+        "opt": "Matriz:14"
+      }
+    ]
+  },
+  {
     "code": "ZO11ZO",
     "name": "Zoologia E Parasitologia Animal",
     "turmas": [
@@ -2427,6 +2505,23 @@
         "prio": "1 - Zootecnia",
         "h": "4M4(B7-S8)-4M5(B7-S8)-4T4(B6-S1)-4T5(B6-S1)",
         "prof": "Valter Oshiro Vilela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET18R",
+    "name": "Ética, Legislação Agrária E Ambiental",
+    "turmas": [
+      {
+        "turma": "AGE",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(B7-S5)-5M1(B7-S5)-5M2(B7-S5)-5M2(B7-S5)",
+        "prof": "Sidemar Presotto Nunes, Taciara Zborowski Horst",
         "opt": "Não"
       }
     ]

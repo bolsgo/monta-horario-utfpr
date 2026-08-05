@@ -26,5 +26,25 @@
   {
     "slug": "engenharia-eletrica",
     "label": "Engenharia Elétrica"
+  },
+  {
+    "slug": "tecnol-manut-indl",
+    "label": "Tecnol.Manut.Indl."
+  },
+  {
+    "slug": "licenc-quimica",
+    "label": "Licenc.Química"
+  },
+  {
+    "slug": "eng-amb-sanitaria",
+    "label": "Eng Amb/Sanitária"
+  },
+  {
+    "slug": "quimica-industrial",
+    "label": "Química Industrial"
+  },
+  {
+    "slug": "gestao-do-agronegocio",
+    "label": "Gestão Do Agronegócio"
   }
 ]

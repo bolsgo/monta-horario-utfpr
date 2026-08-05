@@ -1,5 +1,39 @@
 [
   {
+    "code": "ET66B",
+    "name": "Acionamentos Eletricos",
+    "turmas": [
+      {
+        "turma": "A61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T1(S001)-2T2(S001)-2T3(S001)-4T2(S001)-4T3(S001)",
+        "prof": "Rodrigo Augusto Modesto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMP",
+    "name": "Amplificadores",
+    "turmas": [
+      {
+        "turma": "ET41",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T4(P204)-2T5(P204)-5M4(S101)-5M5(S101)",
+        "prof": "Vander Teixeira Prado",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
     "code": "A3ACA",
     "name": "Análise De Circuitos Em Corrente Alternada",
     "turmas": [
@@ -12,6 +46,23 @@
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
         "h": "2T2(P204)-2T3(P204)-3T2(A038)-3T3(A038)-5M4(S104)-5M5(S104)",
         "prof": "Rafael Rorato Londero, Silvio Aparecido De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ACA",
+    "name": "Análise De Circuitos Em Corrente Alternada",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M2(S104)-3M3(S104)-4T2(A143)-4T3(A143)-5M4(S202)-5M5(S202)",
+        "prof": "Murilo Da Silva",
         "opt": "Não"
       }
     ]
@@ -51,6 +102,23 @@
     ]
   },
   {
+    "code": "ACC",
+    "name": "Análise De Circuitos Em Corrente Contínua",
+    "turmas": [
+      {
+        "turma": "ET21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2M4(A145)-2M5(A145)-3M2(S103)-3M3(S103)-5M4(A145)-5M5(A145)",
+        "prof": "Francisco De Assis Scannavino Junior, Rafael Rorato Londero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E2ACC",
     "name": "Análise De Circuitos Em Corrente Contínua",
     "turmas": [
@@ -63,6 +131,23 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M4(S202)-2M5(S202)-4M2(SUB005)-4M3(SUB005)-6M4(S103)-6M5(S103)",
         "prof": "Carolina Ribeiro Rodrigues, Guilherme Masquetti Pelz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC45B",
+    "name": "Arquitetura De Computadores",
+    "turmas": [
+      {
+        "turma": "C51",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T4(P001)-5T5(P001)-6T4(P001)-6T5(P001)",
+        "prof": "Antonio Carlos Fernandes Da Silva",
         "opt": "Não"
       }
     ]
@@ -85,52 +170,35 @@
     ]
   },
   {
-    "code": "E2CDI1",
-    "name": "Cálculo Diferencial E Integral 1",
+    "code": "AS62C",
+    "name": "Banco De Dados",
     "turmas": [
       {
-        "turma": "E21",
+        "turma": "N12",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
-        "h": "3M4(P201)-3M5(P201)-4M4(A144)-4M5(A144)-5M4(A146)-5M5(A146)",
-        "prof": "Rosileide De Oliveira Lopes",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N4(P004)-2N5(P004)-3N2(P004)-3N3(P004)",
+        "prof": "Claiton De Oliveira",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "E3CDI2",
-    "name": "Cálculo Diferencial E Integral 2",
+    "code": "EC44B",
+    "name": "Bancos De Dados",
     "turmas": [
       {
-        "turma": "E31",
+        "turma": "C41",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
-        "h": "2T2(S202)-2T3(S202)-4T2(P104)-4T3(P104)",
-        "prof": "Renata Mascari De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "E4CAN",
-    "name": "Cálculo Numérico",
-    "turmas": [
-      {
-        "turma": "E41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
-        "h": "2M2(A143)-2M3(A143)-5M4(A040)-5M5(A040)",
-        "prof": "Elenice Weber Stiegelmeier",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T2(P205)-2T3(P205)-3T2(P205)-3T3(P205)",
+        "prof": "Giovani Volnei Meinerz",
         "opt": "Não"
       }
     ]
@@ -170,6 +238,23 @@
     ]
   },
   {
+    "code": "CCD",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "ET51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5T2(S202)-5T3(S202)-6T2(S109)-6T3(S109)",
+        "prof": "Luis Fernando Caparroz Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E5CCD",
     "name": "Circuitos Digitais",
     "turmas": [
@@ -181,6 +266,34 @@
         "res": "Aberta",
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M2(S203)-2M3(S203)-4T4(P203)-4T5(P203)",
+        "prof": "Angelo Feracin Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC42C",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "C21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3M2(S203)-3M3(S203)-4T2(P203)-4T3(P203)",
+        "prof": "Angelo Feracin Neto",
+        "opt": "Não"
+      },
+      {
+        "turma": "C22",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3M4(S203)-3M5(S203)-4T2(P203)-4T3(P203)",
         "prof": "Angelo Feracin Neto",
         "opt": "Não"
       }
@@ -210,12 +323,29 @@
       {
         "turma": "A21",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
         "h": "6T2(P104)-6T3(P104)",
         "prof": "Juliana De Andrade Tonhato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM43C",
+    "name": "Comunicação Organizacional",
+    "turmas": [
+      {
+        "turma": "M21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "3T2(A143)-3T3(A143)",
+        "prof": "Guadalupe Estrelita Dos Santos Menta",
         "opt": "Não"
       }
     ]
@@ -233,6 +363,23 @@
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
         "h": "2T2(SUB004)-2T3(SUB004)-3T4(S201)-3T5(S201)",
         "prof": "Emerson Ravazzi Pires Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CTC",
+    "name": "Controle Contínuo",
+    "turmas": [
+      {
+        "turma": "ET61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5M4(P202)-5M5(P202)-6M4(S201)-6M5(S201)",
+        "prof": "Kleber Romero Felizardo",
         "opt": "Não"
       }
     ]
@@ -272,6 +419,23 @@
     ]
   },
   {
+    "code": "COD",
+    "name": "Controle Discreto",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M2(S201)-3M3(S201)-5M2(SUB005)-5M3(SUB005)",
+        "prof": "Kleber Romero Felizardo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A6CEE",
     "name": "Controle No Espaço De Estados",
     "turmas": [
@@ -289,6 +453,278 @@
     ]
   },
   {
+    "code": "A8OPS19",
+    "name": "Controle No Espaço De Estados Discreto",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4M2(S205)-4M3(S205)-4M4(S205)-4M5(S205)",
+        "prof": "Kleber Romero Felizardo",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A3CCA",
+    "name": "Cálculo Aplicado À Engenharia De Controle E Automação",
+    "turmas": [
+      {
+        "turma": "A31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M4(P103)-2M5(P103)-4M4(LIM)-4M5(LIM)",
+        "prof": "Andre Luis Machado Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A1CDI1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "A11",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "34",
+        "res": "Fechada",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "2M2(A146)-2M3(A146)-4M2(A145)-4M3(A145)-6M2(A146)-6M3(A146)",
+        "prof": "Daniele Costa Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDI1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "ET21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T2(A134)-3T3(A134)-4T2(A140)-4T3(A140)-5T2(A134)-5T3(A134)",
+        "prof": "Rosileide De Oliveira Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2CDI1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3M4(P201)-3M5(P201)-4M4(A144)-4M5(A144)-5M4(A146)-5M5(A146)",
+        "prof": "Rosileide De Oliveira Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A2CDI2",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4T2(P201)-4T3(P201)-6T4(P104)-6T5(P104)",
+        "prof": "Henrique Tapparello Moresco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDI2",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T4(P104)-2T5(P104)-3T2(P201)-3T3(P201)",
+        "prof": "Renata Mascari De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E3CDI2",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "E31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T2(S202)-2T3(S202)-4T2(P104)-4T3(P104)",
+        "prof": "Renata Mascari De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43F",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "C31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3M2(P201)-3M3(P201)-4M2(P202)-4M3(P202)",
+        "prof": "Elenice Weber Stiegelmeier",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM43A",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "4T4(A146)-4T5(A146)-5T4(P203)-5T5(P203)",
+        "prof": "Renata Mascari De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A3CAN",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "A31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M4(S202)-3M5(S202)-6M2(A136)-6M3(A136)",
+        "prof": "Claudia Fink",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAN",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "ET41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T4(LIM)-3T5(LIM)-5T4(A136)-5T5(A136)",
+        "prof": "Josimar Da Silva Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E4CAN",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "E41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2M2(A143)-2M3(A143)-5M4(A040)-5M5(A040)",
+        "prof": "Elenice Weber Stiegelmeier",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM43B",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "5M4(P103)-5M5(P103)-6M4(P104)-6M5(P104)",
+        "prof": "Claudia Fink",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46C",
+    "name": "Desenvolvimento Ágil",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "4T2(P005)-4T3(P005)-5T2(P005)-5T3(P005)",
+        "prof": "Erica Ferreira De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DPC",
+    "name": "Design De Placas De Circuito Impresso",
+    "turmas": [
+      {
+        "turma": "ET51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T4(S101)-2T5(S101)",
+        "prof": "Pedro Carvalhaes Dias",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
     "code": "A4DNM",
     "name": "Dinâmica",
     "turmas": [
@@ -302,6 +738,23 @@
         "h": "5M4(A038)-5M5(A038)",
         "prof": "Adailton Silva Borges",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DCE",
+    "name": "Dispositivos E Circuitos Eletrônicos",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2M4(A037)-2M5(A037)-3M4(S101)-3M5(S101)",
+        "prof": "Pedro Carvalhaes Dias",
+        "opt": "Matriz:176"
       }
     ]
   },
@@ -335,6 +788,57 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "4T2(P202)-4T3(P202)",
         "prof": "Luiz Cesar De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECO",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5T2(A142)-5T3(A142)",
+        "prof": "Luiz Cesar De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM36A",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "M61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "4T4(P103)-4T5(P103)",
+        "prof": "Joao Luiz Dallamuta Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM37E",
+    "name": "Elementos De Máquinas",
+    "turmas": [
+      {
+        "turma": "M71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "3M1(A145)-3M2(A145)-3M3(A145)-5M2(A145)-5M3(A145)",
+        "prof": "Fabio Rodrigo Mandello Rodrigues",
         "opt": "Não"
       }
     ]
@@ -419,6 +923,23 @@
     ]
   },
   {
+    "code": "ELP",
+    "name": "Eletrônica De Potência",
+    "turmas": [
+      {
+        "turma": "ET61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M2(S202)-3M3(S202)-4M4(S105)-4M5(S105)-4T2(A142)-4T3(A142)",
+        "prof": "Leonardo Poltronieri Sampaio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A4EPD",
     "name": "Empreendedorismo",
     "turmas": [
@@ -436,6 +957,119 @@
     ]
   },
   {
+    "code": "AS62B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "4N4(P105)-4N5(P105)",
+        "prof": "Jair De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EPD",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T2(P101)-3T3(P101)",
+        "prof": "Jair De Oliveira",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
+    "code": "ENP",
+    "name": "Engenharia Do Produto",
+    "turmas": [
+      {
+        "turma": "ET81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T2(A038)-2T3(A038)-4M2(A035)-4M3(A035)",
+        "prof": "Julio Cesar De Souza Francisco",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
+    "code": "AS63F",
+    "name": "Estratégias De Inovação",
+    "turmas": [
+      {
+        "turma": "N13",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "2N4(P105)-2N5(P105)",
+        "prof": "Cleverson Flor Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43A",
+    "name": "Estrutura De Dados 1",
+    "turmas": [
+      {
+        "turma": "C31",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T4(P205)-2T5(P205)-3T4(P205)-3T5(P205)",
+        "prof": "Fabricio Martins Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A1EXG",
+    "name": "Expressão Gráfica",
+    "turmas": [
+      {
+        "turma": "A11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "6T2(I202)-6T3(I202)",
+        "prof": "Edmar Piacentini Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "A12",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "15",
+        "res": "Fechada",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "6T4(I202)-6T5(I202)",
+        "prof": "Edmar Piacentini Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E1EXG",
     "name": "Expressão Gráfica",
     "turmas": [
@@ -448,6 +1082,23 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "5T2(I202)-5T3(I202)",
         "prof": "Edmar Piacentini Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A5FNT",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "A51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M4(P204)-3M5(P204)-5M4(A144)-5M5(A144)",
+        "prof": "Henrique Cotait Razuk",
         "opt": "Não"
       }
     ]
@@ -470,6 +1121,23 @@
     ]
   },
   {
+    "code": "FNT",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "ET61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T2(A135)-2T3(A135)-3M4(A136)-3M5(A136)",
+        "prof": "Ricardo Lopes Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E8OPE11",
     "name": "Fontes Alternativas De Energia",
     "turmas": [
@@ -483,6 +1151,23 @@
         "h": "4M2(I101)-4M3(I101)-4M4(I101)-4M5(I101)",
         "prof": "Edson Luis Bassetto",
         "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
+    "code": "FEB",
+    "name": "Fundamentos De Engenharia Biomédica",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4T4(S202)-4T5(S202)",
+        "prof": "Herman Lucas Dos Santos",
+        "opt": "Matriz:176"
       }
     ]
   },
@@ -510,12 +1195,40 @@
       {
         "turma": "E71",
         "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "2T2(I101)-2T3(I101)",
+        "prof": "Edson Luis Bassetto",
+        "opt": "Não"
+      },
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica",
-        "h": "2T2(I101)-2T3(I101)",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2M4(I101)-2M5(I101)",
         "prof": "Edson Luis Bassetto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A1FME",
+    "name": "Fundamentos De Matemática Para Engenharia",
+    "turmas": [
+      {
+        "turma": "A11",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "34",
+        "res": "Fechada",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "3T2(P203)-3T3(P203)-5T2(P203)-5T3(P203)",
+        "prof": "Claudia Fink",
         "opt": "Não"
       }
     ]
@@ -538,6 +1251,40 @@
     ]
   },
   {
+    "code": "ET39A",
+    "name": "Gerência De Projetos",
+    "turmas": [
+      {
+        "turma": "SP1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T2(P203)-2T3(P203)",
+        "prof": "Jose Pedro Tomadon Veiga Mello",
+        "opt": "Matriz:137, Matriz:85, Matriz:31, Matriz:66, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "A1GAL",
+    "name": "Geometria Analítica E Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "A11",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "34",
+        "res": "Fechada",
+        "prio": "1 - Eng. Controle/Automa",
+        "h": "2M4(A134)-2M5(A134)-4M4(P104)-4M5(P104)-6M4(P203)-6M5(P203)",
+        "prof": "Rosangela Teixeira Guedes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E1GAL",
     "name": "Geometria Analítica E Álgebra Linear",
     "turmas": [
@@ -551,6 +1298,23 @@
         "h": "2T2(P103)-2T3(P103)-4T2(A136)-4T3(A136)-6T4(P103)-6T5(P103)",
         "prof": "Rosangela Teixeira Guedes",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MO47Q",
+    "name": "Gerenciamento De Projetos Para Competição",
+    "turmas": [
+      {
+        "turma": "M71",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "3N2(P201)-3N3(P201)-4N1(P203)-4T6(P203)-6M2(P203)-6M3(P203)",
+        "prof": "Rogerio Akihide Ikegami, Jose Augusto Fabri",
+        "opt": "Matriz:188, Matriz:180"
       }
     ]
   },
@@ -585,6 +1349,23 @@
         "h": "3M4(A134)-3M5(A134)",
         "prof": "Joao Luiz Dallamuta Lopes",
         "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
+    "code": "GESP",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T2(P104)-2T3(P104)",
+        "prof": "Joao Luiz Dallamuta Lopes",
+        "opt": "Matriz:176"
       }
     ]
   },
@@ -691,19 +1472,19 @@
     ]
   },
   {
-    "code": "EC42L",
-    "name": "História Da Técnica E Da Tecnologia",
+    "code": "OPH3",
+    "name": "História Econômica",
     "turmas": [
       {
-        "turma": "C21",
+        "turma": "E41",
         "enq": "Presencial",
-        "vt": "39",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
-        "h": "",
-        "prof": "Roberto Bondarik",
-        "opt": "Matriz:191, Matriz:173"
+        "prio": "1 - Eng. Eletrica",
+        "h": "2M4(A036)-2M5(A036)",
+        "prof": "Dirceu Casa Grande Junior",
+        "opt": "Matriz:176, Matriz:170, Matriz:172"
       }
     ]
   },
@@ -725,19 +1506,36 @@
     ]
   },
   {
-    "code": "OPH3",
-    "name": "História Econômica",
+    "code": "EC42L",
+    "name": "História Da Técnica E Da Tecnologia",
     "turmas": [
       {
-        "turma": "E41",
+        "turma": "C21",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "39",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica",
-        "h": "2M4(A036)-2M5(A036)",
-        "prof": "Dirceu Casa Grande Junior",
-        "opt": "Matriz:176, Matriz:170, Matriz:172"
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Roberto Bondarik",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "A7IND",
+    "name": "Indústria 4.0",
+    "turmas": [
+      {
+        "turma": "A71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4M2(A037)-4M3(A037)-5M2(S004)-5M3(S004)",
+        "prof": "Guilherme Serpa Sestito",
+        "opt": "Não"
       }
     ]
   },
@@ -759,6 +1557,23 @@
     ]
   },
   {
+    "code": "A7IIN",
+    "name": "Instrumentação Industrial",
+    "turmas": [
+      {
+        "turma": "A71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4T2(S004)-4T3(S004)-4T4(S004)-4T5(S004)",
+        "prof": "Rodrigo Rodrigues Sumar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A1ICA",
     "name": "Introdução À Engenharia De Controle E Automação",
     "turmas": [
@@ -771,6 +1586,23 @@
         "prio": "1 - Eng. Controle/Automa",
         "h": "3M4(A140)-3M5(A140)",
         "prof": "Maria Eugenia Dajer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET33R",
+    "name": "Laboratorio De Instalações Eletricas",
+    "turmas": [
+      {
+        "turma": "E51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "6M1(S003)-6M2(S003)-6M3(S003)",
+        "prof": "Jose Roberto Shimazaki",
         "opt": "Não"
       }
     ]
@@ -810,18 +1642,57 @@
     ]
   },
   {
-    "code": "ET33R",
-    "name": "Laboratorio De Instalações Eletricas",
+    "code": "EM42F",
+    "name": "Laboratório De Cinemática E Dinâmica",
     "turmas": [
       {
-        "turma": "E51",
+        "turma": "M21",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "12",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
-        "h": "6M1(S003)-6M2(S003)-6M3(S003)",
-        "prof": "Jose Roberto Shimazaki",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "6T2(A047)-6T3(A047)",
+        "prof": "Ivo Aparecido Goulart",
+        "opt": "Não"
+      },
+      {
+        "turma": "M22",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "6T4(A047)-6T5(A047)",
+        "prof": "Ivo Aparecido Goulart",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LCD",
+    "name": "Laboratório De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "ET21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M4(A047)-3M5(A047)",
+        "prof": "Helio Saito",
+        "opt": "Não"
+      },
+      {
+        "turma": "ET22",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M2(A047)-3M3(A047)",
+        "prof": "Helio Saito",
         "opt": "Não"
       }
     ]
@@ -872,6 +1743,62 @@
     ]
   },
   {
+    "code": "EM43F",
+    "name": "Laboratório De Termodinâmica, Fluidos E Ondas",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2M2(A045)-2M3(A045)",
+        "prof": "Helio Saito",
+        "opt": "Não"
+      },
+      {
+        "turma": "M32",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2M4(A045)-2M5(A045)",
+        "prof": "Helio Saito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LTF",
+    "name": "Laboratório De Termodinâmica, Fluidos E Ondas",
+    "turmas": [
+      {
+        "turma": "ET41",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5M2(A045)-5M3(A045)",
+        "prof": "Ivan Braga Gallo",
+        "opt": "Não"
+      },
+      {
+        "turma": "ET42",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5M4(A045)-5M5(A045)",
+        "prof": "Yuri Vinicius Bruschi De Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E2OPH5",
     "name": "Libras 1",
     "turmas": [
@@ -885,6 +1812,23 @@
         "h": "2T2(A143)-2T3(A143)",
         "prof": "Debora Goncalves Ribeiro Dias",
         "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
+    "code": "CSA19",
+    "name": "Liderança E Gerenciamento",
+    "turmas": [
+      {
+        "turma": "SP1",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica",
+        "h": "5T2(P204)-5T3(P204)",
+        "prof": "Josieli Soares Dos Santos",
+        "opt": "Matriz:170, Matriz:176, Matriz:172"
       }
     ]
   },
@@ -923,6 +1867,40 @@
     ]
   },
   {
+    "code": "LDP",
+    "name": "Linguagem De Programação",
+    "turmas": [
+      {
+        "turma": "ET41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M2(I201)-3M3(I201)-6M4(I201)-6M5(I201)",
+        "prof": "Juliana Ferri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A8OPS2",
+    "name": "Lógica Reconfigurável",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(S102)-5M3(S102)-6M2(S102)-6M3(S102)",
+        "prof": "Luiz Marcelo Chiesse Da Silva",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
     "code": "A2LGP",
     "name": "Lógica De Programação",
     "turmas": [
@@ -957,18 +1935,18 @@
     ]
   },
   {
-    "code": "E5MQE1",
-    "name": "Máquinas Elétricas 1",
+    "code": "LGP",
+    "name": "Lógica De Programação",
     "turmas": [
       {
-        "turma": "E51",
+        "turma": "ET31",
         "enq": "Presencial",
-        "vt": "12",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
-        "h": "3T4(S202)-3T5(S202)-5M4(S001)-5M5(S001)",
-        "prof": "Alessandro Goedtel",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5T2(I201)-5T3(I201)-5T4(I201)-5T5(I201)",
+        "prof": "Juliana Ferri",
         "opt": "Não"
       }
     ]
@@ -1025,6 +2003,23 @@
     ]
   },
   {
+    "code": "A4MRM",
+    "name": "Mecânica E Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M2(A143)-3M3(A143)-4M2(P201)-4M3(P201)",
+        "prof": "Joao Roberto Sartori Moreno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E5MRM",
     "name": "Mecânica E Resistência Dos Materiais",
     "turmas": [
@@ -1036,6 +2031,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "5T2(A140)-5T3(A140)-6M2(A135)-6M3(A135)",
+        "prof": "Fernando Henrique De Oliveira Camara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MRM",
+    "name": "Mecânica E Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "ET51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4M2(A038)-4M3(A038)-5M2(A038)-5M3(A038)",
         "prof": "Fernando Henrique De Oliveira Camara",
         "opt": "Não"
       }
@@ -1093,18 +2105,18 @@
     ]
   },
   {
-    "code": "A6MDO",
-    "name": "Métodos De Otimização",
+    "code": "MCT2",
+    "name": "Metodologia Científica E Tecnológica",
     "turmas": [
       {
-        "turma": "A61",
+        "turma": "ET71",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "3M2(SUB005)-3M3(SUB005)-3M4(SUB005)-3M5(SUB005)",
-        "prof": "Andre Luis Shiguemoto",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4M4(S202)-4M5(S202)",
+        "prof": "Maria Eugenia Dajer",
         "opt": "Não"
       }
     ]
@@ -1127,19 +2139,121 @@
     ]
   },
   {
-    "code": "A2OPEX1",
-    "name": "Prática De Gestão De Projetos Com A Sociedade",
+    "code": "MCC",
+    "name": "Microcontroladores",
     "turmas": [
       {
-        "turma": "A21",
-        "enq": "EaD",
+        "turma": "ET61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "5M2(S205)-5M3(S205)-6M2(S109)-6M3(S109)",
+        "prof": "Luis Fernando Caparroz Duarte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A8OPS14",
+    "name": "Modelagem Em Controle De Sistemas Automáticos",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M2(P103)-3M3(P103)-3M4(P103)-3M5(P103)",
+        "prof": "Rodrigo Rodrigues Sumar",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A8MQE1",
+    "name": "Máquinas Elétricas 1",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3N1(S202)-3N2(S202)-4N1(S001)-4N2(S001)",
+        "prof": "Eduardo Pegoraro Heinemann",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "E5MQE1",
+    "name": "Máquinas Elétricas 1",
+    "turmas": [
+      {
+        "turma": "E51",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
+        "h": "3T4(S202)-3T5(S202)-5M4(S001)-5M5(S001)",
+        "prof": "Alessandro Goedtel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A6MDO",
+    "name": "Métodos De Otimização",
+    "turmas": [
+      {
+        "turma": "A61",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "3M2(SUB005)-3M3(SUB005)-3M4(SUB005)-3M5(SUB005)",
+        "prof": "Andre Luis Shiguemoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC42B",
+    "name": "Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "C21",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T2(P001)-5T3(P001)",
+        "prof": "Andre Luiz Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A4PBE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "A41",
+        "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "4M2(REM)-4M3(REM)-5M2(REM)-5M3(REM)",
-        "prof": "Miguel Angel Chincaro Bernuy",
-        "opt": "Matriz:179"
+        "h": "3T2(A144)-3T3(A144)-5T2(A143)-5T3(A143)",
+        "prof": "Josimar Da Silva Rocha",
+        "opt": "Não"
       }
     ]
   },
@@ -1156,6 +2270,57 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M2(I203)-2M3(I203)-3T4(I203)-3T5(I203)",
         "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43G",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "C31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3T2(I203)-3T3(I203)-4T4(I203)-4T5(I203)",
+        "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM42G",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2T4(I204)-2T5(I204)-4T2(I204)-4T3(I204)",
+        "prof": "Emilio Augusto Coelho Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PBE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4M4(I203)-4M5(I203)-6M4(I203)-6M5(I203)",
+        "prof": "Henrique Tapparello Moresco",
         "opt": "Não"
       }
     ]
@@ -1178,6 +2343,74 @@
     ]
   },
   {
+    "code": "PDS",
+    "name": "Processamento Digital De Sinais",
+    "turmas": [
+      {
+        "turma": "ET61",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T4(S205)-3T5(S205)-5T4(S205)-5T5(S205)",
+        "prof": "Eduardo Alves Hodgson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "A8OPS16",
+    "name": "Processos Em Engenharia",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "6T2(P003)-6T3(P003)-6T4(P003)-6T5(P003)",
+        "prof": "Rodrigo Rodrigues Sumar",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A8OPS17",
+    "name": "Programação Matemática Aplicada À Controle",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M2(I201)-2M3(I201)-2M4(I201)-2M5(I201)",
+        "prof": "Andre Luis Shiguemoto",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A2OPEX1",
+    "name": "Prática De Gestão De Projetos Com A Sociedade",
+    "turmas": [
+      {
+        "turma": "A21",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "4M2(REM)-4M3(REM)-5M2(REM)-5M3(REM)",
+        "prof": "Miguel Angel Chincaro Bernuy",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
     "code": "A2OPH7",
     "name": "Qualidade De Vida 1",
     "turmas": [
@@ -1191,6 +2424,23 @@
         "h": "4M4(QUADRA)-4M5(QUADRA)",
         "prof": "Waldemar Violante Striquer",
         "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "E2OPH7",
+    "name": "Qualidade De Vida 1",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 2 - Eng. Eletrônica, 3 - Eng. Controle/Automa",
+        "h": "2M2(QUADRA)-2M3(QUADRA)",
+        "prof": "Sonia Maria Rodrigues",
+        "opt": "Matriz:178"
       }
     ]
   },
@@ -1246,6 +2496,23 @@
     ]
   },
   {
+    "code": "A7RID",
+    "name": "Redes Industriais",
+    "turmas": [
+      {
+        "turma": "A71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "5M4(SUB004)-5M5(SUB004)-6M4(S006)-6M5(S006)",
+        "prof": "Guilherme Serpa Sestito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A2OPH17",
     "name": "Relações Humanas",
     "turmas": [
@@ -1259,6 +2526,108 @@
         "h": "5M4(A140)-5M5(A140)",
         "prof": "Rosianne Silva Walter",
         "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "A8ROB",
+    "name": "Robótica",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T2(S204)-2T3(S204)-4T2(S204)-4T3(S204)",
+        "prof": "Ruhan Pontes Policarpo De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET66A",
+    "name": "Seminarios Em Engenharia De Controle  E Automação",
+    "turmas": [
+      {
+        "turma": "A61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2N1(SUB003)-2N2(SUB003)",
+        "prof": "Maria Eugenia Dajer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IF68E",
+    "name": "Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "A91",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2T2(S109)-2T3(S109)-3T2(S202)-3T3(S202)",
+        "prof": "Andre Sanches Fonseca Sobrinho",
+        "opt": "Matriz:108"
+      }
+    ]
+  },
+  {
+    "code": "ET69B",
+    "name": "Sistemas Inteligentes",
+    "turmas": [
+      {
+        "turma": "A91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M4(SUB004)-2M5(SUB004)-3M4(P105)-3M5(P105)",
+        "prof": "Edson Aparecido Rozas Theodoro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET67B",
+    "name": "Sistemas Não-Lineares",
+    "turmas": [
+      {
+        "turma": "A71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "5T1(S205)-5T2(S205)-5T3(S205)",
+        "prof": "Luiz Francisco Sanches Buzzacchero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SCS",
+    "name": "Sensores E Condicionamento De Sinais",
+    "turmas": [
+      {
+        "turma": "ET51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T2(S203)-2T3(S203)-5T4(S202)-5T5(S202)",
+        "prof": "Francisco De Assis Scannavino Junior",
+        "opt": "Matriz:176"
       }
     ]
   },
@@ -1297,6 +2666,23 @@
     ]
   },
   {
+    "code": "EC45F",
+    "name": "Sinais E Sistemas",
+    "turmas": [
+      {
+        "turma": "C51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2M4(P204)-2M5(P204)-4M4(A040)-4M5(A040)",
+        "prof": "Herman Lucas Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E7SEPT1",
     "name": "Sistemas Elétricos De Potência 1",
     "turmas": [
@@ -1314,19 +2700,64 @@
     ]
   },
   {
-    "code": "IF68E",
-    "name": "Sistemas Embarcados",
+    "code": "A7SMC",
+    "name": "Sistemas Microcontrolados",
     "turmas": [
       {
-        "turma": "A91",
+        "turma": "A71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2M2(S109)-2M3(S109)-3M2(A037)-3M3(A037)",
+        "prof": "Paulo Rogerio Scalassara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC45C",
+    "name": "Sistemas Microcontrolados",
+    "turmas": [
+      {
+        "turma": "C51A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "2T2(S109)-2T3(S109)-3T2(S202)-3T3(S202)",
-        "prof": "Andre Sanches Fonseca Sobrinho",
-        "opt": "Matriz:108"
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T4(P103)-2T5(P103)-3T2(S109)-3T3(S109)",
+        "prof": "Ruhan Pontes Policarpo De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "C51B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "2T4(P103)-2T5(P103)-3T4(S109)-3T5(S109)",
+        "prof": "Ruhan Pontes Policarpo De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46B",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3M4(P003)-3M5(P003)-4M4(P003)-4M5(P003)",
+        "prof": "Luciano Tadeu Esteves Pansanato",
+        "opt": "Não"
       }
     ]
   },
@@ -1382,6 +2813,23 @@
     ]
   },
   {
+    "code": "OPH18",
+    "name": "Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "ET21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3N1(A136)-3N2(A136)",
+        "prof": "Roberto Bondarik",
+        "opt": "Matriz:176, Matriz:170, Matriz:172"
+      }
+    ]
+  },
+  {
     "code": "A2TCD",
     "name": "Teoria De Cinemática E Dinâmica",
     "turmas": [
@@ -1427,6 +2875,40 @@
     ]
   },
   {
+    "code": "EM42E",
+    "name": "Teoria De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "M21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "4T2(A146)-4T3(A146)-5T2(A136)-5T3(A136)",
+        "prof": "Sandra Mara Domiciano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCD",
+    "name": "Teoria De Cinemática E Dinâmica",
+    "turmas": [
+      {
+        "turma": "ET21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 3 - Eng. Controle/Automa",
+        "h": "2T2(A140)-2T3(A140)-3T4(A140)-3T5(A140)",
+        "prof": "Cassio Henrique Dos Santos Amador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A3TEM",
     "name": "Teoria De Eletricidade E Magnetismo",
     "turmas": [
@@ -1466,6 +2948,40 @@
         "res": "Aberta",
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M4(P104)-2M5(P104)-4T4(P104)-4T5(P104)",
+        "prof": "Fabio Campos Poderoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM44D",
+    "name": "Teoria De Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "M41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2T2(A144)-2T3(A144)-4T2(A144)-4T3(A144)",
+        "prof": "Fernando Jose Antonio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TEM",
+    "name": "Teoria De Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "ET31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "4M2(A140)-4M3(A140)-5M2(A140)-5M3(A140)",
         "prof": "Fabio Campos Poderoso",
         "opt": "Não"
       }
@@ -1517,35 +3033,35 @@
     ]
   },
   {
-    "code": "A8OPC23",
-    "name": "Tópicos Avançados Em Sistemas Computacionais E Engenharia De Software 2",
+    "code": "EM43E",
+    "name": "Teoria De Termodinâmica, Fluidos E Ondas",
     "turmas": [
       {
-        "turma": "A81",
-        "enq": "EaD",
+        "turma": "M31",
+        "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "2N1(REM)-2N2(REM)-5N1(REM)-5N2(REM)",
-        "prof": "Edson Aparecido Rozas Theodoro",
-        "opt": "Matriz:179"
+        "prio": "1 - Eng.  Mecanica",
+        "h": "4T2(A145)-4T3(A145)-5T2(A145)-5T3(A145)",
+        "prof": "Fabio Campos Poderoso",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "A8TCC",
-    "name": "Trabalho De Conclusão De Curso",
+    "code": "TTF",
+    "name": "Teoria De Termodinâmica, Fluidos E Ondas",
     "turmas": [
       {
-        "turma": "A01",
+        "turma": "ET41",
         "enq": "Presencial",
-        "vt": "50",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Controle/Automa",
-        "h": "",
-        "prof": "",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3T2(A142)-3T3(A142)-5T2(A038)-5T3(A038)",
+        "prof": "Ricardo Oliveira De Mello",
         "opt": "Não"
       }
     ]
@@ -1564,6 +3080,74 @@
         "h": "2T4(P203)-2T5(P203)-3T4(P003)-3T5(P003)",
         "prof": "Jose Carlos Marinello Filho",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC46F",
+    "name": "Transmissão De Dados",
+    "turmas": [
+      {
+        "turma": "C61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "3T2(P105)-3T3(P105)-5M4(P201)-5M5(P201)",
+        "prof": "Eduardo Alves Hodgson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TMD",
+    "name": "Transmissão De Dados",
+    "turmas": [
+      {
+        "turma": "ET71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "2T4(P203)-2T5(P203)-3T4(P003)-3T5(P003)",
+        "prof": "Jose Carlos Marinello Filho",
+        "opt": "Matriz:176"
+      }
+    ]
+  },
+  {
+    "code": "A8OPC23",
+    "name": "Tópicos Avançados Em Sistemas Computacionais E Engenharia De Software 2",
+    "turmas": [
+      {
+        "turma": "A81",
+        "enq": "EaD",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
+        "h": "2N1(REM)-2N2(REM)-5N1(REM)-5N2(REM)",
+        "prof": "Edson Aparecido Rozas Theodoro",
+        "opt": "Matriz:179"
+      }
+    ]
+  },
+  {
+    "code": "VFP",
+    "name": "Viabilidade Econômica E Financeira De Projetos",
+    "turmas": [
+      {
+        "turma": "ET81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
+        "h": "3M4(P004)-3M5(P004)-4T2(P004)-4T3(P004)",
+        "prof": "Cleverson Flor Da Rosa",
+        "opt": "Matriz:176"
       }
     ]
   }

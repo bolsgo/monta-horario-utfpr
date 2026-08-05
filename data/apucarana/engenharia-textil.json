@@ -1,5 +1,22 @@
 [
   {
+    "code": "AFCO5O",
+    "name": "Aptidão Física",
+    "turmas": [
+      {
+        "turma": "OPEG5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(QUADRA)-4T3(QUADRA)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Matriz:32"
+      }
+    ]
+  },
+  {
     "code": "ATET8A",
     "name": "Acabamentos Têxteis",
     "turmas": [
@@ -34,85 +51,6 @@
     ]
   },
   {
-    "code": "ALCO2A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "3T1(N108)-3T2(N108)-3T3(N108)",
-        "prof": "Alisson De Carvalho Reinol",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALEC2A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EC2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "4M1(M003)-4M2(M003)-4M3(M003)",
-        "prof": "Simone Alves Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EC2C",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Elétrica, 3 - Engenharia Química, 3 - Engenharia Computação",
-        "h": "4T1(N108)-4T2(N108)-4T3(N108)",
-        "prof": "Simone Alves Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALEL2A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EE2A",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Civil, 3 - Engenharia Química, 3 - Engenharia Computação",
-        "h": "4T1(N108)-4T2(N108)-4T3(N108)",
-        "prof": "Simone Alves Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALET3A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "ET3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "4M1(M001)-4M2(M001)-4M3(M001)",
-        "prof": "Rodrigo Manoel Dias Andrade",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AEEC3A",
     "name": "Análise Estatística De Dados",
     "turmas": [
@@ -141,25 +79,8 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "2M1(M006)-2M2(M006)-3M5(M010)-3M6(M010)",
-        "prof": "",
+        "prof": "Isabella Akemi Okumoto Borges",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AFCO5O",
-    "name": "Aptidão Física",
-    "turmas": [
-      {
-        "turma": "OPEG5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T2(QUADRA)-4T3(QUADRA)",
-        "prof": "Cynthia Correa Lopes Barbosa",
-        "opt": "Matriz:32"
       }
     ]
   },
@@ -210,316 +131,6 @@
         "prio": "1 - Química, 2 - Engenharia Têxtil",
         "h": "3N1(L004B)-3N2(L004B)-3N3(L004B)",
         "prof": "Patricia Salomao Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CGCO1A",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "COM1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4M5(N108)-4M6(N108)-5M5(N108)-5M6(N108)-6M2(N108)-6M3(N108)",
-        "prof": "Marcio Hiran Simoes",
-        "opt": "Não"
-      },
-      {
-        "turma": "DPEG1A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
-        "h": "2T3(N110)-2T4(N110)-3T5(N110)-3T6(N110)-5T4(N110)-5T5(N110)",
-        "prof": "Simone Alves Da Silva, Ricardo De Almeida Simon",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CDEL1A",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "EE1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
-        "h": "2N4(N108)-2N5(N108)-3N3(N108)-3N4(N108)-4N3(N108)-4N4(N108)",
-        "prof": "Ricardo De Almeida Simon",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CGCO2B",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "3T4(N108)-3T5(N108)-6T5(N108)-6T6(N108)",
-        "prof": "Leandro Da Silva Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CDEL2B",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "EE2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
-        "h": "3T1(N110)-3T2(N110)-6T1(N108)-6T2(N108)",
-        "prof": "Rodrigo Dos Santos Veloso Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CGCO3C",
-    "name": "Cálculo Diferencial E Integral 3",
-    "turmas": [
-      {
-        "turma": "COM3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2M4(N110)-2M5(N110)-5M5(N110)-5M6(N110)",
-        "prof": "Viviane Cristhyne Bini Conte",
-        "opt": "Não"
-      },
-      {
-        "turma": "DPEG3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
-        "h": "3T3(N010)-3T4(N010)-6T3(N010)-6T4(N010)",
-        "prof": "Rodrigo Dos Santos Veloso Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CDEL3C",
-    "name": "Cálculo Diferencial E Integral 3",
-    "turmas": [
-      {
-        "turma": "EE3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
-        "h": "3N1(N010)-3N2(N010)-6T5(N010)-6T6(N010)",
-        "prof": "Ricardo De Almeida Simon",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAEC3C",
-    "name": "Cálculo Multivariado E Vetorial",
-    "turmas": [
-      {
-        "turma": "EC3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "3T5(M001)-3T6(M001)-6T5(M002B)-6T6(M002B)",
-        "prof": "Rodrigo Dos Santos Veloso Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CMET3C",
-    "name": "Cálculo Multivariado E Vetorial",
-    "turmas": [
-      {
-        "turma": "ET3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2M1(N009)-2M2(N009)-4M4(M001)-4M5(M001)",
-        "prof": "Rodrigo Manoel Dias Andrade",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CLCO5A",
-    "name": "Cálculo Numérico",
-    "turmas": [
-      {
-        "turma": "COM5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "3M1(N101)-3M2(N101)-5M1(M006)-5M2(M006)",
-        "prof": "Viviane Cristhyne Bini Conte",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CFET1A",
-    "name": "Cálculo Para Funções De Uma Variável",
-    "turmas": [
-      {
-        "turma": "DPET1A",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2M2(L002)-2M3(L002)-4M3(L002)-4M4(L002)-6M4(L002)-6M5(L002)",
-        "prof": "Juliana Castanon Xavier Merli",
-        "opt": "Não"
-      },
-      {
-        "turma": "ET1A",
-        "enq": "Presencial",
-        "vt": "34",
-        "vc": "34",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2M2(L002)-2M3(L002)-4M3(L002)-4M4(L002)-6M4(L002)-6M5(L002)",
-        "prof": "Juliana Castanon Xavier Merli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAEC2B",
-    "name": "Cálculo Para Funções De Várias Variáveis",
-    "turmas": [
-      {
-        "turma": "EC2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2M1(M002A)-2M2(M002A)-6M3(M002A)-6M4(M002A)",
-        "prof": "Adriana Camila Braga",
-        "opt": "Não"
-      },
-      {
-        "turma": "EC2C",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2T3(L001)-2T4(L001)-3T5(M002A)-3T6(M002A)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CFET2B",
-    "name": "Cálculo Para Funções De Várias Variáveis",
-    "turmas": [
-      {
-        "turma": "ET2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "3T4(L002)-3T5(L002)-4T4(M002A)-4T5(M002A)",
-        "prof": "Alisson De Carvalho Reinol",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAEQ1A",
-    "name": "Cálculo 1",
-    "turmas": [
-      {
-        "turma": "DPEQ1A",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "4M1(M004)-4M2(M004)-5M1(M004)-5M2(M004)-6M4(M004)-6M5(M004)",
-        "prof": "Marcio Hiran Simoes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ1A",
-        "enq": "Presencial",
-        "vt": "34",
-        "vc": "34",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "4M1(M004)-4M2(M004)-5M1(M004)-5M2(M004)-6M4(M004)-6M5(M004)",
-        "prof": "Marcio Hiran Simoes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAEQ2B",
-    "name": "Cálculo 2",
-    "turmas": [
-      {
-        "turma": "EQ2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2T5(C003)-2T6(C003)-6T5(M006)-6T6(M006)",
-        "prof": "Bruno Luiz Santana Vicentin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAEQ3C",
-    "name": "Cálculo 3",
-    "turmas": [
-      {
-        "turma": "EQ3A",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "2M5(M009)-2M6(M009)-4M5(M006)-4M6(M006)",
-        "prof": "Angelo Aliano Filho",
         "opt": "Não"
       }
     ]
@@ -672,19 +283,312 @@
     ]
   },
   {
-    "code": "DPET3O",
-    "name": "Desenvolvimento De Projeto De Pesquisa",
+    "code": "CGCO1A",
+    "name": "Cálculo Diferencial E Integral 1",
     "turmas": [
       {
-        "turma": "OPET3A",
+        "turma": "COM1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M5(N108)-4M6(N108)-5M5(N108)-5M6(N108)-6M2(N108)-6M3(N108)",
+        "prof": "Marcio Hiran Simoes",
+        "opt": "Não"
+      },
+      {
+        "turma": "DPEG1A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T4(H001)-4T5(H001)-4T6(H001)",
-        "prof": "Patricia Mellero Machado Cardoso",
-        "opt": "Matriz:7, Matriz:34"
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
+        "h": "2T3(N110)-2T4(N110)-3T5(N110)-3T6(N110)-5T4(N110)-5T5(N110)",
+        "prof": "Simone Alves Da Silva, Ricardo De Almeida Simon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CGCO2B",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "3T4(N108)-3T5(N108)-6T5(N108)-6T6(N108)",
+        "prof": "Leandro Da Silva Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CGCO3C",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "COM3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2M4(N110)-2M5(N110)-5M5(N110)-5M6(N110)",
+        "prof": "Viviane Cristhyne Bini Conte",
+        "opt": "Não"
+      },
+      {
+        "turma": "DPEG3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
+        "h": "3T3(N010)-3T4(N010)-6T3(N010)-6T4(N010)",
+        "prof": "Rodrigo Dos Santos Veloso Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CLCO5A",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "COM5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "3M1(N101)-3M2(N101)-5M1(M006)-5M2(M006)",
+        "prof": "Viviane Cristhyne Bini Conte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAEQ1A",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "DPEQ1A",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "4M1(M004)-4M2(M004)-5M1(M004)-5M2(M004)-6M4(M004)-6M5(M004)",
+        "prof": "Marcio Hiran Simoes",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ1A",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "4M1(M004)-4M2(M004)-5M1(M004)-5M2(M004)-6M4(M004)-6M5(M004)",
+        "prof": "Marcio Hiran Simoes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAEQ2B",
+    "name": "Cálculo 2",
+    "turmas": [
+      {
+        "turma": "EQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2T5(C003)-2T6(C003)-6T5(M006)-6T6(M006)",
+        "prof": "Bruno Luiz Santana Vicentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAEQ3C",
+    "name": "Cálculo 3",
+    "turmas": [
+      {
+        "turma": "EQ3A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M5(M009)-2M6(M009)-4M5(M006)-4M6(M006)",
+        "prof": "Angelo Aliano Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDEL1A",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EE1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
+        "h": "2N4(N108)-2N5(N108)-3N3(N108)-3N4(N108)-4N3(N108)-4N4(N108)",
+        "prof": "Ricardo De Almeida Simon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDEL2B",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EE2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
+        "h": "3T1(N110)-3T2(N110)-6T1(N108)-6T2(N108)",
+        "prof": "Rodrigo Dos Santos Veloso Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CDEL3C",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "EE3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Computação",
+        "h": "3N1(N010)-3N2(N010)-6T5(N010)-6T6(N010)",
+        "prof": "Ricardo De Almeida Simon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAEC3C",
+    "name": "Cálculo Multivariado E Vetorial",
+    "turmas": [
+      {
+        "turma": "EC3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "3T5(M001)-3T6(M001)-6T5(M002B)-6T6(M002B)",
+        "prof": "Rodrigo Dos Santos Veloso Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CMET3C",
+    "name": "Cálculo Multivariado E Vetorial",
+    "turmas": [
+      {
+        "turma": "ET3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M1(N009)-2M2(N009)-4M4(M001)-4M5(M001)",
+        "prof": "Rodrigo Manoel Dias Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAEC2B",
+    "name": "Cálculo Para Funções De Várias Variáveis",
+    "turmas": [
+      {
+        "turma": "EC2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M1(M002A)-2M2(M002A)-6M3(M002A)-6M4(M002A)",
+        "prof": "Adriana Camila Braga",
+        "opt": "Não"
+      },
+      {
+        "turma": "EC2C",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2T3(L001)-2T4(L001)-3T5(M002A)-3T6(M002A)",
+        "prof": "Isabella Akemi Okumoto Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CFET2B",
+    "name": "Cálculo Para Funções De Várias Variáveis",
+    "turmas": [
+      {
+        "turma": "ET2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "3T4(L002)-3T5(L002)-4T4(M002A)-4T5(M002A)",
+        "prof": "Alisson De Carvalho Reinol",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CFET1A",
+    "name": "Cálculo Para Funções De Uma Variável",
+    "turmas": [
+      {
+        "turma": "DPET1A",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M2(L002)-2M3(L002)-4M3(L002)-4M4(L002)-6M4(L002)-6M5(L002)",
+        "prof": "Juliana Castanon Xavier Merli",
+        "opt": "Não"
+      },
+      {
+        "turma": "ET1A",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "2M2(L002)-2M3(L002)-4M3(L002)-4M4(L002)-6M4(L002)-6M5(L002)",
+        "prof": "Juliana Castanon Xavier Merli",
+        "opt": "Não"
       }
     ]
   },
@@ -702,6 +606,23 @@
         "h": "2M5(L003B)-2M6(L003B)-5M5(M008)-5M6(M008)",
         "prof": "Ariana Martins Vieira Fagan",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DPET3O",
+    "name": "Desenvolvimento De Projeto De Pesquisa",
+    "turmas": [
+      {
+        "turma": "OPET3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(H001)-4T5(H001)-4T6(H001)",
+        "prof": "Patricia Mellero Machado Cardoso",
+        "opt": "Matriz:7, Matriz:34"
       }
     ]
   },
@@ -735,6 +656,23 @@
         "prio": "1 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil",
         "h": "5M1(M008)-5M2(M008)",
         "prof": "Tiago Ferreira Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EFCO3A",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "COM3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2M2(N110)-2M3(N110)-5M3(N110)-5M4(N110)",
+        "prof": "Cosmo Damiao Santiago",
         "opt": "Não"
       }
     ]
@@ -820,23 +758,6 @@
         "prio": "1 - Engenharia Têxtil",
         "h": "5M3(N011)-5M4(N011)-5M5(N011)",
         "prof": "Fabricio Kurman Merlin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EFCO3A",
-    "name": "Equações Diferenciais Ordinárias",
-    "turmas": [
-      {
-        "turma": "COM3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2M2(N110)-2M3(N110)-5M3(N110)-5M4(N110)",
-        "prof": "Cosmo Damiao Santiago",
         "opt": "Não"
       }
     ]
@@ -978,18 +899,18 @@
     ]
   },
   {
-    "code": "FSLQ5C",
-    "name": "Física C",
+    "code": "FPET3A",
+    "name": "Fundamentos Da Programação",
     "turmas": [
       {
-        "turma": "LQ5A",
+        "turma": "ET3A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
-        "h": "4N1(M011)-4N2(M011)-4N3(M011)",
-        "prof": "Rogers Caparroz",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "2M5(C003)-2M6(C003)-3M1(M009)-3M2(M009)",
+        "prof": "Luiz Fernando Carvalho",
         "opt": "Não"
       }
     ]
@@ -1012,6 +933,85 @@
     ]
   },
   {
+    "code": "FECO4B",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "COM4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4T3(J004)-4T4(J004)",
+        "prof": "Michely Patricia Rosseto",
+        "opt": "Não"
+      },
+      {
+        "turma": "COM4B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4T5(J004)-4T6(J004)",
+        "prof": "Michely Patricia Rosseto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FTCO2A",
+    "name": "Física Teórica 1",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2T4(N108)-2T5(N108)-5T2(N108)-5T3(N108)",
+        "prof": "Michely Patricia Rosseto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FTCO4C",
+    "name": "Física Teórica 3",
+    "turmas": [
+      {
+        "turma": "COM4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2T5(N010)-2T6(N010)-3T5(N010)-3T6(N010)",
+        "prof": "Rogers Caparroz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FSLQ5C",
+    "name": "Física C",
+    "turmas": [
+      {
+        "turma": "LQ5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "4N1(M011)-4N2(M011)-4N3(M011)",
+        "prof": "Rogers Caparroz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FEEC3A",
     "name": "Física Experimental 1",
     "turmas": [
@@ -1023,7 +1023,7 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "5T3(M101)-5T4(M101)",
-        "prof": "Michely Patricia Rosseto",
+        "prof": "Edenize Sodre Dos Santos",
         "opt": "Não"
       }
     ]
@@ -1069,34 +1069,6 @@
         "prio": "1 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "2M3(M101)-2M4(M101)",
         "prof": "Rodolfo Teixeira De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FECO4B",
-    "name": "Física Experimental 2",
-    "turmas": [
-      {
-        "turma": "COM4A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4T3(J004)-4T4(J004)",
-        "prof": "Michely Patricia Rosseto",
-        "opt": "Não"
-      },
-      {
-        "turma": "COM4B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4T5(J004)-4T6(J004)",
-        "prof": "Michely Patricia Rosseto",
         "opt": "Não"
       }
     ]
@@ -1148,23 +1120,6 @@
         "prio": "1 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "5T5(J004)-5T6(J004)",
         "prof": "Rodolfo Teixeira De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FTCO2A",
-    "name": "Física Teórica 1",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2T4(N108)-2T5(N108)-5T2(N108)-5T3(N108)",
-        "prof": "Edenize Sodre Dos Santos",
         "opt": "Não"
       }
     ]
@@ -1226,24 +1181,7 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "5T5(M004)-5T6(M004)-6T3(M004)-6T4(M004)",
-        "prof": "Michely Patricia Rosseto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FTCO4C",
-    "name": "Física Teórica 3",
-    "turmas": [
-      {
-        "turma": "COM4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2T5(N010)-2T6(N010)-3T5(N010)-3T6(N010)",
-        "prof": "Rogers Caparroz",
+        "prof": "Edenize Sodre Dos Santos",
         "opt": "Não"
       }
     ]
@@ -1300,74 +1238,6 @@
     ]
   },
   {
-    "code": "FPET3A",
-    "name": "Fundamentos Da Programação",
-    "turmas": [
-      {
-        "turma": "ET3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "2M5(C003)-2M6(C003)-3M1(M009)-3M2(M009)",
-        "prof": "Luiz Fernando Carvalho",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GTDM4A",
-    "name": "Gêneros Textuais Acadêmicos",
-    "turmas": [
-      {
-        "turma": "DM1A",
-        "enq": "Presencial",
-        "vt": "31",
-        "vc": "30",
-        "res": "Aberta",
-        "prio": "1 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4M2(K003)-4M3(K003)",
-        "prof": "Ana Cristina Fernandes Pereira Wolff",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GTEL1A",
-    "name": "Gêneros Textuais Acadêmicos",
-    "turmas": [
-      {
-        "turma": "EE1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica, 2 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil",
-        "h": "5N3(N108)-5N4(N108)",
-        "prof": "Oscar Fussato Nakasato",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GTET1A",
-    "name": "Gêneros Textuais Acadêmicos",
-    "turmas": [
-      {
-        "turma": "ET1A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "34",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Têxtil, 2 - Design De Moda, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4M5(L002)-4M6(L002)",
-        "prof": "Ana Cristina Fernandes Pereira Wolff",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "GACO1A",
     "name": "Geometria Analítica",
     "turmas": [
@@ -1391,6 +1261,23 @@
         "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica, 1 - Engenharia Computação",
         "h": "3M1(N108)-3M2(N108)-3M3(N108)",
         "prof": "Rodrigo Manoel Dias Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GM69A",
+    "name": "Gestão Da Manutenção",
+    "turmas": [
+      {
+        "turma": "ET9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "3M2(N009)-3M3(N009)-3M4(N009)-3M5(N009)",
+        "prof": "Isabel Cristina Moretti",
         "opt": "Não"
       }
     ]
@@ -1503,23 +1390,6 @@
     ]
   },
   {
-    "code": "GM69A",
-    "name": "Gestão Da Manutenção",
-    "turmas": [
-      {
-        "turma": "ET9A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "3M2(N009)-3M3(N009)-3M4(N009)-3M5(N009)",
-        "prof": "Isabel Cristina Moretti",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "GPET6A",
     "name": "Gestão De Pessoas E Relações Interpessoais",
     "turmas": [
@@ -1532,6 +1402,57 @@
         "prio": "1 - Engenharia Têxtil",
         "h": "2M4(N009)-2M5(N009)-6M4(L004A)-6M5(L004A)",
         "prof": "Tiago Ferreira Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTDM4A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "DM1A",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M2(K003)-4M3(K003)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTEL1A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "EE1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Design De Moda, 2 - Engenharia Têxtil, 2 - Engenharia Civil",
+        "h": "5N3(N108)-5N4(N108)",
+        "prof": "Oscar Fussato Nakasato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GTET1A",
+    "name": "Gêneros Textuais Acadêmicos",
+    "turmas": [
+      {
+        "turma": "ET1A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Design De Moda, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M5(L002)-4M6(L002)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
         "opt": "Não"
       }
     ]
@@ -1722,7 +1643,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
-        "h": "2M5(N010)-2M6(N010)",
+        "h": "2M4(N010)-2M5(N010)",
         "prof": "Daniele Miki Fujikawa Bozoli",
         "opt": "Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:17, Matriz:18"
       },
@@ -1797,6 +1718,23 @@
         "prio": "1 - Engenharia Têxtil",
         "h": "5M3(M008)-5M4(M008)",
         "prof": "Ariana Martins Vieira Fagan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PECO2A",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica",
+        "h": "5T4(N108)-5T5(N108)",
+        "prof": "Graciana Freitas Palioto Pescim",
         "opt": "Não"
       }
     ]
@@ -1877,23 +1815,6 @@
         "h": "5T2(M003)-5T3(M003)",
         "prof": "Graciana Freitas Palioto Pescim",
         "opt": "Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:36, Matriz:25, Matriz:18, Matriz:7, Matriz:17, Matriz:32, Matriz:19"
-      }
-    ]
-  },
-  {
-    "code": "PECO2A",
-    "name": "Metodologia De Pesquisa",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica",
-        "h": "5T4(N108)-5T5(N108)",
-        "prof": "Graciana Freitas Palioto Pescim",
-        "opt": "Não"
       }
     ]
   },
@@ -1983,6 +1904,23 @@
     ]
   },
   {
+    "code": "POCO5A",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "COM5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2M5(N101)-2M6(N101)-4M1(N101)-4M2(N101)",
+        "prof": "Isabella Akemi Okumoto Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "POET8A",
     "name": "Pesquisa Operacional",
     "turmas": [
@@ -2029,40 +1967,6 @@
         "prio": "1 - Engenharia Têxtil",
         "h": "5M1(L003B)-5M2(L003B)",
         "prof": "Fabricio Kurman Merlin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PRET5A",
-    "name": "Pré-Tratamento Têxtil",
-    "turmas": [
-      {
-        "turma": "ET5A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "5M3(L003B)-5M4(L003B)-5M5(L003B)-5M6(L003B)",
-        "prof": "Dayane Samara De Carvalho Coltre",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "POCO5A",
-    "name": "Probabilidade E Estatística",
-    "turmas": [
-      {
-        "turma": "COM5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2M5(N101)-2M6(N101)-4M1(N101)-4M2(N101)",
-        "prof": "",
         "opt": "Não"
       }
     ]
@@ -2146,26 +2050,26 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Têxtil, 1 - Engenharia Química, 1 - Engenharia Civil, 1 - Engenharia Elétrica",
-        "h": "2M5(I001)-2M6(I001)",
+        "h": "2M4(I001)-2M5(I001)",
         "prof": "Cynthia Correa Lopes Barbosa",
         "opt": "Matriz:34, Matriz:7"
       }
     ]
   },
   {
-    "code": "QV62O",
-    "name": "Qualidade De Vida",
+    "code": "PRET5A",
+    "name": "Pré-Tratamento Têxtil",
     "turmas": [
       {
-        "turma": "OPEG2A",
+        "turma": "ET5A",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T2(I001)-3T3(I001)",
-        "prof": "Cynthia Correa Lopes Barbosa",
-        "opt": "Matriz:36, Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:18, Matriz:17, Matriz:7"
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "5M3(L003B)-5M4(L003B)-5M5(L003B)-5M6(L003B)",
+        "prof": "Dayane Samara De Carvalho Coltre",
+        "opt": "Não"
       }
     ]
   },
@@ -2211,6 +2115,23 @@
         "h": "2T1(N010)-2T2(N010)-5T4(N008)-5T5(N008)",
         "prof": "Ana Claudia Pedrozo Da Silva Gasparetto",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QV62O",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "OPEG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(I001)-3T3(I001)",
+        "prof": "Cynthia Correa Lopes Barbosa",
+        "opt": "Matriz:36, Matriz:39, Matriz:35, Matriz:37, Matriz:34, Matriz:18, Matriz:17, Matriz:7"
       }
     ]
   },
@@ -2367,23 +2288,6 @@
     ]
   },
   {
-    "code": "SG60A",
-    "name": "Sistemas De Gestão Ambiental",
-    "turmas": [
-      {
-        "turma": "EC9A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 3 - Engenharia Química",
-        "h": "6T1(M008)-6T2(M008)-6T3(M008)-6T4(M008)",
-        "prof": "Marcio Roberto Ghizzo, Halison Correia Golias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "SPET6A",
     "name": "Sistemas Produtivos De Tecelagem Plana",
     "turmas": [
@@ -2401,6 +2305,57 @@
     ]
   },
   {
+    "code": "SG60A",
+    "name": "Sistemas De Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "EC9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Têxtil, 3 - Engenharia Química",
+        "h": "6T1(M008)-6T2(M008)-6T3(M008)-6T4(M008)",
+        "prof": "Marcio Roberto Ghizzo, Halison Correia Golias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC69A",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "ET9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "6M3(H001)-6M4(H001)-6M5(H001)-6M6(H001)",
+        "prof": "Caroline Apoloni Cionek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC60B",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "ET10A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "",
+        "prof": "Dayane Samara De Carvalho Coltre",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TEET3A",
     "name": "Termodinâmica",
     "turmas": [
@@ -2412,23 +2367,6 @@
         "res": "Fechada",
         "prio": "1 - Engenharia Têxtil",
         "h": "5M1(M003)-5M2(M003)-5M3(M003)-5M4(M003)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TXET8A",
-    "name": "Têxteis Técnicos",
-    "turmas": [
-      {
-        "turma": "ET8A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "3T1(L003A)-3T2(L003A)-3T3(L003A)",
         "prof": "",
         "opt": "Não"
       }
@@ -2469,6 +2407,40 @@
     ]
   },
   {
+    "code": "TCET5A",
+    "name": "Transferência De Calor E Massa",
+    "turmas": [
+      {
+        "turma": "ET5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "4M1(L003A)-4M2(L003A)-4M3(L003A)",
+        "prof": "Andrea Sartori Jabur",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TXET8A",
+    "name": "Têxteis Técnicos",
+    "turmas": [
+      {
+        "turma": "ET8A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Têxtil",
+        "h": "3T1(L003A)-3T2(L003A)-3T3(L003A)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TEET3O",
     "name": "Tópicos Avançados Em Engenharia Qualidade",
     "turmas": [
@@ -2486,52 +2458,80 @@
     ]
   },
   {
-    "code": "TC69A",
-    "name": "Trabalho De Conclusão De Curso 1",
+    "code": "ALCO2A",
+    "name": "Álgebra Linear",
     "turmas": [
       {
-        "turma": "ET9A",
+        "turma": "COM2A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "6M3(H001)-6M4(H001)-6M5(H001)-6M6(H001)",
-        "prof": "Caroline Apoloni Cionek",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "3T1(N108)-3T2(N108)-3T3(N108)",
+        "prof": "Alisson De Carvalho Reinol",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "TC60B",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "ALEC2A",
+    "name": "Álgebra Linear",
     "turmas": [
       {
-        "turma": "ET10A",
+        "turma": "EC2A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "",
-        "prof": "Dayane Samara De Carvalho Coltre",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "4M1(M003)-4M2(M003)-4M3(M003)",
+        "prof": "Simone Alves Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EC2C",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil, 2 - Engenharia Elétrica, 3 - Engenharia Química, 3 - Engenharia Computação",
+        "h": "4T1(N108)-4T2(N108)-4T3(N108)",
+        "prof": "Simone Alves Da Silva",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "TCET5A",
-    "name": "Transferência De Calor E Massa",
+    "code": "ALEL2A",
+    "name": "Álgebra Linear",
     "turmas": [
       {
-        "turma": "ET5A",
+        "turma": "EE2A",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "25",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Têxtil",
-        "h": "4M1(L003A)-4M2(L003A)-4M3(L003A)",
-        "prof": "Andrea Sartori Jabur",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Civil, 3 - Engenharia Química, 3 - Engenharia Computação",
+        "h": "4T1(N108)-4T2(N108)-4T3(N108)",
+        "prof": "Simone Alves Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALET3A",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "ET3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Têxtil, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
+        "h": "4M1(M001)-4M2(M001)-4M3(M001)",
+        "prof": "Rodrigo Manoel Dias Andrade",
         "opt": "Não"
       }
     ]

@@ -96,23 +96,6 @@
     ]
   },
   {
-    "code": "EN02M",
-    "name": "Tópicos Especiais Em Processamento De Energia I",
-    "turmas": [
-      {
-        "turma": "OPEE",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(L005)-2N1(V1-103)-2N2(L005)-2N2(V1-103)-3N1(L005)-3N1(V1-103)-3N2(L005)-3N2(V1-103)",
-        "prof": "Eloi Agostini Junior",
-        "opt": "Matriz:806"
-      }
-    ]
-  },
-  {
     "code": "EE10A",
     "name": "Trabalho De Conclusão De Curso",
     "turmas": [
@@ -143,6 +126,23 @@
         "h": "",
         "prof": "Josmar Ivanqui",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EN02M",
+    "name": "Tópicos Especiais Em Processamento De Energia I",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L005)-2N1(V1-103)-2N2(L005)-2N2(V1-103)-3N1(L005)-3N1(V1-103)-3N2(L005)-3N2(V1-103)",
+        "prof": "Eloi Agostini Junior",
+        "opt": "Matriz:806"
       }
     ]
   }

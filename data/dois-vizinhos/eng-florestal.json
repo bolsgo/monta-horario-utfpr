@@ -102,23 +102,6 @@
     ]
   },
   {
-    "code": "BIN17CBB",
-    "name": "Bioinformática",
-    "turmas": [
-      {
-        "turma": "CBOPT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "2N1(B6-S3)-2N2(B6-S3)-2N3(B6-S3)",
-        "prof": "Juliana Morini Kupper Cardoso",
-        "opt": "Matriz:58"
-      }
-    ]
-  },
-  {
     "code": "BI16BB",
     "name": "Bioinformática",
     "turmas": [
@@ -136,6 +119,23 @@
     ]
   },
   {
+    "code": "BIN17CBB",
+    "name": "Bioinformática",
+    "turmas": [
+      {
+        "turma": "CBOPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N1(B6-S3)-2N2(B6-S3)-2N3(B6-S3)",
+        "prof": "Juliana Morini Kupper Cardoso",
+        "opt": "Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "BC11BB",
     "name": "Biologia Celular",
     "turmas": [
@@ -148,6 +148,40 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "3T3(B3-S6)-3T4(B3-S6)-3T5(B3-S6)",
         "prof": "Marcela De Paiva Foletto Felipe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BM14BB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M2(B6-S4)-2M3(B6-S4)-2M4(B6-S4)",
+        "prof": "Betty Cristiane Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BMO15CB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "5BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
+        "prof": "Juliana Morini Kupper Cardoso",
         "opt": "Não"
       }
     ]
@@ -176,40 +210,6 @@
         "prio": "1 - Agronomia",
         "h": "4T1(B5-S4)-4T2(B5-S4)-4T5(B5-S4)-4T6(B5-S4)",
         "prof": "Carlos Alberto Casali",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BMO15CB",
-    "name": "Biologia Molecular",
-    "turmas": [
-      {
-        "turma": "5BCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
-        "prof": "Juliana Morini Kupper Cardoso",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BM14BB",
-    "name": "Biologia Molecular",
-    "turmas": [
-      {
-        "turma": "4EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "2M2(B6-S4)-2M3(B6-S4)-2M4(B6-S4)",
-        "prof": "Betty Cristiane Kuhn",
         "opt": "Não"
       }
     ]
@@ -373,23 +373,6 @@
     ]
   },
   {
-    "code": "CA12FL",
-    "name": "Cálculo 1",
-    "turmas": [
-      {
-        "turma": "2EF1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "4M3(B8-S2)-4M4(B8-S2)-5M3(B7-S6)-5M4(B7-S6)",
-        "prof": "Adriana Sbardelotto Di Domenico",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CP10FL",
     "name": "Celulose E Papel",
     "turmas": [
@@ -419,6 +402,23 @@
         "prio": "1 - Agronomia",
         "h": "5T2(B5-S4)-5T3(B5-S4)",
         "prof": "Elisandra Pocojeski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL43B",
+    "name": "Climatologia",
+    "turmas": [
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Frederico Marcio Correa Vieira",
         "opt": "Não"
       }
     ]
@@ -505,6 +505,23 @@
         "h": "2M5(B3-S2)-2M6(B3-S2)",
         "prof": "Patricia Fernandes",
         "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "CA12FL",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M3(B8-S2)-4M4(B8-S2)-5M3(B7-S6)-5M4(B7-S6)",
+        "prof": "Adriana Sbardelotto Di Domenico",
+        "opt": "Não"
       }
     ]
   },
@@ -758,6 +775,23 @@
     ]
   },
   {
+    "code": "EF16FL",
+    "name": "Extensão Florestal E Métodos Participativos",
+    "turmas": [
+      {
+        "turma": "6EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M1(B6-S3)-2M2(B6-S3)-2M3(B6-S3)",
+        "prof": "Patricia Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EC17ZO",
     "name": "Extensão E Comunicação Rural",
     "turmas": [
@@ -787,23 +821,6 @@
         "prio": "1 - Agronomia",
         "h": "3T1(B5-S2)-3T2(B5-S2)-3T3(B5-S2)",
         "prof": "Serinei Cesar Grigolo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EF16FL",
-    "name": "Extensão Florestal E Métodos Participativos",
-    "turmas": [
-      {
-        "turma": "6EF1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "2M1(B6-S3)-2M2(B6-S3)-2M3(B6-S3)",
-        "prof": "Patricia Fernandes",
         "opt": "Não"
       }
     ]
@@ -855,108 +872,6 @@
         "prio": "1 - Zootecnia",
         "h": "4T1(B6-S5)-4T2(B6-S5)-5M2(B6-S4)-5M3(B6-S4)",
         "prof": "Laercio Ricardo Sartor",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI12AG",
-    "name": "Física Aplicada I",
-    "turmas": [
-      {
-        "turma": "2AG1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4T2(B5-S2)-4T3(B5-S2)-5M3(B5-S2)-5M4(B5-S2)",
-        "prof": "Andre Luiz De Lima Ponzoni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FA13AG",
-    "name": "Física Aplicada Ii",
-    "turmas": [
-      {
-        "turma": "3AG1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "2M4(B5-S3)-2M5(B5-S3)-4M4(B5-S3)-4M5(B5-S3)",
-        "prof": "Thiago Petrucci Rodrigues",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI12FL",
-    "name": "Física 1",
-    "turmas": [
-      {
-        "turma": "2EF1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
-        "prof": "Andre Luiz De Lima Ponzoni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI13BB",
-    "name": "Física 1",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
-        "prof": "Andre Luiz De Lima Ponzoni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI13FL",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "3EF1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
-        "prof": "Thiago Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI14BB",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "4EB1",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
-        "prof": "Thiago Dias",
         "opt": "Não"
       }
     ]
@@ -1076,6 +991,108 @@
         "prio": "1 - Eng. Florestal",
         "h": "5M1(B7-S7)-5M2(B7-S7)-5M3(B7-S7)",
         "prof": "Felipe Rodrigues Alcides",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI12FL",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "2EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI13BB",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI13FL",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI14BB",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI12AG",
+    "name": "Física Aplicada I",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T2(B5-S2)-4T3(B5-S2)-5M3(B5-S2)-5M4(B5-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FA13AG",
+    "name": "Física Aplicada Ii",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S3)-2M5(B5-S3)-4M4(B5-S3)-4M5(B5-S3)",
+        "prof": "Thiago Petrucci Rodrigues",
         "opt": "Não"
       }
     ]
@@ -1217,6 +1234,23 @@
     ]
   },
   {
+    "code": "HD16AG",
+    "name": "Hidrologia E Drenagem",
+    "turmas": [
+      {
+        "turma": "6AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M2(B5-S6)-4M3(B5-S6)-4M4(B5-S6)-4M5(B5-S6)",
+        "prof": "Adalberto Luiz De Paula",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
     "code": "HI15AG",
     "name": "Hidráulica E Irrigação",
     "turmas": [
@@ -1247,23 +1281,6 @@
         "h": "3M3(B7-S5)-3M4(B7-S5)-3M5(B7-S5)-3M6(B7-S5)",
         "prof": "Adalberto Luiz De Paula",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HD16AG",
-    "name": "Hidrologia E Drenagem",
-    "turmas": [
-      {
-        "turma": "6AG1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4M2(B5-S6)-4M3(B5-S6)-4M4(B5-S6)-4M5(B5-S6)",
-        "prof": "Adalberto Luiz De Paula",
-        "opt": "Matriz:6, Matriz:52"
       }
     ]
   },
@@ -1398,6 +1415,40 @@
     ]
   },
   {
+    "code": "MJ18FL",
+    "name": "Manejo Florestal",
+    "turmas": [
+      {
+        "turma": "8EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3M1(LAMAF)-3M2(LAMAF)-3M3(LAMAF)-4M1(LAMAF)-4M2(LAMAF)",
+        "prof": "Veridiana Padoin Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PF15FL",
+    "name": "Manejo Integrado De Pragas Florestais",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "6M1(LABZOOLOGI)-6M2(LABZOOLOGI)",
+        "prof": "Alfredo De Gouvea",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MB18FL",
     "name": "Manejo De Bacias Hidrográficas",
     "turmas": [
@@ -1478,40 +1529,6 @@
         "prio": "1 - Eng. Florestal",
         "h": "6M4(B6-S5)-6M5(B6-S5)-6M6(B6-S5)",
         "prof": "Paulo Cesar Conceicao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MJ18FL",
-    "name": "Manejo Florestal",
-    "turmas": [
-      {
-        "turma": "8EF1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "3M1(LAMAF)-3M2(LAMAF)-3M3(LAMAF)-4M1(LAMAF)-4M2(LAMAF)",
-        "prof": "Veridiana Padoin Weber",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PF15FL",
-    "name": "Manejo Integrado De Pragas Florestais",
-    "turmas": [
-      {
-        "turma": "5EF1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "6M1(LABZOOLOGI)-6M2(LABZOOLOGI)",
-        "prof": "Alfredo De Gouvea",
         "opt": "Não"
       }
     ]
@@ -1670,40 +1687,6 @@
     ]
   },
   {
-    "code": "VG15FL",
-    "name": "Métodos De Análise De Vegetação",
-    "turmas": [
-      {
-        "turma": "5EF1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "2M3(B7-S6)-2M4(B7-S6)-2M5(B7-S6)",
-        "prof": "Mauricio Romero Gorenstein",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PM30F",
-    "name": "Métodos De Posicionamento De Medidas",
-    "turmas": [
-      {
-        "turma": "EFOPT",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "4T2(LABTOPOGEO)-4T3(LABTOPOGEO)-4T4(LABTOPOGEO)",
-        "prof": "Maria Madalena Santos Da Silva",
-        "opt": "Matriz:6"
-      }
-    ]
-  },
-  {
     "code": "MG13FL",
     "name": "Microbiologia Geral",
     "turmas": [
@@ -1734,6 +1717,40 @@
         "h": "3M1(B8-S2)-3M2(B8-S2)-3M3(B8-S2)-5M5(LABBOTANIC)-5M6(LABBOTANIC)",
         "prof": "Sandrieli Goncalves, Viviane Da Rosa",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "VG15FL",
+    "name": "Métodos De Análise De Vegetação",
+    "turmas": [
+      {
+        "turma": "5EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "2M3(B7-S6)-2M4(B7-S6)-2M5(B7-S6)",
+        "prof": "Mauricio Romero Gorenstein",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PM30F",
+    "name": "Métodos De Posicionamento De Medidas",
+    "turmas": [
+      {
+        "turma": "EFOPT",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4T2(LABTOPOGEO)-4T3(LABTOPOGEO)-4T4(LABTOPOGEO)",
+        "prof": "Maria Madalena Santos Da Silva",
+        "opt": "Matriz:6"
       }
     ]
   },
@@ -1998,34 +2015,6 @@
     ]
   },
   {
-    "code": "QF13AG",
-    "name": "Química E Física Do Solo",
-    "turmas": [
-      {
-        "turma": "3AG1",
-        "enq": "Presencial",
-        "vt": "18",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T4(B5-S3)-5T4(B5-S3)",
-        "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
-      },
-      {
-        "turma": "3AG2",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
-        "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
-      }
-    ]
-  },
-  {
     "code": "QG11FL",
     "name": "Química Geral E Orgânica",
     "turmas": [
@@ -2050,6 +2039,34 @@
         "h": "3M3(LABMULT1)-3M4(LABMULT1)-6M1(B6-S1)-6M2(B6-S1)",
         "prof": "Cristiane Dias Thiesen",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QF13AG",
+    "name": "Química E Física Do Solo",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T4(B5-S3)-5T4(B5-S3)",
+        "prof": "Elisandra Pocojeski, Andre Pellegrini",
+        "opt": "Matriz:53"
+      },
+      {
+        "turma": "3AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
+        "prof": "Elisandra Pocojeski, Andre Pellegrini",
+        "opt": "Matriz:53"
       }
     ]
   },
@@ -2207,19 +2224,19 @@
     ]
   },
   {
-    "code": "GE10FL",
-    "name": "Tópicos Especiais Em Geomática",
+    "code": "TR30F",
+    "name": "Trabalho De Conclusão De Curso Ii",
     "turmas": [
       {
-        "turma": "EFOPT",
+        "turma": "10EF1",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "100",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Florestal",
-        "h": "3T3(B8-S1)-3T4(B8-S1)-3T5(B8-S1)",
-        "prof": "Raoni Wainer Duarte Bosquilia",
-        "opt": "Matriz:6, Matriz:52"
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Veridiana Padoin Weber",
+        "opt": "Não"
       }
     ]
   },
@@ -2331,23 +2348,6 @@
     ]
   },
   {
-    "code": "TR30F",
-    "name": "Trabalho De Conclusão De Curso Ii",
-    "turmas": [
-      {
-        "turma": "10EF1",
-        "enq": "Presencial",
-        "vt": "100",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Veridiana Padoin Weber",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TC17ZO",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -2445,6 +2445,23 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "4T2(B3-S6)-4T2(B3-S6)-4T3(B3-S6)-4T3(B3-S6)-4T4(B3-S6)-4T4(B3-S6)-4T5(B3-S6)-4T5(B3-S6)",
         "prof": "Elizangela Cavazzini Cesca, Marina Celant De Pra",
+        "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "GE10FL",
+    "name": "Tópicos Especiais Em Geomática",
+    "turmas": [
+      {
+        "turma": "EFOPT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "3T3(B8-S1)-3T4(B8-S1)-3T5(B8-S1)",
+        "prof": "Raoni Wainer Duarte Bosquilia",
         "opt": "Matriz:6, Matriz:52"
       }
     ]

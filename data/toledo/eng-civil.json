@@ -1,5 +1,107 @@
 [
   {
+    "code": "LMA4D",
+    "name": "Cálculo De Funções De Várias Variáveis",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C205)-5N2(C205)-6N4(C205)-6N5(C205)",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2D",
+    "name": "Cálculo Diferencial",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N4(C204)-5N5(C204)-6N1(C204)-6N2(C204)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6D",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM002",
+    "name": "Economia Contemporânea",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "LMA6F",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C206)-5N2(C206)-6N3(AVA)-6N4(AVA)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM041",
+    "name": "Soft Skills",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "CV40A",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [

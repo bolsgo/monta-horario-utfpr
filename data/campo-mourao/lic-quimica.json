@@ -34,6 +34,62 @@
     ]
   },
   {
+    "code": "LQM6001",
+    "name": "Cinética Química",
+    "turmas": [
+      {
+        "turma": "NQ6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "2N1(G103)-2N2(G103)-2N3(G103)-3N4(G103)-3N5(G103)",
+        "prof": "Rafaelle Bonzanini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM001",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T2(D108)-4T3(D108)",
+        "prof": "Alex Sandro De Medeiros",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LQM2005",
     "name": "Cálculo Diferencial E Integral 1",
     "turmas": [
@@ -151,62 +207,6 @@
     ]
   },
   {
-    "code": "LQM6001",
-    "name": "Cinética Química",
-    "turmas": [
-      {
-        "turma": "NQ6A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Química",
-        "h": "2N1(G103)-2N2(G103)-2N3(G103)-3N4(G103)-3N5(G103)",
-        "prof": "Rafaelle Bonzanini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "NCM001",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "IC1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "4T2(D108)-4T3(D108)",
-        "prof": "Alex Sandro De Medeiros",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N4(F101)-4N5(F101)",
-        "prof": "Mauricio Cesar Menon",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N4(F101)-4N5(F101)",
-        "prof": "Mauricio Cesar Menon",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LQM8003",
     "name": "Eletroquímica",
     "turmas": [
@@ -269,23 +269,6 @@
     ]
   },
   {
-    "code": "LQM6006",
-    "name": "Estágio Supervisionado Em Química 2",
-    "turmas": [
-      {
-        "turma": "NQ6A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Química",
-        "h": "5N1(G103)-5N2(G103)-5N3(G103)",
-        "prof": "Paula Cavalcante Monteiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LQM8005",
     "name": "Estudos Culturais Da Ciência E Educação",
     "turmas": [
@@ -298,6 +281,23 @@
         "prio": "1 - Lic Química",
         "h": "4N1(G101)-4N2(G101)-4N3(G101)",
         "prof": "Gustavo Pricinotto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LQM6006",
+    "name": "Estágio Supervisionado Em Química 2",
+    "turmas": [
+      {
+        "turma": "NQ6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "5N1(G103)-5N2(G103)-5N3(G103)",
+        "prof": "Paula Cavalcante Monteiro",
         "opt": "Não"
       }
     ]
@@ -354,6 +354,57 @@
     ]
   },
   {
+    "code": "HUM002",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(F109)-3N3(F109)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "LQM8002",
+    "name": "Fundamentos De Controle De Qualidade",
+    "turmas": [
+      {
+        "turma": "NQ8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "4N4(G105)-4N5(G105)",
+        "prof": "Nelson Consolin Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EAL7002",
+    "name": "Fundamentos De Nutrição",
+    "turmas": [
+      {
+        "turma": "IG7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "6T3(D106)-6T4(D106)-6T5(D106)",
+        "prof": "Renata Hernandez Barros Fuchs",
+        "opt": "Matriz:91"
+      }
+    ]
+  },
+  {
     "code": "LQM2006",
     "name": "Física 1",
     "turmas": [
@@ -375,17 +426,6 @@
     "name": "Física 1",
     "turmas": [
       {
-        "turma": "IDE",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N1(D101)-4N2(D101)-4N3(D101)-5N4(H004)-5N5(H004)",
-        "prof": "Debora Ferreira Da Silva",
-        "opt": "Não"
-      },
-      {
         "turma": "ID2A",
         "enq": "Presencial",
         "vt": "22",
@@ -394,6 +434,17 @@
         "prio": "1 - Eng Civil",
         "h": "3T3(F110)-3T4(F110)-3T5(F110)-5T2(H004)-5T3(H004)",
         "prof": "Paulo Willian Carvalho Sarvezuk",
+        "opt": "Não"
+      },
+      {
+        "turma": "IDE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(D101)-4N2(D101)-4N3(D101)-5N4(H004)-5N5(H004)",
+        "prof": "Debora Ferreira Da Silva",
         "opt": "Não"
       },
       {
@@ -621,57 +672,6 @@
     ]
   },
   {
-    "code": "HUM002",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(F109)-3N3(F109)",
-        "prof": "Frederico Lopes De Oliveira Diehl",
-        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
-    "code": "LQM8002",
-    "name": "Fundamentos De Controle De Qualidade",
-    "turmas": [
-      {
-        "turma": "NQ8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Química",
-        "h": "4N4(G105)-4N5(G105)",
-        "prof": "Nelson Consolin Filho",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EAL7002",
-    "name": "Fundamentos De Nutrição",
-    "turmas": [
-      {
-        "turma": "IG7A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "6T3(D106)-6T4(D106)-6T5(D106)",
-        "prof": "Renata Hernandez Barros Fuchs",
-        "opt": "Matriz:91"
-      }
-    ]
-  },
-  {
     "code": "NCM008",
     "name": "Geometria Analítica",
     "turmas": [
@@ -835,23 +835,6 @@
     ]
   },
   {
-    "code": "HUM005",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N2(D107)-4N3(D107)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
     "code": "LBRS32Q",
     "name": "Libras 2",
     "turmas": [
@@ -876,6 +859,23 @@
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
       }
     ]
   },
@@ -1009,23 +1009,6 @@
     ]
   },
   {
-    "code": "EQM5003",
-    "name": "Métodos Instrumentais De Análise",
-    "turmas": [
-      {
-        "turma": "IQ5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "4T3(F105)-4T4(F105)-4T5(F105)",
-        "prof": "Paulo Henrique Marco",
-        "opt": "Matriz:85, Matriz:93, Matriz:87"
-      }
-    ]
-  },
-  {
     "code": "LQM8001",
     "name": "Microbiologia",
     "turmas": [
@@ -1060,6 +1043,23 @@
     ]
   },
   {
+    "code": "EAL4002",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "IG4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "5N2(C006)-5N3(C006)-5N4(C006)-5N5(C006)",
+        "prof": "Marcia Regina Ferreira Geraldo Perdoncini",
+        "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
     "code": "EAL5003",
     "name": "Microbiologia De Alimentos",
     "turmas": [
@@ -1077,19 +1077,19 @@
     ]
   },
   {
-    "code": "EAL4002",
-    "name": "Microbiologia Geral",
+    "code": "EQM5003",
+    "name": "Métodos Instrumentais De Análise",
     "turmas": [
       {
-        "turma": "IG4A",
+        "turma": "IQ5A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "5N2(C006)-5N3(C006)-5N4(C006)-5N5(C006)",
-        "prof": "Marcia Regina Ferreira Geraldo Perdoncini",
-        "opt": "Matriz:85, Matriz:93"
+        "prio": "1 - Engenharia Química",
+        "h": "4T3(F105)-4T4(F105)-4T5(F105)",
+        "prof": "Paulo Henrique Marco",
+        "opt": "Matriz:85, Matriz:93, Matriz:87"
       }
     ]
   },
@@ -1123,78 +1123,6 @@
         "prio": "1 - Lic Química",
         "h": "6N2(G105)-6N3(G105)",
         "prof": "Natalia Neves Macedo Deimling",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "NCM010",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "IC1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
-        "prof": "Helio Vinicius Moreno Tozatti",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG1A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
-        "prof": "Helio Vinicius Moreno Tozatti",
-        "opt": "Não"
-      },
-      {
-        "turma": "IQ1A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
         "opt": "Não"
       }
     ]
@@ -1278,6 +1206,78 @@
     ]
   },
   {
+    "code": "NCM010",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LQM2004",
     "name": "Psicologia Da Educação",
     "turmas": [
@@ -1325,23 +1325,6 @@
         "h": "2N4(G104)-2N5(G104)-4N4(G104)-4N5(G104)",
         "prof": "Patricia Valderrama",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EAL5004",
-    "name": "Química De Alimentos",
-    "turmas": [
-      {
-        "turma": "IG5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "4T1(B105)-4T2(B105)-5T2(D101)-5T3(D101)",
-        "prof": "Roberta De Souza Leone",
-        "opt": "Matriz:91"
       }
     ]
   },
@@ -1426,6 +1409,91 @@
         "prio": "1 - Lic Química",
         "h": "3N4(G105)-3N5(G105)-4N4(G102)-4N5(G102)",
         "prof": "Daniela Aline Barancelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EAL5004",
+    "name": "Química De Alimentos",
+    "turmas": [
+      {
+        "turma": "IG5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "4T1(B105)-4T2(B105)-5T2(D101)-5T3(D101)",
+        "prof": "Roberta De Souza Leone",
+        "opt": "Matriz:91"
+      }
+    ]
+  },
+  {
+    "code": "OPT126",
+    "name": "Recursos Audiovisuais Aplicados Ao Ensino",
+    "turmas": [
+      {
+        "turma": "NQO",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Química",
+        "h": "6N4(G102)-6N5(G102)",
+        "prof": "Natalia Neves Macedo Deimling",
+        "opt": "Matriz:91"
+      }
+    ]
+  },
+  {
+    "code": "TCC1",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
+        "prof": "Vera Lucia Barradas Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LQM37G",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "NQ7A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Química",
+        "h": "",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC39A",
+    "name": "Trabalho De Conclusão De Curso I",
+    "turmas": [
+      {
+        "turma": "IF9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental",
+        "h": "2T2(D103)-2T3(D103)-2T4(D103)-2T5(D103)",
+        "prof": "Maria Cleide Baldo",
         "opt": "Não"
       }
     ]
@@ -1521,40 +1589,6 @@
     ]
   },
   {
-    "code": "TCC1",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
-        "prof": "Vera Lucia Barradas Moreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TC39A",
-    "name": "Trabalho De Conclusão De Curso I",
-    "turmas": [
-      {
-        "turma": "IF9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Ambiental",
-        "h": "2T2(D103)-2T3(D103)-2T4(D103)-2T5(D103)",
-        "prof": "Maria Cleide Baldo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ECV8007",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -1617,18 +1651,29 @@
     ]
   },
   {
-    "code": "LQM37G",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "EAS8004",
+    "name": "Tratamento De Esgoto Sanitário",
     "turmas": [
       {
-        "turma": "NQ7A",
+        "turma": "IF8A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Química",
-        "h": "",
-        "prof": "",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6T1(F110)-6T2(F110)-6T3(F110)",
+        "prof": "Raphael Correa Medeiros",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental",
+        "h": "6T1(F110)-6T2(F110)-6T3(F110)",
+        "prof": "Raphael Correa Medeiros",
         "opt": "Não"
       }
     ]
@@ -1679,34 +1724,6 @@
         "res": "Aberta",
         "prio": "1 - Eng Ambiental",
         "h": "4M1(F101)-4M2(F101)-4M3(F101)",
-        "prof": "Raphael Correa Medeiros",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EAS8004",
-    "name": "Tratamento De Esgoto Sanitário",
-    "turmas": [
-      {
-        "turma": "IF8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "6T1(F110)-6T2(F110)-6T3(F110)",
-        "prof": "Raphael Correa Medeiros",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Ambiental",
-        "h": "6T1(F110)-6T2(F110)-6T3(F110)",
         "prof": "Raphael Correa Medeiros",
         "opt": "Não"
       }

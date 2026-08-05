@@ -1,79 +1,17 @@
 [
   {
-    "code": "AMB1003",
-    "name": "Avaliação De Impacto Ambiental",
+    "code": "MEC1008",
+    "name": "Desenho Técnico",
     "turmas": [
       {
-        "turma": "AMB7",
+        "turma": "TMI1",
         "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "6N1(H36)-6N2(H36)",
-        "prof": "Elias Lira Dos Santos Junior",
-        "opt": "Matriz:656"
-      }
-    ]
-  },
-  {
-    "code": "MEC1001",
-    "name": "Desenho Técnico Assistido Por Computador",
-    "turmas": [
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T1(I21)-6T2(I21)-6T3(I21)",
-        "prof": "Carlos Aparecido Fernandes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
-        "h": "2M1(I21)-2M2(I21)-2M3(I21)",
-        "prof": "Carlos Aparecido Fernandes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PRO1002",
-    "name": "Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T4(L21)-5T5(L21)",
-        "prof": "Peterson Diego Kunh",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT1002",
-    "name": "Estruturas Geométricas E Vetores",
-    "turmas": [
-      {
-        "turma": "AMB1",
-        "enq": "Presencial",
-        "vt": "54",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
-        "h": "3N3(L22)-3N4(L22)-3N5(L22)",
-        "prof": "Tasia Hickmann",
+        "vt": "32",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N3(I25)-5N4(I25)-5N5(I25)",
+        "prof": "Paulo Cesar Tonin",
         "opt": "Não"
       }
     ]
@@ -130,6 +68,23 @@
         "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
         "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
         "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1006",
+    "name": "Física",
+    "turmas": [
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "6N1(I16)-6N2(I16)-6N3(I16)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
         "opt": "Não"
       }
     ]
@@ -224,18 +179,35 @@
     ]
   },
   {
-    "code": "ELE1004",
-    "name": "Introdução À Engenharia Elétrica",
+    "code": "ELE1045",
+    "name": "Instrumentos E Medidas",
     "turmas": [
       {
-        "turma": "ELE1",
+        "turma": "TMI2",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
+        "vt": "30",
+        "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T2(L22)-5T3(L22)",
-        "prof": "Leandro Antonio Pasa",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N3(J49)-2N4(J49)-2N5(J49)",
+        "prof": "Katiani Pereira Da Conceicao",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "MEC1009",
+    "name": "Introdução À Manutenção Industrial",
+    "turmas": [
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N1(J35)-3N2(J35)",
+        "prof": "Igor Fernando Basso",
         "opt": "Não"
       }
     ]
@@ -330,136 +302,52 @@
     ]
   },
   {
-    "code": "ELE1005",
-    "name": "Materiais Elétricos E Eletrônicos",
+    "code": "QUI1055",
+    "name": "Química Aplicada À Manutenção Industrial",
     "turmas": [
       {
-        "turma": "ELE1",
+        "turma": "TMI1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
+        "vt": "34",
+        "vc": "30",
         "res": "Fechada",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T1(J43)-2T2(J43)-2T3(J43)",
-        "prof": "Alexandre Victor Casella",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1002",
-    "name": "Metodologia Da Pesquisa",
-    "turmas": [
-      {
-        "turma": "ALI3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "4M2(J22)-4M3(J22)",
-        "prof": "Eliane Colla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB1010",
-    "name": "Metodologia Da Pesquisa",
-    "turmas": [
-      {
-        "turma": "AMB1",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(I25)-4N2(I25)",
-        "prof": "Rafael Arioli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1001",
-    "name": "Química Geral E Inorgânica",
-    "turmas": [
-      {
-        "turma": "AMB1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
-        "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
-        "opt": "Não"
-      },
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4T2(L33)-4T3(L33)-4T4(L44)-4T5(L44)",
-        "prof": "Suelen Specht Calegaro Milioli, Ana Cristina Trindade Cursino",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP1",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção",
-        "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N3(I16)-3N4(I16)-3N5(I16)",
         "prof": "Suelen Specht Calegaro Milioli",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "AMB1001",
-    "name": "Sustentabilidade E Gestão",
+    "code": "ELE1043",
+    "name": "Segurança No Trabalho E Meio Ambiente",
     "turmas": [
       {
-        "turma": "ELE5",
+        "turma": "TMI1",
         "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
+        "vt": "32",
+        "vc": "30",
         "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T3(H34)-6T4(H34)-6T5(H34)",
-        "prof": "Renato Santos Flauzino",
-        "opt": "Matriz:654"
-      },
-      {
-        "turma": "EP7",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
-        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
-        "prof": "Renato Santos Flauzino",
-        "opt": "Matriz:654"
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Química Industrial",
+        "h": "2N4(I16)-2N5(I16)",
+        "prof": "Yuri Ferruzzi",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "EE60A",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "MEC1010",
+    "name": "Tecnologia Dos Materiais",
     "turmas": [
       {
-        "turma": "E101",
+        "turma": "TMI1",
         "enq": "Presencial",
-        "vt": "51",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Hugo Andres Ruiz Florez",
+        "vt": "32",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(J21)-4N2(J21)-4N3(J21)",
+        "prof": "Igor Seicho Kiyomura",
         "opt": "Não"
       }
     ]

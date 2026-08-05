@@ -1,5 +1,379 @@
 [
   {
+    "code": "LMA8B",
+    "name": "Análise Real 2",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N3(C305)-2N4(C305)-4N3(C305)-4N4(C305)",
+        "prof": "Leandro Antunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2F",
+    "name": "Construções Geométricas",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C204)-6N3(C204)-6N4(C204)-6N5(C204)",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA5C",
+    "name": "Currículo E Avaliação Em Matemática",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C305)-5N2(C305)-5N3(C305)",
+        "prof": "Barbara Winiarski Diesel Novaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4D",
+    "name": "Cálculo De Funções De Várias Variáveis",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C205)-5N2(C205)-6N4(C205)-6N5(C205)",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2D",
+    "name": "Cálculo Diferencial",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N4(C204)-5N5(C204)-6N1(C204)-6N2(C204)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6D",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM002",
+    "name": "Economia Contemporânea",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "LMA6A",
+    "name": "Educação Matemática Inclusiva 2",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N4(C206)-4N5(C206)",
+        "prof": "Aline Keryn Pin",
+        "opt": "Matriz:33, Matriz:41"
+      }
+    ]
+  },
+  {
+    "code": "LMA6G",
+    "name": "Estágio Supervisionado Na Educação Básica 2",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "3N1(C303LEM)-3N2(C303LEM)-3N3(C303LEM)-3N4(C303LEM)-3N5(C303LEM)-7M5(AVA)-7M6(AVA)",
+        "prof": "Emerson Tortola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA8C",
+    "name": "Estágio Supervisionado Na Educação Básica 4",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "3N1(C105LIFE)-3N2(C105LIFE)-3N3(C105LIFE)-3N4(C105LIFE)-3N5(C105LIFE)-7M5(AVA)-7M6(AVA)",
+        "prof": "Vanessa Largo Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4F",
+    "name": "Geometria 2",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N4(C205)-4N5(C205)-5N3(C205)-5N4(C205)-5N5(C205)",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2E",
+    "name": "Geometria Analítica E Álgebra De Vetores",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N4(C204)-2N5(C204)-3N1(C204)-3N2(C204)",
+        "prof": "Jahina Fagundes De Assis Hattori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA3B",
+    "name": "Laboratório De Matemática",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N3(C303LEM)-2N4(C303LEM)-2N5(C303LEM)",
+        "prof": "Emerson Tortola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4A",
+    "name": "Metodologia E Prática De Ensino De Matemática Na Educação Básica",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "6N1(C205)-6N2(C205)-6N3(C205)",
+        "prof": "Vanessa Largo Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6B",
+    "name": "Modelagem Matemática A",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N3(C303LEM)-5N4(C303LEM)-5N5(C303LEM)",
+        "prof": "Rodolfo Eduardo Vertuan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6C",
+    "name": "Modelagem Matemática B",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N1(C303LEM)-2N2(C303LEM)",
+        "prof": "Jahina Fagundes De Assis Hattori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2A",
+    "name": "Políticas Educacionais E Gestão Escolar",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N4(C204)-4N5(C204)-5N2(C204)-5N3(C204)",
+        "prof": "Cezar Ricardo De Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6F",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C206)-5N2(C206)-6N3(AVA)-6N4(AVA)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPMA027",
+    "name": "Resolução De Problemas",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N1(C305)-2N2(C305)-4N1(C305)-4N2(C305)",
+        "prof": "Leandro Antunes",
+        "opt": "Matriz:56, Matriz:33, Matriz:41"
+      }
+    ]
+  },
+  {
+    "code": "HUM041",
+    "name": "Soft Skills",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "LMA4B",
+    "name": "Tendências Em Educação Matemática",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "3N3(C205)-3N4(C205)-3N5(C205)",
+        "prof": "Tatiany Mottin Dartora",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2B",
+    "name": "Teorias Da Aprendizagem Em Educação Matemática",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N1(C204)-3N3(C204)-3N4(C204)-3N5(C204)",
+        "prof": "Barbara Winiarski Diesel Novaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT58D",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -11,6 +385,91 @@
         "res": "Fechada",
         "prio": "1 - Lic. Em Matemática",
         "h": "",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPMA015",
+    "name": "Tópicos Da Educação Algébrica",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N4(C305)-5N5(C305)",
+        "prof": "Tatiany Mottin Dartora",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "LMA2G",
+    "name": "Unidade Curricular De Extensão 1",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N1(C105LIFE)-4N2(C105LIFE)-4N3(C105LIFE)-7M1(AVA)-7M2(AVA)",
+        "prof": "Rodolfo Eduardo Vertuan, Aline Keryn Pin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA5H",
+    "name": "Unidade Curricular De Extensão 3",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N1(C303LEM)-4N2(C303LEM)-4N3(C303LEM)-7M4(AVA)-7M5(AVA)-7M6(AVA)",
+        "prof": "Renato Francisco Merli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA6E",
+    "name": "Álgebra",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N1(C206)-4N2(C206)-6N1(C206)-6N2(C206)",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4E",
+    "name": "Álgebra Linear 2",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N1(C205)-2N2(C205)-3N1(C205)-3N2(C205)",
         "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Não"
       }

@@ -1,0 +1,1569 @@
+[
+  {
+    "code": "GP1061",
+    "name": "Administração De Empresas Rurais",
+    "turmas": [
+      {
+        "turma": "AG6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T2(N17)-3T3(N17)-3T4(N17)-3T5(N17)",
+        "prof": "Jose Tobias Marks Machado",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jose Tobias Marks Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1063",
+    "name": "Agentes Causais De Doenças De Plantas",
+    "turmas": [
+      {
+        "turma": "AG6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(N12)-5M3(N12)-5M4(N12)",
+        "prof": "Willie Anderson Dos Santos Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER1071",
+    "name": "Agricultura De Precisão",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4T2(E11)-4T3(E11)-4T4(E11)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1062",
+    "name": "Agroecologia",
+    "turmas": [
+      {
+        "turma": "AG6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(N17)-5T2(N17)-5T3(N17)-5T4(N17)",
+        "prof": "Ana Regina Dahlem Ziech",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG6B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(N17)-5T2(N17)-5T3(N17)-5T5(N17)",
+        "prof": "Ana Regina Dahlem Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1031",
+    "name": "Agrometeorologia",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N14)-2M3(N14)-2M4(N14)",
+        "prof": "Fabricio Correia De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZO1041",
+    "name": "Alimentos E Alimentação Animal",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T2(N13)-3T3(N13)-3T4(N13)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI1011",
+    "name": "Análise Do Movimento Dos Corpos Rígidos",
+    "turmas": [
+      {
+        "turma": "AG1A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "16",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(K10)-4T3(K10)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG1B",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "26",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(K10)-4T4(K10)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1047",
+    "name": "Astronomia Básica Para O Ensino De Ciências",
+    "turmas": [
+      {
+        "turma": "AG6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(L10)-5N2(L10)-5N3(L10)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Matriz:12, Matriz:6"
+      }
+    ]
+  },
+  {
+    "code": "QU1032",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "AG3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(N14)-4M2(N14)-4M3(N14)-4M4(N14)",
+        "prof": "Ticiane Vieira De Paula Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG3B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(N14)-4M2(N14)-4M5(N14)-4M6(N14)",
+        "prof": "Ticiane Vieira De Paula Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1058",
+    "name": "Biotecnologia Agrícola",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T1(N16)-2T2(N16)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZO1094",
+    "name": "Bovinocultura De Corte E Leite",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T2(K8)-5T3(K8)-5T4(K8)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS1033",
+    "name": "Composição E Propriedades Do Solo",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(N14)-3M3(N14)-3M4(N14)",
+        "prof": "Lincon Oliveira Stefanello Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER1072",
+    "name": "Construções Rurais",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T1(N15)-3T2(N15)-3T3(N15)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1081",
+    "name": "Culturas Da Soja, Milho E Feijão",
+    "turmas": [
+      {
+        "turma": "AG8A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M1(K8)-5M2(K8)-5M3(K8)-5M4(K8)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG8B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M1(K8)-5M2(K8)-5M5(K8)-5M6(K8)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1082",
+    "name": "Defesa Fitossanitária E Receituario Agronômico",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T2(K8)-3T3(K8)",
+        "prof": "Maura Gabriela Da Silva Brochado, Willie Anderson Dos Santos Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EG1012",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "AG1A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "16",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M1(N17)-5M2(N17)-5M3(N17)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG1B",
+        "enq": "Presencial",
+        "vt": "26",
+        "vc": "26",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M1(N17)-5M4(N17)-5M5(N17)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1077",
+    "name": "Desenvolvimento E Posicionamento De Cultivares",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N16)-2M3(N16)-2M4(N16)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1042",
+    "name": "Ecologia Agrícola",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M1(N13)-5M2(N13)-5M3(N13)",
+        "prof": "Maura Gabriela Da Silva Brochado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP1051",
+    "name": "Economia Rural E Mercados Agropecuários",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T2(N16)-5T3(N16)-5T4(N16)",
+        "prof": "Jose Tobias Marks Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED148A",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas, 2 - Agronomia",
+        "h": "3N4(L8)-3N5(L8)-5N4(L8)-5N5(L8)",
+        "prof": "Eduarda Maria Schneider",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA1021",
+    "name": "Elementos De Cálculo Diferencial E Integral",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M2(L10)-5M3(L10)-5M4(L10)-5M5(L10)",
+        "prof": "Evandro Alves Nakajima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPHE",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6T2(L7)-6T3(L7)",
+        "prof": "Paula Regina Zarelli",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "FS1052",
+    "name": "Entomologia Agrícola",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M2(N16)-5M3(N16)-5M4(N16)-5M5(N16)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1043",
+    "name": "Entomologia Geral",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N17)-2M3(N17)-2M4(K3)-2M5(K3)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP1034",
+    "name": "Experimentação Na Agricultura",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M2(N14)-5M3(N14)-5M4(N14)-5M5(N14)",
+        "prof": "Nadia Graciele Krohn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS1053",
+    "name": "Fertilidade Do Solo E Adubação",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T3(N16)-2T4(N16)-2T5(N16)-2T6(N16)",
+        "prof": "Lincon Oliveira Stefanello Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1044",
+    "name": "Fisiologia Vegetal I",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(K10)-5T3(K10)-5T4(K10)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1054",
+    "name": "Fisiologia Vegetal Ii",
+    "turmas": [
+      {
+        "turma": "AG5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(N16)-4T3(N16)-4T4(N16)",
+        "prof": "Edicleia Aparecida Bonini E Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG5B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(N16)-4T3(N16)-4T5(N16)",
+        "prof": "Edicleia Aparecida Bonini E Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Edicleia Aparecida Bonini E Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1091",
+    "name": "Floricultura E Paisagismo",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(K8)-4M3(K8)-4M4(K8)",
+        "prof": "Lilian Yukari Yamamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI1035",
+    "name": "Fluidos E Termodinâmica",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T2(K10)-2T3(K10)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZO1074",
+    "name": "Forragicultura",
+    "turmas": [
+      {
+        "turma": "AG9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(N17)-2T3(N17)-2T4(N17)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG9B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(N17)-2T3(N17)-2T5(N17)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1083",
+    "name": "Fruticultura",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T2(N15)-2T3(N15)-2T4(N15)",
+        "prof": "Lilian Yukari Yamamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1013",
+    "name": "Fundamentos De Zoologia",
+    "turmas": [
+      {
+        "turma": "AG1A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "16",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(K2)-2T2(K2)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG1B",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "28",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(K2)-2T3(K2)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1036",
+    "name": "Genética Agropecuária",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T2(N14)-3T3(N14)-3T4(N14)",
+        "prof": "Vanessa Bueno Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Vanessa Bueno Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1029",
+    "name": "Geoprocessamento E Sensoriamento Remoto",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L9)-2N2(L9)-2N3(L9)",
+        "prof": "Anderson Sandro Da Rocha",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "CS1022",
+    "name": "Gênese E Morfologia Do Solo",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4T2(N15)-4T3(N15)-4T4(N15)",
+        "prof": "Anderson Sandro Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPHIT2",
+    "name": "Inglês Técnico Ii",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(L10)-4T5(L10)",
+        "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "EE1014",
+    "name": "Introdução À Agronomia",
+    "turmas": [
+      {
+        "turma": "AG1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(K2)-3M3(K2)-3M4(K2)",
+        "prof": "Glauco Vieira Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP1023",
+    "name": "Introdução À Ciência De Dados Na Agricultura",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(E11)-3M3(E11)-3M4(E11)",
+        "prof": "Alessandro Samuel Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE1084",
+    "name": "Legislação Agrária E Ambiental",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M2(K8)-2M3(K8)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE1037",
+    "name": "Levantamentos Geodésicos",
+    "turmas": [
+      {
+        "turma": "AG3",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(N14)-5T3(N14)-5T4(N14)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG3B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(N14)-5T3(N14)-5T5(N14)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE1024",
+    "name": "Levantamentos Topográficos",
+    "turmas": [
+      {
+        "turma": "AG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(N15)-4M2(N15)-4M3(N15)-4M4(N15)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M1(N15)-4M2(N15)-4M5(N15)-4M6(N15)",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Vinicius Amadeu Stuani Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED147A",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L7)-2N2(L7)-6N1(L7)-6N2(L7)",
+        "prof": "Debora Michela Prediger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED117D",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N4(L9)-3N5(L9)",
+        "prof": "Debora Michela Prediger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU1LA",
+    "name": "Linguagem Acadêmica",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia",
+        "h": "6T1(L8)-6T2(L8)-6T3(L8)",
+        "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1012",
+    "name": "Linguagem Acadêmica",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(K2)-4T3(K2)-4T4(K2)",
+        "prof": "Alexandre Meira De Vasconcelos",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "ER1064",
+    "name": "Manejo Da Água Em Sistemas Agrícolas",
+    "turmas": [
+      {
+        "turma": "AG6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4T2(N17)-4T3(N17)-4T4(N17)-4T5(N17)",
+        "prof": "Fabricio Correia De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS1065",
+    "name": "Manejo E Conservação Do Solo E Da Água",
+    "turmas": [
+      {
+        "turma": "AG6A",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M1(N17)-4M2(N17)-4M3(N17)-4M4(N17)",
+        "prof": "Lincon Oliveira Stefanello Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG6B",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M1(N17)-4M2(N17)-4M5(N17)-4M6(N17)",
+        "prof": "Lincon Oliveira Stefanello Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1073",
+    "name": "Manejo Integrado De Doenças De Plantas",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T2(N13)-5T3(N13)-5T4(N13)-5T5(N13)",
+        "prof": "Willie Anderson Dos Santos Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA1018",
+    "name": "Matemática Para A Agronomia",
+    "turmas": [
+      {
+        "turma": "AG1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(N12)-4M3(N12)-4M4(N12)-4M5(N12)",
+        "prof": "Vanderlea De Lima Inaba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER1055",
+    "name": "Mecanização Agrícola",
+    "turmas": [
+      {
+        "turma": "AG5A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(N16)-3M3(N16)-3M4(N16)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG5B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(N16)-3M3(N16)-3M5(N16)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE1025",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N15)-2M3(N15)",
+        "prof": "Lilian Yukari Yamamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPHMP",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6M4(L5)-6M5(L5)",
+        "prof": "Alexandre Meira De Vasconcelos",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CB1015",
+    "name": "Morfologia E Anatomia Vegetal",
+    "turmas": [
+      {
+        "turma": "AG1A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "16",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T1(K2)-5T2(K2)-5T3(K2)-5T4(K2)",
+        "prof": "Rejane Barbosa De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG1B",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "28",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T3(K2)-5T4(K2)-5T5(K2)-5T6(K2)",
+        "prof": "Rejane Barbosa De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER1045",
+    "name": "Máquinas E Equipamentos Agrícolas",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(N13)-4M3(N13)-4M4(N13)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1085",
+    "name": "Olericultura",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4T2(N12)-4T3(N12)-4T4(N12)-4T5(N12)",
+        "prof": "Ana Regina Dahlem Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC1075",
+    "name": "Planejamento Do Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(K2)-4M2(K2)",
+        "prof": "Alessandra Matte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1078",
+    "name": "Plantas Daninhas",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(N17)-3M3(N17)-3M4(N17)-3M5(N17)",
+        "prof": "Maura Gabriela Da Silva Brochado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES1056",
+    "name": "Princípios E Métodos De Extensão E Comunicação Rural",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T2(N16)-3T3(N16)-3T4(N16)",
+        "prof": "Alessandra Matte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CS1046",
+    "name": "Produção De Informação De Recursos Do Solo",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T2(E11)-2T3(E11)-2T4(E11)",
+        "prof": "Alessandro Samuel Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ZO1087",
+    "name": "Produção De Monogástricos",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(K8)-3M3(K8)-3M4(K8)",
+        "prof": "Carlos Alexandre Oelke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1066",
+    "name": "Produção E Tecnologia De Sementes",
+    "turmas": [
+      {
+        "turma": "AG6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N12)-2M3(N12)-2M4(N12)-2M5(N12)",
+        "prof": "Nadia Graciele Krohn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ER1057",
+    "name": "Projetos Hidráulicos Na Agricultura",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(N16)-4M3(N16)-4M4(N16)-4M5(N16)",
+        "prof": "Fabricio Correia De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1038",
+    "name": "Projetos De Desenvolvimento Sustentável",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M2(K2)-5M3(K2)",
+        "prof": "Alexandre Meira De Vasconcelos",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "OP1039",
+    "name": "Projetos, Avaliações E Perícias",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(N15)-3M5(N15)",
+        "prof": "Jose Tobias Marks Machado",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "FT1076",
+    "name": "Propagação De Plantas",
+    "turmas": [
+      {
+        "turma": "AG7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T4(N15)-3T5(N15)",
+        "prof": "Lilian Yukari Yamamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU1026",
+    "name": "Química Analítica Para A Agronomia",
+    "turmas": [
+      {
+        "turma": "AG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T1(L10)-2T2(L10)-2T3(J9)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(L10)-2T2(L10)-2T4(J9)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU1016",
+    "name": "Química Geral E Orgânica Para A Agronomia",
+    "turmas": [
+      {
+        "turma": "AG1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T1(N12)-3T2(N12)-3T3(N12)",
+        "prof": "Adriana Maria Meneghetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC1017",
+    "name": "Recursos Computacionais E Conteúdo Digital Na Agricultura",
+    "turmas": [
+      {
+        "turma": "AG1",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(E10)-2M3(E10)-2M4(E10)",
+        "prof": "Alessandro Samuel Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPHRHL",
+    "name": "Relações Humanas E Liderança",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5T5(L7)-6T1(L7)",
+        "prof": "Paula Regina Zarelli",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "FT1086",
+    "name": "Silvicultura",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T4(K8)-3T5(K8)",
+        "prof": "Maura Gabriela Da Silva Brochado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1027",
+    "name": "Sistemática Vegetal",
+    "turmas": [
+      {
+        "turma": "AG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T1(L10)-3T2(L10)-3T3(L10)-3T4(L10)",
+        "prof": "Gustavo Henrique Jeronimo Alves",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T1(L10)-3T2(L10)-3T5(L10)-3T6(L10)",
+        "prof": "Gustavo Henrique Jeronimo Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES1047",
+    "name": "Sociologia Rural",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3M2(N13)-3M3(N13)-3M4(N13)",
+        "prof": "Alessandra Matte",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Alessandra Matte",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1043",
+    "name": "Suinocultura",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(L10)-4M4(L10)-4M5(L10)",
+        "prof": "Carlos Alexandre Oelke",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "TA1092",
+    "name": "Tecnologia De Produtos Agropecuários",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(K2)-2M3(K2)-2M4(K2)-2M5(K2)",
+        "prof": "Carlos Alexandre Oelke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC1093",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "TCC2",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Alessandra Matte",
+        "opt": "Não"
+      }
+    ]
+  }
+]

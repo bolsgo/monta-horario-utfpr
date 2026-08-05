@@ -1,5 +1,297 @@
 [
   {
+    "code": "COM1005",
+    "name": "Comunicação De Dados",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5M1(L41)-5M2(L41)",
+        "prof": "Hamilton Pereira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1002",
+    "name": "Estruturas Geométricas E Vetores",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "3N3(L22)-3N4(L22)-3N5(L22)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1006",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "3M4(L21)-3M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "MAT1001",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "58",
+        "vc": "48",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
+        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
+        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1006",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(I25)-2M5(I25)-4M1(I25)-4M2(I25)-6M4(I25)-6M5(I25)",
+        "prof": "Cesar Angonese",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1008",
+    "name": "Inglês Básico 1",
+    "turmas": [
+      {
+        "turma": "OPTAH",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "COM1007",
+    "name": "Introdução À Ciência Da Computação",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "42",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5M3(L12A)-5M4(L12A)-5M5(L12A)",
+        "prof": "Alessandra Bortoletto Garbelotti Hoffmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N4(I12)-3N5(I12)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N1(I11)-5N2(I11)",
+        "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(L41)-2T5(L41)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(I11)-5M3(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(I42)-5N2(I42)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N4(I16)-4N5(I16)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1004",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPTAHUMAN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M1(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "ALM1002",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M2(J22)-4M3(J22)",
+        "prof": "Eliane Colla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1010",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(I25)-4N2(I25)",
+        "prof": "Rafael Arioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1001",
+    "name": "Sustentabilidade E Gestão",
+    "turmas": [
+      {
+        "turma": "ELE5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(H34)-6T4(H34)-6T5(H34)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      },
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
+        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
     "code": "CC58C",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -7,6 +299,23 @@
         "turma": "CC8",
         "enq": "Presencial",
         "vt": "51",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Jorge Aikes Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCOM1",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CC654",
+        "enq": "Presencial",
+        "vt": "61",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",

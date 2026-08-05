@@ -28,6 +28,23 @@
     ]
   },
   {
+    "code": "ALI093",
+    "name": "Análise Sensorial",
+    "turmas": [
+      {
+        "turma": "4EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T1(Q106)-2T2(Q106)-2T3(Q106)-2T4(Q106)",
+        "prof": "Vania De Cassia Da Fonseca Burgardt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALI092",
     "name": "Análise De Alimentos",
     "turmas": [
@@ -62,23 +79,6 @@
     ]
   },
   {
-    "code": "ALI093",
-    "name": "Análise Sensorial",
-    "turmas": [
-      {
-        "turma": "4EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "2T1(Q106)-2T2(Q106)-2T3(Q106)-2T4(Q106)",
-        "prof": "Vania De Cassia Da Fonseca Burgardt",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "HCH020",
     "name": "Associativismo E Cooperativismo",
     "turmas": [
@@ -100,17 +100,6 @@
     "name": "Bioquímica Geral",
     "turmas": [
       {
-        "turma": "SPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
-        "h": "",
-        "prof": "Maria Helene Giovanetti Canteri",
-        "opt": "Não"
-      },
-      {
         "turma": "3AGR",
         "enq": "Presencial",
         "vt": "44",
@@ -131,73 +120,16 @@
         "h": "4M1(G204)-4M2(G204)-5M3(G201)-5M4(G201)",
         "prof": "Maria Helene Giovanetti Canteri",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT024",
-    "name": "Cálculo Numérico",
-    "turmas": [
+      },
       {
-        "turma": "4EQ",
+        "turma": "SPO",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T1(R202)-4T2(R202)-5M1(Q105)-5M2(Q105)",
-        "prof": "Camila Nicola Boeri Di Domenico",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT015",
-    "name": "Cálculo 1",
-    "turmas": [
-      {
-        "turma": "2EQ",
-        "enq": "Presencial",
-        "vt": "69",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2M2(G203)-2M3(G203)-3M5(G203)-3M6(G203)",
-        "prof": "Liliane Hellmann",
-        "opt": "Matriz:45, Matriz:38"
-      }
-    ]
-  },
-  {
-    "code": "MAT016",
-    "name": "Cálculo 2",
-    "turmas": [
-      {
-        "turma": "3EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2M1(G204)-2M2(G204)-3M1(G204)-3M2(G204)",
-        "prof": "Tereza Rachel Mafioleti",
-        "opt": "Matriz:45, Matriz:38"
-      }
-    ]
-  },
-  {
-    "code": "MAT025",
-    "name": "Cálculo 3",
-    "turmas": [
-      {
-        "turma": "4EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3M4(R201)-3M5(R201)-5T5(R201)-5T6(R201)",
-        "prof": "Eduardo Michel Vieira Gomes",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química, 1 - Eng. De Alimentos, 1 - Eng. Amb. Sanitária",
+        "h": "",
+        "prof": "Maria Helene Giovanetti Canteri",
         "opt": "Não"
       }
     ]
@@ -299,6 +231,74 @@
     ]
   },
   {
+    "code": "MAT015",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "69",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M2(G203)-2M3(G203)-3M5(G203)-3M6(G203)",
+        "prof": "Liliane Hellmann",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "MAT016",
+    "name": "Cálculo 2",
+    "turmas": [
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M1(G204)-2M2(G204)-3M1(G204)-3M2(G204)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "MAT025",
+    "name": "Cálculo 3",
+    "turmas": [
+      {
+        "turma": "4EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(R201)-3M5(R201)-5T5(R201)-5T6(R201)",
+        "prof": "Eduardo Michel Vieira Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT024",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "4EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T1(R202)-4T2(R202)-5M1(Q105)-5M2(Q105)",
+        "prof": "Camila Nicola Boeri Di Domenico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "DES004",
     "name": "Desenho Técnico",
     "turmas": [
@@ -354,17 +354,6 @@
     "name": "Eletrotécnica E Instrumentação",
     "turmas": [
       {
-        "turma": "OPBSI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N2(Q210)-3N3(Q210)-3N4(Q210)-3N5(Q210)",
-        "prof": "Guilherme Bertoldo",
-        "opt": "Matriz:45"
-      },
-      {
         "turma": "6EQ",
         "enq": "Presencial",
         "vt": "44",
@@ -373,6 +362,17 @@
         "prio": "1 - Eng. Química",
         "h": "3T2(G204)-3T3(G204)-4T2(G204)-4T3(G204)",
         "prof": "Meire Cristina Fugihara",
+        "opt": "Matriz:45"
+      },
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N2(Q210)-3N3(Q210)-3N4(Q210)-3N5(Q210)",
+        "prof": "Guilherme Bertoldo",
         "opt": "Matriz:45"
       }
     ]
@@ -455,17 +455,6 @@
     "name": "Engenharia Bioquímica",
     "turmas": [
       {
-        "turma": "SPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Michele Di Domenico",
-        "opt": "Matriz:31"
-      },
-      {
         "turma": "7EQ",
         "enq": "Presencial",
         "vt": "44",
@@ -473,6 +462,17 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "2M4(R206)-2M5(R206)-4T1(R206)-4T2(R206)",
+        "prof": "Michele Di Domenico",
+        "opt": "Matriz:31"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Michele Di Domenico",
         "opt": "Matriz:31"
       }
@@ -631,51 +631,6 @@
     ]
   },
   {
-    "code": "FIS008",
-    "name": "Física Experimental",
-    "turmas": [
-      {
-        "turma": "5EQ",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng. Química, 1 - Eng. Amb. Sanitária",
-        "h": "6M3(O103)-6M4(O103)",
-        "prof": "Guilherme Bertoldo",
-        "opt": "Não"
-      },
-      {
-        "turma": "6EA",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4M3(O103)-4M4(O103)",
-        "prof": "Meire Cristina Fugihara",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI105",
-    "name": "Físico-Química",
-    "turmas": [
-      {
-        "turma": "2EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Química",
-        "h": "3T2(Q107)-3T3(Q107)-3T4(Q107)-3T5(Q107)",
-        "prof": "Alessandra Machado Lunkes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIS011",
     "name": "Fundamentos De Física 1",
     "turmas": [
@@ -794,6 +749,51 @@
     ]
   },
   {
+    "code": "FIS008",
+    "name": "Física Experimental",
+    "turmas": [
+      {
+        "turma": "5EQ",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. Química, 1 - Eng. Amb. Sanitária",
+        "h": "6M3(O103)-6M4(O103)",
+        "prof": "Guilherme Bertoldo",
+        "opt": "Não"
+      },
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M3(O103)-4M4(O103)",
+        "prof": "Meire Cristina Fugihara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI105",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "3T2(Q107)-3T3(Q107)-3T4(Q107)-3T5(Q107)",
+        "prof": "Alessandra Machado Lunkes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AGR094",
     "name": "Genética Básica",
     "turmas": [
@@ -841,6 +841,45 @@
         "h": "5M1(G106)-5M2(G106)-5M3(G106)-5M4(G106)",
         "prof": "Ticiane Sauer Pokrywiecki",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HSA003",
+    "name": "Gestão Econômica E Financeira",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "3M1(Q105)-3M2(Q105)-3M3(Q105)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(Q103)-3N2(Q103)-3N3(Q103)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(G204)-4N2(G204)-4N3(G204)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
       }
     ]
   },
@@ -903,45 +942,6 @@
         "h": "2M3(Q107)-2M4(Q107)-2M5(Q107)",
         "prof": "Myller Augusto Santos Gomes",
         "opt": "Matriz:24, Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:21"
-      }
-    ]
-  },
-  {
-    "code": "HSA003",
-    "name": "Gestão Econômica E Financeira",
-    "turmas": [
-      {
-        "turma": "3EAS",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. Sanitária",
-        "h": "3M1(Q105)-3M2(Q105)-3M3(Q105)",
-        "prof": "Andriele De Pra Carvalho",
-        "opt": "Matriz:24, Matriz:21"
-      },
-      {
-        "turma": "3SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N1(Q103)-3N2(Q103)-3N3(Q103)",
-        "prof": "Myller Augusto Santos Gomes",
-        "opt": "Matriz:24, Matriz:21"
-      },
-      {
-        "turma": "4AGR",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4N1(G204)-4N2(G204)-4N3(G204)",
-        "prof": "Andriele De Pra Carvalho",
-        "opt": "Matriz:24, Matriz:21"
       }
     ]
   },
@@ -1082,19 +1082,19 @@
     ]
   },
   {
-    "code": "HCH007",
-    "name": "Introdução À Comunidade Política",
+    "code": "QUI092",
+    "name": "Introdução Aos Processos Químicos",
     "turmas": [
       {
-        "turma": "3EAS",
+        "turma": "4EQ",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T2(G203)-3T3(G203)-3T4(G203)",
-        "prof": "Jose Lucio Da Silva Machado",
-        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:25, Matriz:31, Matriz:38, Matriz:21"
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "4M1(Q103)-4M2(Q103)-5M3(Q103)-5M4(Q103)",
+        "prof": "Andre Zuber",
+        "opt": "Não"
       }
     ]
   },
@@ -1119,17 +1119,6 @@
     "code": "FIS010",
     "name": "Introdução À Física",
     "turmas": [
-      {
-        "turma": "ESPAGR",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N1(R203)-3N2(R203)-3N3(R203)",
-        "prof": "Meire Cristina Fugihara",
-        "opt": "Não"
-      },
       {
         "turma": "1AGR",
         "enq": "Presencial",
@@ -1162,23 +1151,34 @@
         "h": "4M3(G202)-4M4(G202)-4M5(G202)",
         "prof": "Alexsander Ramos Duarte",
         "opt": "Não"
+      },
+      {
+        "turma": "ESPAGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(R203)-3N2(R203)-3N3(R203)",
+        "prof": "Meire Cristina Fugihara",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "QUI092",
-    "name": "Introdução Aos Processos Químicos",
+    "code": "HCH007",
+    "name": "Introdução À Comunidade Política",
     "turmas": [
       {
-        "turma": "4EQ",
+        "turma": "3EAS",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Química",
-        "h": "4M1(Q103)-4M2(Q103)-5M3(Q103)-5M4(Q103)",
-        "prof": "Andre Zuber",
-        "opt": "Não"
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(G203)-3T3(G203)-3T4(G203)",
+        "prof": "Jose Lucio Da Silva Machado",
+        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:25, Matriz:31, Matriz:38, Matriz:21"
       }
     ]
   },
@@ -1204,17 +1204,6 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "OPBSI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "6N2(R206)-6N3(R206)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "3EA",
         "enq": "Presencial",
         "vt": "44",
@@ -1222,6 +1211,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. De Alimentos",
         "h": "6T2(G202)-6T3(G202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(R206)-6N3(R206)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
       }
@@ -1232,17 +1232,6 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "OPBSI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N1(R206)-3T6(R206)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "6EA",
         "enq": "Presencial",
         "vt": "0",
@@ -1252,6 +1241,34 @@
         "h": "2T1(R202)-2T2(R202)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(R206)-3T6(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "HLA001",
+    "name": "Linguagem, Tecnologia E Sujeito",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q105)-2N5(Q105)-3N2(R205)-3N3(R205)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
       }
     ]
   },
@@ -1290,23 +1307,6 @@
     ]
   },
   {
-    "code": "HLA001",
-    "name": "Linguagem, Tecnologia E Sujeito",
-    "turmas": [
-      {
-        "turma": "5SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "2N4(Q105)-2N5(Q105)-3N2(R205)-3N3(R205)",
-        "prof": "Meggie Rosar Fornazari",
-        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
-      }
-    ]
-  },
-  {
     "code": "ALI011",
     "name": "Materiais Para Indústria De Alimentos",
     "turmas": [
@@ -1319,23 +1319,6 @@
         "prio": "1 - Eng. De Alimentos",
         "h": "3M4(Q104)-3M5(Q104)-3M6(Q104)",
         "prof": "Alexandre Da Trindade Alfaro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC004",
-    "name": "Mecânica Dos Sólidos",
-    "turmas": [
-      {
-        "turma": "5EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Química",
-        "h": "2M1(G205)-2M2(G205)-4M1(G205)-4M2(G205)",
-        "prof": "Douglas Da Costa Ferreira",
         "opt": "Não"
       }
     ]
@@ -1358,18 +1341,18 @@
     ]
   },
   {
-    "code": "ALI068",
-    "name": "Microbiologia De Alimentos",
+    "code": "MEC004",
+    "name": "Mecânica Dos Sólidos",
     "turmas": [
       {
-        "turma": "2EA",
+        "turma": "5EQ",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "2T2(Q107)-2T3(Q107)-4M4(Q107)-4M5(Q107)",
-        "prof": "Claudia Eugenia Castro Bravo",
+        "prio": "1 - Eng. Química",
+        "h": "2M1(G205)-2M2(G205)-4M1(G205)-4M2(G205)",
+        "prof": "Douglas Da Costa Ferreira",
         "opt": "Não"
       }
     ]
@@ -1397,6 +1380,23 @@
         "res": "Aberta",
         "prio": "1 - Agronomia",
         "h": "3N1(G203)-3N2(G203)-5N1(G203)-5N2(G203)",
+        "prof": "Claudia Eugenia Castro Bravo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI068",
+    "name": "Microbiologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "2EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T2(Q107)-2T3(Q107)-4M4(Q107)-4M5(Q107)",
         "prof": "Claudia Eugenia Castro Bravo",
         "opt": "Não"
       }
@@ -1441,17 +1441,6 @@
     "name": "Operações Unitárias 2",
     "turmas": [
       {
-        "turma": "SPO",
-        "enq": "Presencial",
-        "vt": "6",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Claiton Zanini Brusamarello",
-        "opt": "Não"
-      },
-      {
         "turma": "7EQ",
         "enq": "Presencial",
         "vt": "44",
@@ -1459,6 +1448,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. Química",
         "h": "2M2(R206)-2M3(R206)-5M3(R206)-5M4(R206)",
+        "prof": "Claiton Zanini Brusamarello",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Claiton Zanini Brusamarello",
         "opt": "Não"
       }
@@ -1495,51 +1495,6 @@
         "h": "6T1(Q105)-6T2(Q105)-6T3(Q105)",
         "prof": "Joao Francisco Marchi",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ART004",
-    "name": "Prática De Orquestra",
-    "turmas": [
-      {
-        "turma": "3EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N1(BLOCOB)-3N2(BLOCOB)-3N3(BLOCOB)",
-        "prof": "Mauro Cesar Cislaghi",
-        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:44, Matriz:25, Matriz:31, Matriz:38, Matriz:21, Matriz:30"
-      }
-    ]
-  },
-  {
-    "code": "MAT012",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "1AGR",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Agronomia",
-        "h": "3N4(G201)-3N5(G201)-5N2(G201)-5N3(G201)",
-        "prof": "Renato Hallal",
-        "opt": "Matriz:45, Matriz:38"
-      },
-      {
-        "turma": "1EA",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "3M3(Q103)-3M4(Q103)-5M4(Q107)-5M5(Q107)",
-        "prof": "Liliane Hellmann",
-        "opt": "Matriz:45, Matriz:38"
       }
     ]
   },
@@ -1645,6 +1600,51 @@
     ]
   },
   {
+    "code": "ART004",
+    "name": "Prática De Orquestra",
+    "turmas": [
+      {
+        "turma": "3EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(BLOCOB)-3N2(BLOCOB)-3N3(BLOCOB)",
+        "prof": "Mauro Cesar Cislaghi",
+        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:44, Matriz:25, Matriz:31, Matriz:38, Matriz:21, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "MAT012",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N4(G201)-3N5(G201)-5N2(G201)-5N3(G201)",
+        "prof": "Renato Hallal",
+        "opt": "Matriz:45, Matriz:38"
+      },
+      {
+        "turma": "1EA",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3M3(Q103)-3M4(Q103)-5M4(Q107)-5M5(Q107)",
+        "prof": "Liliane Hellmann",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
     "code": "QUI027",
     "name": "Química Analítica Experimental",
     "turmas": [
@@ -1707,23 +1707,6 @@
     ]
   },
   {
-    "code": "ALI065",
-    "name": "Química E Bioquímica De Alimentos",
-    "turmas": [
-      {
-        "turma": "3EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "3M4(Q107)-3M5(Q107)-6M3(Q107)-6M4(Q107)-6M5(Q107)",
-        "prof": "Debora Francielly De Oliveira",
-        "opt": "Matriz:37"
-      }
-    ]
-  },
-  {
     "code": "QUI017",
     "name": "Química Geral Experimental",
     "turmas": [
@@ -1767,17 +1750,6 @@
     "name": "Química Geral Teórica",
     "turmas": [
       {
-        "turma": "ESPAGR",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N1(R203)-4N2(R203)-6N2(R203)-6N3(R203)",
-        "prof": "Pamela Taisline Bandeira",
-        "opt": "Não"
-      },
-      {
         "turma": "1AGR",
         "enq": "Presencial",
         "vt": "50",
@@ -1798,6 +1770,17 @@
         "h": "3M1(Q103)-3M2(Q103)-6M1(Q103)-6M2(Q103)",
         "prof": "Pamela Taisline Bandeira",
         "opt": "Não"
+      },
+      {
+        "turma": "ESPAGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(R203)-4N2(R203)-6N2(R203)-6N3(R203)",
+        "prof": "Pamela Taisline Bandeira",
+        "opt": "Não"
       }
     ]
   },
@@ -1815,6 +1798,23 @@
         "h": "2M4(G203)-2M5(G203)-5T2(G206)-5T3(G206)",
         "prof": "Alessandra Machado Lunkes",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI065",
+    "name": "Química E Bioquímica De Alimentos",
+    "turmas": [
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3M4(Q107)-3M5(Q107)-6M3(Q107)-6M4(Q107)-6M5(Q107)",
+        "prof": "Debora Francielly De Oliveira",
+        "opt": "Matriz:37"
       }
     ]
   },
@@ -1955,57 +1955,6 @@
     ]
   },
   {
-    "code": "HCH017",
-    "name": "Tópicos Especiais Em Ciências Humanas",
-    "turmas": [
-      {
-        "turma": "OPBSI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "5N1(R206)-5N2(R206)-5N3(R206)",
-        "prof": "Celso Hotz",
-        "opt": "Matriz:24, Matriz:45, Matriz:37, Matriz:41, Matriz:25, Matriz:31, Matriz:38, Matriz:21"
-      }
-    ]
-  },
-  {
-    "code": "ALI056",
-    "name": "Tópicos Especiais Em Processo E Produtos Alimentícios",
-    "turmas": [
-      {
-        "turma": "6EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "3T3(Q106)-3T4(Q106)-3T5(Q106)",
-        "prof": "Francisco Antonio Fernandes Reinaldo",
-        "opt": "Matriz:31"
-      }
-    ]
-  },
-  {
-    "code": "ALI069",
-    "name": "Tópicos Especiais Em Processo E Produtos Alimentícios 2",
-    "turmas": [
-      {
-        "turma": "6EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "6T4(Q103)-6T5(Q103)-6T6(Q103)",
-        "prof": "Luciano Lucchetta",
-        "opt": "Matriz:31, Matriz:21"
-      }
-    ]
-  },
-  {
     "code": "ALI013",
     "name": "Toxicologia De Alimentos",
     "turmas": [
@@ -2053,6 +2002,57 @@
         "h": "3T1(G206)-3T2(G206)-3T3(G206)-3T4(G206)",
         "prof": "Marcelo Bortoli",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALI056",
+    "name": "Tópicos Especiais Em Processo E Produtos Alimentícios",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3T3(Q106)-3T4(Q106)-3T5(Q106)",
+        "prof": "Francisco Antonio Fernandes Reinaldo",
+        "opt": "Matriz:31"
+      }
+    ]
+  },
+  {
+    "code": "ALI069",
+    "name": "Tópicos Especiais Em Processo E Produtos Alimentícios 2",
+    "turmas": [
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T4(Q103)-6T5(Q103)-6T6(Q103)",
+        "prof": "Luciano Lucchetta",
+        "opt": "Matriz:31, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HCH017",
+    "name": "Tópicos Especiais Em Ciências Humanas",
+    "turmas": [
+      {
+        "turma": "OPBSI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(R206)-5N2(R206)-5N3(R206)",
+        "prof": "Celso Hotz",
+        "opt": "Matriz:24, Matriz:45, Matriz:37, Matriz:41, Matriz:25, Matriz:31, Matriz:38, Matriz:21"
       }
     ]
   }

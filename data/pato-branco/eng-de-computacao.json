@@ -2016,6 +2016,17 @@
         "h": "3T4(I010)-3T5(I010)-6T4(O-202)-6T5(O-202)-6T6(O-202)",
         "prof": "Everton Luiz De Aguiar",
         "opt": "Não"
+      },
+      {
+        "turma": "5CPSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "",
+        "prof": "Everton Luiz De Aguiar",
+        "opt": "Não"
       }
     ]
   },

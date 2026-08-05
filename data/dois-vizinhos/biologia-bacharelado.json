@@ -1,22 +1,5 @@
 [
   {
-    "code": "ACT13CBB",
-    "name": "Análise De Células E Tecidos",
-    "turmas": [
-      {
-        "turma": "3BCB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "3N3(B7-S5)-3N3(B7-S5)-3N4(B7-S5)-3N4(B7-S5)-3N5(B7-S5)-3N5(B7-S5)",
-        "prof": "Fernando Carlos De Sousa, Patricia Franchi De Freitas",
-        "opt": "Matriz:35, Matriz:58"
-      }
-    ]
-  },
-  {
     "code": "AH13CB",
     "name": "Anatomia Humana",
     "turmas": [
@@ -39,6 +22,17 @@
         "res": "Aberta",
         "prio": "1 - Ciências Biológicas",
         "h": "2N4(B5-S3)-2N5(B5-S3)-4N4(LABANAHUM)-4N5(LABANAHUM)",
+        "prof": "Fernando Carlos De Sousa",
+        "opt": "Não"
+      },
+      {
+        "turma": "CBSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Fernando Carlos De Sousa",
         "opt": "Não"
       }
@@ -69,6 +63,23 @@
         "h": "2N4(B5-S3)-2N5(B5-S3)-4N4(LABANAHUM)-4N5(LABANAHUM)",
         "prof": "Fernando Carlos De Sousa",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ACT13CBB",
+    "name": "Análise De Células E Tecidos",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "3N3(B7-S5)-3N3(B7-S5)-3N4(B7-S5)-3N4(B7-S5)-3N5(B7-S5)-3N5(B7-S5)",
+        "prof": "Fernando Carlos De Sousa, Patricia Franchi De Freitas",
+        "opt": "Matriz:35, Matriz:58"
       }
     ]
   },
@@ -124,23 +135,6 @@
     ]
   },
   {
-    "code": "BIN17CBB",
-    "name": "Bioinformática",
-    "turmas": [
-      {
-        "turma": "CBOPT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "2N1(B6-S3)-2N2(B6-S3)-2N3(B6-S3)",
-        "prof": "Juliana Morini Kupper Cardoso",
-        "opt": "Matriz:58"
-      }
-    ]
-  },
-  {
     "code": "BI16BB",
     "name": "Bioinformática",
     "turmas": [
@@ -154,6 +148,23 @@
         "h": "5T3(5ARQU)-5T4(5ARQU)-5T5(5ARQU)",
         "prof": "Juliana Morini Kupper Cardoso",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BIN17CBB",
+    "name": "Bioinformática",
+    "turmas": [
+      {
+        "turma": "CBOPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N1(B6-S3)-2N2(B6-S3)-2N3(B6-S3)",
+        "prof": "Juliana Morini Kupper Cardoso",
+        "opt": "Matriz:58"
       }
     ]
   },
@@ -186,6 +197,23 @@
     ]
   },
   {
+    "code": "BM15CB",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "5LCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
+        "prof": "Juliana Morini Kupper Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "BMO15CB",
     "name": "Biologia Molecular",
     "turmas": [
@@ -203,18 +231,18 @@
     ]
   },
   {
-    "code": "BM15CB",
-    "name": "Biologia Molecular",
+    "code": "BG12CB",
+    "name": "Bioquímica Geral",
     "turmas": [
       {
-        "turma": "5LCB1",
+        "turma": "CBSPO",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "2",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "2N4(B5-S5)-2N5(B5-S5)-5N4(B5-S5)-5N5(B5-S5)",
-        "prof": "Juliana Morini Kupper Cardoso",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Marcela De Paiva Foletto Felipe",
         "opt": "Não"
       }
     ]
@@ -323,6 +351,17 @@
         "h": "4N3(B5-S4)-4N4(B5-S4)-4N5(B5-S4)",
         "prof": "Daniela Aparecida Estevan",
         "opt": "Não"
+      },
+      {
+        "turma": "CBSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Daniela Aparecida Estevan",
+        "opt": "Não"
       }
     ]
   },
@@ -412,23 +451,6 @@
     ]
   },
   {
-    "code": "EPC15CB",
-    "name": "Ecologia De Populações E Comunidades",
-    "turmas": [
-      {
-        "turma": "5BCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "4N1(B5-S5)-4N1(B5-S5)-4N2(B5-S5)-4N2(B5-S5)-4N3(B5-S5)-4N3(B5-S5)-4N4(B5-S5)-4N4(B5-S5)",
-        "prof": "Diesse Aparecida De Oliveira Sereia, Viviane Da Rosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EP15CB",
     "name": "Ecologia De Populações E Comunidades",
     "turmas": [
@@ -439,6 +461,23 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Ciências Biológicas",
+        "h": "4N1(B5-S5)-4N1(B5-S5)-4N2(B5-S5)-4N2(B5-S5)-4N3(B5-S5)-4N3(B5-S5)-4N4(B5-S5)-4N4(B5-S5)",
+        "prof": "Diesse Aparecida De Oliveira Sereia, Viviane Da Rosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EPC15CB",
+    "name": "Ecologia De Populações E Comunidades",
+    "turmas": [
+      {
+        "turma": "5BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
         "h": "4N1(B5-S5)-4N1(B5-S5)-4N2(B5-S5)-4N2(B5-S5)-4N3(B5-S5)-4N3(B5-S5)-4N4(B5-S5)-4N4(B5-S5)",
         "prof": "Diesse Aparecida De Oliveira Sereia, Viviane Da Rosa",
         "opt": "Não"
@@ -463,23 +502,6 @@
     ]
   },
   {
-    "code": "EAM13CB",
-    "name": "Educação Ambiental",
-    "turmas": [
-      {
-        "turma": "3BCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
-        "prof": "Anelize Queiroz Amaral",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EA13CB",
     "name": "Educação Ambiental",
     "turmas": [
@@ -493,6 +515,23 @@
         "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
         "prof": "Anelize Queiroz Amaral",
         "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "EAM13CB",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
+        "prof": "Anelize Queiroz Amaral",
+        "opt": "Não"
       }
     ]
   },
@@ -531,23 +570,6 @@
     ]
   },
   {
-    "code": "ETC11CB",
-    "name": "Ética E Cidadania Em Biologia",
-    "turmas": [
-      {
-        "turma": "1BCB1",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "3N4(B5-S1)-3N5(B5-S1)",
-        "prof": "Jucelaine Haas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIL11CB",
     "name": "Filosofia",
     "turmas": [
@@ -561,40 +583,6 @@
         "h": "6N3(B5-S1)-6N4(B5-S1)-6N5(B5-S1)",
         "prof": "Paulo Fernando Diel",
         "opt": "Matriz:52, Matriz:6"
-      }
-    ]
-  },
-  {
-    "code": "FA13CB",
-    "name": "Física Aplicada Às Ciências Biológicas",
-    "turmas": [
-      {
-        "turma": "3LCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "2N1(B5-S3)-2N2(B5-S3)-2N3(B5-S3)",
-        "prof": "Raquel De Almeida Rocha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS13CB",
-    "name": "Física Aplicada Às Ciências Biológicas",
-    "turmas": [
-      {
-        "turma": "3BCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "2N1(B5-S3)-2N2(B5-S3)-2N3(B5-S3)",
-        "prof": "Raquel De Almeida Rocha",
-        "opt": "Não"
       }
     ]
   },
@@ -672,17 +660,62 @@
     ]
   },
   {
-    "code": "GP18CB",
-    "name": "Genética De Populações E Evolução",
+    "code": "FA13CB",
+    "name": "Física Aplicada Às Ciências Biológicas",
     "turmas": [
       {
-        "turma": "8LCB1",
+        "turma": "3LCB1",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Ciências Biológicas",
-        "h": "4N1(B7-S6)-4N2(B7-S6)-6N1(B7-S6)-6N2(B7-S6)",
+        "h": "2N1(B5-S3)-2N2(B5-S3)-2N3(B5-S3)",
+        "prof": "Raquel De Almeida Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS13CB",
+    "name": "Física Aplicada Às Ciências Biológicas",
+    "turmas": [
+      {
+        "turma": "3BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "2N1(B5-S3)-2N2(B5-S3)-2N3(B5-S3)",
+        "prof": "Raquel De Almeida Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GG13CB",
+    "name": "Genética Geral E Humana",
+    "turmas": [
+      {
+        "turma": "3LCB1",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(B5-S3)-5N2(B5-S3)-5N3(B5-S3)-5N4(LABMULT2)",
+        "prof": "Sandrieli Goncalves",
+        "opt": "Não"
+      },
+      {
+        "turma": "3LCB2",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(B5-S3)-5N2(B5-S3)-5N3(B5-S3)-5N5(LABMULT2)",
         "prof": "Sandrieli Goncalves",
         "opt": "Não"
       }
@@ -717,46 +750,18 @@
     ]
   },
   {
-    "code": "GG13CB",
-    "name": "Genética Geral E Humana",
+    "code": "GP18CB",
+    "name": "Genética De Populações E Evolução",
     "turmas": [
       {
-        "turma": "3LCB1",
+        "turma": "8LCB1",
         "enq": "Presencial",
-        "vt": "11",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Ciências Biológicas",
-        "h": "5N1(B5-S3)-5N2(B5-S3)-5N3(B5-S3)-5N4(LABMULT2)",
+        "h": "4N1(B7-S6)-4N2(B7-S6)-6N1(B7-S6)-6N2(B7-S6)",
         "prof": "Sandrieli Goncalves",
-        "opt": "Não"
-      },
-      {
-        "turma": "3LCB2",
-        "enq": "Presencial",
-        "vt": "11",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "5N1(B5-S3)-5N2(B5-S3)-5N3(B5-S3)-5N5(LABMULT2)",
-        "prof": "Sandrieli Goncalves",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEO14CB",
-    "name": "Geologia",
-    "turmas": [
-      {
-        "turma": "4BCB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "4N1(B5-S4)-4N2(B5-S4)",
-        "prof": "Julio Cesar De Almeida Marsola",
         "opt": "Não"
       }
     ]
@@ -772,6 +777,23 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Ciências Biológicas",
+        "h": "4N1(B5-S4)-4N2(B5-S4)",
+        "prof": "Julio Cesar De Almeida Marsola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEO14CB",
+    "name": "Geologia",
+    "turmas": [
+      {
+        "turma": "4BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
         "h": "4N1(B5-S4)-4N2(B5-S4)",
         "prof": "Julio Cesar De Almeida Marsola",
         "opt": "Não"
@@ -1084,6 +1106,23 @@
     ]
   },
   {
+    "code": "QG11CB",
+    "name": "Química Geral E Orgânica",
+    "turmas": [
+      {
+        "turma": "CBSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Paula Fernandes Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QGO11CB",
     "name": "Química Geral E Orgânica",
     "turmas": [
@@ -1106,6 +1145,17 @@
         "res": "Fechada",
         "prio": "1 - Biologia Bacharelado",
         "h": "4N1(LABMULT1)-5N1(B5-S1)-5N2(B5-S1)-5N3(B5-S1)-5N4(B5-S1)-5N5(B5-S1)",
+        "prof": "Paula Fernandes Montanher",
+        "opt": "Não"
+      },
+      {
+        "turma": "CBSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Paula Fernandes Montanher",
         "opt": "Não"
       }
@@ -1180,34 +1230,6 @@
     ]
   },
   {
-    "code": "ZOO14CB",
-    "name": "Zoologia 1",
-    "turmas": [
-      {
-        "turma": "4BCB1",
-        "enq": "Presencial",
-        "vt": "11",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "3N1(B5-S4)-3N1(B5-S4)-3N2(B5-S4)-3N2(B5-S4)-5N2(LABZOOLOGI)-5N2(LABZOOLOGI)-5N3(LABZOOLOGI)-5N3(LABZOOLOGI)",
-        "prof": "Gustavo Sene Silva, Maria Antonia Michels De Souza",
-        "opt": "Não"
-      },
-      {
-        "turma": "4BCB2",
-        "enq": "Presencial",
-        "vt": "11",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Biologia Bacharelado",
-        "h": "3N1(B5-S4)-3N1(B5-S4)-3N2(B5-S4)-3N2(B5-S4)-5N4(LABZOOLOGI)-5N4(LABZOOLOGI)-5N5(LABZOOLOGI)-5N5(LABZOOLOGI)",
-        "prof": "Gustavo Sene Silva, Maria Antonia Michels De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ZO14CB",
     "name": "Zoologia 1",
     "turmas": [
@@ -1236,18 +1258,29 @@
     ]
   },
   {
-    "code": "ZOO15CB",
-    "name": "Zoologia 2",
+    "code": "ZOO14CB",
+    "name": "Zoologia 1",
     "turmas": [
       {
-        "turma": "5BCB1",
+        "turma": "4BCB1",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "11",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Biologia Bacharelado",
-        "h": "6N1(B5-S5)-6N2(B5-S5)-6N3(B5-S5)-6N4(B5-S5)-6N5(B5-S5)",
-        "prof": "Daiara Manfio Zimmermann",
+        "h": "3N1(B5-S4)-3N1(B5-S4)-3N2(B5-S4)-3N2(B5-S4)-5N2(LABZOOLOGI)-5N2(LABZOOLOGI)-5N3(LABZOOLOGI)-5N3(LABZOOLOGI)",
+        "prof": "Gustavo Sene Silva, Maria Antonia Michels De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "4BCB2",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "3N1(B5-S4)-3N1(B5-S4)-3N2(B5-S4)-3N2(B5-S4)-5N4(LABZOOLOGI)-5N4(LABZOOLOGI)-5N5(LABZOOLOGI)-5N5(LABZOOLOGI)",
+        "prof": "Gustavo Sene Silva, Maria Antonia Michels De Souza",
         "opt": "Não"
       }
     ]
@@ -1270,6 +1303,23 @@
     ]
   },
   {
+    "code": "ZOO15CB",
+    "name": "Zoologia 2",
+    "turmas": [
+      {
+        "turma": "5BCB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "6N1(B5-S5)-6N2(B5-S5)-6N3(B5-S5)-6N4(B5-S5)-6N5(B5-S5)",
+        "prof": "Daiara Manfio Zimmermann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ZO16CB",
     "name": "Zoologia 3",
     "turmas": [
@@ -1282,6 +1332,23 @@
         "prio": "1 - Ciências Biológicas",
         "h": "4N4(B5-S6)-4N5(B5-S6)-6N4(B5-S6)-6N5(B5-S6)",
         "prof": "Elton Celton De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ETC11CB",
+    "name": "Ética E Cidadania Em Biologia",
+    "turmas": [
+      {
+        "turma": "1BCB1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Biologia Bacharelado",
+        "h": "3N4(B5-S1)-3N5(B5-S1)",
+        "prof": "Jucelaine Haas",
         "opt": "Não"
       }
     ]

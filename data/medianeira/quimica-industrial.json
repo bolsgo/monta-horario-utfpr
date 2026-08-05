@@ -1,80 +1,46 @@
 [
   {
-    "code": "AMB1003",
-    "name": "Avaliação De Impacto Ambiental",
+    "code": "AMB1006",
+    "name": "Biologia Celular E Princípios De Biologia Molecular",
     "turmas": [
       {
-        "turma": "AMB7",
+        "turma": "BQ5",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "20",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "6N1(H36)-6N2(H36)",
-        "prof": "Elias Lira Dos Santos Junior",
-        "opt": "Matriz:656"
+        "prio": "1 - Química Industrial",
+        "h": "2N1(I16)-2N2(I16)-2N3(I16)",
+        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "opt": "Matriz:657"
       }
     ]
   },
   {
-    "code": "ALM1003",
-    "name": "Bioquímica Geral",
+    "code": "MEC1001",
+    "name": "Desenho Técnico Assistido Por Computador",
     "turmas": [
       {
-        "turma": "ALI3",
+        "turma": "ELE1",
         "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
+        "vt": "48",
+        "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "3M1(H36)-3M2(H36)-3M3(H36)",
-        "prof": "Valdemar Padilha Feltrin",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T1(I21)-6T2(I21)-6T3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
         "opt": "Não"
       },
       {
-        "turma": "TAL2",
+        "turma": "EP1",
         "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N3(L21)-3N4(L21)-3N5(L21)",
-        "prof": "Flavio Dias Ferreira",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "2M1(I21)-2M2(I21)-2M3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1034",
-    "name": "Biotecnologia",
-    "turmas": [
-      {
-        "turma": "TAL6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N4(I42)-4N5(I42)",
-        "prof": "Ivonei Ottobelli",
-        "opt": "Matriz:655"
-      }
-    ]
-  },
-  {
-    "code": "AMB1075",
-    "name": "Climatologia",
-    "turmas": [
-      {
-        "turma": "AGR1",
-        "enq": "Presencial",
-        "vt": "36",
-        "vc": "30",
-        "res": "Aberta",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "5N4(I21)-5N5(I21)",
-        "prof": "Vanderlei Leopold Magalhaes",
-        "opt": "Matriz:660"
       }
     ]
   },
@@ -96,52 +62,63 @@
     ]
   },
   {
-    "code": "AMB1042",
-    "name": "Diagnóstico E Controle De Poluição Atmosférica",
+    "code": "AMB1064",
+    "name": "Energias Renováveis",
     "turmas": [
       {
-        "turma": "AMB8",
+        "turma": "AMBOPTA",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "3T1(I44)-3T2(I44)-3T3(I44)",
-        "prof": "Laercio Mantovani Frare",
-        "opt": "Não"
+        "h": "5T3(I41)-5T4(I41)-5T5(I41)",
+        "prof": "Ivonei Ottobelli",
+        "opt": "Matriz:660, Matriz:662"
       }
     ]
   },
   {
-    "code": "AMB1008",
-    "name": "Ecologia Básica",
+    "code": "MAT1002",
+    "name": "Estruturas Geométricas E Vetores",
     "turmas": [
       {
         "turma": "AMB1",
         "enq": "Presencial",
-        "vt": "50",
+        "vt": "54",
         "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
-        "h": "4N4(L21)-4N5(L21)",
-        "prof": "Cristhiane Rohde",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "3N3(L22)-3N4(L22)-3N5(L22)",
+        "prof": "Tasia Hickmann",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "AMB1029",
-    "name": "Educação Ambiental",
+    "code": "AMB1018",
+    "name": "Fenômenos De Transferência De Calor E Massa",
     "turmas": [
       {
-        "turma": "AMB6",
+        "turma": "AMB4",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2T4(H35)-2T5(H35)",
-        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
+        "h": "5N1(H34)-5N2(H34)-5N3(H34)",
+        "prof": "Rafael Arioli",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "4N3(I41)-4N4(I41)-4N5(I41)",
+        "prof": "Rafael Arioli",
         "opt": "Não"
       }
     ]
@@ -164,6 +141,45 @@
     ]
   },
   {
+    "code": "MAT1001",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "58",
+        "vc": "48",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
+        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
+        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1007",
     "name": "Fundamentos Da Química Dos Minerais",
     "turmas": [
@@ -181,53 +197,36 @@
     ]
   },
   {
-    "code": "AMB1015",
-    "name": "Geologia E Pedologia",
+    "code": "AMB1066",
+    "name": "Fundamentos De Microbiologia Geral E Industrial",
     "turmas": [
       {
-        "turma": "AMB3",
+        "turma": "BQ6",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "20",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
-        "h": "3N4(I42)-3N5(I42)",
-        "prof": "Vanderlei Leopold Magalhaes",
-        "opt": "Não"
+        "prio": "1 - Química Industrial",
+        "h": "3N1(I12)-3N2(I12)-3N3(I12)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
+        "opt": "Matriz:657"
       }
     ]
   },
   {
-    "code": "AMB1084",
-    "name": "Interpretação Cartográfica E De Sistemas De Informação",
+    "code": "HLA1008",
+    "name": "Inglês Básico 1",
     "turmas": [
       {
-        "turma": "AGR3",
+        "turma": "OPTAH",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "20",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "4N3(I21)-4N4(I21)-4N5(I21)",
-        "prof": "Vanderlei Leopold Magalhaes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB1028",
-    "name": "Legislação Ambiental",
-    "turmas": [
-      {
-        "turma": "AMB6",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "5T4(H610)-5T5(H610)",
-        "prof": "Juliana Bortoli Rodrigues Mees",
-        "opt": "Não"
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
       }
     ]
   },
@@ -321,36 +320,36 @@
     ]
   },
   {
-    "code": "AMB1086",
-    "name": "Licenciamento Ambiental",
+    "code": "AMB1017",
+    "name": "Mecânica Dos Fluidos",
     "turmas": [
       {
-        "turma": "AGR3",
+        "turma": "AMB4BQ5",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "2N4(H39)-2N5(H39)",
-        "prof": "Juliana Bortoli Rodrigues Mees",
-        "opt": "Matriz:660"
+        "prio": "1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "5N4(H34)-5N5(H34)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1066",
-    "name": "Planejamento Experimental E Otimização De Processos",
+    "code": "QUI1067",
+    "name": "Projeto Integrador 2: Proposta De Uma Spin-Off Envolvendo A Análise Para Criação Ou Melhoria De Um Produto Ou Processo Tecnológico Na Área De Química",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "BQ6",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "20",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N1(I25)-5N2(I25)",
-        "prof": "Eliane Colla",
-        "opt": "Matriz:658"
+        "prio": "1 - Química Industrial",
+        "h": "4N1(I44)-4N2(I44)",
+        "prof": "Marcos Andre Bechlin",
+        "opt": "Não"
       }
     ]
   },
@@ -389,18 +388,35 @@
     ]
   },
   {
-    "code": "TGA56F",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "AMB1037",
+    "name": "Sistemas De Gestão E Auditoria Ambiental",
     "turmas": [
       {
-        "turma": "TM63",
+        "turma": "AMB7",
         "enq": "Presencial",
-        "vt": "21",
+        "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6N3(H36)-6N4(H36)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "AMB1067",
+    "name": "Transporte E Operações Físicas De Separação De Sólidos E Fluidos",
+    "turmas": [
+      {
+        "turma": "BQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "5N4(I12)-5N5(I12)",
+        "prof": "Rafael Arioli",
         "opt": "Não"
       }
     ]

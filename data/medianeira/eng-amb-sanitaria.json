@@ -1,5 +1,22 @@
 [
   {
+    "code": "AMB1032",
+    "name": "Aplicações Em Engenharia Ambiental E Sanitária",
+    "turmas": [
+      {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4T4(I25)",
+        "prof": "Eduardo Borges Lied",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1003",
     "name": "Avaliação De Impacto Ambiental",
     "turmas": [
@@ -17,6 +34,23 @@
     ]
   },
   {
+    "code": "AMB1044",
+    "name": "Avaliação De Impactos Socioambientais",
+    "turmas": [
+      {
+        "turma": "AMB8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T4(I44)",
+        "prof": "Cristhiane Rohde",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1012",
     "name": "Ciência Da Geoinformação",
     "turmas": [
@@ -30,6 +64,23 @@
         "h": "5N1(I21)-5N2(I21)-5N3(I21)",
         "prof": "Vanderlei Leopold Magalhaes",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1075",
+    "name": "Climatologia",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N4(I21)-5N5(I21)",
+        "prof": "Vanderlei Leopold Magalhaes",
+        "opt": "Matriz:660"
       }
     ]
   },
@@ -75,6 +126,23 @@
         "h": "2T2(I47)-2T3(I47)",
         "prof": "Fabio Orssatto",
         "opt": "Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "AMB1042",
+    "name": "Diagnóstico E Controle De Poluição Atmosférica",
+    "turmas": [
+      {
+        "turma": "AMB8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(I44)-3T2(I44)-3T3(I44)",
+        "prof": "Laercio Mantovani Frare",
+        "opt": "Não"
       }
     ]
   },
@@ -164,6 +232,23 @@
     ]
   },
   {
+    "code": "AMB1033",
+    "name": "Engenharia Assistida Por Computador",
+    "turmas": [
+      {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4T2(L12A)-4T3(L12A)",
+        "prof": "Laercio Mantovani Frare",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PRO1002",
     "name": "Engenharia De Segurança Do Trabalho",
     "turmas": [
@@ -176,6 +261,23 @@
         "prio": "1 - Engenharia Elétrica",
         "h": "5T4(L21)-5T5(L21)",
         "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1039",
+    "name": "Estrutura De Concreto Armado",
+    "turmas": [
+      {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N1(H36)-5N2(H36)-5N3(H36)",
+        "prof": "Marivone Zanella Fank",
         "opt": "Não"
       }
     ]
@@ -221,6 +323,23 @@
         "prio": "1 - Química Industrial",
         "h": "4N3(I41)-4N4(I41)-4N5(I41)",
         "prof": "Rafael Arioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1021",
+    "name": "Fenômenos De Transferência De Massa, Momento E Energia Aplicados A Processos",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N4(H39)-3N5(H39)-4N4(H39)",
+        "prof": "Renato Santos Flauzino",
         "opt": "Não"
       }
     ]
@@ -282,6 +401,23 @@
     ]
   },
   {
+    "code": "AMB1007",
+    "name": "Fundamentos Da Química Dos Minerais",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "6N4(I43)-6N5(I43)",
+        "prof": "Ana Cristina Trindade Cursino",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
     "code": "AMB1015",
     "name": "Geologia E Pedologia",
     "turmas": [
@@ -333,6 +469,23 @@
     ]
   },
   {
+    "code": "AMB1023",
+    "name": "Gestão E Tratamento De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "3N2(H33)-3N3(H33)-6N1(H33)-6N2(H33)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
     "code": "AMB1022",
     "name": "Hidrologia",
     "turmas": [
@@ -362,6 +515,129 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "3T3(H38)-3T4(H39)-3T5(H39)",
         "prof": "Fabiana Costa De Araujo Schutz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1001",
+    "name": "Informática Instrumental",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(L12A)-2N2(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N3(L12A)-2N4(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L12A)-3T5(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(I21)-3M5(I21)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(L18)-2N2(L18)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 2 - Tecnol Em Alimentos",
+        "h": "5N1(L12A)-5N2(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1008",
+    "name": "Inglês Básico 1",
+    "turmas": [
+      {
+        "turma": "OPTAH",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "AMB1034",
+    "name": "Instalações Prediais Hidrossanitárias",
+    "turmas": [
+      {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(H36)-4N2(H36)",
+        "prof": "Elias Lira Dos Santos Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1038",
+    "name": "Intervenção Em Conflitos Na Engenharia",
+    "turmas": [
+      {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N1(H33)",
+        "prof": "Dangela Maria Fernandes Kitamura",
         "opt": "Não"
       }
     ]
@@ -490,6 +766,23 @@
     ]
   },
   {
+    "code": "AMB1086",
+    "name": "Licenciamento Ambiental",
+    "turmas": [
+      {
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N4(H39)-2N5(H39)",
+        "prof": "Juliana Bortoli Rodrigues Mees",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
     "code": "AMB1024",
     "name": "Manejo De Recursos Naturais",
     "turmas": [
@@ -502,6 +795,23 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "2N1(H39)-2N2(H39)",
         "prof": "Carla Daniela Camara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1025",
+    "name": "Materiais De Construção Civil",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6N3(H39)-6N4(H39)-6N5(H39)",
+        "prof": "Marivone Zanella Fank",
         "opt": "Não"
       }
     ]
@@ -541,23 +851,6 @@
     ]
   },
   {
-    "code": "ALM1002",
-    "name": "Metodologia Da Pesquisa",
-    "turmas": [
-      {
-        "turma": "ALI3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "4M2(J22)-4M3(J22)",
-        "prof": "Eliane Colla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AMB1010",
     "name": "Metodologia Da Pesquisa",
     "turmas": [
@@ -592,19 +885,53 @@
     ]
   },
   {
-    "code": "ALM1066",
-    "name": "Planejamento Experimental E Otimização De Processos",
+    "code": "AMB1026",
+    "name": "Problemas Estruturados Em Engenharia",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N1(I26)",
+        "prof": "Eduardo Borges Lied",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1108",
+    "name": "Processos Industriais E Poluição",
+    "turmas": [
+      {
+        "turma": "M71X",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N1(I25)-5N2(I25)",
-        "prof": "Eliane Colla",
-        "opt": "Matriz:658"
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N1(I21)-3N2(I21)-3N3(I21)-3N4(I21)",
+        "prof": "Rafael Arioli",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "AMB1045",
+    "name": "Projetos De Engenharia Ambiental E Sanitária",
+    "turmas": [
+      {
+        "turma": "AMB9X",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T5(I41)",
+        "prof": "Fabio Orssatto",
+        "opt": "Não"
       }
     ]
   },
@@ -648,6 +975,23 @@
     ]
   },
   {
+    "code": "AMB1092",
+    "name": "Saneamento No Ambiente Rural",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "6N3(I12)-6N4(I12)-6N5(I12)",
+        "prof": "Elias Lira Dos Santos Junior",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
     "code": "AMB1027",
     "name": "Saúde Ambiental",
     "turmas": [
@@ -661,6 +1005,23 @@
         "h": "5T1(H35)-5T2(H35)",
         "prof": "Ivonei Ottobelli",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1089",
+    "name": "Serviços Ambientais Nos Agroecossistemas",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N1(I44)-3N2(I44)-3N3(I44)",
+        "prof": "Carla Daniela Camara",
+        "opt": "Matriz:660"
       }
     ]
   },
@@ -699,6 +1060,23 @@
     ]
   },
   {
+    "code": "AMB1037",
+    "name": "Sistemas De Gestão E Auditoria Ambiental",
+    "turmas": [
+      {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6N3(H36)-6N4(H36)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "AMB1016",
     "name": "Topografia",
     "turmas": [
@@ -711,57 +1089,6 @@
         "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
         "h": "4N3(X09)-4N4(X09)-4N5(X09)",
         "prof": "Lisiane Sobucki",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM59A",
-    "name": "Trabalho De Conclusão De Curso 1",
-    "turmas": [
-      {
-        "turma": "M91",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Ambiental",
-        "h": "2T6(I41)-4N1(I41)-4N2(I41)-4T6(I41)",
-        "prof": "Larissa De Bortolli Chiamolera Sabbi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM60A",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "AMB101",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Larissa De Bortolli Chiamolera Sabbi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM58A",
-    "name": "Tratamento De Águas Para Abastecimento 2",
-    "turmas": [
-      {
-        "turma": "M81X",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Ambiental",
-        "h": "3T1(I41)-3T2(I41)-3T3(I41)",
-        "prof": "Ivonei Ottobelli",
         "opt": "Não"
       }
     ]

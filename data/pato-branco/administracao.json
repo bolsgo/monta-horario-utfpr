@@ -34,6 +34,40 @@
     ]
   },
   {
+    "code": "AS42NB",
+    "name": "Alongamento, Relaxamento E Saúde",
+    "turmas": [
+      {
+        "turma": "HUMA9",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M102)-4N1(M102)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
+    "code": "CC24B",
+    "name": "Contabilidade De Custos",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N4(O205)-5N5(O205)-6N4(O205)-6N5(O205)",
+        "prof": "Luiz Fernande Casagrande",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CG22A",
     "name": "Contabilidade Geral",
     "turmas": [
@@ -46,6 +80,23 @@
         "prio": "1 - Administração",
         "h": "4N4(O001)-4N5(O001)-6N2(O001)-6N3(O001)",
         "prof": "Luiz Fernande Casagrande",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DT24B",
+    "name": "Direito Do Trabalho",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "4N4(O205)-4N5(O205)-5N2(O205)-5N3(O205)",
+        "prof": "Bianca Strucker",
         "opt": "Não"
       }
     ]
@@ -68,6 +119,74 @@
     ]
   },
   {
+    "code": "EN23A",
+    "name": "Economia Criativa",
+    "turmas": [
+      {
+        "turma": "3AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N4(O004)-2N4(O004)-2N5(O004)-2N5(O004)",
+        "prof": "Elizangela Mara Carvalheiro, Luciano Minghini",
+        "opt": "Matriz:628"
+      }
+    ]
+  },
+  {
+    "code": "EE24A",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "6N4(O002)-6N5(O002)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA22B",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O201)-2N5(O201)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EB22A",
     "name": "Estatística Básica",
     "turmas": [
@@ -80,6 +199,23 @@
         "prio": "1 - Administração",
         "h": "3N2(O001)-3N3(O001)",
         "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME22A",
+    "name": "Estudo Dirigido Ii",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6N4(O001)-6N5(O001)",
+        "prof": "Luciano Minghini",
         "opt": "Não"
       }
     ]
@@ -147,7 +283,41 @@
         "res": "Aberta",
         "prio": "1 - Administração",
         "h": "3N4(O002)-3N5(O002)-6N2(O002)-6N3(O002)",
-        "prof": "",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP28A",
+    "name": "Gestão Na Prática",
+    "turmas": [
+      {
+        "turma": "8AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N2(O004)-3N2(O004)-3N3(O004)-3N3(O004)",
+        "prof": "Liliane Canopf Vera, Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LE22B",
+    "name": "Leitura E Produção De Textos Empresariais",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N2(O201)-5N3(O201)",
+        "prof": "Ana Maria Da Silva",
         "opt": "Não"
       }
     ]
@@ -166,6 +336,23 @@
         "h": "5N4(O001)-5N5(O001)",
         "prof": "Ana Maria Da Silva",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI42NB",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA13",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
       }
     ]
   },
@@ -204,6 +391,23 @@
     ]
   },
   {
+    "code": "MC24B",
+    "name": "Mercado De Capitais",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N2(O205)-3N3(O205)-6N2(O205)-6N3(O205)",
+        "prof": "Eliandro Schvirck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MP24A",
     "name": "Metodologia De Pesquisa",
     "turmas": [
@@ -215,6 +419,40 @@
         "res": "Aberta",
         "prio": "1 - Administração",
         "h": "4N4(O002)-4N5(O002)",
+        "prof": "Maria De Lourdes Bernartt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME22B",
+    "name": "Microeconomia",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N2(O201)-2N3(O201)-4N4(O201)-4N5(O201)",
+        "prof": "Elizangela Mara Carvalheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU24B",
+    "name": "Ofícina De Projeto Integrador",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O205)-2N5(O205)",
         "prof": "Maria De Lourdes Bernartt",
         "opt": "Não"
       }
@@ -238,6 +476,40 @@
     ]
   },
   {
+    "code": "PL26A",
+    "name": "Plano De Negócios",
+    "turmas": [
+      {
+        "turma": "6AS",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "6N2(V007)-6N2(V007)-6N3(V007)-6N3(V007)",
+        "prof": "Abdinardo Moreira Barreto De Oliveira, Luciano Minghini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PI24A",
+    "name": "Projeto Integrador",
+    "turmas": [
+      {
+        "turma": "4AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "4N2(O002)-4N2(O002)-4N3(O002)-4N3(O002)",
+        "prof": "Gilson Ditzel Santos, Maria De Lourdes Bernartt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PP26A",
     "name": "Projetos De Pesquisa Em Administração",
     "turmas": [
@@ -251,6 +523,23 @@
         "h": "2N2(O003)-2N3(O003)",
         "prof": "Liliane Canopf Vera",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QV23A",
+    "name": "Qualidade De Vida",
+    "turmas": [
+      {
+        "turma": "HUMA8",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T2(M104)-3T3(M104)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:628"
       }
     ]
   },
@@ -289,6 +578,40 @@
     ]
   },
   {
+    "code": "TP24A",
+    "name": "Temas Avançados Na Trilha De Pessoas 3",
+    "turmas": [
+      {
+        "turma": "3AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N2(O004)-2N3(O004)",
+        "prof": "Shalimar Gallon Canfield",
+        "opt": "Matriz:628"
+      }
+    ]
+  },
+  {
+    "code": "TA23A",
+    "name": "Temas Avançados Na Trilha De Tecnologia 1",
+    "turmas": [
+      {
+        "turma": "3AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N4(O004)-3N5(O004)",
+        "prof": "Gilson Ditzel Santos",
+        "opt": "Matriz:628"
+      }
+    ]
+  },
+  {
     "code": "TA22A",
     "name": "Teorias Da Administração",
     "turmas": [
@@ -306,11 +629,11 @@
     ]
   },
   {
-    "code": "TC34AE",
+    "code": "TC27A",
     "name": "Trabalho De Conclusão De Curso",
     "turmas": [
       {
-        "turma": "4A",
+        "turma": "7AS",
         "enq": "Presencial",
         "vt": "50",
         "vc": "0",
@@ -319,6 +642,34 @@
         "h": "",
         "prof": "Elizangela Mara Carvalheiro",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "VL42NB",
+    "name": "Voleibol",
+    "turmas": [
+      {
+        "turma": "HUMA10",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "4N4(M103)-4N5(M103)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
+      },
+      {
+        "turma": "HUMA11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(N108)-3T5(N108)",
+        "prof": "Samoara Viacelli Da Luz",
+        "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
       }
     ]
   }

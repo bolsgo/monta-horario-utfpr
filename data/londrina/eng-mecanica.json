@@ -1,56 +1,5 @@
 [
   {
-    "code": "MAT07M",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "ME21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T1(K210)-2T2(K210)-2T3(K210)",
-        "prof": "Luis Felipe Goncalves Carneiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07P",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
-        "prof": "Pricila Da Silva Barbosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07S",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
-        "prof": "Andre Luis Trevisan",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MEC021",
     "name": "Análise De Escoamento De Fluidos",
     "turmas": [
@@ -97,125 +46,6 @@
         "prio": "1 - Eng Mecânica",
         "h": "5M1(K207)-5M2(K207)",
         "prof": "Roger Nabeyama Michels",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT06M",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "ME21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4T4(K210)-4T5(K210)-5T4(K210)-5T5(K210)",
-        "prof": "Karina Alessandra Pessoa Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT06P",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "EP23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
-        "prof": "Regina Sayuri Kainuma Yamada",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT06S",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
-        "prof": "Karina Alessandra Pessoa Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT014",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
-        "prof": "Nazira Hanna Harb",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT08M",
-    "name": "Cálculo Diferencial E Integral 2b",
-    "turmas": [
-      {
-        "turma": "ME31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4M2(K203)-4M3(K203)-6M2(K203)-6M3(K203)",
-        "prof": "Marcele Tavares Mendes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT08S",
-    "name": "Cálculo Diferencial E Integral 2b",
-    "turmas": [
-      {
-        "turma": "AS31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
-        "prof": "Cristiane Aparecida Pendeza Martinez",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT11M",
-    "name": "Cálculo Numérico",
-    "turmas": [
-      {
-        "turma": "ME41",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T1(K106)-3T2(K106)-5T1(K107)-5T2(K107)",
-        "prof": "Edson Luiz Valmorbida",
         "opt": "Não"
       }
     ]
@@ -340,6 +170,125 @@
         "prio": "1 - Eng Mecânica",
         "h": "6M1(K306)-6M2(K306)-6M3(K306)",
         "prof": "Rafael Sene De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06M",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "ME21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4T4(K210)-4T5(K210)-5T4(K210)-5T5(K210)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06P",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT014",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
+        "prof": "Nazira Hanna Harb",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08M",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "ME31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4M2(K203)-4M3(K203)-6M2(K203)-6M3(K203)",
+        "prof": "Marcele Tavares Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08S",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT11M",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T1(K106)-3T2(K106)-5T1(K107)-5T2(K107)",
+        "prof": "Edson Luiz Valmorbida",
         "opt": "Não"
       }
     ]
@@ -492,7 +441,7 @@
       {
         "turma": "EQ93",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "15",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Química, 2 - Eng. Amb. E Sanit., 3 - Eng Mecânica",
@@ -571,23 +520,6 @@
     ]
   },
   {
-    "code": "MEC004",
-    "name": "Estática Dos Corpos Rígidos",
-    "turmas": [
-      {
-        "turma": "ME31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4M4(K203)-4M5(K203)-5M1(K203)-5M2(K203)",
-        "prof": "Diego Amadeu Furtado Torres",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MAT10M",
     "name": "Estatística Aplicada À Engenharia",
     "turmas": [
@@ -601,6 +533,23 @@
         "h": "2M4(K203)-2M5(K203)-3M5(K203)-3M6(K203)",
         "prof": "",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
       }
     ]
   },
@@ -639,52 +588,256 @@
     ]
   },
   {
-    "code": "CHS09P",
-    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "code": "MEC004",
+    "name": "Estática Dos Corpos Rígidos",
     "turmas": [
       {
-        "turma": "EP23",
+        "turma": "ME31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4M4(K203)-4M5(K203)-5M1(K203)-5M2(K203)",
+        "prof": "Diego Amadeu Furtado Torres",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME67A",
+    "name": "Fundamentos De Controle 1",
+    "turmas": [
+      {
+        "turma": "DP71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M1(K214)-2M2(K214)-4M1(K214)-4M2(K214)",
+        "prof": "Juliano Goncalves Iossaqui",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Fundamentos De Cálculo Para Engenharia",
+    "turmas": [
+      {
+        "turma": "ME11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K210)-2M5(K210)-4M4(K210)-4M5(K210)",
+        "prof": "Ricardo De Sa Teles",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB20M",
+    "name": "Fundamentos De Engenharia De Segurança No Trabalho",
+    "turmas": [
+      {
+        "turma": "ME31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T2(K206)-3T3(K206)-3T4(K206)",
+        "prof": "Rafael Montanhini Soares De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC016",
+    "name": "Fundamentos De Mecânica Dos Fluidos",
+    "turmas": [
+      {
+        "turma": "ME61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "3M1(K207)-3M2(K207)-3M3(K207)",
+        "prof": "Ismael De Marchi Neto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC007",
+    "name": "Fundamentos De Mecânica Dos Sólidos",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T3(K306)-5T4(K306)-6T2(K306)-6T3(K306)",
+        "prof": "Jederson Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI005",
+    "name": "Fundamentos De Química",
+    "turmas": [
+      {
+        "turma": "ME11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T2(K209)-3T3(K209)-4T2(K209)-4T3(K209)",
+        "prof": "Antonio Laverde Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC015",
+    "name": "Fundamentos De Transferência De Calor",
+    "turmas": [
+      {
+        "turma": "ME61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M1(K207)-2M2(K207)-2M3(K207)",
+        "prof": "Rafael Sene De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC009",
+    "name": "Fundição",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "6T4(K306)-6T5(K306)-6T6(K306)",
+        "prof": "Haroldo Lhou Hasegawa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS03M",
+    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "ME21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T3(K210)-3T4(K210)-3T5(K210)",
+        "prof": "Marilene Turini Piccinato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng De Produção",
-        "h": "3N1(K205)-3N2(K205)",
-        "prof": "Alcioni Galdino Vieira",
-        "opt": "Matriz:61"
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
+    "code": "FIS05M",
+    "name": "Física 2: Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
     "turmas": [
       {
-        "turma": "ME81",
+        "turma": "ME31",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
-        "res": "Aberta",
+        "res": "Fechada",
         "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
+        "h": "5M3(K203)-5M4(K203)-5M5(K203)",
+        "prof": "Marilene Turini Piccinato",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "HU99A",
-    "name": "Ética Profissão E Cidadania",
+    "code": "FIS011",
+    "name": "Física 3",
     "turmas": [
       {
-        "turma": "EM91",
+        "turma": "EP53",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "4T5(K207)-4T6(K207)",
-        "prof": "Fernanda Di Flora Garcia",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07M",
+    "name": "Física 3: Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "ME41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4T1(K305)-4T2(K305)-4T3(K305)",
+        "prof": "Marco Aurelio Toledo Da Silva",
         "opt": "Não"
       }
     ]
@@ -729,7 +882,7 @@
         "res": "Aberta",
         "prio": "1 - Eng De Produção",
         "h": "3N1(K201)-3N2(K201)",
-        "prof": "Luiz Carlos Pocas",
+        "prof": "Paulo Sergio De Camargo Filho",
         "opt": "Não"
       },
       {
@@ -740,7 +893,7 @@
         "res": "Aberta",
         "prio": "1 - Eng De Produção",
         "h": "3N3(K201)-3N4(K201)",
-        "prof": "Luiz Carlos Pocas",
+        "prof": "Paulo Sergio De Camargo Filho",
         "opt": "Não"
       }
     ]
@@ -859,244 +1012,6 @@
         "prio": "1 - Eng Mecânica",
         "h": "5M4(K301)-5M5(K301)",
         "prof": "David Da Silva Simeao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS03M",
-    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "ME21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T3(K210)-3T4(K210)-3T5(K210)",
-        "prof": "Marilene Turini Piccinato",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS010",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "EP43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS05M",
-    "name": "Física 2: Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "ME31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "5M3(K203)-5M4(K203)-5M5(K203)",
-        "prof": "Marilene Turini Piccinato",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS011",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "EP53",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS07M",
-    "name": "Física 3: Fundamentos Do Eletromagnetismo",
-    "turmas": [
-      {
-        "turma": "ME41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4T1(K305)-4T2(K305)-4T3(K305)",
-        "prof": "Marco Aurelio Toledo Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS07S",
-    "name": "Física 3 Fundamentos Do Eletromagnetismo",
-    "turmas": [
-      {
-        "turma": "AS41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
-        "prof": "Jorge Alberto Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT002",
-    "name": "Fundamentos De Cálculo Para Engenharia",
-    "turmas": [
-      {
-        "turma": "ME11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K210)-2M5(K210)-4M4(K210)-4M5(K210)",
-        "prof": "Ricardo De Sa Teles",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ME67A",
-    "name": "Fundamentos De Controle 1",
-    "turmas": [
-      {
-        "turma": "DP71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M1(K214)-2M2(K214)-4M1(K214)-4M2(K214)",
-        "prof": "Juliano Goncalves Iossaqui",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB20M",
-    "name": "Fundamentos De Engenharia De Segurança No Trabalho",
-    "turmas": [
-      {
-        "turma": "ME31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T2(K206)-3T3(K206)-3T4(K206)",
-        "prof": "Rafael Montanhini Soares De Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC016",
-    "name": "Fundamentos De Mecânica Dos Fluidos",
-    "turmas": [
-      {
-        "turma": "ME61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3M1(K207)-3M2(K207)-3M3(K207)",
-        "prof": "Ismael De Marchi Neto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC007",
-    "name": "Fundamentos De Mecânica Dos Sólidos",
-    "turmas": [
-      {
-        "turma": "ME41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T3(K306)-5T4(K306)-6T2(K306)-6T3(K306)",
-        "prof": "Jederson Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI005",
-    "name": "Fundamentos De Química",
-    "turmas": [
-      {
-        "turma": "ME11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T2(K209)-3T3(K209)-4T2(K209)-4T3(K209)",
-        "prof": "Antonio Laverde Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC015",
-    "name": "Fundamentos De Transferência De Calor",
-    "turmas": [
-      {
-        "turma": "ME61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M1(K207)-2M2(K207)-2M3(K207)",
-        "prof": "Rafael Sene De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC009",
-    "name": "Fundição",
-    "turmas": [
-      {
-        "turma": "ME41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "6T4(K306)-6T5(K306)-6T6(K306)",
-        "prof": "Haroldo Lhou Hasegawa",
         "opt": "Não"
       }
     ]
@@ -1221,23 +1136,6 @@
     ]
   },
   {
-    "code": "MEC026",
-    "name": "Inércia De Máquinas, Molas E Elementos De Transmissão",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "3M2(K209)-3M3(K209)-5M2(K209)-5M3(K209)",
-        "prof": "Joao Luiz Do Vale",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CHS002",
     "name": "Interpretação E Produção De Textos Científicos E Profissionais Na Engenharia",
     "turmas": [
@@ -1251,6 +1149,23 @@
         "h": "3M2(K210)-3M3(K210)",
         "prof": "Givan Jose Ferreira Dos Santos",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPME15",
+    "name": "Introdução Ao Método De Elementos Finitos Aplicado À Elasticidade Linear",
+    "turmas": [
+      {
+        "turma": "ME71",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "5M4(K111)-5M5(K111)-6M1(K111)-6M2(K111)",
+        "prof": "Diego Amadeu Furtado Torres",
+        "opt": "Matriz:63"
       }
     ]
   },
@@ -1272,19 +1187,19 @@
     ]
   },
   {
-    "code": "OPME15",
-    "name": "Introdução Ao Método De Elementos Finitos Aplicado À Elasticidade Linear",
+    "code": "MEC026",
+    "name": "Inércia De Máquinas, Molas E Elementos De Transmissão",
     "turmas": [
       {
-        "turma": "ME71",
+        "turma": "ME81",
         "enq": "Presencial",
-        "vt": "12",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Mecânica",
-        "h": "5M4(K111)-5M5(K111)-6M1(K111)-6M2(K111)",
-        "prof": "Diego Amadeu Furtado Torres",
-        "opt": "Matriz:63"
+        "h": "3M2(K209)-3M3(K209)-5M2(K209)-5M3(K209)",
+        "prof": "Joao Luiz Do Vale",
+        "opt": "Não"
       }
     ]
   },
@@ -1357,40 +1272,6 @@
     ]
   },
   {
-    "code": "MEC025",
-    "name": "Máquinas De Fluxo",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4M3(K214)-4M4(K214)-4M5(K214)",
-        "prof": "Ricardo De Vasconcelos Salvo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "OPME01",
-    "name": "Máquinas Térmicas",
-    "turmas": [
-      {
-        "turma": "ME71",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica",
-        "h": "4M2(K312)-4M3(K312)-4M4(K312)-4M5(K312)",
-        "prof": "Rafael Sene De Lima",
-        "opt": "Matriz:63"
-      }
-    ]
-  },
-  {
     "code": "MEC006",
     "name": "Materiais De Construção Mecânica",
     "turmas": [
@@ -1432,6 +1313,40 @@
         "h": "2T1(K203)-2T2(K004)-2T3(K004)",
         "prof": "Roger Nabeyama Michels",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC025",
+    "name": "Máquinas De Fluxo",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4M3(K214)-4M4(K214)-4M5(K214)",
+        "prof": "Ricardo De Vasconcelos Salvo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPME01",
+    "name": "Máquinas Térmicas",
+    "turmas": [
+      {
+        "turma": "ME71",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "4M2(K312)-4M3(K312)-4M4(K312)-4M5(K312)",
+        "prof": "Rafael Sene De Lima",
+        "opt": "Matriz:63"
       }
     ]
   },
@@ -1697,6 +1612,91 @@
         "h": "2M4(K207)-2M5(K207)-5M4(K106)-5M5(K106)",
         "prof": "Juliano Goncalves Iossaqui",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07M",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "ME21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(K210)-2T2(K210)-2T3(K210)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
       }
     ]
   }

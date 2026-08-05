@@ -1,22 +1,5 @@
 [
   {
-    "code": "AA46QB",
-    "name": "Análise De Alimentos",
-    "turmas": [
-      {
-        "turma": "6QB",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "3M3(N110)-3M4(N110)-3M5(N110)",
-        "prof": "Solange Teresinha Carpes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AO46QB",
     "name": "Análise Orgânica Qualitativa",
     "turmas": [
@@ -34,6 +17,40 @@
     ]
   },
   {
+    "code": "AA46QB",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "6QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "3M3(N110)-3M4(N110)-3M5(N110)",
+        "prof": "Solange Teresinha Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AQ42QB",
+    "name": "Análises Químicas Envolvendo Equilíbrios Iônicos Em Sistemas Aquosos",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M4(N003)-3M5(N003)",
+        "prof": "Henrique Emilio Zorel Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AM43QB",
     "name": "Aplicações De Mecânica",
     "turmas": [
@@ -46,6 +63,108 @@
         "prio": "1 - Química",
         "h": "2M4(N107)-2M5(N107)-4M4(N107)-4M5(N107)",
         "prof": "Ivo De Lourenco Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BQ44QB",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2M1(N108)-2M2(N108)-2M3(N108)-4M1(N108)",
+        "prof": "Vanderlei Aparecido De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CH47QB",
+    "name": "Catálise Heterogênea",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "3N1(N110)-3N2(N110)-5N1(N110)-5N2(N110)",
+        "prof": "Rodrigo Brackmann",
+        "opt": "Matriz:657, Matriz:489, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "CP47QB",
+    "name": "Controle Da Poluição Industrial",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6M1(N010)-6M2(N010)-6M3(N010)",
+        "prof": "Rodrigo Brackmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT43MC",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "3MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Eng Mecânica",
+        "h": "4T2(Q007)-4T3(Q007)",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47NB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Engenharia Civil",
+        "h": "4T4(M107)-4T5(M107)",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47QB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N106)-2M5(N106)",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -74,67 +193,6 @@
         "prio": "1 - Engenharia Civil",
         "h": "2T4(M103)-2T5(M103)-5T4(M103)-5T5(M103)",
         "prof": "Marieli Musial Tumelero",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV41NB",
-    "name": "Cálculo Em Uma Variável Real",
-    "turmas": [
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
-        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
-        "prof": "Divanete Maria Bitdinger De Oliveira",
-        "opt": "Não"
-      },
-      {
-        "turma": "1CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
-      {
-        "turma": "1EL",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
-        "prof": "Larissa Hagedorn Vieira",
-        "opt": "Não"
-      },
-      {
-        "turma": "1MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
-      {
-        "turma": "1QB",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
-        "prof": "Larissa Hagedorn Vieira",
         "opt": "Não"
       }
     ]
@@ -201,69 +259,62 @@
     ]
   },
   {
-    "code": "CH47QB",
-    "name": "Catálise Heterogênea",
+    "code": "CV41NB",
+    "name": "Cálculo Em Uma Variável Real",
     "turmas": [
       {
-        "turma": "2QB",
+        "turma": "1CP",
         "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EL",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
+        "prof": "Larissa Hagedorn Vieira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "20",
         "res": "Aberta",
         "prio": "1 - Química",
-        "h": "3N1(N110)-3N2(N110)-5N1(N110)-5N2(N110)",
-        "prof": "Rodrigo Brackmann",
-        "opt": "Matriz:657, Matriz:489, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "CT43MC",
-    "name": "Custos",
-    "turmas": [
-      {
-        "turma": "3MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 1 - Eng Mecânica",
-        "h": "4T2(Q007)-4T3(Q007)",
-        "prof": "",
+        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
+        "prof": "Larissa Hagedorn Vieira",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CT47NB",
-    "name": "Custos",
-    "turmas": [
+      },
       {
-        "turma": "7CV",
+        "turma": "EXT",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Química, 1 - Engenharia Civil",
-        "h": "4T4(M107)-4T5(M107)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CT47QB",
-    "name": "Custos",
-    "turmas": [
-      {
-        "turma": "7QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M4(N106)-2M5(N106)",
-        "prof": "",
+        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
+        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
+        "prof": "Divanete Maria Bitdinger De Oliveira",
         "opt": "Não"
       }
     ]
@@ -292,6 +343,23 @@
         "prio": "1 - Agronomia",
         "h": "5T4(V003)-5T5(V003)-5T6(V003)",
         "prof": "Andre Felipe Barion Alves Andrean",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DT41QB",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "24",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6M3(V003)-6M4(V003)-6M5(V003)-6M6(S001)",
+        "prof": "Rayana Carolina Conterno",
         "opt": "Não"
       }
     ]
@@ -376,6 +444,40 @@
     ]
   },
   {
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EM43G",
     "name": "Economia E Mercados",
     "turmas": [
@@ -439,40 +541,6 @@
         "prio": "1 - Química",
         "h": "2M4(N108)-2M5(N108)-4M4(N108)-4M5(N108)",
         "prof": "Marcio Antonio Fiori",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM29MC",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "9MC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T4(Q005)-3T5(Q005)",
-        "prof": "Norma Brambilla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP22B",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "2BS",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "6N2(O201)-6N3(O201)",
-        "prof": "Elizandra Machado Follmann",
         "opt": "Não"
       }
     ]
@@ -580,6 +648,108 @@
     ]
   },
   {
+    "code": "EI41QB",
+    "name": "Empreendedorismo E Inovação Em Química",
+    "turmas": [
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "24",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5T1(N010)-5T2(N010)",
+        "prof": "Henrique Emilio Zorel Junior",
+        "opt": "Matriz:489"
+      }
+    ]
+  },
+  {
+    "code": "ED43QB",
+    "name": "Equações Diferenciais Ordinárias Para Química",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M2(N107)-3M3(N107)-5M2(N107)-5M3(N107)",
+        "prof": "Gilson Tumelero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EI42QB",
+    "name": "Equilíbrios Iônicos Em Sistemas Aquosos Aplicados À Análise Química",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5T3(N011)-5T4(N011)-5T5(N011)",
+        "prof": "Henrique Emilio Zorel Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC43QB",
+    "name": "Estudo De Compostos De Coordenação",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4T2(N107)-4T3(N107)-5T2(N107)-5T3(N107)",
+        "prof": "Cristiane Regina Budziak Parabocz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EX42QB",
+    "name": "Estudos Experimentais De Compostos Inorgânicos",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5M4(N001)-5M5(N001)",
+        "prof": "Raquel Dalla Costa Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE43QB",
+    "name": "Estudos Experimentais De Compostos De Coordenação",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6M4(N006)-6M5(N006)",
+        "prof": "Cristiane Regina Budziak Parabocz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EG41NB",
     "name": "Expressão Gráfica",
     "turmas": [
@@ -608,6 +778,23 @@
     ]
   },
   {
+    "code": "FS45QB",
+    "name": "Fenômenos De Superfície, Transporte E Cinética Química",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2M1(N109)-2M2(N109)-2M3(N109)-2M4(N109)-2M5(N109)",
+        "prof": "Patricia Teixeira Marques",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FL41QB",
     "name": "Filosofia",
     "turmas": [
@@ -620,6 +807,85 @@
         "prio": "1 - Química",
         "h": "4M4(N010)-4M5(N010)",
         "prof": "Nilson De Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FQ45QB",
+    "name": "Fundamentos Da Química Dos Minerais E Do Estado Sólido",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M3(N109)-4M3(N109)-5M1(N109)-5M2(N109)-5M3(N109)",
+        "prof": "Elidia Aparecida Vetter Ferri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE42NB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "HUMA4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(M104)-3N3(M104)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
+      },
+      {
+        "turma": "HUMA5",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "2N4(N107)-2N5(N107)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "FT47QB",
+    "name": "Fundamentos De Testes Ecotoxicológicos",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "4M4(N007)-4M5(N007)",
+        "prof": "Raquel Dalla Costa Da Rocha",
+        "opt": "Matriz:657, Matriz:489, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "FC42QB",
+    "name": "Fundamentos Dos Compostos Inorgânicos",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6M1(N011)-6M2(N011)-6M3(N011)",
+        "prof": "Cristiane Regina Budziak Parabocz",
         "opt": "Não"
       }
     ]
@@ -770,20 +1036,26 @@
     ]
   },
   {
-    "code": "FT41NB",
-    "name": "Física Teórica I",
+    "code": "FI45QB",
+    "name": "Física Moderna Aplicada À Química",
     "turmas": [
       {
-        "turma": "EXT",
+        "turma": "5QB",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
-        "prof": "Crislaine Da Cruz",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M4(N109)-3M5(N109)-5M4(N109)-5M5(N109)",
+        "prof": "Clementina Verginia Andreolla",
         "opt": "Não"
-      },
+      }
+    ]
+  },
+  {
+    "code": "FT41NB",
+    "name": "Física Teórica I",
+    "turmas": [
       {
         "turma": "1CP",
         "enq": "Presencial",
@@ -826,6 +1098,17 @@
         "prio": "1 - Engenharia Civil",
         "h": "3T2(M106)-3T3(M106)-5T2(M106)-5T3(M106)",
         "prof": "Cesar Augusto Refosco Yednak",
+        "opt": "Não"
+      },
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
+        "prof": "Crislaine Da Cruz",
         "opt": "Não"
       }
     ]
@@ -920,68 +1203,6 @@
     ]
   },
   {
-    "code": "FE42NB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA4",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(M104)-3N3(M104)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
-      },
-      {
-        "turma": "HUMA5",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Cart Agrimensura",
-        "h": "2N4(N107)-2N5(N107)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "FT47QB",
-    "name": "Fundamentos De Testes Ecotoxicológicos",
-    "turmas": [
-      {
-        "turma": "2QB",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "4M4(N007)-4M5(N007)",
-        "prof": "Raquel Dalla Costa Da Rocha",
-        "opt": "Matriz:657, Matriz:489, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "GP44MC",
-    "name": "Gestão Da Produção",
-    "turmas": [
-      {
-        "turma": "4MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T2(Q004)-5T3(Q004)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "GP29NB",
     "name": "Gestão De Pessoas",
     "turmas": [
@@ -1011,6 +1232,23 @@
         "prio": "1 - Engenharia Elétrica",
         "h": "4T4(L107)-4T5(L107)",
         "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP44MC",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "4MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T2(Q004)-5T3(Q004)",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -1101,6 +1339,74 @@
     ]
   },
   {
+    "code": "IF42QB",
+    "name": "Introdução À Físico-Química",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4T2(N011)-4T3(N011)-4T4(N011)",
+        "prof": "Liliam Cristina Angelo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LQ42QB",
+    "name": "Laboratório De Química Aplicada",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3T4(N011)-3T5(N011)",
+        "prof": "Liliam Cristina Angelo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LT43QB",
+    "name": "Leis Da Termodinâmica E Suas Aplicações",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2T2(N107)-2T3(N107)-2T4(N107)-3M4(N004)-3M5(N004)",
+        "prof": "Pericles Inacio Khalaf",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LP41NB",
     "name": "Leitura E Produção De Gêneros Acadêmicos",
     "turmas": [
@@ -1179,23 +1485,6 @@
     ]
   },
   {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MM42QB",
     "name": "Matéria Em Movimento",
     "turmas": [
@@ -1213,6 +1502,23 @@
     ]
   },
   {
+    "code": "MR44QB",
+    "name": "Mecanismos De Reações Orgânicas",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5M3(N108)-5M4(N108)-5M5(N108)-6M1(N108)-6M2(N108)-6M3(N108)",
+        "prof": "Sirlei Dias Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MP44QB",
     "name": "Metodologia De Pesquisa",
     "turmas": [
@@ -1225,6 +1531,227 @@
         "prio": "1 - Química",
         "h": "3M4(N108)-3M5(N108)",
         "prof": "Marlize Rubin Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MI45QB",
+    "name": "Microbiologia Industrial E Fermentações",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M4(N109)-4M5(N109)-6M3(N109)-6M4(N109)-6M5(N109)",
+        "prof": "Mario Antonio Alves Da Cunha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA46QB",
+    "name": "Microbiologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5M1(N010)-5M2(N010)-5M3(N010)",
+        "prof": "Solange Teresinha Carpes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MQ43QB",
+    "name": "Métodos Analíticos Quantitativos Aplicados A Determinação De Substâncias Inorgânicas E Orgânicas",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2M1(N003)-2M2(N003)-2M3(N003)",
+        "prof": "Marcio Barreto Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA43QB",
+    "name": "Métodos Analíticos Quantitativos Gravimétricos E Volumétricos",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M2(N107)-4M3(N107)",
+        "prof": "Marcio Barreto Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME46QB",
+    "name": "Métodos Espectroscópicos Aplicados A Determinação De Substâncias Inorgânicas E Orgânicas",
+    "turmas": [
+      {
+        "turma": "6QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M4(N110)-4M5(N110)-6M2(N110)-6M3(N110)",
+        "prof": "Larissa Macedo Dos Santos Tonial, Tatiane Luiza Cadorin Oldoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MI46QB",
+    "name": "Métodos Instrumentais Aplicados À Separação E Identificação De Compostos Químicos",
+    "turmas": [
+      {
+        "turma": "6QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M2(N110)-4M3(N110)-6M4(N110)-6M5(N110)",
+        "prof": "Sirlei Dias Teixeira, Tatiane Luiza Cadorin Oldoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MI44QB",
+    "name": "Métodos Instrumentais Para Análise Do Comportamento Térmico E Composição Química Elementar",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5M1(N108)-5M2(N108)",
+        "prof": "Henrique Emilio Zorel Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OA44QB",
+    "name": "Oficina De Atividades Em Estudos De Problemas Estruturados",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5T1(N108)-5T2(N108)",
+        "prof": "Leandro Zatta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OA45QB",
+    "name": "Oficina De Atividades Em Estudos De Problemas De Contexto Real",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4T1(N109)-5T1(N109)",
+        "prof": "Cristiane Regina Budziak Parabocz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OS47QB",
+    "name": "Oficina De Soluções Para Problemas Envolvendo Demandas Industriais E Socioambientais",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M1(M105)-4M2(M105)",
+        "prof": "Patricia Teixeira Marques, Cristiane Regina Budziak Parabocz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OU45QB",
+    "name": "Operações Unitárias De Transferência De Massa",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M1(N109)-3M2(N109)-6M1(N109)-6M2(N109)",
+        "prof": "Raquel Dalla Costa Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OU46QB",
+    "name": "Operações Unitárias De Transferência De Massa E Energia",
+    "turmas": [
+      {
+        "turma": "6QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5M2(N110)-5M3(N110)-5M4(N110)-5M5(N110)",
+        "prof": "Rodrigo Brackmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PQ41QB",
+    "name": "Princípios De Química",
+    "turmas": [
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2T2(N010)-2T3(N010)",
+        "prof": "Cristiane Regina Budziak Parabocz",
         "opt": "Não"
       }
     ]
@@ -1302,23 +1829,6 @@
     ]
   },
   {
-    "code": "PI38QB",
-    "name": "Processos Industriais Orgânicos",
-    "turmas": [
-      {
-        "turma": "8QBE",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "3M4(N010)-3M5(N010)-4T1(S001)-4T2(S001)",
-        "prof": "Rodrigo Brackmann",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "PQ48QB",
     "name": "Processos Químicos Industriais",
     "turmas": [
@@ -1336,20 +1846,26 @@
     ]
   },
   {
-    "code": "PA42NB",
-    "name": "Psicologia Aplicada Ao Trabalho",
+    "code": "PC47QB",
+    "name": "Projeto De Conclusão De Curso",
     "turmas": [
       {
-        "turma": "HUMA12",
+        "turma": "7QB",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(M103)-2N2(M103)",
-        "prof": "Sergio Paes De Barros",
-        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
-      },
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3T1(S001)-4M3(N108)",
+        "prof": "Marina Leite Mitterer Daltoe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PA42NB",
+    "name": "Psicologia Aplicada Ao Trabalho",
+    "turmas": [
       {
         "turma": "5CV",
         "enq": "Presencial",
@@ -1358,6 +1874,17 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "4T4(M104)-4T5(M104)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "HUMA12",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M103)-2N2(M103)",
         "prof": "Sergio Paes De Barros",
         "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
       }
@@ -1381,6 +1908,40 @@
     ]
   },
   {
+    "code": "QO43QB",
+    "name": "Química Orgânica: Estudo Do Carbono",
+    "turmas": [
+      {
+        "turma": "3QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6M1(N107)-6M2(N107)-6M3(N107)",
+        "prof": "Davi Costa Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QI46QB",
+    "name": "Química Quântica",
+    "turmas": [
+      {
+        "turma": "6QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2M5(N110)-2M6(N110)-3M1(N110)-3M2(N110)",
+        "prof": "Pericles Inacio Khalaf",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QV45QB",
     "name": "Química Verde E Sustentabilidade",
     "turmas": [
@@ -1393,6 +1954,23 @@
         "prio": "1 - Química",
         "h": "4M4(N105)-4M5(N105)",
         "prof": "Marcio Barreto Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "RS45QB",
+    "name": "Reações De Sistema Carbonílicos E Organometálicos",
+    "turmas": [
+      {
+        "turma": "5QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4M1(N109)-4M2(N109)",
+        "prof": "Davi Costa Silva",
         "opt": "Não"
       }
     ]
@@ -1488,8 +2066,25 @@
     ]
   },
   {
-    "code": "TC38QB",
-    "name": "Trabalho De Conclusão 2",
+    "code": "TS44QB",
+    "name": "Termodinâmica De Substâncias Puras, Misturas E Eletroquímica",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M1(N108)-3M2(N108)-3M3(N108)-6M4(N108)-6M5(N108)",
+        "prof": "Patricia Teixeira Marques",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC48QB",
+    "name": "Trabalho De Conclusão De Curso",
     "turmas": [
       {
         "turma": "8QB",
@@ -1500,6 +2095,23 @@
         "prio": "1 - Química",
         "h": "",
         "prof": "Vanderlei Aparecido De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TL41QB",
+    "name": "Técnicas Laboratoriais Básicas",
+    "turmas": [
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "14",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3M4(N001)-3M5(N001)",
+        "prof": "Edilson Da Silva Ferreira",
         "opt": "Não"
       }
     ]
@@ -1529,6 +2141,23 @@
         "h": "3T4(N108)-3T5(N108)",
         "prof": "Samoara Viacelli Da Luz",
         "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "AT41QB",
+    "name": "Átomos: Do Conceito À Aplicação",
+    "turmas": [
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "20",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2M4(N010)-2M5(N010)-4M2(N010)-4M3(N010)",
+        "prof": "Vanderlei Aparecido De Lima",
+        "opt": "Não"
       }
     ]
   }

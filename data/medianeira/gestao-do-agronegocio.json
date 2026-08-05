@@ -1,181 +1,153 @@
 [
   {
-    "code": "ALM1044",
-    "name": "Análise De Alimentos",
+    "code": "PRO1052",
+    "name": "Administração",
     "turmas": [
       {
-        "turma": "TAL3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N1(H35)-3N2(H35)-3N3(H35)",
-        "prof": "Deisy Alessandra Drunkler",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1048",
-    "name": "Análise Sensorial",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N1(H36)-3N2(H36)-3N3(H36)",
-        "prof": "Rosana Aparecida Da Silva Buzanello",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1046",
-    "name": "Bioquímica De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "2N1(H33)-2N2(H33)-2N3(H33)",
-        "prof": "Flavio Dias Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1003",
-    "name": "Bioquímica Geral",
-    "turmas": [
-      {
-        "turma": "ALI3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "3M1(H36)-3M2(H36)-3M3(H36)",
-        "prof": "Valdemar Padilha Feltrin",
-        "opt": "Não"
-      },
-      {
-        "turma": "TAL2",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N3(L21)-3N4(L21)-3N5(L21)",
-        "prof": "Flavio Dias Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1038",
-    "name": "Biossegurança E Instrumentalização Laboratorial",
-    "turmas": [
-      {
-        "turma": "TAL1",
+        "turma": "AGR1",
         "enq": "Presencial",
         "vt": "36",
         "vc": "30",
         "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N4(I11)-3N5(I11)",
-        "prof": "Glaucia Cristina Moreira",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N1(H611)-4N2(H611)",
+        "prof": "Cidmar Ortiz Dos Santos",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1034",
-    "name": "Biotecnologia",
+    "code": "AMB1088",
+    "name": "Agronegócio E As Ciências Da Natureza",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "AGR3",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N4(I42)-4N5(I42)",
-        "prof": "Ivonei Ottobelli",
-        "opt": "Matriz:655"
-      }
-    ]
-  },
-  {
-    "code": "ALM1049",
-    "name": "Ciência Da Carne",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N4(H36)-5N5(H36)",
-        "prof": "Cristiane Canan",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N4(I26)-5N5(I26)",
+        "prof": "Carla Cristina Bem",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "MEC1033",
-    "name": "Desenho Técnico",
+    "code": "AMB1076",
+    "name": "Cadeias Produtivas De Animais",
     "turmas": [
       {
-        "turma": "TAL1SPELH",
+        "turma": "AGR2",
         "enq": "Presencial",
         "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(L28)-2N2(L28)-2N3(L28)",
+        "prof": "Marlon Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1077",
+    "name": "Cadeias Produtivas De Vegetais",
+    "turmas": [
+      {
+        "turma": "AGR2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N1(L28)-3N2(L28)-3N3(L28)",
+        "prof": "Marlon Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1082",
+    "name": "Cadeias Produtivas Florestais",
+    "turmas": [
+      {
+        "turma": "AGR2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N4(L44)-5N5(L44)",
+        "prof": "Carla Daniela Camara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1075",
+    "name": "Climatologia",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "36",
         "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "6N3(I21)-6N4(I21)-6N5(I21)",
-        "prof": "Carlos Aparecido Fernandes",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N4(I21)-5N5(I21)",
+        "prof": "Vanderlei Leopold Magalhaes",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "AMB1079",
+    "name": "Computação Aplicada",
+    "turmas": [
+      {
+        "turma": "AGR2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N3(I25)-4N4(I25)",
+        "prof": "Laercio Mantovani Frare",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1059",
-    "name": "Desenvolvimento De Novos Produtos",
+    "code": "AMB1085",
+    "name": "Construções E Instalações Rurais",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "AGR3",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos, 1 - Gestão Do Agronegócio",
-        "h": "2N3(I15)-2N4(I15)-2N5(I15)",
-        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N1(H39)-4N2(H39)",
+        "prof": "Lisiane Sobucki",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1061",
-    "name": "Embalagens",
+    "code": "AMB1087",
+    "name": "Direito Ambiental E Agrário",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "AGR3",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N3(I42)-5N4(I42)",
-        "prof": "Eliana Maria Baldissera",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N1(H39)-5N2(H39)-5N3(H39)",
+        "prof": "Juliana Bortoli Rodrigues Mees",
         "opt": "Não"
       }
     ]
@@ -215,80 +187,69 @@
     ]
   },
   {
-    "code": "ALM1012",
-    "name": "Fundamentos De Nutrição",
+    "code": "AMB1073",
+    "name": "Fundamentos De Agricultura",
     "turmas": [
       {
-        "turma": "ALI6",
+        "turma": "AGR1",
         "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "6M1(H39)-6M2(H39)",
-        "prof": "Rosana Aparecida Da Silva Buzanello",
-        "opt": "Não"
-      },
-      {
-        "turma": "TAL5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N4(I41)-3N5(I41)",
-        "prof": "Rosana Aparecida Da Silva Buzanello",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1047",
-    "name": "Fundamentos De Operações Unitárias",
-    "turmas": [
-      {
-        "turma": "TAL3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
+        "vt": "36",
+        "vc": "30",
         "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N1(I12)-4N2(I12)-6N1(I12)-6N2(I12)",
-        "prof": "Daiane Cristina Lenhard",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N3(L27)-4N4(L27)-4N5(L27)",
+        "prof": "Marlon Rodrigues, Carla Daniela Camara, Larissa De Bortolli Chiamolera Sabbi",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "ALM1051",
-    "name": "Gestão Da Qualidade E Segurança De Alimentos",
+    "code": "AMB1078",
+    "name": "Fundamentos De Solo E Fertilidade",
     "turmas": [
       {
-        "turma": "TAL4",
+        "turma": "AGR2",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N1(H33)-4N2(H33)-4N3(H33)",
-        "prof": "Fabio Avelino Bublitz Ferreira",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "6N1(L28)-6N2(L28)-6N3(L28)",
+        "prof": "Lisiane Sobucki",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "AMB1011",
-    "name": "Gestão De Resíduos Sólidos E Efluentes Em Indústrias De Alimentos",
+    "code": "AMB1074",
+    "name": "Fundamentos De Zootecnia",
     "turmas": [
       {
-        "turma": "TAL6",
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N1(L27)-5N2(L27)-5N3(L27)",
+        "prof": "Lisiane Sobucki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1081",
+    "name": "Hidrologia E Gestão De Recursos Hídricos",
+    "turmas": [
+      {
+        "turma": "AGR2",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N1(H39)-3N2(H39)-3N3(I42)",
-        "prof": "Juliana Bortoli Rodrigues Mees",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N4(L44)-3N5(L44)",
+        "prof": "Carla Cristina Bem",
         "opt": "Não"
       }
     ]
@@ -400,18 +361,35 @@
     ]
   },
   {
-    "code": "ALM1039",
-    "name": "Introdução À Tecnologia De Alimentos",
+    "code": "AMB1084",
+    "name": "Interpretação Cartográfica E De Sistemas De Informação",
     "turmas": [
       {
-        "turma": "TAL1",
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N3(I21)-4N4(I21)-4N5(I21)",
+        "prof": "Vanderlei Leopold Magalhaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1072",
+    "name": "Introdução À Gestão Do Agronegócio",
+    "turmas": [
+      {
+        "turma": "AGR1",
         "enq": "Presencial",
         "vt": "36",
         "vc": "30",
         "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N1(I11)-3N2(I11)",
-        "prof": "Glaucia Cristina Moreira",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N1(L27)-3N2(L27)",
+        "prof": "Carla Cristina Bem",
         "opt": "Não"
       }
     ]
@@ -506,18 +484,35 @@
     ]
   },
   {
-    "code": "ALM1043",
-    "name": "Microbiologia De Alimentos",
+    "code": "AMB1086",
+    "name": "Licenciamento Ambiental",
     "turmas": [
       {
-        "turma": "TAL3",
+        "turma": "AGR3",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N3(L39C)-4N4(L39C)-4N5(L39C)",
-        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N4(H39)-2N5(H39)",
+        "prof": "Juliana Bortoli Rodrigues Mees",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "AMB1083",
+    "name": "Manejo De Recursos Naturais",
+    "turmas": [
+      {
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "6N1(H39)-6N2(H39)",
+        "prof": "Cristhiane Rohde",
         "opt": "Não"
       }
     ]
@@ -551,155 +546,121 @@
     ]
   },
   {
-    "code": "ALM1042",
-    "name": "Microscopia De Alimentos",
+    "code": "AMB1090",
+    "name": "Oficinas De Capacitação Em Agronegócio",
     "turmas": [
       {
-        "turma": "TAL3",
+        "turma": "AGR4",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N4(H35)-3N5(H35)",
-        "prof": "Valdemar Padilha Feltrin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1052",
-    "name": "Operações Unitárias Na Indústria De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "2N1(H36)-2N2(H36)-2N3(H36)-2N4(H36)",
-        "prof": "Cleusa Ines Weber",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1066",
-    "name": "Planejamento Experimental E Otimização De Processos",
-    "turmas": [
-      {
-        "turma": "TAL6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N1(I25)-5N2(I25)",
-        "prof": "Eliane Colla",
-        "opt": "Matriz:658"
-      }
-    ]
-  },
-  {
-    "code": "ALM1053",
-    "name": "Projeto Integrador De Análises Em Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N4(H36)-3N5(H36)",
-        "prof": "Deisy Alessandra Drunkler",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1062",
-    "name": "Projeto Integrador De Tecnologia Em Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "3N4(H33)-3N5(H33)",
-        "prof": "Marines Paula Corso",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1058",
-    "name": "Projeto Integrador Em Segurança E Qualidade De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "2N4(I41)-2N5(I41)",
-        "prof": "Gisele Teixeira De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1061",
-    "name": "Química Geral E Inorgânica",
-    "turmas": [
-      {
-        "turma": "TAL1",
-        "enq": "Presencial",
-        "vt": "36",
-        "vc": "30",
         "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N1(L33)-4N2(L33)-5N4(I11)-5N5(I11)",
-        "prof": "Emerson Luis Pires",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N4(H611)-4N5(H611)",
+        "prof": "Cidmar Ortiz Dos Santos",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "QUI1062",
-    "name": "Química Orgânica",
+    "code": "AMB1091",
+    "name": "Problemas Estrutrados No Agronegócio",
     "turmas": [
       {
-        "turma": "TAL1",
-        "enq": "Presencial",
-        "vt": "36",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N3(I11)-4N4(I11)-4N5(I11)-5N3(I11)",
-        "prof": "Michelle Budke Costa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1032",
-    "name": "Tecnologia De Bebidas",
-    "turmas": [
-      {
-        "turma": "TAL5",
+        "turma": "AGR4",
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N4(I41)-5N5(I41)",
-        "prof": "Glaucia Cristina Moreira",
-        "opt": "Matriz:655"
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N1(H36)",
+        "prof": "Marlon Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1092",
+    "name": "Saneamento No Ambiente Rural",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "6N3(I12)-6N4(I12)-6N5(I12)",
+        "prof": "Elias Lira Dos Santos Junior",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "ELE1043",
+    "name": "Segurança No Trabalho E Meio Ambiente",
+    "turmas": [
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "32",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Química Industrial",
+        "h": "2N4(I16)-2N5(I16)",
+        "prof": "Yuri Ferruzzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1080",
+    "name": "Sensoriamento Remoto Aplicado Ao Agronegócio",
+    "turmas": [
+      {
+        "turma": "AGR2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N1(I21)-4N2(I21)",
+        "prof": "Vanderlei Leopold Magalhaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1089",
+    "name": "Serviços Ambientais Nos Agroecossistemas",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N1(I44)-3N2(I44)-3N3(I44)",
+        "prof": "Carla Daniela Camara",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "AMB1037",
+    "name": "Sistemas De Gestão E Auditoria Ambiental",
+    "turmas": [
+      {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6N3(H36)-6N4(H36)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Matriz:662"
       }
     ]
   },
@@ -738,40 +699,6 @@
     ]
   },
   {
-    "code": "ALM1050",
-    "name": "Tecnologia De Leites De Consumo",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N1(H38)-5N2(H38)-5N3(H38)",
-        "prof": "Celeide Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1033",
-    "name": "Tecnologia De Pescado",
-    "turmas": [
-      {
-        "turma": "TAL6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N1(I42)-4N2(I42)",
-        "prof": "Marines Paula Corso",
-        "opt": "Matriz:655"
-      }
-    ]
-  },
-  {
     "code": "ALM1056",
     "name": "Tecnologia De Produtos Cárneos",
     "turmas": [
@@ -802,74 +729,6 @@
         "h": "5N1(I41)-5N2(I41)-5N3(I41)",
         "prof": "Glaucia Cristina Moreira",
         "opt": "Matriz:665"
-      }
-    ]
-  },
-  {
-    "code": "ALM1031",
-    "name": "Tecnologia De Óleos E Gorduras",
-    "turmas": [
-      {
-        "turma": "TAL5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "6N1(I41)-6N2(I41)",
-        "prof": "Cleusa Ines Weber",
-        "opt": "Matriz:655"
-      }
-    ]
-  },
-  {
-    "code": "ALM1035",
-    "name": "Tecnologias Emergentes Para Conservação De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N4(H36)-4N5(H36)",
-        "prof": "Gisele Teixeira De Souza",
-        "opt": "Matriz:655"
-      }
-    ]
-  },
-  {
-    "code": "ALM1060",
-    "name": "Toxicologia De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "2N1(H610)-2N2(H610)",
-        "prof": "Valdemar Padilha Feltrin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TAL56G",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "TA63",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Nadia Cristiane Steinmacher",
-        "opt": "Não"
       }
     ]
   }

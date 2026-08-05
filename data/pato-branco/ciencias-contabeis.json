@@ -28,6 +28,91 @@
     ]
   },
   {
+    "code": "AO28B",
+    "name": "Análise De Projeto E Orçamento Empresarial",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N2(O204)-2N3(O204)-3N2(O204)-3N3(O204)",
+        "prof": "Oldair Roberto Giasson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AC28B",
+    "name": "Auditoria Contábil Ii",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O204)-2N5(O204)-5N2(O204)-5N3(O204)",
+        "prof": "Luciane Dagostini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AD26B",
+    "name": "Avaliação De Desempenho Organizacional",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N2(O-202)-3N3(O-202)-5N4(O-202)-5N5(O-202)",
+        "prof": "Sandro Cesar Bortoluzzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE24B",
+    "name": "Avaliação De Empresas",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N4(O204)-5N5(O204)",
+        "prof": "Marivania Rufato Da Silva",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
+    "code": "CF23B",
+    "name": "Cidadania Fiscal",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N4(O203)-5N5(O203)",
+        "prof": "Luciane Dagostini",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
     "code": "CP26B",
     "name": "Contabilidade Aplicada Ao Setor Público I",
     "turmas": [
@@ -57,6 +142,23 @@
         "prio": "1 - Ciências Contábeis",
         "h": "2N2(O-202)-2N3(O-202)-6N2(O-202)-6N3(O-202)",
         "prof": "Marivania Rufato Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC24B",
+    "name": "Contabilidade De Custos",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "5N4(O205)-5N5(O205)-6N4(O205)-6N5(O205)",
+        "prof": "Luiz Fernande Casagrande",
         "opt": "Não"
       }
     ]
@@ -198,6 +300,40 @@
     ]
   },
   {
+    "code": "EA22B",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O201)-2N5(O201)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EB22A",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N2(O001)-3N3(O001)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EE45S",
     "name": "Empreendedorismo",
     "turmas": [
@@ -300,23 +436,6 @@
     ]
   },
   {
-    "code": "EA22B",
-    "name": "Estatística Básica",
-    "turmas": [
-      {
-        "turma": "2BS",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "2N4(O201)-2N5(O201)",
-        "prof": "Luiz Carlos Scheitt",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FI22B",
     "name": "Filosofia",
     "turmas": [
@@ -330,6 +449,142 @@
         "h": "4N2(O201)-4N3(O201)",
         "prof": "Nilson De Farias",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE26B",
+    "name": "Finanças Empresariais",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O-202)-2N5(O-202)-4N4(O-202)-4N5(O-202)",
+        "prof": "Oldair Roberto Giasson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FL41G",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "1G",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(O001)-5M5(O001)",
+        "prof": "Nilson De Farias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46S",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO48CA",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "8CA",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE45G",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "5G",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(V007)-5T3(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "II24B",
+    "name": "Integração De Indicadores Contábeis",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(O203)-3N5(O203)",
+        "prof": "Sandro Cesar Bortoluzzi",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
+    "code": "IL42L",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2LN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IL42NB",
+    "name": "Introdução À Libras",
+    "turmas": [
+      {
+        "turma": "2MN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Manutenção",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:643"
       }
     ]
   },
@@ -396,6 +651,91 @@
     ]
   },
   {
+    "code": "LT22A",
+    "name": "Leitura E Produção De Textos Empresariais",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "5N4(O001)-5N5(O001)",
+        "prof": "Ana Maria Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB43L",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "3LN",
+        "enq": "EaD",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI42NB",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA13",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "MF22A",
+    "name": "Matemática Financeira",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "2N2(O001)-2N3(O001)-4N2(O001)-4N3(O001)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MC24B",
     "name": "Mercado De Capitais",
     "turmas": [
@@ -408,6 +748,34 @@
         "prio": "1 - Ciências Contábeis",
         "h": "3N2(O205)-3N3(O205)-6N2(O205)-6N3(O205)",
         "prof": "Eliandro Schvirck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MT26B",
+    "name": "Metodologia Do Trabalho Científico Ii",
+    "turmas": [
+      {
+        "turma": "6BSA",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N4(O-202)-6N5(O-202)",
+        "prof": "Marivania Rufato Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "6BSB",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N4(O203)-6N5(O203)",
+        "prof": "Sandro Cesar Bortoluzzi",
         "opt": "Não"
       }
     ]
@@ -430,6 +798,74 @@
     ]
   },
   {
+    "code": "AE27B",
+    "name": "Métodos De Avaliação De Empresas",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(O-202)-3N5(O-202)",
+        "prof": "Eliandro Schvirck",
+        "opt": "Matriz:627"
+      }
+    ]
+  },
+  {
+    "code": "HU24B",
+    "name": "Ofícina De Projeto Integrador",
+    "turmas": [
+      {
+        "turma": "4BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O205)-2N5(O205)",
+        "prof": "Maria De Lourdes Bernartt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OI29EL",
+    "name": "Organização Industrial",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC28B",
+    "name": "Tcc Ii",
+    "turmas": [
+      {
+        "turma": "8BS",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Contábeis",
+        "h": "",
+        "prof": "Ricardo Adriano Antonelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TE24B",
     "name": "Tópicos Especiais Em Contabilidade",
     "turmas": [
@@ -443,23 +879,6 @@
         "h": "5N4(O201)-5N5(O201)",
         "prof": "Eliandro Schvirck",
         "opt": "Matriz:627"
-      }
-    ]
-  },
-  {
-    "code": "TB34B",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "4B",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Ciências Contábeis",
-        "h": "",
-        "prof": "Ricardo Adriano Antonelli",
-        "opt": "Não"
       }
     ]
   }

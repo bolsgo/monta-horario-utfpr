@@ -68,6 +68,23 @@
     ]
   },
   {
+    "code": "ALM34B",
+    "name": "Embalagens",
+    "turmas": [
+      {
+        "turma": "NA4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(D102)-3N3(D102)-3N4(D102)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM017",
     "name": "Educação Em Direitos Humanos",
     "turmas": [
@@ -96,18 +113,18 @@
     ]
   },
   {
-    "code": "ALM34B",
-    "name": "Embalagens",
+    "code": "ALM32A",
+    "name": "Fundamentos Da Ética",
     "turmas": [
       {
-        "turma": "NA4A",
+        "turma": "NA2A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
-        "h": "3N2(D102)-3N3(D102)-3N4(D102)",
-        "prof": "Gabrieli Oliveira Folador",
+        "h": "3N4(D103)-3N5(D103)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
         "opt": "Não"
       }
     ]
@@ -125,23 +142,6 @@
         "prio": "1 - Tecnol Alimentos",
         "h": "6N1(D104)-6N2(D104)-6N3(D104)",
         "prof": "Sergio Henrique Fernandes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM32A",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "NA2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "3N4(D103)-3N5(D103)",
-        "prof": "Frederico Lopes De Oliveira Diehl",
         "opt": "Não"
       }
     ]
@@ -232,23 +232,6 @@
     ]
   },
   {
-    "code": "HUM005",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N2(D107)-4N3(D107)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
     "code": "LBRS32Q",
     "name": "Libras 2",
     "turmas": [
@@ -277,23 +260,6 @@
     ]
   },
   {
-    "code": "HUM006",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T5(B105)-4T6(B105)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
     "code": "ALM32B",
     "name": "Linguagem, Cultura E Sociedade",
     "turmas": [
@@ -307,6 +273,40 @@
         "h": "6N4(D104)-6N5(D104)",
         "prof": "Mauricio Cesar Menon",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T5(B105)-4T6(B105)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
       }
     ]
   },
@@ -475,34 +475,6 @@
     ]
   },
   {
-    "code": "TOG39O",
-    "name": "Tecnologia De Óleos, Gorduras E Derivados",
-    "turmas": [
-      {
-        "turma": "IGO",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos, 1 - Eng De Alimentos",
-        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
-        "prof": "Miguel Angel Aparicio Rodriguez",
-        "opt": "Matriz:81"
-      },
-      {
-        "turma": "IQO",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
-        "prof": "Miguel Angel Aparicio Rodriguez",
-        "opt": "Matriz:81"
-      }
-    ]
-  },
-  {
     "code": "TQJ39O",
     "name": "Tecnologia De Queijos",
     "turmas": [
@@ -526,6 +498,34 @@
         "prio": "1 - Tecnol Alimentos",
         "h": "2N3(C002)-2N4(C002)-2N5(C002)",
         "prof": "Gabrieli Oliveira Folador",
+        "opt": "Matriz:81"
+      }
+    ]
+  },
+  {
+    "code": "TOG39O",
+    "name": "Tecnologia De Óleos, Gorduras E Derivados",
+    "turmas": [
+      {
+        "turma": "IGO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos, 1 - Eng De Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "IQO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
         "opt": "Matriz:81"
       }
     ]

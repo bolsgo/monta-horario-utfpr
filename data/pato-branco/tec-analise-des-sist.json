@@ -402,23 +402,6 @@
     ]
   },
   {
-    "code": "GP45S",
-    "name": "Gestão De Projetos De Software",
-    "turmas": [
-      {
-        "turma": "5SI",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tec Analise Des Sist",
-        "h": "3N1(V106)-3N2(V106)-3N3(V106)-6N2(S001)",
-        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "GE46S",
     "name": "Gestão Empresarial",
     "turmas": [
@@ -448,6 +431,23 @@
         "prio": "1 - Eng Cart Agrimensura",
         "h": "5N4(V007)-5N5(V007)",
         "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP45S",
+    "name": "Gestão De Projetos De Software",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "3N1(V106)-3N2(V106)-3N3(V106)-6N2(S001)",
+        "prof": "Rubia Eliza De Oliveira Schultz Ascari",
         "opt": "Não"
       }
     ]
@@ -572,6 +572,23 @@
     ]
   },
   {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LP41S",
     "name": "Leitura E Produção De Gêneros Acadêmicos",
     "turmas": [
@@ -602,23 +619,6 @@
         "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
         "prof": "Mirelia Flausino Vogel, Aline Brancalione",
         "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
       }
     ]
   },
@@ -657,6 +657,23 @@
     ]
   },
   {
+    "code": "OI29EL",
+    "name": "Organização Industrial",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "OD46S",
     "name": "Oficina De Projeto E Desenvolvimento",
     "turmas": [
@@ -687,23 +704,6 @@
         "h": "5N1(V108)-5N2(V108)",
         "prof": "Rubia Eliza De Oliveira Schultz Ascari",
         "opt": "Matriz:638"
-      }
-    ]
-  },
-  {
-    "code": "OI29EL",
-    "name": "Organização Industrial",
-    "turmas": [
-      {
-        "turma": "9EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
-        "prof": "Rafael Kuramoto Gonzalez",
-        "opt": "Não"
       }
     ]
   },
@@ -780,17 +780,6 @@
     "name": "Psicologia Aplicada Ao Trabalho",
     "turmas": [
       {
-        "turma": "HUMA12",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(M103)-2N2(M103)",
-        "prof": "Sergio Paes De Barros",
-        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
-      },
-      {
         "turma": "5CV",
         "enq": "Presencial",
         "vt": "44",
@@ -798,6 +787,17 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "4T4(M104)-4T5(M104)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "HUMA12",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M103)-2N2(M103)",
         "prof": "Sergio Paes De Barros",
         "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
       }
@@ -855,6 +855,23 @@
     ]
   },
   {
+    "code": "TC26S",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "",
+        "prof": "Mariza Miola Dosciatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TS44S",
     "name": "Teste De Software",
     "turmas": [
@@ -867,6 +884,23 @@
         "prio": "1 - Tec Analise Des Sist",
         "h": "4N1(V104)-4N2(V104)",
         "prof": "Luis Carlos Ferreira Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC46S",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "",
+        "prof": "Mariza Miola Dosciatti",
         "opt": "Não"
       }
     ]
@@ -901,40 +935,6 @@
         "prio": "1 - Tec Analise Des Sist",
         "h": "2N3(V106)-2N4(V106)-2N5(V106)-3N4(V106)-3N5(V106)",
         "prof": "Vinicius Pegorini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TC46S",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "6SI",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tec Analise Des Sist",
-        "h": "",
-        "prof": "Mariza Miola Dosciatti",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TC26S",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "6SI",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tec Analise Des Sist",
-        "h": "",
-        "prof": "Mariza Miola Dosciatti",
         "opt": "Não"
       }
     ]

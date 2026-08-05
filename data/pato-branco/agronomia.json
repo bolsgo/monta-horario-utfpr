@@ -17,23 +17,6 @@
     ]
   },
   {
-    "code": "AI47G",
-    "name": "Análise De Investimentos Em Projetos Agropecuários",
-    "turmas": [
-      {
-        "turma": "7G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5M4(N011)-5M5(N011)",
-        "prof": "Jose Donizetti De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AM41G",
     "name": "Anatomia E Morfologia De Plantas Com Sementes",
     "turmas": [
@@ -62,6 +45,23 @@
     ]
   },
   {
+    "code": "AI47G",
+    "name": "Análise De Investimentos Em Projetos Agropecuários",
+    "turmas": [
+      {
+        "turma": "7G",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(N011)-5M5(N011)",
+        "prof": "Jose Donizetti De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AM43QB",
     "name": "Aplicações De Mecânica",
     "turmas": [
@@ -74,6 +74,23 @@
         "prio": "1 - Química",
         "h": "2M4(N107)-2M5(N107)-4M4(N107)-4M5(N107)",
         "prof": "Ivo De Lourenco Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BL29G",
+    "name": "Bovinocultura De Leite A",
+    "turmas": [
+      {
+        "turma": "9G",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4M1(O002)-4M2(O002)-4M3(O002)",
+        "prof": "Caio Seiti Takiya",
         "opt": "Não"
       }
     ]
@@ -119,23 +136,6 @@
         "prio": "1 - Agronomia",
         "h": "6M1(O005)-6M2(O005)-6M3(O005)",
         "prof": "Taciane Finatto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BL29G",
-    "name": "Bovinocultura De Leite A",
-    "turmas": [
-      {
-        "turma": "9G",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4M2(O002)-4M3(O002)-4M4(O002)",
-        "prof": "Caio Seiti Takiya",
         "opt": "Não"
       }
     ]
@@ -236,7 +236,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Agronomia",
-        "h": "6T1(P202)-6T2(P202)-6T3(P202)-6T4(P202)-6T5(P202)",
+        "h": "2T4(P203)-2T5(P203)-6T2(P203)-6T3(P203)-6T4(P203)",
         "prof": "Giovani Benin",
         "opt": "Não"
       }
@@ -254,7 +254,7 @@
         "res": "Aberta",
         "prio": "1 - Química, 1 - Eng Mecânica",
         "h": "4T2(Q007)-4T3(Q007)",
-        "prof": "",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -271,7 +271,7 @@
         "res": "Aberta",
         "prio": "1 - Química, 1 - Engenharia Civil",
         "h": "4T4(M107)-4T5(M107)",
-        "prof": "",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -288,7 +288,7 @@
         "res": "Aberta",
         "prio": "1 - Química",
         "h": "2M4(N106)-2M5(N106)",
-        "prof": "",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -384,23 +384,6 @@
     ]
   },
   {
-    "code": "EB41G",
-    "name": "Ecologia Básica",
-    "turmas": [
-      {
-        "turma": "1G",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "2M4(O001)-2M5(O001)",
-        "prof": "William Cezar Pollonio Machado",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EC29NB",
     "name": "Economia",
     "turmas": [
@@ -413,6 +396,57 @@
         "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica",
         "h": "5T4(Q001)-5T5(Q001)",
         "prof": "Denise Rauber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EB41G",
+    "name": "Ecologia Básica",
+    "turmas": [
+      {
+        "turma": "1G",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(O001)-2M5(O001)",
+        "prof": "William Cezar Pollonio Machado",
         "opt": "Não"
       }
     ]
@@ -481,40 +515,6 @@
         "prio": "1 - Química",
         "h": "2M4(N108)-2M5(N108)-4M4(N108)-4M5(N108)",
         "prof": "Marcio Antonio Fiori",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM29MC",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "9MC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T4(Q005)-3T5(Q005)",
-        "prof": "Norma Brambilla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP22B",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "2BS",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "6N2(O201)-6N3(O201)",
-        "prof": "Elizandra Machado Follmann",
         "opt": "Não"
       }
     ]
@@ -701,57 +701,6 @@
     ]
   },
   {
-    "code": "EP29EL",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T2(N105)-2T3(N105)",
-        "prof": "Everton Luiz De Aguiar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP29NB",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9CP",
-        "enq": "Presencial",
-        "vt": "12",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T2(N105)-2T3(N105)",
-        "prof": "Everton Luiz De Aguiar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ET29NB",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T4(Q004)-5T5(Q004)",
-        "prof": "Adelino Carlos Maccarini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EA45G",
     "name": "Experimentação Agrícola",
     "turmas": [
@@ -860,218 +809,6 @@
         "prio": "1 - Agronomia",
         "h": "5M4(O001)-5M5(O001)",
         "prof": "Nilson De Farias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FA42G",
-    "name": "Física Aplicada 1",
-    "turmas": [
-      {
-        "turma": "2G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "2M4(M005)-2M5(M005)-4M4(L004)",
-        "prof": "Keli Cristina Maurina",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FA43G",
-    "name": "Física Aplicada 2",
-    "turmas": [
-      {
-        "turma": "3G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "3M3(M005)-3M4(M005)-3M5(M005)",
-        "prof": "Keli Cristina Maurina",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FS44G",
-    "name": "Física Do Solo",
-    "turmas": [
-      {
-        "turma": "4GA",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5T2(O004)-5T2(O004)-5T3(O004)-5T3(O004)-5T4(O004)-5T4(O004)-6T2(O004)-6T2(O004)-6T3(O004)-6T3(O004)",
-        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
-        "opt": "Não"
-      },
-      {
-        "turma": "4GB",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5T2(O004)-5T2(O004)-5T3(O004)-5T3(O004)-5T5(O004)-5T5(O004)-6T2(O004)-6T2(O004)-6T3(O004)-6T3(O004)",
-        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FT41NB",
-    "name": "Física Teórica I",
-    "turmas": [
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
-        "prof": "Crislaine Da Cruz",
-        "opt": "Não"
-      },
-      {
-        "turma": "1CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2N1(M007)-2N2(M007)-4N1(M007)-4N2(M007)",
-        "prof": "Marcelo Sandrini",
-        "opt": "Não"
-      },
-      {
-        "turma": "1EL",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T4(N105)-2T5(N105)-4T4(N105)-4T5(N105)",
-        "prof": "Cesar Augusto Refosco Yednak",
-        "opt": "Não"
-      },
-      {
-        "turma": "2MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3M4(Q002)-3M5(Q002)-5M4(Q002)-5M5(Q002)",
-        "prof": "Clebson Abati Graeff",
-        "opt": "Não"
-      },
-      {
-        "turma": "3CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3T2(M106)-3T3(M106)-5T2(M106)-5T3(M106)",
-        "prof": "Cesar Augusto Refosco Yednak",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FT42NB",
-    "name": "Física Teórica Ii",
-    "turmas": [
-      {
-        "turma": "2CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "3T4(M005)-3T5(M005)-5T4(M005)-5T5(M005)",
-        "prof": "Angel Akio Tateishi",
-        "opt": "Não"
-      },
-      {
-        "turma": "2EL",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T4(L104)-2T5(L104)-4T4(L104)-4T5(L104)",
-        "prof": "Ivo De Lourenco Junior",
-        "opt": "Não"
-      },
-      {
-        "turma": "3MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M2(Q001)-2M3(Q001)-4M2(Q001)-4M3(Q001)",
-        "prof": "Tiago Kroetz",
-        "opt": "Não"
-      },
-      {
-        "turma": "4CA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Cart Agrimensura",
-        "h": "3N1(N010)-3N2(N010)-5N1(N010)-5N2(N010)",
-        "prof": "Angel Akio Tateishi",
-        "opt": "Não"
-      },
-      {
-        "turma": "4CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2M4(M102)-2M5(M102)-4M4(M102)-4M5(M102)",
-        "prof": "Tiago Kroetz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FT43NB",
-    "name": "Física Teórica Iii",
-    "turmas": [
-      {
-        "turma": "3CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "3T4(O-202)-3T5(O-202)-5T4(O-202)-5T5(O-202)",
-        "prof": "Fabiano Alan Serafim Ferrari",
-        "opt": "Não"
-      },
-      {
-        "turma": "3EL",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3T2(L105)-3T3(L105)-5T2(L105)-5T3(L105)",
-        "prof": "Fabiano Alan Serafim Ferrari",
         "opt": "Não"
       }
     ]
@@ -1212,63 +949,213 @@
     ]
   },
   {
-    "code": "GE43G",
-    "name": "Genética",
+    "code": "FA42G",
+    "name": "Física Aplicada 1",
     "turmas": [
       {
-        "turma": "3GA",
+        "turma": "2G",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Agronomia",
-        "h": "2M3(O003)-2M4(O003)-2M5(O003)",
-        "prof": "Paulo Henrique De Oliveira",
+        "h": "2M4(M005)-2M5(M005)-4M4(L004)",
+        "prof": "Keli Cristina Maurina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FA43G",
+    "name": "Física Aplicada 2",
+    "turmas": [
+      {
+        "turma": "3G",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3M3(M005)-3M4(M005)-3M5(M005)",
+        "prof": "Keli Cristina Maurina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT41NB",
+    "name": "Física Teórica I",
+    "turmas": [
+      {
+        "turma": "1CP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2N1(M007)-2N2(M007)-4N1(M007)-4N2(M007)",
+        "prof": "Marcelo Sandrini",
         "opt": "Não"
       },
       {
-        "turma": "3GB",
+        "turma": "1EL",
         "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
+        "vt": "44",
+        "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5M1(O003)-5M2(O003)-5M3(O003)",
-        "prof": "Paulo Henrique De Oliveira",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(N105)-2T5(N105)-4T4(N105)-4T5(N105)",
+        "prof": "Cesar Augusto Refosco Yednak",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GS46G",
-    "name": "Geoprocessamento E Sensoriamento Remoto",
-    "turmas": [
+      },
       {
-        "turma": "6G",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "2T2(P202)-2T3(P202)-2T4(P202)-2T5(P202)",
-        "prof": "Adao Robson Elias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GP44MC",
-    "name": "Gestão Da Produção",
-    "turmas": [
-      {
-        "turma": "4MC",
+        "turma": "2MC",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",
-        "h": "5T2(Q004)-5T3(Q004)",
-        "prof": "",
+        "h": "3M4(Q002)-3M5(Q002)-5M4(Q002)-5M5(Q002)",
+        "prof": "Clebson Abati Graeff",
+        "opt": "Não"
+      },
+      {
+        "turma": "3CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T2(M106)-3T3(M106)-5T2(M106)-5T3(M106)",
+        "prof": "Cesar Augusto Refosco Yednak",
+        "opt": "Não"
+      },
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
+        "prof": "Crislaine Da Cruz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT42NB",
+    "name": "Física Teórica Ii",
+    "turmas": [
+      {
+        "turma": "2CP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3T4(M005)-3T5(M005)-5T4(M005)-5T5(M005)",
+        "prof": "Angel Akio Tateishi",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(L104)-2T5(L104)-4T4(L104)-4T5(L104)",
+        "prof": "Ivo De Lourenco Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "3MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(Q001)-2M3(Q001)-4M2(Q001)-4M3(Q001)",
+        "prof": "Tiago Kroetz",
+        "opt": "Não"
+      },
+      {
+        "turma": "4CA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "3N1(N010)-3N2(N010)-5N1(N010)-5N2(N010)",
+        "prof": "Angel Akio Tateishi",
+        "opt": "Não"
+      },
+      {
+        "turma": "4CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M4(M102)-2M5(M102)-4M4(M102)-4M5(M102)",
+        "prof": "Tiago Kroetz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT43NB",
+    "name": "Física Teórica Iii",
+    "turmas": [
+      {
+        "turma": "3CP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3T4(O-202)-3T5(O-202)-5T4(O-202)-5T5(O-202)",
+        "prof": "Fabiano Alan Serafim Ferrari",
+        "opt": "Não"
+      },
+      {
+        "turma": "3EL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L105)-3T3(L105)-5T2(L105)-5T3(L105)",
+        "prof": "Fabiano Alan Serafim Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS44G",
+    "name": "Física Do Solo",
+    "turmas": [
+      {
+        "turma": "4GA",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(O004)-5T2(O004)-5T3(O004)-5T3(O004)-5T4(O004)-5T4(O004)-6T2(O004)-6T2(O004)-6T3(O004)-6T3(O004)",
+        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
+        "opt": "Não"
+      },
+      {
+        "turma": "4GB",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5T2(O004)-5T2(O004)-5T3(O004)-5T3(O004)-5T5(O004)-5T5(O004)-6T2(O004)-6T2(O004)-6T3(O004)-6T3(O004)",
+        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
         "opt": "Não"
       }
     ]
@@ -1325,35 +1212,46 @@
     ]
   },
   {
-    "code": "GE46NB",
-    "name": "Gestão De Pessoas",
+    "code": "GE43G",
+    "name": "Genética",
     "turmas": [
       {
-        "turma": "6CV",
+        "turma": "3GA",
         "enq": "Presencial",
-        "vt": "16",
+        "vt": "15",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2T4(M106)-2T5(M106)",
-        "prof": "Audrey Hausschildt Merlin",
+        "prio": "1 - Agronomia",
+        "h": "2M3(O003)-2M4(O003)-2M5(O003)",
+        "prof": "Paulo Henrique De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "3GB",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M1(O003)-5M2(O003)-5M3(O003)",
+        "prof": "Paulo Henrique De Oliveira",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "GP46QB",
-    "name": "Gestão De Pessoas",
+    "code": "GS46G",
+    "name": "Geoprocessamento E Sensoriamento Remoto",
     "turmas": [
       {
-        "turma": "8QB",
+        "turma": "6G",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "30",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "3M4(N107)-3M5(N107)",
-        "prof": "Audrey Hausschildt Merlin",
+        "prio": "1 - Agronomia",
+        "h": "2T2(P202)-2T3(P202)-2T4(P202)-2T5(P202)",
+        "prof": "Adao Robson Elias",
         "opt": "Não"
       }
     ]
@@ -1388,6 +1286,57 @@
         "prio": "1 - Eng Cart Agrimensura",
         "h": "5N4(V007)-5N5(V007)",
         "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP44MC",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "4MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T2(Q004)-5T3(Q004)",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46NB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "6CV",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T4(M106)-2T5(M106)",
+        "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP46QB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "3M4(N107)-3M5(N107)",
+        "prof": "Audrey Hausschildt Merlin",
         "opt": "Não"
       }
     ]
@@ -1501,6 +1450,23 @@
         "prio": "1 - Agronomia",
         "h": "3M3(O005)-3M4(O005)-3M5(O005)",
         "prof": "Andre Felipe Barion Alves Andrean",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
         "opt": "Não"
       }
     ]
@@ -1629,23 +1595,6 @@
     ]
   },
   {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MC48G",
     "name": "Manejo E Conservação Do Solo",
     "turmas": [
@@ -1658,34 +1607,6 @@
         "prio": "1 - Agronomia",
         "h": "4T1(O204)-4T2(O204)-4T3(O204)-4T4(O204)-4T5(O204)",
         "prof": "Nilvania Aparecida De Mello",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MI44G",
-    "name": "Máquinas E Implementos Agrícolas",
-    "turmas": [
-      {
-        "turma": "4GA",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "3T3(O004)-3T4(O004)-6M2(O004)-6M3(O004)",
-        "prof": "Alcir Jose Modolo",
-        "opt": "Não"
-      },
-      {
-        "turma": "4GB",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "3T1(O004)-3T2(O004)-6M2(O004)-6M3(O004)",
-        "prof": "Alcir Jose Modolo",
         "opt": "Não"
       }
     ]
@@ -1821,6 +1742,34 @@
     ]
   },
   {
+    "code": "MI44G",
+    "name": "Máquinas E Implementos Agrícolas",
+    "turmas": [
+      {
+        "turma": "4GA",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T3(O004)-3T4(O004)-6M2(O004)-6M3(O004)",
+        "prof": "Alcir Jose Modolo",
+        "opt": "Não"
+      },
+      {
+        "turma": "4GB",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(O004)-3T2(O004)-6M2(O004)-6M3(O004)",
+        "prof": "Alcir Jose Modolo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CD42G",
     "name": "Noções De Cálculo Diferencial E Integral",
     "turmas": [
@@ -1833,23 +1782,6 @@
         "prio": "1 - Agronomia",
         "h": "3M4(P202)-3M5(P202)-5M4(P202)-5M5(P202)",
         "prof": "Beatriz Regina Brum",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "OL47G",
-    "name": "Olericultura",
-    "turmas": [
-      {
-        "turma": "7G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "3T1(O203)-3T2(O203)-3T3(O203)-3T4(O203)-3T5(O203)",
-        "prof": "Thiago De Oliveira Vargas",
         "opt": "Não"
       }
     ]
@@ -1872,6 +1804,23 @@
     ]
   },
   {
+    "code": "OL47G",
+    "name": "Olericultura",
+    "turmas": [
+      {
+        "turma": "7G",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(O203)-3T2(O203)-3T3(O203)-3T4(O203)-3T5(O203)",
+        "prof": "Thiago De Oliveira Vargas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PJ29G",
     "name": "Parques E Jardins",
     "turmas": [
@@ -1884,6 +1833,23 @@
         "prio": "1 - Agronomia",
         "h": "4T2(P203)-4T3(P203)-4T4(P203)",
         "prof": "Marlene De Lurdes Ferronato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PI29G",
+    "name": "Planejamento Integrado",
+    "turmas": [
+      {
+        "turma": "9G",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T1(P202)-6T1(P202)-6T2(P202)-6T2(P202)-6T3(P202)-6T3(P202)-6T4(P202)-6T4(P202)",
+        "prof": "Miguel Angelo Perondi, Regis Luis Missio",
         "opt": "Não"
       }
     ]
@@ -1912,23 +1878,6 @@
         "prio": "1 - Agronomia",
         "h": "5T2(O002)-5T3(O002)-5T5(O002)",
         "prof": "Jose Ricardo Da Rocha Campos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PI29G",
-    "name": "Planejamento Integrado",
-    "turmas": [
-      {
-        "turma": "9G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "6T1(P203)-6T1(P203)-6T2(P203)-6T2(P203)-6T3(P203)-6T3(P203)-6T4(P203)-6T4(P203)",
-        "prof": "Miguel Angelo Perondi, Regis Luis Missio",
         "opt": "Não"
       }
     ]
@@ -1995,7 +1944,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Agronomia",
-        "h": "6M2(O203)-6M3(O203)-6M4(O203)",
+        "h": "5M3(O-202)-5M4(O-202)-5M5(O-202)",
         "prof": "Marisa De Cacia Oliveira",
         "opt": "Matriz:639"
       }
@@ -2029,25 +1978,8 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Agronomia",
-        "h": "4M2(O002)-4M3(O002)-4M4(O002)",
+        "h": "4M1(O002)-4M2(O002)-4M3(O002)",
         "prof": "Caio Seiti Takiya",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PI44G",
-    "name": "Projeto Integrador 1",
-    "turmas": [
-      {
-        "turma": "4G",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "6T4(O004)-6T4(O004)-6T5(O004)-6T5(O004)",
-        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
         "opt": "Não"
       }
     ]
@@ -2070,20 +2002,26 @@
     ]
   },
   {
-    "code": "PA42NB",
-    "name": "Psicologia Aplicada Ao Trabalho",
+    "code": "PI44G",
+    "name": "Projeto Integrador 1",
     "turmas": [
       {
-        "turma": "HUMA12",
+        "turma": "4G",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(M103)-2N2(M103)",
-        "prof": "Sergio Paes De Barros",
-        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
-      },
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6T4(O004)-6T4(O004)-6T5(O004)-6T5(O004)",
+        "prof": "Vacilania Pacheco, Rachel Muylaert Locks Guimaraes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PA42NB",
+    "name": "Psicologia Aplicada Ao Trabalho",
+    "turmas": [
       {
         "turma": "5CV",
         "enq": "Presencial",
@@ -2092,6 +2030,17 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "4T4(M104)-4T5(M104)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "HUMA12",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(M103)-2N2(M103)",
         "prof": "Sergio Paes De Barros",
         "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
       }
@@ -2216,6 +2165,23 @@
     ]
   },
   {
+    "code": "SN29G",
+    "name": "Suinocultura A",
+    "turmas": [
+      {
+        "turma": "9G",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "6M1(O001)-6M2(O001)-6M3(O001)",
+        "prof": "Lisiane Fernandes Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "SA42G",
     "name": "Sistemas Agrários",
     "turmas": [
@@ -2295,18 +2261,18 @@
     ]
   },
   {
-    "code": "SN29G",
-    "name": "Suinocultura A",
+    "code": "TC29G",
+    "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
       {
         "turma": "9G",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "50",
         "vc": "0",
-        "res": "Aberta",
+        "res": "Fechada",
         "prio": "1 - Agronomia",
-        "h": "6M1(O001)-6M2(O001)-6M3(O001)",
-        "prof": "Lisiane Fernandes Soares",
+        "h": "",
+        "prof": "Idalmir Dos Santos, Rosangela Dallemole Giaretta",
         "opt": "Não"
       }
     ]
@@ -2469,6 +2435,23 @@
     ]
   },
   {
+    "code": "TP41CA",
+    "name": "Topografia 1",
+    "turmas": [
+      {
+        "turma": "1CAE",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "4 - Eng Cart Agrimensura",
+        "h": "4N1(N011)-4N2(N011)-4N3(N011)-7M4(S001)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TC47G",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -2486,18 +2469,52 @@
     ]
   },
   {
-    "code": "TC29G",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "EP29EL",
+    "name": "Ética, Profissão E Cidadania",
     "turmas": [
       {
-        "turma": "9G",
+        "turma": "9EL",
         "enq": "Presencial",
-        "vt": "50",
+        "vt": "22",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Agronomia",
-        "h": "",
-        "prof": "Idalmir Dos Santos, Rosangela Dallemole Giaretta",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(N105)-2T3(N105)",
+        "prof": "Everton Luiz De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP29NB",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "9CP",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(N105)-2T3(N105)",
+        "prof": "Everton Luiz De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET29NB",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T4(Q004)-5T5(Q004)",
+        "prof": "Adelino Carlos Maccarini",
         "opt": "Não"
       }
     ]

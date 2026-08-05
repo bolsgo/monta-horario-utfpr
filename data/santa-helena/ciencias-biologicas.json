@@ -1,5 +1,887 @@
 [
   {
+    "code": "FT1062",
+    "name": "Agroecologia",
+    "turmas": [
+      {
+        "turma": "AG6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(N17)-5T2(N17)-5T3(N17)-5T4(N17)",
+        "prof": "Ana Regina Dahlem Ziech",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG6B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(N17)-5T2(N17)-5T3(N17)-5T5(N17)",
+        "prof": "Ana Regina Dahlem Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB146A",
+    "name": "Anatomia Animal Comparada",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N4(K10)-3N5(K10)",
+        "prof": "Heleno Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB144A",
+    "name": "Anatomia Humana",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(K8)-2N2(K8)-2N3(K1)-2N4(K1)",
+        "prof": "Daniela Raguer Valadao De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB146B",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N1(K10)-2N2(K10)-2N3(K10)",
+        "prof": "Vanessa Bueno Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Vanessa Bueno Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU1032",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "AG3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(N14)-4M2(N14)-4M3(N14)-4M4(N14)",
+        "prof": "Ticiane Vieira De Paula Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG3B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M1(N14)-4M2(N14)-4M5(N14)-4M6(N14)",
+        "prof": "Ticiane Vieira De Paula Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU144A",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(K8)-5N2(K8)-5N3(K8)-5N4(K8)",
+        "prof": "Ticiane Vieira De Paula Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB147A",
+    "name": "Biotecnologia",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N3(L7)-6N4(L7)-6N5(L7)",
+        "prof": "Erika Izumi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED145B",
+    "name": "Ctsa No Ensino De Ciências E Biologia",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(L7)-3N2(L7)-3N3(L7)",
+        "prof": "Diego Machado Ozelame",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1440",
+    "name": "Controle Biológico",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(L8)-4N2(L8)-6N1(L8)-6N2(L8)",
+        "prof": "Daian Guilherme Pinto De Oliveira",
+        "opt": "Matriz:14"
+      }
+    ]
+  },
+  {
+    "code": "ED146A",
+    "name": "Corpo, Gênero E Sexualidade",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(K10)-5N2(K10)-5N3(K10)",
+        "prof": "Rosangela Araujo Xavier Fujii",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1042",
+    "name": "Ecologia Agrícola",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M1(N13)-5M2(N13)-5M3(N13)",
+        "prof": "Maura Gabriela Da Silva Brochado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB146E",
+    "name": "Ecologia Geral E De Ecossistemas",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6N1(K10)-6N2(K10)-6N3(K10)",
+        "prof": "Denise Lange",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB147B",
+    "name": "Ecologia De Populações E Comunidades",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N3(L7)-4N4(L7)-4N5(L7)",
+        "prof": "Denise Lange",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1442",
+    "name": "Ecologia De Campo",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "7M2(K2)-7M3(K2)-7M4(K2)-7M5(K2)",
+        "prof": "Denise Lange",
+        "opt": "Matriz:14"
+      }
+    ]
+  },
+  {
+    "code": "ED148A",
+    "name": "Educação Ambiental",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas, 2 - Agronomia",
+        "h": "3N4(L8)-3N5(L8)-5N4(L8)-5N5(L8)",
+        "prof": "Eduarda Maria Schneider",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB142A",
+    "name": "Embriologia E Histologia",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(K2)-3N2(K2)-3N3(K2)-3N4(J1)",
+        "prof": "Daniela Raguer Valadao De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1052",
+    "name": "Entomologia Agrícola",
+    "turmas": [
+      {
+        "turma": "AG5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5M2(N16)-5M3(N16)-5M4(N16)-5M5(N16)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FS1043",
+    "name": "Entomologia Geral",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2M2(N17)-2M3(N17)-2M4(K3)-2M5(K3)",
+        "prof": "Dejane Santos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA145A",
+    "name": "Estatística Aplicada À Biologia",
+    "turmas": [
+      {
+        "turma": "CB5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(L9)-5N2(L9)-5N3(L9)",
+        "prof": "Denise Lange",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST147",
+    "name": "Estágio Supervisionado Em Biologia 1",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N4(L7)-3N5(L7)-5N4(L7)-5N5(L7)",
+        "prof": "Diego Machado Ozelame",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST148",
+    "name": "Estágio Supervisionado Em Biologia 2",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(L8)-5N2(L8)-5N3(L8)",
+        "prof": "Diego Machado Ozelame",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EST146",
+    "name": "Estágio Supervisionado Em Ciências 2",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(K10)-5N5(K10)",
+        "prof": "Rosangela Araujo Xavier Fujii",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB148B",
+    "name": "Evolução",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N4(L8)-2N5(L8)-6N4(L8)-6N5(L8)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB146C",
+    "name": "Fisiologia Humana",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N1(K10)-3N2(K10)-3N3(K10)",
+        "prof": "Vanessa Bueno Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FT1091",
+    "name": "Floricultura E Paisagismo",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(K8)-4M3(K8)-4M4(K8)",
+        "prof": "Lilian Yukari Yamamoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI142A",
+    "name": "Física Aplicada À Biologia",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N1(J5)-6N2(K2)-6N3(K2)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB148A",
+    "name": "Geologia E Paleontologia",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N1(L8)-3N2(L8)-3N3(J5)",
+        "prof": "Anderson Sandro Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1029",
+    "name": "Geoprocessamento E Sensoriamento Remoto",
+    "turmas": [
+      {
+        "turma": "AG9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L9)-2N2(L9)-2N3(L9)",
+        "prof": "Anderson Sandro Da Rocha",
+        "opt": "Matriz:12"
+      }
+    ]
+  },
+  {
+    "code": "ED144A",
+    "name": "Gestão E Organização Do Trabalho Pedagógico Escolar",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6N3(K8)-6N4(K8)-6N5(K8)",
+        "prof": "Anderleia Sotoriva Damke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED142A",
+    "name": "História E Epistemologia Da Ciência",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(K2)-4N2(K2)-4N3(K2)",
+        "prof": "Eduarda Maria Schneider",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB146D",
+    "name": "Imunologia",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N4(K10)-4N5(K10)",
+        "prof": "Daniela Raguer Valadao De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE1084",
+    "name": "Legislação Agrária E Ambiental",
+    "turmas": [
+      {
+        "turma": "AG8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M2(K8)-2M3(K8)",
+        "prof": "Magnos Fernando Ziech",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED147A",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L7)-2N2(L7)-6N1(L7)-6N2(L7)",
+        "prof": "Debora Michela Prediger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED117D",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N4(L9)-3N5(L9)",
+        "prof": "Debora Michela Prediger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED144B",
+    "name": "Metodologias Do Ensino De Ciências E Biologia",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N4(K8)-3N5(K8)-4N1(K8)-4N2(K8)",
+        "prof": "Rosangela Araujo Xavier Fujii",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB142B",
+    "name": "Micologia E Ficologia",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(K2)-5N5(K2)-6N5(J1)",
+        "prof": "Gustavo Henrique Jeronimo Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1015",
+    "name": "Morfologia E Anatomia Vegetal",
+    "turmas": [
+      {
+        "turma": "AG1A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "16",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T1(K2)-5T2(K2)-5T3(K2)-5T4(K2)",
+        "prof": "Rejane Barbosa De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG1B",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "28",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "5T3(K2)-5T4(K2)-5T5(K2)-5T6(K2)",
+        "prof": "Rejane Barbosa De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB147C",
+    "name": "Parasitologia Geral",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N3(L7)-2N4(L7)-2N5(L7)",
+        "prof": "Heleno Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED142B",
+    "name": "Políticas Educacionais No Brasil",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N1(K2)-5N2(K2)-5N3(K2)",
+        "prof": "Anderleia Sotoriva Damke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP1475",
+    "name": "Produção De Material Didático Em Física E Astronomia",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(L8)-2N2(L8)-2N3(L8)",
+        "prof": "Carlos Frederico Charret Brandt",
+        "opt": "Matriz:14"
+      }
+    ]
+  },
+  {
+    "code": "PEI147",
+    "name": "Projeto Extensionista Interdisciplinar 3",
+    "turmas": [
+      {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(L7)-4N2(L7)",
+        "prof": "Erika Izumi, Daniela Raguer Valadao De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PEI144",
+    "name": "Projeto Extensionista Interdisciplinar 2",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(K8)-6N1(K8)-6N2(K8)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED146B",
+    "name": "Psicologia Do Desenvolvimento E Aprendizagem",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(K10)-4N2(K10)-4N3(K10)",
+        "prof": "Anderleia Sotoriva Damke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU1026",
+    "name": "Química Analítica Para A Agronomia",
+    "turmas": [
+      {
+        "turma": "AG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "2T1(L10)-2T2(L10)-2T3(J9)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(L10)-2T2(L10)-2T4(J9)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU142A",
+    "name": "Química Geral Aplicada",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N3(K2)-2N4(K2)-2N5(K2)-3N5(J9)",
+        "prof": "Paula Cassiana Frohlich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QU1016",
+    "name": "Química Geral E Orgânica Para A Agronomia",
+    "turmas": [
+      {
+        "turma": "AG1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T1(N12)-3T2(N12)-3T3(N12)",
+        "prof": "Adriana Maria Meneghetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB1027",
+    "name": "Sistemática Vegetal",
+    "turmas": [
+      {
+        "turma": "AG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3T1(L10)-3T2(L10)-3T3(L10)-3T4(L10)",
+        "prof": "Gustavo Henrique Jeronimo Alves",
+        "opt": "Não"
+      },
+      {
+        "turma": "AG2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T1(L10)-3T2(L10)-3T5(L10)-3T6(L10)",
+        "prof": "Gustavo Henrique Jeronimo Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC14A",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "CB6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N4(K10)-2N5(K10)",
+        "prof": "Daian Guilherme Pinto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TCC14B",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -12,6 +894,40 @@
         "prio": "1 - Ciências Biológicas",
         "h": "",
         "prof": "Daian Guilherme Pinto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB142C",
+    "name": "Zoologia De Invertebrados 1",
+    "turmas": [
+      {
+        "turma": "CB2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(K3)-2N2(K3)-4N4(K2)-4N5(K2)",
+        "prof": "Daian Guilherme Pinto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB144B",
+    "name": "Zoologia De Vertebrados 1",
+    "turmas": [
+      {
+        "turma": "CB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(K8)-3N3(K8)-4N3(K3)-4N4(K3)",
+        "prof": "Heleno Brandao",
         "opt": "Não"
       }
     ]

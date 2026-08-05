@@ -1,5 +1,651 @@
 [
   {
+    "code": "TPQ54F",
+    "name": "Análise Instrumental",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E106)-2N2(E106)-2N3(E106)-3N3(C206)",
+        "prof": "Clayton Antunes Martin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ54D",
+    "name": "Análise Orgânica",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N1(E106)-3N2(E106)-5N4(E106)-5N5(E106)",
+        "prof": "Viviane Da Silva Lobo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53B",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(E105)-5N2(E105)-6N1(E105)-6N2(E105)-6N3(E105)",
+        "prof": "Solange Maria Cottica, Paulo Andre Cremonez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ55C",
+    "name": "Cinética E Reatores",
+    "turmas": [
+      {
+        "turma": "PQ53",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E203)-2N2(E203)-3N1(E203)-3N2(E203)",
+        "prof": "Gilberto Da Cunha Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56E",
+    "name": "Controle E Tratamento De Resíduos",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E205)-2N2(E205)-2N3(E205)-4N4(E205)-4N5(E205)",
+        "prof": "Michelle Maria Detoni Zanette",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51G",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(E103)-5N2(E103)-5N3(E103)",
+        "prof": "Tatiany Mottin Dartora",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52G",
+    "name": "Cálculo 2",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "6N3(E104)-6N4(E104)-6N5(E104)",
+        "prof": "Ivan Jose Coser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51H",
+    "name": "Desenho Técnico",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N4(C202LINF4)-4N5(C202LINF4)",
+        "prof": "Gilberto Da Cunha Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM002",
+    "name": "Economia Contemporânea",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51F",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N1(E103)-4N2(E103)-4N3(E103)",
+        "prof": "Marcio Paulo De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53A",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N3(E105)-3N3(E105)-3N4(E105)-3N5(E105)",
+        "prof": "Gilberto Da Cunha Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52F",
+    "name": "Física Geral E Experimental 1",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E104)-2N2(E104)-5N1(E104)-5N2(E104)",
+        "prof": "Ernesto Osvaldo Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53F",
+    "name": "Física Geral E Experimental 2",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N4(E105)-2N5(E105)-5N4(E105)-5N5(E105)",
+        "prof": "Ernesto Osvaldo Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52C",
+    "name": "Físico-Química 1",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N3(E104)-2N4(E104)-2N5(E104)-4N3(E104)",
+        "prof": "Kelen Menezes Flores Rossi De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53C",
+    "name": "Físico-Química 2",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N1(E105)-3N2(E105)-6N4(E105)-6N5(E105)",
+        "prof": "Kelen Menezes Flores Rossi De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ54C",
+    "name": "Físico-Química Dos Materiais",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N1(E106)-4N2(E106)-4N3(E106)",
+        "prof": "Ricardo Schneider",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51E",
+    "name": "Geometria E Álgebra De Vetores",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "6N1(E103)-6N2(E103)",
+        "prof": "Ivan Jose Coser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51D",
+    "name": "Gestão De Laboratórios E Segurança No Trabalho",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E103)-2N2(E103)-2N3(E103)",
+        "prof": "Paulo Andre Cremonez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ55A",
+    "name": "Instalações Industriais",
+    "turmas": [
+      {
+        "turma": "PQ53",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(E203)-5N2(E203)-5N3(E203)",
+        "prof": "Gilberto Da Cunha Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ54A",
+    "name": "Introdução Aos Cálculos De Processos",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N4(E106)-2N5(E106)-6N1(E106)-6N2(E106)",
+        "prof": "Michelle Maria Detoni Zanette",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ54B",
+    "name": "Microbiologia",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N4(E106)-4N5(E106)-5N1(E106)-5N2(E106)-5N3(E106)",
+        "prof": "Tatiana Shioji Tiuman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ54E",
+    "name": "Métodos Cromatográficos",
+    "turmas": [
+      {
+        "turma": "PQ43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N4(E106)-3N5(E106)",
+        "prof": "Clayton Antunes Martin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ55E",
+    "name": "Oficina De Investigação Técnico-Científica Em Análises Químicas",
+    "turmas": [
+      {
+        "turma": "PQ53",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N3(E203)-2N4(E203)-2N5(E203)",
+        "prof": "Ricardo Fiori Zara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56F",
+    "name": "Oficina De Investigação Técnico-Científica Em Processos Químicos",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N1(E205)-4N2(E205)-4N3(E205)",
+        "prof": "Guilherme Felipe Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ55D",
+    "name": "Operações Unitárias",
+    "turmas": [
+      {
+        "turma": "PQ53",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N3(E203)-3N4(E203)-3N5(E203)-6N1(E203)-6N2(E203)-6N3(E203)",
+        "prof": "Camila Vargas Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51A",
+    "name": "Profissional Da Tecnologia Em Processos Químicos",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N3(E103)-3N4(E103)-3N5(E103)",
+        "prof": "Guilherme Felipe Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52E",
+    "name": "Química Analítica 1",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N3(E104)-3N4(E104)-3N5(E104)-5N3(E104)",
+        "prof": "Solange Maria Cottica",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53E",
+    "name": "Química Analítica 2",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N3(E105)-4N4(E105)-4N5(E105)-5N3(E105)",
+        "prof": "Clayton Antunes Martin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52B",
+    "name": "Química Experimental",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N1(K01LABQ1)-4N2(K01LABQ1)",
+        "prof": "Kelen Menezes Flores Rossi De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51B",
+    "name": "Química Geral E Inorgânica 1",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "38",
+        "vc": "36",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N4(E103)-2N5(E103)-3N1(E103)-3N2(E103)-6N3(E103)-6N4(E103)",
+        "prof": "Solange Maria Cottica, Guilherme Felipe Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52A",
+    "name": "Química Geral E Inorgânica 2",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N1(E104)-3N2(E104)-5N4(E104)-5N5(E104)",
+        "prof": "Ricardo Schneider",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ52D",
+    "name": "Química Orgânica 1",
+    "turmas": [
+      {
+        "turma": "PQ23",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N4(E104)-4N5(E104)-6N1(E104)-6N2(E104)",
+        "prof": "Guilherme Felipe Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ53D",
+    "name": "Química Orgânica 2",
+    "turmas": [
+      {
+        "turma": "PQ33",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N1(E105)-2N2(E105)-4N1(E105)-4N2(E105)",
+        "prof": "Viviane Da Silva Lobo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM041",
+    "name": "Soft Skills",
+    "turmas": [
+      {
+        "turma": "OPPQ",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56B",
+    "name": "Tecnologia Das Fermentações Industriais",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "3N1(E205)-3N2(E205)-3N3(E205)",
+        "prof": "Paulo Andre Cremonez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56A",
+    "name": "Tecnologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "2N4(E205)-2N5(E205)-6N4(E205)-6N5(E205)",
+        "prof": "Camila Vargas Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56D",
+    "name": "Tecnologia De Processos Químicos",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N1(E205)-5N2(E205)-5N3(E205)-5N4(E205)-5N5(E205)",
+        "prof": "Michelle Maria Detoni Zanette, Camila Vargas Neves, Paulo Andre Cremonez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ56C",
+    "name": "Tecnologia Em Processamento Farmacêutico",
+    "turmas": [
+      {
+        "turma": "PQ63",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "6N1(E205)-6N2(E205)-6N3(E205)",
+        "prof": "Ricardo Fiori Zara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PQ56Q",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -12,6 +658,40 @@
         "prio": "1 - Tec. Proc. Quím.",
         "h": "",
         "prof": "Tatiana Shioji Tiuman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ55B",
+    "name": "Tratamento De Água E Geração De Vapor",
+    "turmas": [
+      {
+        "turma": "PQ53",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "4N1(E203)-4N2(E203)-4N3(E203)",
+        "prof": "Paulo Andre Cremonez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TPQ51C",
+    "name": "Técnicas Laboratoriais Básicas",
+    "turmas": [
+      {
+        "turma": "PQ13",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tec. Proc. Quím.",
+        "h": "5N4(K01LABQ1)-5N5(K01LABQ1)",
+        "prof": "Solange Maria Cottica",
         "opt": "Não"
       }
     ]

@@ -1,0 +1,920 @@
+[
+  {
+    "code": "CC1AED1",
+    "name": "Algoritmos E Estrutura De Dados I",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T1(L5)-4T2(L5)-4T3(L5)-5T1(L5)-5T2(L5)-5T3(L5)",
+        "prof": "Anderson Brilhador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC2AED2",
+    "name": "Algoritmos E Estrutura De Dados Ii",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5T1(L6)-5T2(L6)-6T4(L6)-6T5(L6)",
+        "prof": "Djonatham Caua Fritzen Christ",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC3AED3",
+    "name": "Algoritmos E Estrutura De Dados Iii",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T1(E09)-2T2(E09)-3T3(E09)-3T4(E09)",
+        "prof": "Thiago Franca Naves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC5AG",
+    "name": "Algoritmos Em Grafos",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T1(L7)-3T2(L7)-5T1(L7)-5T2(L7)",
+        "prof": "Leiliane Pereira De Rezende",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC3AOC",
+    "name": "Arquitetura E Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T1(E09)-4T2(E09)-4T3(E09)-5T3(E09)-5T4(E09)-5T5(E09)",
+        "prof": "Djonatham Caua Fritzen Christ",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC7CS",
+    "name": "Cibersegurança",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M2(E09)-3M3(E09)-4M2(E09)-4M3(E09)",
+        "prof": "Gloria Patricia Lopez Sepulveda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC2CLD",
+    "name": "Circuitos Lógicos Digitais",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T1(L4)-3T2(L4)-3T3(L4)-4T1(L4)",
+        "prof": "Gloria Patricia Lopez Sepulveda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC7C",
+    "name": "Compiladores",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M4(L8)-2M5(L8)-3M4(L8)-3M5(L8)",
+        "prof": "Franck Carlos Velez Benito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC8CG",
+    "name": "Computação Gráfica",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T4(E10)-4T5(E10)-5T4(E10)-5T5(E10)",
+        "prof": "Anderson Brilhador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA3CA",
+    "name": "Cálculo Aplicado",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T4(L9)-4T5(L9)-5T1(L9)-5T2(L9)",
+        "prof": "Vanderlea De Lima Inaba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEDADM",
+    "name": "Desenvolvimento De Aplicações Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M4(L4)-3M5(L4)-4M4(L4)-4M5(L4)",
+        "prof": "Wellington De Souza Ferreira",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "OPHE",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6T2(L7)-6T3(L7)",
+        "prof": "Paula Regina Zarelli",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC2ER",
+    "name": "Engenharia De Requisitos",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T4(E10)-2T5(E10)-3T4(E10)-3T5(E10)",
+        "prof": "Davi Marcondes Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC3ES",
+    "name": "Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T3(E09)-2T4(E09)-3T1(E09)-3T2(E09)",
+        "prof": "Wellington De Souza Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC6FIA",
+    "name": "Fundamentos De Inteligência Artificial",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M3(L6)-3M4(L6)-3M5(L6)",
+        "prof": "Thiago Franca Naves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA1FM",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T4(L8)-2T5(L8)-4T4(L8)-4T5(L8)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEIE",
+    "name": "Informática Na Educação",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5M4(E09)-5M5(E09)-6M2(E09)-6M3(E09)",
+        "prof": "Djonatham Caua Fritzen Christ",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "OPHIT2",
+    "name": "Inglês Técnico Ii",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T4(L10)-4T5(L10)",
+        "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC7IAA",
+    "name": "Inteligência Artificial Aplicada",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M1(E09)-2M2(E09)-2M3(E09)-3M1(E09)",
+        "prof": "Thiago Franca Naves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4IHC",
+    "name": "Interação Humano Computador",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M3(L5)-2M4(L5)-2M5(L5)-3M3(L7)",
+        "prof": "Wellington De Souza Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC6IBDDA",
+    "name": "Introdução A Big Data E Data Analytics",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4M2(E11)-4M3(E11)-6M2(E11)-6M3(E11)",
+        "prof": "Arlete Teresinha Beuren",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC1ICC",
+    "name": "Introdução À Ciência Da Computação",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T1(L5)-3T2(L5)-3T3(L5)",
+        "prof": "Giuvane Conti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4LBD",
+    "name": "Laboratório De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M1(L4)-3M2(L4)-5M1(L4)-5M2(L4)",
+        "prof": "Leiliane Pereira De Rezende",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ED117D",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "CB8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N4(L9)-3N5(L9)",
+        "prof": "Debora Michela Prediger",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU1LA",
+    "name": "Linguagem Acadêmica",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia",
+        "h": "6T1(L8)-6T2(L8)-6T3(L8)",
+        "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC6LFTC",
+    "name": "Linguagens Formais E Teoria Da Computação",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M1(L7)-2M2(L7)-3M1(L7)-3M2(L7)",
+        "prof": "Franck Carlos Velez Benito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA1LM",
+    "name": "Lógica Matemática",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T1(L8)-2T2(L8)-2T3(L8)",
+        "prof": "Davi Marcondes Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA2MA",
+    "name": "Matemática Aplicada",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia",
+        "h": "4T4(L7)-4T5(L7)-5T3(L7)-5T4(L7)",
+        "prof": "Evandro Alves Nakajima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPHMP",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6M4(L5)-6M5(L5)",
+        "prof": "Alexandre Meira De Vasconcelos",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC1MBD",
+    "name": "Modelagem De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T4(L5)-3T5(L5)-5T4(L5)-5T5(L5)",
+        "prof": "Leiliane Pereira De Rezende",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA5MN",
+    "name": "Métodos Numéricos",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T1(L4)-2T2(L4)-2T3(L4)",
+        "prof": "Vanderlea De Lima Inaba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC5PLDS",
+    "name": "Paradigmas De Linguagens E Desenvolvimento De Sistemas",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T4(L4)-4T5(L4)-6T1(L4)-6T2(L4)",
+        "prof": "Djonatham Caua Fritzen Christ",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA6PO",
+    "name": "Pesquisa Operacional",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M3(L6)-2M4(L6)-2M5(L6)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4PO",
+    "name": "Pesquisa E Ordenação",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M4(E09)-3M5(E09)-4M4(E09)-4M5(E09)",
+        "prof": "Gloria Patricia Lopez Sepulveda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA4PE",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2M1(L8)-2M2(L8)-4M2(L8)-4M3(L8)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC2POO",
+    "name": "Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T2(L6)-2T3(L6)-4T2(L6)-4T3(L6)",
+        "prof": "Giuvane Conti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEPPD",
+    "name": "Programação Paralela E Distribuída",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T1(E10)-4T2(E10)-5T1(E10)-5T2(E10)",
+        "prof": "Giani Carla Ito",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC3PI1",
+    "name": "Projeto Integrador I: Computação E Educação",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T6(REMOTA)-3T6(REMOTA)-4T6(REMOTA)-5T6(REMOTA)-6T5(REMOTA)-6T6(REMOTA)-7M1(REMOTA)-7M2(REMOTA)-7M3(REMOTA)-7M4(REMOTA)-7M5(REMOTA)-7M6(REMOTA)",
+        "prof": "Agnaldo Da Costa, Giani Carla Ito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC5PI2",
+    "name": "Projeto Integrador Ii: Desenvolvimento, Inovação E Empreendedorismo Social",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T6(REMOTA)-3T6(REMOTA)-4T6(REMOTA)-5T5(REMOTA)-5T6(REMOTA)-6T6(REMOTA)-7M1(REMOTA)-7M2(REMOTA)-7M3(REMOTA)-7M4(REMOTA)-7M5(REMOTA)-7M6(REMOTA)",
+        "prof": "Paula Regina Zarelli, Alexandre Meira De Vasconcelos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC7PI3",
+    "name": "Projeto Integrador Iii: Tecnologia E Mundo Do Trabalho",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T6(REMOTA)-3T6(REMOTA)-4T6(REMOTA)-5T6(REMOTA)-6T5(REMOTA)-6T6(REMOTA)-7M1(REMOTA)-7M2(REMOTA)-7M3(REMOTA)-7M4(REMOTA)-7M5(REMOTA)-7M6(REMOTA)",
+        "prof": "Arlete Teresinha Beuren, Davi Marcondes Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC6PDSW",
+    "name": "Projeto E Desenvolvimento De Sistemas Web",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5M2(E10)-5M3(E10)-6M4(E10)-6M5(E10)",
+        "prof": "Wellington De Souza Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC5QS",
+    "name": "Qualidade De Software",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T2(L4)-4T3(L4)-6T4(L4)-6T5(L4)",
+        "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4RC",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5M3(L4)-6M1(E10)-6M2(E10)-6M3(E10)",
+        "prof": "Agnaldo Da Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPERP",
+    "name": "Redes De Petri",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T1(L9)-2T2(L9)-3T1(L9)-3T2(L9)",
+        "prof": "Franck Carlos Velez Benito",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "OPHRHL",
+    "name": "Relações Humanas E Liderança",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5T5(L7)-6T1(L7)",
+        "prof": "Paula Regina Zarelli",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC5SDT",
+    "name": "Sistemas Distribuídos E Tecnologias",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T3(E11)-3T4(E11)-5T3(E11)-5T4(E11)",
+        "prof": "Rafael Keller Tesser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4SO",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5M4(L4)-5M5(L4)-6M4(L4)-6M5(L4)",
+        "prof": "Agnaldo Da Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPETDS",
+    "name": "Tecnologia Em Desenvolvimento De Sistemas",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "2T4(L4)-2T5(L4)-3T4(L4)-3T5(L4)",
+        "prof": "Giuvane Conti",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC6TRC",
+    "name": "Tecnologias De Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4M4(E10)-4M5(E10)-5M4(E10)-5M5(E10)",
+        "prof": "Rafael Keller Tesser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC1",
+    "name": "Trabalho De Conclusão De Curso I",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6M6(REMOTA)",
+        "prof": "Franck Carlos Velez Benito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC2",
+    "name": "Trabalho De Conclusão De Curso Ii",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "7M1(REMOTA)",
+        "prof": "Franck Carlos Velez Benito",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPETCD",
+    "name": "Tópicos Em Ciência De Dados",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4M4(E11)-4M5(E11)-6M4(E11)-6M5(E11)",
+        "prof": "Arlete Teresinha Beuren",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
+    "code": "CC7VC",
+    "name": "Visão Computacional",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4M1(E09)-5M1(E09)-5M2(E09)-5M3(E09)",
+        "prof": "Anderson Brilhador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA3AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6T1(L9)-6T2(L9)-6T3(L9)",
+        "prof": "Evandro Alves Nakajima",
+        "opt": "Não"
+      }
+    ]
+  }
+]

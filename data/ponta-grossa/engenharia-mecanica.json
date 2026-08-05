@@ -62,23 +62,6 @@
     ]
   },
   {
-    "code": "PG0066",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "YYY",
-        "enq": "Presencial",
-        "vt": "67",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Ruimar Rubens De Gouveia, Marcos Eduardo Soares",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EM30A",
     "name": "Trabalho De Conclusão De Curso 2 - Tcc 2",
     "turmas": [
@@ -91,6 +74,23 @@
         "prio": "1 - Engenharia Mecânica",
         "h": "",
         "prof": "Jhon Jairo Ramirez Behainne",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PG0066",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "YYY",
+        "enq": "Presencial",
+        "vt": "67",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Ruimar Rubens De Gouveia, Marcos Eduardo Soares",
         "opt": "Não"
       }
     ]

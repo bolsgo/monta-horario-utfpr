@@ -1,56 +1,5 @@
 [
   {
-    "code": "MAT007",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "5M1(K208)-5M2(K208)-5M3(K208)",
-        "prof": "Luis Felipe Goncalves Carneiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07P",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
-        "prof": "Pricila Da Silva Barbosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07S",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
-        "prof": "Andre Luis Trevisan",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EMA033",
     "name": "Análise De Falhas",
     "turmas": [
@@ -63,6 +12,74 @@
         "prio": "1 - Eng De Materiais",
         "h": "3T4(B206)-3T5(B206)-5T4(B206)-5T5(B206)",
         "prof": "Marcio Andreato Batista Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMA020",
+    "name": "Comportamento Mecânico Dos Materiais",
+    "turmas": [
+      {
+        "turma": "EM61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "3T3(B205)-3T4(B205)-5T1(B205)-5T2(B205)",
+        "prof": "Raphael Euclides Prestes Salem",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEC001",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EM11",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "3M5(K109)-3M6(K109)-4M5(K109)-4M6(K109)",
+        "prof": "Eidy Leandro Tanaka Guandeline",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CHS004",
+    "name": "Comunicação Oral E Estratégica",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "33",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "2M4(K312)-2M5(K312)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMA028",
+    "name": "Corrosão E Degradação De Materiais",
+    "turmas": [
+      {
+        "turma": "EM71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "3T1(B203)-3T2(B203)-3T3(B203)",
+        "prof": "Cleberson Cipriano De Paula",
         "opt": "Não"
       }
     ]
@@ -182,74 +199,6 @@
         "prio": "1 - Eng De Materiais",
         "h": "3T4(K106)-3T5(K106)-5T4(K107)-5T5(K107)",
         "prof": "Edson Luiz Valmorbida",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EMA020",
-    "name": "Comportamento Mecânico Dos Materiais",
-    "turmas": [
-      {
-        "turma": "EM61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "3T3(B205)-3T4(B205)-5T1(B205)-5T2(B205)",
-        "prof": "Raphael Euclides Prestes Salem",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEC001",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "EM11",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "40",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "3M5(K109)-3M6(K109)-4M5(K109)-4M6(K109)",
-        "prof": "Eidy Leandro Tanaka Guandeline",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CHS004",
-    "name": "Comunicação Oral E Estratégica",
-    "turmas": [
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "33",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "2M4(K312)-2M5(K312)",
-        "prof": "Alcioni Galdino Vieira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EMA028",
-    "name": "Corrosão E Degradação De Materiais",
-    "turmas": [
-      {
-        "turma": "EM71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "3T1(B203)-3T2(B203)-3T3(B203)",
-        "prof": "Cleberson Cipriano De Paula",
         "opt": "Não"
       }
     ]
@@ -527,305 +476,6 @@
     ]
   },
   {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
-      }
-    ]
-  },
-  {
-    "code": "HU99A",
-    "name": "Ética Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "EM91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "4T5(K207)-4T6(K207)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS004",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "3T4(K201)-3T5(K201)",
-        "prof": "Joao Paulo Camargo De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS04P",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3N1(K201)-3N2(K201)",
-        "prof": "Luiz Carlos Pocas",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP34",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3N3(K201)-3N4(K201)",
-        "prof": "Luiz Carlos Pocas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS006",
-    "name": "Física Experimental 2",
-    "turmas": [
-      {
-        "turma": "DP31",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "5M4(K204)-5M5(K204)",
-        "prof": "Marco Aurelio Toledo Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EM31",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "5M2(K204)-5M3(K204)",
-        "prof": "Marco Aurelio Toledo Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS06P",
-    "name": "Física Experimental 2",
-    "turmas": [
-      {
-        "turma": "EP43",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "5N1(K204)-5N2(K204)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP44",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "5N3(K204)-5N4(K204)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS008",
-    "name": "Física Experimental 3",
-    "turmas": [
-      {
-        "turma": "EM41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "4M2(K301)-4M3(K301)",
-        "prof": "David Da Silva Simeao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS08P",
-    "name": "Física Experimental 3",
-    "turmas": [
-      {
-        "turma": "EP53",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N4(K301)-2N5(K301)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP54",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3N4(K301)-3N5(K301)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS08S",
-    "name": "Física Experimental 3",
-    "turmas": [
-      {
-        "turma": "AS41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "3M5(K301)-3M6(K301)",
-        "prof": "Jorge Alberto Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS003",
-    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "4M2(K208)-4M3(K208)-4M4(K208)",
-        "prof": "Jorge Alberto Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS010",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "EP43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS005",
-    "name": "Física 2: Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "EM31",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "4M1(B206)-4M2(B206)-4M3(B206)",
-        "prof": "Fernando Da Silva Alves",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS011",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "EP53",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS007",
-    "name": "Física 3: Fundamentos Do Eletromagnetismo",
-    "turmas": [
-      {
-        "turma": "EM41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "3T1(B206)-3T2(B206)-3T3(B206)",
-        "prof": "Kleber Eiti Yamaguti",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS07S",
-    "name": "Física 3 Fundamentos Do Eletromagnetismo",
-    "turmas": [
-      {
-        "turma": "AS41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
-        "prof": "Jorge Alberto Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MAT002",
     "name": "Fundamentos De Cálculo Para Engenharia",
     "turmas": [
@@ -923,6 +573,271 @@
         "prio": "1 - Eng De Materiais",
         "h": "5M4(K205)-5M5(K205)-5M6(K205)",
         "prof": "Elisangela Corradini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS003",
+    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "4M2(K208)-4M3(K208)-4M4(K208)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS005",
+    "name": "Física 2: Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "EM31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "4M1(B206)-4M2(B206)-4M3(B206)",
+        "prof": "Fernando Da Silva Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS007",
+    "name": "Física 3: Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "EM41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "3T1(B206)-3T2(B206)-3T3(B206)",
+        "prof": "Kleber Eiti Yamaguti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS004",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "3T4(K201)-3T5(K201)",
+        "prof": "Joao Paulo Camargo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS04P",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K201)-3N2(K201)",
+        "prof": "Paulo Sergio De Camargo Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N3(K201)-3N4(K201)",
+        "prof": "Paulo Sergio De Camargo Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS006",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "DP31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "5M4(K204)-5M5(K204)",
+        "prof": "Marco Aurelio Toledo Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EM31",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "5M2(K204)-5M3(K204)",
+        "prof": "Marco Aurelio Toledo Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS06P",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K204)-5N2(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N3(K204)-5N4(K204)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS008",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "EM41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "4M2(K301)-4M3(K301)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08P",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N4(K301)-2N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N4(K301)-3N5(K301)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS08S",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M5(K301)-3M6(K301)",
+        "prof": "Jorge Alberto Martins",
         "opt": "Não"
       }
     ]
@@ -1081,23 +996,6 @@
     ]
   },
   {
-    "code": "EMA003",
-    "name": "Introdução À Engenharia",
-    "turmas": [
-      {
-        "turma": "EM11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "2M4(K208)-2M5(K208)",
-        "prof": "Luiz Eduardo De Carvalho",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OPMA10",
     "name": "Introdução A Nanotecnologia",
     "turmas": [
@@ -1111,23 +1009,6 @@
         "h": "4T4(B204)-4T5(B204)",
         "prof": "Arandi Ginane Bezerra Junior",
         "opt": "Matriz:64"
-      }
-    ]
-  },
-  {
-    "code": "EMA001",
-    "name": "Introdução À Química Experimental",
-    "turmas": [
-      {
-        "turma": "EM11",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "25",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "5T2(K009)-5T3(K009)",
-        "prof": "Elisangela Corradini",
-        "opt": "Não"
       }
     ]
   },
@@ -1178,6 +1059,40 @@
         "prio": "1 - Eng De Materiais",
         "h": "5M1(B205)-5M2(B205)-5M3(B205)",
         "prof": "Luiz Eduardo De Carvalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMA003",
+    "name": "Introdução À Engenharia",
+    "turmas": [
+      {
+        "turma": "EM11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "2M4(K208)-2M5(K208)",
+        "prof": "Luiz Eduardo De Carvalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMA001",
+    "name": "Introdução À Química Experimental",
+    "turmas": [
+      {
+        "turma": "EM11",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T2(K009)-5T3(K009)",
+        "prof": "Elisangela Corradini",
         "opt": "Não"
       }
     ]
@@ -1574,6 +1489,23 @@
     ]
   },
   {
+    "code": "OPMA19",
+    "name": "Soldagem",
+    "turmas": [
+      {
+        "turma": "EM81",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "5M3(B206)-5M4(B206)-5M5(B206)",
+        "prof": "Marcio Andreato Batista Mendes",
+        "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
     "code": "EMA024",
     "name": "Síntese De Cerâmicas",
     "turmas": [
@@ -1608,23 +1540,6 @@
     ]
   },
   {
-    "code": "OPMA19",
-    "name": "Soldagem",
-    "turmas": [
-      {
-        "turma": "EM81",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "5M3(B206)-5M4(B206)-5M5(B206)",
-        "prof": "Marcio Andreato Batista Mendes",
-        "opt": "Matriz:64"
-      }
-    ]
-  },
-  {
     "code": "TC99A",
     "name": "Tcc1",
     "turmas": [
@@ -1637,23 +1552,6 @@
         "prio": "1 - Eng De Materiais",
         "h": "7M4(B204)-7M5(B204)",
         "prof": "Raphael Euclides Prestes Salem",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EMA027",
-    "name": "Técnicas De Análise De Materiais",
-    "turmas": [
-      {
-        "turma": "EM71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Materiais",
-        "h": "2T4(B203)-2T5(B203)-4T1(B203)-4T2(B203)",
-        "prof": "Arandi Ginane Bezerra Junior",
         "opt": "Não"
       }
     ]
@@ -1706,6 +1604,108 @@
         "h": "2M3(B205)-2M4(B205)-3M3(B205)-3M4(B205)",
         "prof": "Odney Carlos Brondino",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EMA027",
+    "name": "Técnicas De Análise De Materiais",
+    "turmas": [
+      {
+        "turma": "EM71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(B203)-2T5(B203)-4T1(B203)-4T2(B203)",
+        "prof": "Arandi Ginane Bezerra Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT007",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng De Materiais",
+        "h": "5M1(K208)-5M2(K208)-5M3(K208)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
       }
     ]
   }

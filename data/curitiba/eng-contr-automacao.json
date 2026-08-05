@@ -187,7 +187,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 2 - Eng Contr/Automação",
-        "h": "2M1(CE-308)-2M2(CE-308)-3M3(CA-011)-3M4(CA-011)-5M1(CE-101)-5M2(CE-101)",
+        "h": "2M1(CE-301)-2M2(CE-301)-3M3(CA-011)-3M4(CA-011)-5M1(CE-101)-5M2(CE-101)",
         "prof": "Elisabete Nakoneczny Moraes",
         "opt": "Não"
       },
@@ -198,7 +198,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Contr/Automação, 2 - Eng Elétrica",
-        "h": "2M1(CE-308)-2M2(CE-308)-3M1(CA-011)-3M2(CA-011)-5M1(CE-101)-5M2(CE-101)",
+        "h": "2M1(CE-301)-2M2(CE-301)-3M1(CA-011)-3M2(CA-011)-5M1(CE-101)-5M2(CE-101)",
         "prof": "Elisabete Nakoneczny Moraes",
         "opt": "Não"
       },
@@ -209,7 +209,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Contr/Automação, 2 - Eng Elétrica",
-        "h": "2M1(CE-308)-2M2(CE-308)-3M5(CA-011)-3M6(CA-011)-5M1(CE-101)-5M2(CE-101)",
+        "h": "2M1(CE-301)-2M2(CE-301)-3M5(CA-011)-3M6(CA-011)-5M1(CE-101)-5M2(CE-101)",
         "prof": "Elisabete Nakoneczny Moraes",
         "opt": "Não"
       }
@@ -1027,8 +1027,8 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",
-        "h": "4N2(CB-012)-4N3(CB-012)-4N4(CB-012)-4N5(CB-012)",
-        "prof": "Daniel Balieiro Silva",
+        "h": "4N2(CB-010)-4N3(CB-010)-4N4(CB-010)-4N5(CB-010)",
+        "prof": "Vilmair Ermenio Wirmond",
         "opt": "Não"
       },
       {
@@ -1038,8 +1038,8 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 2 - Eng Contr/Automação, 3 - Eng Eletrônica",
-        "h": "3N1(CB-012)-3N2(CB-012)-3N3(CB-012)-3T6(CB-012)",
-        "prof": "Daniel Balieiro Silva",
+        "h": "3N1(CB-010)-3N2(CB-010)-3N3(CB-010)-3T6(CB-010)",
+        "prof": "Vilmair Ermenio Wirmond",
         "opt": "Não"
       },
       {
@@ -1049,8 +1049,8 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica",
-        "h": "4M2(CB-010)-4M3(CB-010)-4M4(CB-010)-4M5(CB-010)",
-        "prof": "Vilmair Ermenio Wirmond",
+        "h": "4M2(CB-012)-4M3(CB-012)-4M4(CB-012)-4M5(CB-012)",
+        "prof": "Daniel Balieiro Silva",
         "opt": "Não"
       },
       {
@@ -1060,8 +1060,8 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Contr/Automação, 2 - Eng Elétrica, 3 - Eng Eletrônica",
-        "h": "2M1(CB-010)-2M2(CB-010)-2M3(CB-010)-2M4(CB-010)",
-        "prof": "Vilmair Ermenio Wirmond",
+        "h": "2M1(CB-012)-2M2(CB-012)-2M3(CB-012)-2M4(CB-012)",
+        "prof": "Daniel Balieiro Silva",
         "opt": "Não"
       }
     ]
@@ -1341,7 +1341,7 @@
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
         "h": "4N1(CA-201)-4T5(CA-201)-4T6(CA-201)",
-        "prof": "Luiz Amilton Pepplow",
+        "prof": "Daniel Junghans",
         "opt": "Não"
       },
       {
@@ -1352,7 +1352,7 @@
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
         "h": "4M1(CA-201)-4M2(CA-201)-4M3(CA-201)",
-        "prof": "Luiz Amilton Pepplow",
+        "prof": "Daniel Junghans",
         "opt": "Não"
       },
       {
@@ -1385,7 +1385,7 @@
         "res": "Fechada",
         "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
         "h": "2M3(CA-201)-2M4(CA-201)-2M5(CA-201)",
-        "prof": "Daniel Junghans",
+        "prof": "Luiz Amilton Pepplow",
         "opt": "Não"
       }
     ]
@@ -3262,28 +3262,6 @@
         "prio": "",
         "h": "",
         "prof": "Mauricio Koubay Do Amaral",
-        "opt": "Não"
-      },
-      {
-        "turma": "S02",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
-        "opt": "Não"
-      },
-      {
-        "turma": "S03",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
         "opt": "Não"
       },
       {

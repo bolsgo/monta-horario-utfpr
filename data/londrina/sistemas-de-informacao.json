@@ -153,40 +153,6 @@
     ]
   },
   {
-    "code": "CHS007",
-    "name": "Estudos Étnicos E Raciais",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "2M2(K206)-2M3(K206)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:60"
-      }
-    ]
-  },
-  {
-    "code": "CHS07T",
-    "name": "Estudos Étnicos E Raciais",
-    "turmas": [
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "5T5(A106)-5T6(A106)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:64"
-      }
-    ]
-  },
-  {
     "code": "CHS09B",
     "name": "Estudos Sociais De Ciência E Tecnologia",
     "turmas": [
@@ -217,6 +183,40 @@
         "h": "3N1(K205)-3N2(K205)",
         "prof": "Alcioni Galdino Vieira",
         "opt": "Matriz:61"
+      }
+    ]
+  },
+  {
+    "code": "CHS007",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M2(K206)-2M3(K206)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:60"
+      }
+    ]
+  },
+  {
+    "code": "CHS07T",
+    "name": "Estudos Étnicos E Raciais",
+    "turmas": [
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "5T5(A106)-5T6(A106)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:64"
       }
     ]
   },

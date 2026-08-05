@@ -1,5 +1,504 @@
 [
   {
+    "code": "ALM1004",
+    "name": "Conservação De Massa E Energia Em Processos Industriais",
+    "turmas": [
+      {
+        "turma": "ALI4EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M4(I16)-3M5(I16)",
+        "prof": "Aziza Kamal Genena",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1001",
+    "name": "Desenho Técnico Assistido Por Computador",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T1(I21)-6T2(I21)-6T3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "2M1(I21)-2M2(I21)-2M3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1002",
+    "name": "Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(L21)-5T5(L21)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1002",
+    "name": "Estruturas Geométricas E Vetores",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "54",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "3N3(L22)-3N4(L22)-3N5(L22)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1006",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "3M4(L21)-3M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "MAT1001",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "58",
+        "vc": "48",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
+        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
+        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1023",
+    "name": "Gestão E Tratamento De Resíduos Sólidos",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "3N2(H33)-3N3(H33)-6N1(H33)-6N2(H33)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "PRO1005",
+    "name": "Gestão Organizacional",
+    "turmas": [
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "4M2(H614)-4M3(H614)",
+        "prof": "Sergio Adelar Brun",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "COM1001",
+    "name": "Informática Instrumental",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(L12A)-2N2(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N3(L12A)-2N4(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L12A)-3T5(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(I21)-3M5(I21)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(L18)-2N2(L18)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 2 - Tecnol Em Alimentos",
+        "h": "5N1(L12A)-5N2(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1008",
+    "name": "Inglês Básico 1",
+    "turmas": [
+      {
+        "turma": "OPTAH",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "PRO1004",
+    "name": "Introdução À Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H610)-5M5(H610)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "AGR1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N4(I12)-3N5(I12)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "34",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N1(I11)-5N2(I11)",
+        "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(L41)-2T5(L41)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(I11)-5M3(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(I42)-5N2(I42)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N4(I16)-4N5(I16)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1004",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "OPTAHUMAN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M1(I11)",
+        "prof": "Dayse Grassi Bernardon",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "ALM1002",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M2(J22)-4M3(J22)",
+        "prof": "Eliane Colla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1010",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(I25)-4N2(I25)",
+        "prof": "Rafael Arioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1066",
+    "name": "Planejamento Experimental E Otimização De Processos",
+    "turmas": [
+      {
+        "turma": "TAL6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N1(I25)-5N2(I25)",
+        "prof": "Eliane Colla",
+        "opt": "Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "QUI1001",
+    "name": "Química Geral E Inorgânica",
+    "turmas": [
+      {
+        "turma": "AMB1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
+        "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L33)-4T3(L33)-4T4(L44)-4T5(L44)",
+        "prof": "Suelen Specht Calegaro Milioli, Ana Cristina Trindade Cursino",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
+        "prof": "Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1002",
+    "name": "Sistemas De Gestão Ambiental",
+    "turmas": [
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M4(H34)-6M5(H34)",
+        "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1001",
+    "name": "Sustentabilidade E Gestão",
+    "turmas": [
+      {
+        "turma": "ELE5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(H34)-6T4(H34)-6T5(H34)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      },
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
+        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
+        "prof": "Renato Santos Flauzino",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
     "code": "PP59F",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -29,6 +528,23 @@
         "prio": "",
         "h": "",
         "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM58A",
+    "name": "Tratamento De Águas Para Abastecimento 2",
+    "turmas": [
+      {
+        "turma": "M81X",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Ambiental",
+        "h": "3T1(I41)-3T2(I41)-3T3(I41)",
+        "prof": "Ivonei Ottobelli",
         "opt": "Não"
       }
     ]

@@ -1,88 +1,5 @@
 [
   {
-    "code": "NCM002",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "IC3A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "5T4(D105)-5T5(D105)-6T4(B102)-6T5(B102)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T2(B107)-2T3(B107)-4T3(B103)-4T4(B103)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID2B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
-        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2N4(B107)-2N5(B107)-5N2(B107)-5N3(B107)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "IQ2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
-        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EEL5003",
     "name": "Amplificadores",
     "turmas": [
@@ -141,6 +58,102 @@
         "h": "2N4(B005)-2N5(B005)-6N4(B009)-6N5(B009)",
         "prof": "Pamela De Souza Schiaber",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA3XB",
+    "name": "Ciências Ambientais",
+    "turmas": [
+      {
+        "turma": "ILE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(D103)-3T5(D103)",
+        "prof": "Elizabete Satsuki Sekine",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL2003",
+    "name": "Circuitos Digitais Combinacionais",
+    "turmas": [
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B001)-3N2(B001)-3N3(B001)",
+        "prof": "Lucas Ricken Garcia",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B001)-3N4(B001)-3N5(B001)",
+        "prof": "Lucas Ricken Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL3002",
+    "name": "Circuitos Digitais Sequenciais",
+    "turmas": [
+      {
+        "turma": "IL3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5N1(B005)-5N2(B005)-5N3(B005)",
+        "prof": "Marcio Rodrigues Da Cunha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL4006",
+    "name": "Circuitos Eletrônicos",
+    "turmas": [
+      {
+        "turma": "IL4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N2(B004)-3N3(B004)-3N4(B004)-3N5(B004)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPT036",
+    "name": "Controle Inteligente",
+    "turmas": [
+      {
+        "turma": "ILO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "6N1(B002)-6N2(B002)-6N3(B002)",
+        "prof": "",
+        "opt": "Matriz:88"
       }
     ]
   },
@@ -389,102 +402,6 @@
     ]
   },
   {
-    "code": "CA3XB",
-    "name": "Ciências Ambientais",
-    "turmas": [
-      {
-        "turma": "ILE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T4(D103)-3T5(D103)",
-        "prof": "Elizabete Satsuki Sekine",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL2003",
-    "name": "Circuitos Digitais Combinacionais",
-    "turmas": [
-      {
-        "turma": "IL2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B001)-3N2(B001)-3N3(B001)",
-        "prof": "Lucas Ricken Garcia",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL2B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B001)-3N4(B001)-3N5(B001)",
-        "prof": "Lucas Ricken Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL3002",
-    "name": "Circuitos Digitais Sequenciais",
-    "turmas": [
-      {
-        "turma": "IL3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5N1(B005)-5N2(B005)-5N3(B005)",
-        "prof": "Marcio Rodrigues Da Cunha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL4006",
-    "name": "Circuitos Eletrônicos",
-    "turmas": [
-      {
-        "turma": "IL4A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N2(B004)-3N3(B004)-3N4(B004)-3N5(B004)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "OPT036",
-    "name": "Controle Inteligente",
-    "turmas": [
-      {
-        "turma": "ILO",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "6N1(B002)-6N2(B002)-6N3(B002)",
-        "prof": "",
-        "opt": "Matriz:88"
-      }
-    ]
-  },
-  {
     "code": "EEL1004",
     "name": "Desafio Interdisciplinar",
     "turmas": [
@@ -549,6 +466,23 @@
         "h": "3N4(B101)-3N5(B101)",
         "prof": "Pamela De Souza Schiaber",
         "opt": "Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "LT39B",
+    "name": "Engenharia Do Produto",
+    "turmas": [
+      {
+        "turma": "IL9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5T4(B009)-5T5(B009)-6T4(B009)-6T5(B009)",
+        "prof": "Leonardo Faria Costa",
+        "opt": "Matriz:43"
       }
     ]
   },
@@ -676,23 +610,6 @@
     ]
   },
   {
-    "code": "LT39B",
-    "name": "Engenharia Do Produto",
-    "turmas": [
-      {
-        "turma": "IL9A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5T4(B009)-5T5(B009)-6T4(B009)-6T5(B009)",
-        "prof": "Leonardo Faria Costa",
-        "opt": "Matriz:43"
-      }
-    ]
-  },
-  {
     "code": "EEL3001",
     "name": "Estrutura De Dados",
     "turmas": [
@@ -744,20 +661,122 @@
     ]
   },
   {
-    "code": "NCM012",
-    "name": "Física 1",
+    "code": "OPT030",
+    "name": "Fontes Chaveadas E Inversores",
     "turmas": [
       {
-        "turma": "IDE",
+        "turma": "ILO",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N1(D101)-4N2(D101)-4N3(D101)-5N4(H004)-5N5(H004)",
-        "prof": "Debora Ferreira Da Silva",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N3(B002)-3N4(B002)-3N5(B002)",
+        "prof": "Thiago Simoes Dias",
+        "opt": "Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "EEL1001",
+    "name": "Fundamentos Da Engenharia Eletrônica",
+    "turmas": [
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "6N1(B102)-6N2(B004)-6N3(B004)",
+        "prof": "Roberto Wilhelm Krauss Martinez",
         "opt": "Não"
       },
+      {
+        "turma": "IL1B",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "6N1(B102)-6N4(B004)-6N5(B004)",
+        "prof": "Roberto Wilhelm Krauss Martinez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM002",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(F109)-3N3(F109)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "EEL6005",
+    "name": "Fundamentos De Controle Clássico",
+    "turmas": [
+      {
+        "turma": "IL6A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4N4(B005)-4N5(B005)-5N4(B005)-5N5(B005)",
+        "prof": "Leandro Castilho Brolin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL4002",
+    "name": "Fundamentos De Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "IL4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4N4(B105)-4N5(B105)",
+        "prof": "Raphael Correa Medeiros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL4001",
+    "name": "Fundamentos De Mecânica Dos Corpos Rígidos",
+    "turmas": [
+      {
+        "turma": "IL4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N1(B105)-2T6(B105)",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM012",
+    "name": "Física 1",
+    "turmas": [
       {
         "turma": "ID2A",
         "enq": "Presencial",
@@ -767,6 +786,17 @@
         "prio": "1 - Eng Civil",
         "h": "3T3(F110)-3T4(F110)-3T5(F110)-5T2(H004)-5T3(H004)",
         "prof": "Paulo Willian Carvalho Sarvezuk",
+        "opt": "Não"
+      },
+      {
+        "turma": "IDE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(D101)-4N2(D101)-4N3(D101)-5N4(H004)-5N5(H004)",
+        "prof": "Debora Ferreira Da Silva",
         "opt": "Não"
       },
       {
@@ -960,114 +990,18 @@
     ]
   },
   {
-    "code": "OPT030",
-    "name": "Fontes Chaveadas E Inversores",
+    "code": "ALM35A",
+    "name": "Gestão Da Produção",
     "turmas": [
       {
-        "turma": "ILO",
+        "turma": "NA5A",
         "enq": "Presencial",
         "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N3(B002)-3N4(B002)-3N5(B002)",
-        "prof": "Thiago Simoes Dias",
-        "opt": "Matriz:88"
-      }
-    ]
-  },
-  {
-    "code": "EEL1001",
-    "name": "Fundamentos Da Engenharia Eletrônica",
-    "turmas": [
-      {
-        "turma": "IL1A",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "6N1(B102)-6N2(B004)-6N3(B004)",
-        "prof": "Roberto Wilhelm Krauss Martinez",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL1B",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "6N1(B102)-6N4(B004)-6N5(B004)",
-        "prof": "Roberto Wilhelm Krauss Martinez",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HUM002",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
         "vc": "0",
         "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(F109)-3N3(F109)",
-        "prof": "Frederico Lopes De Oliveira Diehl",
-        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
-    "code": "EEL6005",
-    "name": "Fundamentos De Controle Clássico",
-    "turmas": [
-      {
-        "turma": "IL6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4N4(B005)-4N5(B005)-5N4(B005)-5N5(B005)",
-        "prof": "Leandro Castilho Brolin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL4002",
-    "name": "Fundamentos De Fenômenos De Transporte",
-    "turmas": [
-      {
-        "turma": "IL4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4N4(B105)-4N5(B105)",
-        "prof": "Raphael Correa Medeiros",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL4001",
-    "name": "Fundamentos De Mecânica Dos Corpos Rígidos",
-    "turmas": [
-      {
-        "turma": "IL4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2N1(B105)-2T6(B105)",
-        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(D108)-4N2(D108)",
+        "prof": "Marcelo Guelbert",
         "opt": "Não"
       }
     ]
@@ -1129,23 +1063,6 @@
         "prio": "1 - Engenharia Química",
         "h": "3T1(G104)-3T2(G104)-3T3(G104)",
         "prof": "Raquel Polizeli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM35A",
-    "name": "Gestão Da Produção",
-    "turmas": [
-      {
-        "turma": "NA5A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "4N1(D108)-4N2(D108)",
-        "prof": "Marcelo Guelbert",
         "opt": "Não"
       }
     ]
@@ -1364,7 +1281,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Eletrônica",
         "h": "4N2(E100)-4N3(E100)",
-        "prof": "",
+        "prof": "Willian Marques Freire",
         "opt": "Não"
       }
     ]
@@ -1383,23 +1300,6 @@
         "h": "4N4(D107)-4N5(D107)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:34, Matriz:30, Matriz:44, Matriz:63, Matriz:50"
-      }
-    ]
-  },
-  {
-    "code": "HUM005",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N2(D107)-4N3(D107)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
       }
     ]
   },
@@ -1428,6 +1328,23 @@
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      }
+    ]
+  },
+  {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
       }
     ]
   },
@@ -1483,18 +1400,18 @@
     ]
   },
   {
-    "code": "EEL6004",
-    "name": "Máquinas Elétricas",
+    "code": "MG3XD",
+    "name": "Mecanica Geral 2",
     "turmas": [
       {
-        "turma": "IL6A",
+        "turma": "IDE",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B009)-3N2(B009)-3N3(B009)",
-        "prof": "Marcelo Nanni",
+        "prio": "1 - Eng Civil",
+        "h": "3N4(F109)-3N5(F109)-5N4(F109)-5N5(F109)",
+        "prof": "Ronaldo Rigobello",
         "opt": "Não"
       }
     ]
@@ -1545,23 +1462,6 @@
         "prio": "1 - Engenharia Química",
         "h": "3T3(G105)-3T4(G105)-4T3(G104)-4T4(G104)",
         "prof": "Wesley Szpak",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MG3XD",
-    "name": "Mecanica Geral 2",
-    "turmas": [
-      {
-        "turma": "IDE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3N4(F109)-3N5(F109)-5N4(F109)-5N5(F109)",
-        "prof": "Ronaldo Rigobello",
         "opt": "Não"
       }
     ]
@@ -1635,73 +1535,52 @@
     ]
   },
   {
-    "code": "NCM010",
-    "name": "Pré-Cálculo",
+    "code": "EEL6004",
+    "name": "Máquinas Elétricas",
     "turmas": [
       {
-        "turma": "IC1A",
+        "turma": "IL6A",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
-        "prof": "Helio Vinicius Moreno Tozatti",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG1A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
+        "vt": "22",
+        "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Eletrônica",
-        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
-        "prof": "Helio Vinicius Moreno Tozatti",
+        "h": "3N1(B009)-3N2(B009)-3N3(B009)",
+        "prof": "Marcelo Nanni",
         "opt": "Não"
-      },
+      }
+    ]
+  },
+  {
+    "code": "LT38A",
+    "name": "Projeto De Circuitos Integrados Semidedicados",
+    "turmas": [
       {
-        "turma": "IQ1A",
+        "turma": "ILE",
         "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
+        "vt": "22",
+        "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5T2(B006)-5T3(B006)-6T2(B006)-6T3(B006)",
+        "prof": "Thiago Simoes Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LT39A",
+    "name": "Projeto De Sistemas Integrados",
+    "turmas": [
+      {
+        "turma": "IL9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5T2(B005)-5T3(B005)-6T2(B005)-6T3(B005)",
+        "prof": "Leonardo Faria Costa",
         "opt": "Não"
       }
     ]
@@ -1864,40 +1743,6 @@
     ]
   },
   {
-    "code": "LT38A",
-    "name": "Projeto De Circuitos Integrados Semidedicados",
-    "turmas": [
-      {
-        "turma": "ILE",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5T2(B006)-5T3(B006)-6T2(B006)-6T3(B006)",
-        "prof": "Thiago Simoes Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LT39A",
-    "name": "Projeto De Sistemas Integrados",
-    "turmas": [
-      {
-        "turma": "IL9A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5T2(B005)-5T3(B005)-6T2(B005)-6T3(B005)",
-        "prof": "Leonardo Faria Costa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EEL6006",
     "name": "Projetos Eletrônicos 1",
     "turmas": [
@@ -1910,6 +1755,78 @@
         "prio": "1 - Eng Eletrônica",
         "h": "2N1(B104)-2N2(B104)-2N3(B104)",
         "prof": "Flavio Luiz Rossini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM010",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
         "opt": "Não"
       }
     ]
@@ -2017,29 +1934,35 @@
     ]
   },
   {
-    "code": "EEL7001",
-    "name": "Técnicas De Controle Digital",
+    "code": "TCC1",
+    "name": "Trabalho De Conclusão De Curso",
     "turmas": [
       {
-        "turma": "ANP",
+        "turma": "ID9A",
         "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Flavio Luiz Rossini",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL7A",
-        "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
+        "prof": "Vera Lucia Barradas Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC II",
+    "name": "Trabalho De Conclusão De Curso Ii",
+    "turmas": [
+      {
+        "turma": "IL10A",
+        "enq": "Presencial",
+        "vt": "55",
+        "vc": "0",
+        "res": "Fechada",
         "prio": "1 - Eng Eletrônica",
-        "h": "4N1(B006)-4N2(B006)-4N3(B006)",
-        "prof": "Flavio Luiz Rossini",
+        "h": "",
+        "prof": "",
         "opt": "Não"
       }
     ]
@@ -2096,6 +2019,51 @@
     ]
   },
   {
+    "code": "ECV8007",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "ID8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "6T4(F101)-6T5(F101)",
+        "prof": "Vera Lucia Barradas Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL7001",
+    "name": "Técnicas De Controle Digital",
+    "turmas": [
+      {
+        "turma": "ANP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Flavio Luiz Rossini",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4N1(B006)-4N2(B006)-4N3(B006)",
+        "prof": "Flavio Luiz Rossini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EEL2001",
     "name": "Tópicos Em Química",
     "turmas": [
@@ -2124,57 +2092,6 @@
     ]
   },
   {
-    "code": "TCC1",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
-        "prof": "Vera Lucia Barradas Moreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TCC II",
-    "name": "Trabalho De Conclusão De Curso Ii",
-    "turmas": [
-      {
-        "turma": "IL10A",
-        "enq": "Presencial",
-        "vt": "55",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica",
-        "h": "",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV8007",
-    "name": "Trabalho De Conclusão De Curso 1",
-    "turmas": [
-      {
-        "turma": "ID8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "6T4(F101)-6T5(F101)",
-        "prof": "Vera Lucia Barradas Moreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LT30A",
     "name": "Viabilidade Econômica E Financeira De Projetos",
     "turmas": [
@@ -2187,6 +2104,89 @@
         "prio": "1 - Eng Eletrônica",
         "h": "3T4(D108)-3T5(D108)",
         "prof": "Genilson Valotto Patuzzo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM002",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "5T4(D105)-5T5(D105)-6T4(B102)-6T5(B102)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(B107)-2T3(B107)-4T3(B103)-4T4(B103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N4(B107)-2N5(B107)-5N2(B107)-5N3(B107)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
         "opt": "Não"
       }
     ]

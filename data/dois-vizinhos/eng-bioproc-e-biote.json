@@ -34,36 +34,19 @@
     ]
   },
   {
-    "code": "AL12BB",
-    "name": "Álgebra Linear",
+    "code": "AG11SW",
+    "name": "Algoritmos 1",
     "turmas": [
       {
-        "turma": "2EB1",
+        "turma": "ESSPO",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "1",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "2M3(B3-S4)-2M4(B3-S4)-3M1(B8-S3)-3M2(B8-S3)",
-        "prof": "Adilson Da Silveira",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Evandro Miguel Kuszera, Thiago Dias",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AA13ZO",
-    "name": "Análise De Alimentos",
-    "turmas": [
-      {
-        "turma": "3ZT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Zootecnia",
-        "h": "3M1(B6-S3)-3M2(B6-S3)-4T2(B6-S3)-4T3(B6-S3)",
-        "prof": "Magali Floriano Da Silveira",
-        "opt": "Matriz:53"
       }
     ]
   },
@@ -92,6 +75,17 @@
         "h": "2N4(B5-S3)-2N5(B5-S3)-4N4(LABANAHUM)-4N5(LABANAHUM)",
         "prof": "Fernando Carlos De Sousa",
         "opt": "Não"
+      },
+      {
+        "turma": "CBSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Fernando Carlos De Sousa",
+        "opt": "Não"
       }
     ]
   },
@@ -109,6 +103,23 @@
         "h": "2M1(B3-S2)-2M2(B3-S2)-2M3(LABMULT2)-2M4(LABMULT2)",
         "prof": "Daniela Macedo De Lima",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AA13ZO",
+    "name": "Análise De Alimentos",
+    "turmas": [
+      {
+        "turma": "3ZT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Zootecnia",
+        "h": "3M1(B6-S3)-3M2(B6-S3)-4T2(B6-S3)-4T3(B6-S3)",
+        "prof": "Magali Floriano Da Silveira",
+        "opt": "Matriz:53"
       }
     ]
   },
@@ -266,57 +277,6 @@
     ]
   },
   {
-    "code": "CB18BB",
-    "name": "Cálculo De Biorreatores",
-    "turmas": [
-      {
-        "turma": "8EB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "2M3(B3-S3)-2M4(B3-S3)-2M5(B3-S3)",
-        "prof": "Francisco Menino Destefanis Vitola",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CD12BB",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "2EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4T3(B3-S3)-4T4(B3-S3)-5M4(B7-S5)-5M5(B7-S5)",
-        "prof": "Adilson Da Silveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CA13BB",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "3M2(B6-S6)-3M3(B6-S6)-4T4(B6-S4)-4T5(B6-S4)",
-        "prof": "Caroline Dall Agnol",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CP10FL",
     "name": "Celulose E Papel",
     "turmas": [
@@ -415,6 +375,57 @@
         "h": "2M5(B3-S2)-2M6(B3-S2)",
         "prof": "Patricia Fernandes",
         "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "CD12BB",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T3(B3-S3)-4T4(B3-S3)-5M4(B7-S5)-5M5(B7-S5)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA13BB",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M2(B6-S6)-3M3(B6-S6)-4T4(B6-S4)-4T5(B6-S4)",
+        "prof": "Caroline Dall Agnol",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB18BB",
+    "name": "Cálculo De Biorreatores",
+    "turmas": [
+      {
+        "turma": "8EB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M3(B3-S3)-2M4(B3-S3)-2M5(B3-S3)",
+        "prof": "Francisco Menino Destefanis Vitola",
+        "opt": "Não"
       }
     ]
   },
@@ -753,74 +764,6 @@
     ]
   },
   {
-    "code": "FI13BB",
-    "name": "Física 1",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
-        "prof": "Andre Luiz De Lima Ponzoni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI14BB",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "4EB1",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
-        "prof": "Thiago Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FI15BB",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "5EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "3T1(B8-S1)-3T2(B8-S1)-5M4(B7-S7)-5M5(B7-S7)",
-        "prof": "Thiago Petrucci Rodrigues",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FQ15BB",
-    "name": "Físico-Química",
-    "turmas": [
-      {
-        "turma": "5EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4T1(B7-S6)-4T2(B7-S6)-6M3(B3-S6)-6M4(B3-S6)-6M5(B3-S6)",
-        "prof": "Antonio Guilherme Basso Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FF13FL",
     "name": "Fisiologia Florestal",
     "turmas": [
@@ -917,18 +860,69 @@
     ]
   },
   {
-    "code": "GP18CB",
-    "name": "Genética De Populações E Evolução",
+    "code": "FI13BB",
+    "name": "Física 1",
     "turmas": [
       {
-        "turma": "8LCB1",
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M4(B8-S2)-3M5(B8-S2)-4M1(B8-S2)-4M2(B8-S2)",
+        "prof": "Andre Luiz De Lima Ponzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI14BB",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M5(B7-S8)-2M6(B7-S8)-6M5(B7-S6)-6M6(B7-S6)",
+        "prof": "Thiago Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FI15BB",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "5EB1",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Ciências Biológicas",
-        "h": "4N1(B7-S6)-4N2(B7-S6)-6N1(B7-S6)-6N2(B7-S6)",
-        "prof": "Sandrieli Goncalves",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T1(B8-S1)-3T2(B8-S1)-5M4(B7-S7)-5M5(B7-S7)",
+        "prof": "Thiago Petrucci Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FQ15BB",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "5EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T1(B7-S6)-4T2(B7-S6)-6M3(B3-S6)-6M4(B3-S6)-6M5(B3-S6)",
+        "prof": "Antonio Guilherme Basso Pereira",
         "opt": "Não"
       }
     ]
@@ -946,6 +940,23 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "2M1(B3-S4)-2M2(B3-S4)-4T1(B3-S3)-4T2(B3-S3)",
         "prof": "Francisco Menino Destefanis Vitola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP18CB",
+    "name": "Genética De Populações E Evolução",
+    "turmas": [
+      {
+        "turma": "8LCB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(B7-S6)-4N2(B7-S6)-6N1(B7-S6)-6N2(B7-S6)",
+        "prof": "Sandrieli Goncalves",
         "opt": "Não"
       }
     ]
@@ -1070,6 +1081,23 @@
     ]
   },
   {
+    "code": "IC11BB",
+    "name": "Introdução Ao Cálculo",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M3(B6-S4)-3M4(B6-S4)-3M5(B6-S4)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "IE11BB",
     "name": "Introdução À Ecologia",
     "turmas": [
@@ -1099,23 +1127,6 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "5M4(3PRODSOFT)-5M5(3PRODSOFT)-5M6(3PRODSOFT)",
         "prof": "Thiago Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "IC11BB",
-    "name": "Introdução Ao Cálculo",
-    "turmas": [
-      {
-        "turma": "1EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "40",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "3M3(B6-S4)-3M4(B6-S4)-3M5(B6-S4)",
-        "prof": "Adilson Da Silveira",
         "opt": "Não"
       }
     ]
@@ -1206,6 +1217,23 @@
     ]
   },
   {
+    "code": "MI46B",
+    "name": "Melhoramento Animal 2",
+    "turmas": [
+      {
+        "turma": "ZOOSPO",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Fabiana Martins Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MG15FL",
     "name": "Melhoramento Genético De Espécies Florestais",
     "turmas": [
@@ -1235,40 +1263,6 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "4M4(B8-S4)-4M5(B8-S4)",
         "prof": "Samara Ernandes Adamczuk",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CG16BB",
-    "name": "Métodos Cromatográficos",
-    "turmas": [
-      {
-        "turma": "6EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4M4(B8-S3)-4M5(B8-S3)",
-        "prof": "Paula Fernandes Montanher",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ME13BB",
-    "name": "Métodos Espectrofotométricos",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4M3(B6-S4)-4M4(B6-S4)-4M5(B6-S4)",
-        "prof": "Guilherme Garcia Bessegato",
         "opt": "Não"
       }
     ]
@@ -1332,6 +1326,40 @@
         "h": "4M3(B5-S2)-4M4(B5-S2)-4M5(B5-S2)-6T4(LABFISIOLO)-6T5(LABFISIOLO)",
         "prof": "Pedro Valerio Dutra De Moraes",
         "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "CG16BB",
+    "name": "Métodos Cromatográficos",
+    "turmas": [
+      {
+        "turma": "6EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M4(B8-S3)-4M5(B8-S3)",
+        "prof": "Paula Fernandes Montanher",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME13BB",
+    "name": "Métodos Espectrofotométricos",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M3(B6-S4)-4M4(B6-S4)-4M5(B6-S4)",
+        "prof": "Guilherme Garcia Bessegato",
+        "opt": "Não"
       }
     ]
   },
@@ -1545,6 +1573,23 @@
     ]
   },
   {
+    "code": "QO13BB",
+    "name": "Química Orgânica",
+    "turmas": [
+      {
+        "turma": "3EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T2(LABMULT1)-4T3(LABMULT1)-5T2(B6-S5)-5T3(B6-S5)-5T4(B6-S5)",
+        "prof": "Reinaldo Yoshio Morita",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QF13AG",
     "name": "Química E Física Do Solo",
     "turmas": [
@@ -1569,23 +1614,6 @@
         "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
         "prof": "Elisandra Pocojeski, Andre Pellegrini",
         "opt": "Matriz:53"
-      }
-    ]
-  },
-  {
-    "code": "QO13BB",
-    "name": "Química Orgânica",
-    "turmas": [
-      {
-        "turma": "3EB1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  Bioproc. E Biote",
-        "h": "4T2(LABMULT1)-4T3(LABMULT1)-5T2(B6-S5)-5T3(B6-S5)-5T4(B6-S5)",
-        "prof": "Reinaldo Yoshio Morita",
-        "opt": "Não"
       }
     ]
   },
@@ -1698,6 +1726,23 @@
         "prio": "1 - Eng.  Bioproc. E Biote",
         "h": "4M3(B3-S2)-4M3(B3-S2)-4M4(B3-S2)-4M4(B3-S2)-4M5(B3-S2)-4M5(B3-S2)",
         "prof": "Pedro Yahico Ramos Suzaki, Milene Oliveira Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC19I",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "9EB1",
+        "enq": "Presencial",
+        "vt": "100",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Flavia Regina Oliveira De Barros",
         "opt": "Não"
       }
     ]
@@ -1816,23 +1861,6 @@
     ]
   },
   {
-    "code": "TC19I",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "9EB1",
-        "enq": "Presencial",
-        "vt": "100",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Flavia Regina Oliveira De Barros",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TC19BB",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -1863,6 +1891,23 @@
         "h": "4T2(B3-S6)-4T2(B3-S6)-4T3(B3-S6)-4T3(B3-S6)-4T4(B3-S6)-4T4(B3-S6)-4T5(B3-S6)-4T5(B3-S6)",
         "prof": "Elizangela Cavazzini Cesca, Marina Celant De Pra",
         "opt": "Matriz:6, Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "AL12BB",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "2M3(B3-S4)-2M4(B3-S4)-3M1(B8-S3)-3M2(B8-S3)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
       }
     ]
   }

@@ -2,5 +2,13 @@
   {
     "slug": "ciencias-biologicas",
     "label": "Ciências Biológicas"
+  },
+  {
+    "slug": "ciencia-da-computacao",
+    "label": "Ciência Da Computação"
+  },
+  {
+    "slug": "agronomia",
+    "label": "Agronomia"
   }
 ]

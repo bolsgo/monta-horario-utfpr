@@ -360,23 +360,6 @@
     ]
   },
   {
-    "code": "LICOM76A",
-    "name": "Ética E Comunicação",
-    "turmas": [
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Comunic Organizacional",
-        "h": "4N1(CE-106)-4N2(CE-106)-4N3(CE-106)-4N4(CE-106)",
-        "prof": "Claudia Nociolini Rebechi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FCH7FA",
     "name": "Filosofia Da Ciência E Da Tecnologia",
     "turmas": [
@@ -1006,23 +989,6 @@
     ]
   },
   {
-    "code": "LICOM7AL",
-    "name": "Prática De Texto Em Comunicação Organizacional",
-    "turmas": [
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Comunic Organizacional",
-        "h": "6N1(CA-206)-6N2(CA-206)-6N3(CA-206)-6N4(CA-206)",
-        "prof": "",
-        "opt": "Matriz:982"
-      }
-    ]
-  },
-  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -1193,6 +1159,23 @@
         "prio": "1 - Comunic Organizacional",
         "h": "2N1(CA-202)-2N2(CA-202)",
         "prof": "Carolina Fernandes Da Silva Mandaji",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AL",
+    "name": "Prática De Texto Em Comunicação Organizacional",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "6N1(CA-206)-6N2(CA-206)-6N3(CA-206)-6N4(CA-206)",
+        "prof": "",
         "opt": "Matriz:982"
       }
     ]
@@ -1572,36 +1555,19 @@
     ]
   },
   {
-    "code": "LICOM78B",
-    "name": "Tópicos Especiais Em Comunicação",
+    "code": "CE78A",
+    "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
       {
         "turma": "S95",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "50",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Comunic Organizacional",
-        "h": "5N1(CE-305)-5N2(CE-305)-5N3(CE-305)-5N4(CE-305)",
-        "prof": "",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Kalliandra Quevedo Conrad",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICOM7AN",
-    "name": "Tópicos Especiais Em Humanidades",
-    "turmas": [
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Comunic Organizacional",
-        "h": "4T5(CC-002)-4T6(CC-002)",
-        "prof": "Maurini De Souza",
-        "opt": "Matriz:982"
       }
     ]
   },
@@ -1640,18 +1606,52 @@
     ]
   },
   {
-    "code": "CE78A",
-    "name": "Trabalho De Conclusão De Curso 2",
+    "code": "LICOM78B",
+    "name": "Tópicos Especiais Em Comunicação",
     "turmas": [
       {
         "turma": "S95",
         "enq": "Presencial",
-        "vt": "50",
+        "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Kalliandra Quevedo Conrad",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "5N1(CE-305)-5N2(CE-305)-5N3(CE-305)-5N4(CE-305)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICOM7AN",
+    "name": "Tópicos Especiais Em Humanidades",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4T5(CC-002)-4T6(CC-002)",
+        "prof": "Maurini De Souza",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
+    "code": "LICOM76A",
+    "name": "Ética E Comunicação",
+    "turmas": [
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Comunic Organizacional",
+        "h": "4N1(CE-106)-4N2(CE-106)-4N3(CE-106)-4N4(CE-106)",
+        "prof": "Claudia Nociolini Rebechi",
         "opt": "Não"
       }
     ]

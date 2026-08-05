@@ -1098,6 +1098,23 @@
     ]
   },
   {
+    "code": "COC7EA",
+    "name": "Ferrovias",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Civil",
+        "h": "2N2(*EE-102)-2N3(*EE-102)-6N2(*EE-102)-6N3(*EE-102)",
+        "prof": "Matheus David Inocente Domingos",
+        "opt": "Matriz:960"
+      }
+    ]
+  },
+  {
     "code": "FCH7FA",
     "name": "Filosofia Da Ciência E Da Tecnologia",
     "turmas": [
@@ -2282,28 +2299,6 @@
         "opt": "Não"
       },
       {
-        "turma": "S02",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
-        "opt": "Não"
-      },
-      {
-        "turma": "S03",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
-        "opt": "Não"
-      },
-      {
         "turma": "S15",
         "enq": "EaD",
         "vt": "60",
@@ -2769,7 +2764,7 @@
         "res": "Fechada",
         "prio": "1 - Eng Civil",
         "h": "3N2(*EB-301)-3N3(*EB-301)-5N2(*EB-301)-5N3(*EB-301)",
-        "prof": "Adauto Jose Miranda De Lima",
+        "prof": "Adauto Jose Miranda De Lima, Wellington Mazer",
         "opt": "Matriz:867, Matriz:679"
       }
     ]

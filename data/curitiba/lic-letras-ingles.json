@@ -179,74 +179,6 @@
     ]
   },
   {
-    "code": "CL78H",
-    "name": "Estágio Curricular Obrigatório 3",
-    "turmas": [
-      {
-        "turma": "E01",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Andressa Brawerman Albini",
-        "opt": "Matriz:822"
-      }
-    ]
-  },
-  {
-    "code": "LEM78F",
-    "name": "Estágio Curricular Suoervisionado Iii",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "4T3(CA-105)-4T4(CA-105)-4T5(CA-105)-4T6(CA-105)",
-        "prof": "Andressa Brawerman Albini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM76F",
-    "name": "Estágio Curricular Supervisionado I",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "21",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "4T1(CC-204)-4T2(CC-204)-4T3(CC-204)-4T4(CC-204)",
-        "prof": "Rita De Cassia Veiga Marriott",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM77F",
-    "name": "Estágio Curricular Supervisionado Ii",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "5M1(CA-105)-5M2(CA-105)-5M3(CA-105)-5M4(CA-105)",
-        "prof": "Rita De Cassia Veiga Marriott",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LEM76D",
     "name": "Estudo Dos Sentidos",
     "turmas": [
@@ -344,6 +276,74 @@
         "prio": "1 - Lic Letras Inglês",
         "h": "3T3(CC-204)-3T4(CC-204)-3T5(CC-204)",
         "prof": "Cindy Gleyce Santos Luiz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL78H",
+    "name": "Estágio Curricular Obrigatório 3",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Andressa Brawerman Albini",
+        "opt": "Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "LEM78F",
+    "name": "Estágio Curricular Suoervisionado Iii",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "4T3(CA-105)-4T4(CA-105)-4T5(CA-105)-4T6(CA-105)",
+        "prof": "Andressa Brawerman Albini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM76F",
+    "name": "Estágio Curricular Supervisionado I",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "4T1(CC-204)-4T2(CC-204)-4T3(CC-204)-4T4(CC-204)",
+        "prof": "Rita De Cassia Veiga Marriott",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM77F",
+    "name": "Estágio Curricular Supervisionado Ii",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "5M1(CA-105)-5M2(CA-105)-5M3(CA-105)-5M4(CA-105)",
+        "prof": "Rita De Cassia Veiga Marriott",
         "opt": "Não"
       }
     ]
@@ -507,23 +507,6 @@
     ]
   },
   {
-    "code": "LEM7AD",
-    "name": "Gp O Romance De Língua Inglesa Do Romantismo À Contemporaneidade: Teoria",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "6T1(CN-023)-6T2(CN-023)-6T3(CN-023)",
-        "prof": "Dante Luiz De Lima",
-        "opt": "Matriz:963"
-      }
-    ]
-  },
-  {
     "code": "LEM7AK",
     "name": "Gp Português Para Falantes De Outras Línguas",
     "turmas": [
@@ -553,6 +536,23 @@
         "prio": "1 - Lic Letras Inglês",
         "h": "6M1(CC-204)-6M2(CC-204)-6M3(CC-204)",
         "prof": "Flavia Azevedo",
+        "opt": "Matriz:963"
+      }
+    ]
+  },
+  {
+    "code": "LEM7AD",
+    "name": "Gp O Romance De Língua Inglesa Do Romantismo À Contemporaneidade: Teoria",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "6T1(CN-023)-6T2(CN-023)-6T3(CN-023)",
+        "prof": "Dante Luiz De Lima",
         "opt": "Matriz:963"
       }
     ]
@@ -619,6 +619,23 @@
     ]
   },
   {
+    "code": "LEM71D",
+    "name": "Introdução Aos Estudos Da Linguagem",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "4M1(CN-022)-4M2(CN-022)-5M4(CN-022)-5M5(CN-022)",
+        "prof": "Jeniffer Imaregna Alcantara De Albuquerque",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LEM73B",
     "name": "Introdução À Leitura E Escrita Acadêmica Em Língua Inglesa",
     "turmas": [
@@ -665,23 +682,6 @@
         "prio": "1 - Lic Letras Inglês",
         "h": "2T1(CA-105)-2T2(CA-105)",
         "prof": "Silvana Ayub Polchlopek",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM71D",
-    "name": "Introdução Aos Estudos Da Linguagem",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "4M1(CN-022)-4M2(CN-022)-5M4(CN-022)-5M5(CN-022)",
-        "prof": "Jeniffer Imaregna Alcantara De Albuquerque",
         "opt": "Não"
       }
     ]
@@ -894,125 +894,6 @@
     ]
   },
   {
-    "code": "LEM71A",
-    "name": "Língua Inglesa I",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "2M1(CN-017)-2M2(CN-017)-3M1(CN-017)-3M2(CN-017)-3M3(CN-017)-5M1(CN-017)-5M2(CN-017)-5M3(CN-017)",
-        "prof": "Jacqueline Andreucci Lindstron",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM72A",
-    "name": "Língua Inglesa Ii",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "4T3(CN-019)-4T4(CN-019)-4T5(CN-019)-5T4(CN-019)-5T5(CN-019)-5T6(CN-019)-6T1(CN-019)-6T2(CN-019)",
-        "prof": "Juliana Bellini Meireles Sydorak",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM73A",
-    "name": "Língua Inglesa Iii",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "2M5(CC-204)-2M6(CC-204)-3M3(CC-204)-3M4(CC-204)-4M3(CC-204)-4M4(CC-204)",
-        "prof": "Ana Paula Petriu Ferreira Engelbert",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM74A",
-    "name": "Língua Inglesa Iv",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "3T4(CN-019)-3T5(CN-019)-6T4(CN-023)-6T5(CN-023)",
-        "prof": "Dante Luiz De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM75A",
-    "name": "Língua Inglesa V",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "2M5(CN-023)-2M6(CN-023)-5M2(CN-023)-5M3(CN-023)",
-        "prof": "Jose Orlando Cardoso Do Monte Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM76A",
-    "name": "Língua Inglesa Vi",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "2T3(CN-023)-2T4(CN-023)-5T5(CN-023)-5T6(CN-023)",
-        "prof": "Jose Orlando Cardoso Do Monte Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LEM77A",
-    "name": "Língua Inglesa Vii",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "4M1(CN-017)-4M2(CN-017)-5M5(CA-105)-5M6(CA-105)",
-        "prof": "Fabiana Vanessa Achy De Almeida",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LEM7EA",
     "name": "Linguagem E Psicanálise",
     "turmas": [
@@ -1138,6 +1019,125 @@
         "prio": "1 - Lic Letras Inglês",
         "h": "3M1(CN-023)-3M2(CN-023)-4M3(CN-023)-4M4(CN-023)",
         "prof": "Marcia Regina Becker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM72A",
+    "name": "Língua Inglesa Ii",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "4T3(CN-019)-4T4(CN-019)-4T5(CN-019)-5T4(CN-019)-5T5(CN-019)-5T6(CN-019)-6T1(CN-019)-6T2(CN-019)",
+        "prof": "Juliana Bellini Meireles Sydorak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM73A",
+    "name": "Língua Inglesa Iii",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "2M5(CC-204)-2M6(CC-204)-3M3(CC-204)-3M4(CC-204)-4M3(CC-204)-4M4(CC-204)",
+        "prof": "Ana Paula Petriu Ferreira Engelbert",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM74A",
+    "name": "Língua Inglesa Iv",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "3T4(CN-019)-3T5(CN-019)-6T4(CN-023)-6T5(CN-023)",
+        "prof": "Dante Luiz De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM75A",
+    "name": "Língua Inglesa V",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "2M5(CN-023)-2M6(CN-023)-5M2(CN-023)-5M3(CN-023)",
+        "prof": "Jose Orlando Cardoso Do Monte Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM76A",
+    "name": "Língua Inglesa Vi",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "2T3(CN-023)-2T4(CN-023)-5T5(CN-023)-5T6(CN-023)",
+        "prof": "Jose Orlando Cardoso Do Monte Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM77A",
+    "name": "Língua Inglesa Vii",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "4M1(CN-017)-4M2(CN-017)-5M5(CA-105)-5M6(CA-105)",
+        "prof": "Fabiana Vanessa Achy De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM71A",
+    "name": "Língua Inglesa I",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "51",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "2M1(CN-017)-2M2(CN-017)-3M1(CN-017)-3M2(CN-017)-3M3(CN-017)-5M1(CN-017)-5M2(CN-017)-5M3(CN-017)",
+        "prof": "Jacqueline Andreucci Lindstron",
         "opt": "Não"
       }
     ]
@@ -1434,23 +1434,6 @@
     ]
   },
   {
-    "code": "LEM7EI",
-    "name": "Tópicos Em Gêneros Literários",
-    "turmas": [
-      {
-        "turma": "S85",
-        "enq": "Presencial",
-        "vt": "31",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Inglês",
-        "h": "2T5(CN-017)-2T6(CN-017)",
-        "prof": "Jaqueline Bohn Donada",
-        "opt": "Matriz:963"
-      }
-    ]
-  },
-  {
     "code": "CL78J",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -1475,6 +1458,23 @@
         "h": "",
         "prof": "Silvana Ayub Polchlopek",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LEM7EI",
+    "name": "Tópicos Em Gêneros Literários",
+    "turmas": [
+      {
+        "turma": "S85",
+        "enq": "Presencial",
+        "vt": "31",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Inglês",
+        "h": "2T5(CN-017)-2T6(CN-017)",
+        "prof": "Jaqueline Bohn Donada",
+        "opt": "Matriz:963"
       }
     ]
   }

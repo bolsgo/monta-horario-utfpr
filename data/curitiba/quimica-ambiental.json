@@ -34,23 +34,6 @@
     ]
   },
   {
-    "code": "QBI79F",
-    "name": "Áreas Contaminadas",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química Ambiental",
-        "h": "2N3(*EB-202)-2N4(*EB-202)",
-        "prof": "Renata Ruaro",
-        "opt": "Matriz:972"
-      }
-    ]
-  },
-  {
     "code": "QBI79G",
     "name": "Auditorias Ambientais",
     "turmas": [
@@ -307,6 +290,242 @@
         "h": "4N3(*EB-210)-4N4(*EB-210)",
         "prof": "Tamara Simone Van Kaick",
         "opt": "Matriz:995, Matriz:983"
+      }
+    ]
+  },
+  {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7A1",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Civil, 2 - Química Ambiental, 3 - Arquitet E Urbanismo, 3 - Eng Mecânica",
+        "h": "3T1(*EB-301)-3T2(*EB-301)-3T3(*EB-301)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química, 1 - Química Ambiental, 2 - Arquitet E Urbanismo, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4T1(*EB-201)-4T2(*EB-201)-4T3(*EB-201)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E3",
+    "name": "Fundamentos De Economia",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
+        "h": "3T4(CE-206)-3T5(CE-206)",
+        "prof": "Andrea De Souza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "QBI78A",
+    "name": "Fundamentos De Ecotoxicologia",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química Ambiental",
+        "h": "4N1(*EB-202)-4N2(*EB-202)-4N3(*EB-202)-4N4(*EB-202)",
+        "prof": "Wanessa Algarte Ramsdorf Nagata",
+        "opt": "Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "GEE7F1",
+    "name": "Fundamentos De Finanças",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G3",
+    "name": "Fundamentos De Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "N21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Tecn Automação Ind",
+        "h": "4N1(CE-104)-4N2(CE-104)-4N3(CE-104)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:976, Matriz:968, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G1",
+    "name": "Fundamentos De Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "QBI75K",
+    "name": "Fundamentos De Medidas E Análise De Erros",
+    "turmas": [
+      {
+        "turma": "S61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química, 2 - Química Ambiental",
+        "h": "5T1(*EC-204)-5T2(*EC-204)",
+        "prof": "Joao Batista Floriano",
+        "opt": "Matriz:948"
       }
     ]
   },
@@ -670,23 +889,6 @@
     ]
   },
   {
-    "code": "QBI76E",
-    "name": "Físico-Química Aplicada",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Química, 1 - Química Ambiental",
-        "h": "6N3(*EC-022)-6N4(*EC-022)-6N5(*EC-022)",
-        "prof": "Luiz Marcos De Lira Faria",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QBI74E",
     "name": "Físico-Química 1",
     "turmas": [
@@ -721,238 +923,19 @@
     ]
   },
   {
-    "code": "FCH7FB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "S31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design, 1 - Química Ambiental",
-        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
-        "prof": "Marcio Luiz Miotto",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S32",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design",
-        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
-        "prof": "Andrea Maila Voss",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "GEE7A1",
-    "name": "Fundamentos De Administração",
-    "turmas": [
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Civil, 2 - Química Ambiental, 3 - Arquitet E Urbanismo, 3 - Eng Mecânica",
-        "h": "3T1(*EB-301)-3T2(*EB-301)-3T3(*EB-301)",
-        "prof": "Paula Caldas Brognoli",
-        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
-      },
-      {
-        "turma": "S61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química, 1 - Química Ambiental, 2 - Arquitet E Urbanismo, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4T1(*EB-201)-4T2(*EB-201)-4T3(*EB-201)",
-        "prof": "Paula Caldas Brognoli",
-        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E3",
-    "name": "Fundamentos De Economia",
-    "turmas": [
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
-        "h": "3T4(CE-206)-3T5(CE-206)",
-        "prof": "Andrea De Souza",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "QBI78A",
-    "name": "Fundamentos De Ecotoxicologia",
+    "code": "QBI76E",
+    "name": "Físico-Química Aplicada",
     "turmas": [
       {
         "turma": "S67",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "15",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Química Ambiental",
-        "h": "4N1(*EB-202)-4N2(*EB-202)-4N3(*EB-202)-4N4(*EB-202)",
-        "prof": "Wanessa Algarte Ramsdorf Nagata",
-        "opt": "Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E1",
-    "name": "Fundamentos De Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
-        "h": "4N2(CE-204)-4N3(CE-204)",
-        "prof": "Paulo Apelles Camboim De Oliveira",
-        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
-      }
-    ]
-  },
-  {
-    "code": "GEE7F1",
-    "name": "Fundamentos De Finanças",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
-        "prof": "Armando Rasoto",
-        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7G3",
-    "name": "Fundamentos De Gestão Da Produção",
-    "turmas": [
-      {
-        "turma": "N21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Tecn Automação Ind",
-        "h": "4N1(CE-104)-4N2(CE-104)-4N3(CE-104)",
-        "prof": "Paula Caldas Brognoli",
-        "opt": "Matriz:957, Matriz:976, Matriz:968, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7G1",
-    "name": "Fundamentos De Gestão De Pessoas",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Administração",
-        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
-        "prof": "Rejane Cioli",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7M1",
-    "name": "Fundamentos De Marketing",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Comunic Organizacional",
-        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "QBI75K",
-    "name": "Fundamentos De Medidas E Análise De Erros",
-    "turmas": [
-      {
-        "turma": "S61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química, 2 - Química Ambiental",
-        "h": "5T1(*EC-204)-5T2(*EC-204)",
-        "prof": "Joao Batista Floriano",
-        "opt": "Matriz:948"
+        "prio": "1 - Lic Química, 1 - Química Ambiental",
+        "h": "6N3(*EC-022)-6N4(*EC-022)-6N5(*EC-022)",
+        "prof": "Luiz Marcos De Lira Faria",
+        "opt": "Não"
       }
     ]
   },
@@ -1120,6 +1103,23 @@
     ]
   },
   {
+    "code": "QBI71B",
+    "name": "Introdução Aos Estudos De Química",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Química Ambiental",
+        "h": "3N3(*EC-205)-3N4(*EC-205)-4N1(*EC-205)-4N2(*EC-205)-5N3(*EC-205)-5N4(*EC-205)-6N1(*EC-205)-6N2(*EC-205)",
+        "prof": "Dayane Mey Reis, Paula Cristina Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QBI75D",
     "name": "Introdução À  Análise Orgânica",
     "turmas": [
@@ -1160,28 +1160,6 @@
         "prio": "",
         "h": "",
         "prof": "Mauricio Koubay Do Amaral",
-        "opt": "Não"
-      },
-      {
-        "turma": "S02",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
-        "opt": "Não"
-      },
-      {
-        "turma": "S03",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Angelica Maria Tortola Ribeiro",
         "opt": "Não"
       },
       {
@@ -1365,23 +1343,6 @@
         "prio": "1 - Química, 1 - Lic Química, 2 - Química Ambiental",
         "h": "4T4(*EC-204)-4T5(*EC-204)-6T5(*EC-204)-6T6(*EC-204)",
         "prof": "Joao Batista Floriano",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QBI71B",
-    "name": "Introdução Aos Estudos De Química",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Química Ambiental",
-        "h": "3N3(*EC-205)-3N4(*EC-205)-4N1(*EC-205)-4N2(*EC-205)-5N3(*EC-205)-5N4(*EC-205)-6N1(*EC-205)-6N2(*EC-205)",
-        "prof": "Dayane Mey Reis, Paula Cristina Rodrigues",
         "opt": "Não"
       }
     ]
@@ -1640,23 +1601,6 @@
     ]
   },
   {
-    "code": "QBIS76D",
-    "name": "Microbiologia Ambiental",
-    "turmas": [
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Química Ambiental",
-        "h": "2M4(*EB-203)-2M5(*EB-203)-3M4(*EB-203)-3M5(*EB-203)",
-        "prof": "Gustavo Henrique Couto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QBI76F",
     "name": "Microbiologia Ambiental",
     "turmas": [
@@ -1668,6 +1612,23 @@
         "res": "Fechada",
         "prio": "1 - Química Ambiental, 2 - Eng Amb/Sanitária",
         "h": "3N3(*EC-204)-3N4(*EC-204)-6N1(*EC-204)-6N2(*EC-204)",
+        "prof": "Gustavo Henrique Couto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QBIS76D",
+    "name": "Microbiologia Ambiental",
+    "turmas": [
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Amb/Sanitária, 2 - Química Ambiental",
+        "h": "2M4(*EB-203)-2M5(*EB-203)-3M4(*EB-203)-3M5(*EB-203)",
         "prof": "Gustavo Henrique Couto",
         "opt": "Não"
       }
@@ -1755,23 +1716,6 @@
         "h": "5T1(*EC-108)-5T2(*EC-108)",
         "prof": "Renata Danielle Adati",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QBI7CD",
-    "name": "Práticas Extensionistas Em Biologia E Áreas Afins 1",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química, 1 - Química Ambiental",
-        "h": "3N1(*EC-206)-3N2(*EC-206)-3N3(*EC-206)-3N4(*EC-206)",
-        "prof": "Adriane Martins De Freitas",
-        "opt": "Matriz:972, Matriz:948"
       }
     ]
   },
@@ -1877,6 +1821,23 @@
         "h": "6T4(CE-303)-6T5(CE-303)",
         "prof": "Maria Luisa Carvalho",
         "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "QBI7CD",
+    "name": "Práticas Extensionistas Em Biologia E Áreas Afins 1",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química, 1 - Química Ambiental",
+        "h": "3N1(*EC-206)-3N2(*EC-206)-3N3(*EC-206)-3N4(*EC-206)",
+        "prof": "Adriane Martins De Freitas",
+        "opt": "Matriz:972, Matriz:948"
       }
     ]
   },
@@ -1988,23 +1949,6 @@
     ]
   },
   {
-    "code": "QBI72E",
-    "name": "Química Inorgânica Aplicada",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química Ambiental, 2 - Química",
-        "h": "4N3(*EC-205)-4N4(*EC-205)-5N1(*EB-310)-5N2(*EB-310)",
-        "prof": "Dayane Mey Reis",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QBI72A",
     "name": "Química Inorgânica 1",
     "turmas": [
@@ -2017,6 +1961,23 @@
         "prio": "1 - Química, 1 - Lic Química, 2 - Química Ambiental",
         "h": "5T4(*EB-202)-5T5(*EB-202)-6T2(*EC-204)-6T3(*EC-204)",
         "prof": "Renata Danielle Adati",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QBI72E",
+    "name": "Química Inorgânica Aplicada",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química Ambiental, 2 - Química",
+        "h": "4N3(*EC-205)-4N4(*EC-205)-5N1(*EB-310)-5N2(*EB-310)",
+        "prof": "Dayane Mey Reis",
         "opt": "Não"
       }
     ]
@@ -2241,6 +2202,57 @@
     ]
   },
   {
+    "code": "COCS73B",
+    "name": "Topografia",
+    "turmas": [
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Amb/Sanitária, 2 - Química Ambiental",
+        "h": "3M2(*EA-108)-3M3(*EA-108)-5T1(*EA-108)-5T2(*EA-108)",
+        "prof": "Valter Antonio Ruy",
+        "opt": "Matriz:948"
+      }
+    ]
+  },
+  {
+    "code": "QBI78D",
+    "name": "Tratamento De Águas De Abastecimento",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química Ambiental",
+        "h": "2T6(*EC-205)-3N3(*EB-302)-3N4(*EB-302)-3N5(*EB-302)",
+        "prof": "Lucila Adriani De Almeida Coral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QBI79D",
+    "name": "Tratamento De Águas Residuárias",
+    "turmas": [
+      {
+        "turma": "S67",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química Ambiental",
+        "h": "3N3(*EB-202)-3N4(*EB-202)-5N1(*EB-308)-5N2(*EB-308)",
+        "prof": "Fernando Hermes Passig",
+        "opt": "Matriz:972"
+      }
+    ]
+  },
+  {
     "code": "MAT7T1",
     "name": "Tópicos Matemáticos 1",
     "turmas": [
@@ -2314,52 +2326,18 @@
     ]
   },
   {
-    "code": "COCS73B",
-    "name": "Topografia",
-    "turmas": [
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Química Ambiental",
-        "h": "3M2(*EA-108)-3M3(*EA-108)-5T1(*EA-108)-5T2(*EA-108)",
-        "prof": "Valter Antonio Ruy",
-        "opt": "Matriz:948"
-      }
-    ]
-  },
-  {
-    "code": "QBI78D",
-    "name": "Tratamento De Águas De Abastecimento",
+    "code": "QBI79F",
+    "name": "Áreas Contaminadas",
     "turmas": [
       {
         "turma": "S67",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Química Ambiental",
-        "h": "2T6(*EC-205)-3N3(*EB-302)-3N4(*EB-302)-3N5(*EB-302)",
-        "prof": "Lucila Adriani De Almeida Coral",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QBI79D",
-    "name": "Tratamento De Águas Residuárias",
-    "turmas": [
-      {
-        "turma": "S67",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química Ambiental",
-        "h": "3N3(*EB-202)-3N4(*EB-202)-5N1(*EB-308)-5N2(*EB-308)",
-        "prof": "Fernando Hermes Passig",
+        "h": "2N3(*EB-202)-2N4(*EB-202)",
+        "prof": "Renata Ruaro",
         "opt": "Matriz:972"
       }
     ]

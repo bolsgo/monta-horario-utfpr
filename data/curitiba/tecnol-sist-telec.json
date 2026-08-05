@@ -84,23 +84,6 @@
     ]
   },
   {
-    "code": "ELN82A",
-    "name": "Cálculo Para Telecomunicações",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "",
-        "prof": "Humberto Remigio Gamba",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FCH7HC",
     "name": "Capitalismo Contemporâneo E Economia Política",
     "turmas": [
@@ -264,6 +247,23 @@
         "prio": "1 - Tecnol. Sist. Telec.",
         "h": "4N1(CQ-210)-4N1(CQ-210)-4N2(CQ-210)-4N2(CQ-210)",
         "prof": "Jamil De Araujo Farhat, Alexandre Jorge Miziara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELN82A",
+    "name": "Cálculo Para Telecomunicações",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "",
+        "prof": "Humberto Remigio Gamba",
         "opt": "Não"
       }
     ]
@@ -1184,96 +1184,6 @@
     ]
   },
   {
-    "code": "CAART04",
-    "name": "Prática Artística Musical: Grupos Instrumentais 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "CAART02",
-    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T4(CT-016)-3T5(CT-016)-5T4(CT-016)-5T5(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "CAART03",
-    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 2",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T2(CT-016)-2T3(CT-016)-4T2(CT-016)-4T3(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "MAT7PC",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "2N4(CQ-309)-2N5(CQ-309)-5N4(CQ-304)-5N5(CQ-304)",
-        "prof": "Ubirajara Zoccoli",
-        "opt": "Matriz:985"
-      },
-      {
-        "turma": "N12",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
-        "h": "2N1(CQ-309)-2N2(CQ-309)-5N4(CQ-305)-5N5(CQ-305)",
-        "prof": "Kleber Kendy Horikawa Nabas",
-        "opt": "Matriz:985"
-      },
-      {
-        "turma": "S16",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
-        "h": "2T5(CE-105)-2T6(CE-105)-4T5(CE-106)-4T6(CE-106)",
-        "prof": "Jamea Cristina Batista Silva Franklin",
-        "opt": "Matriz:985"
-      }
-    ]
-  },
-  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -1360,6 +1270,96 @@
         "h": "",
         "prof": "Marcos Talau",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CAART04",
+    "name": "Prática Artística Musical: Grupos Instrumentais 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "CAART02",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CT-016)-3T5(CT-016)-5T4(CT-016)-5T5(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "CAART03",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 2",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CT-016)-2T3(CT-016)-4T2(CT-016)-4T3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "MAT7PC",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "2N4(CQ-309)-2N5(CQ-309)-5N4(CQ-304)-5N5(CQ-304)",
+        "prof": "Ubirajara Zoccoli",
+        "opt": "Matriz:985"
+      },
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
+        "h": "2N1(CQ-309)-2N2(CQ-309)-5N4(CQ-305)-5N5(CQ-305)",
+        "prof": "Kleber Kendy Horikawa Nabas",
+        "opt": "Matriz:985"
+      },
+      {
+        "turma": "S16",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
+        "h": "2T5(CE-105)-2T6(CE-105)-4T5(CE-106)-4T6(CE-106)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:985"
       }
     ]
   },
@@ -1542,6 +1542,23 @@
     ]
   },
   {
+    "code": "ELE14",
+    "name": "Redes 2",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "5N1(CQ-204)-5N2(CQ-204)-5N3(CQ-204)",
+        "prof": "Kleber Kendy Horikawa Nabas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ELN82C",
     "name": "Redes Convergentes E Redes Legadas",
     "turmas": [
@@ -1588,23 +1605,6 @@
         "prio": "1 - Tecnol. Sist. Telec.",
         "h": "4N3(CQ-210)-4N4(CQ-210)-4N5(CQ-210)",
         "prof": "Jamil De Araujo Farhat",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELE14",
-    "name": "Redes 2",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "5N1(CQ-204)-5N2(CQ-204)-5N3(CQ-204)",
-        "prof": "Kleber Kendy Horikawa Nabas",
         "opt": "Não"
       }
     ]
@@ -1668,34 +1668,6 @@
         "h": "2N1(CQ-205)-2N2(CQ-205)",
         "prof": "Marcos Eduardo Pivaro Monteiro",
         "opt": "Matriz:973, Matriz:957"
-      }
-    ]
-  },
-  {
-    "code": "ICSE20",
-    "name": "Técnicas De Programação",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "3N1(CB-301)-3N2(CB-301)-5N1(CB-301)-5N2(CB-301)",
-        "prof": "Ionildo Jose Sanches",
-        "opt": "Matriz:968"
-      },
-      {
-        "turma": "S02",
-        "enq": "EaD",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
-        "h": "4M2(D-PTO)-4M3(D-PTO)-4M4(D-PTO)-4M5(D-PTO)",
-        "prof": "Milton Borsato",
-        "opt": "Matriz:968"
       }
     ]
   },
@@ -1830,6 +1802,34 @@
         "h": "3N3(CQ-304)-3N4(CQ-304)-3N5(CQ-304)",
         "prof": "Francisco Muller Machado",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ICSE20",
+    "name": "Técnicas De Programação",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "3N1(CB-301)-3N2(CB-301)-5N1(CB-301)-5N2(CB-301)",
+        "prof": "Ionildo Jose Sanches",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S02",
+        "enq": "EaD",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "4M2(D-PTO)-4M3(D-PTO)-4M4(D-PTO)-4M5(D-PTO)",
+        "prof": "Milton Borsato",
+        "opt": "Matriz:968"
       }
     ]
   },

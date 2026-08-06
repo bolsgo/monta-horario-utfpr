@@ -190,13 +190,18 @@ function subjectColor(code, contextCodes) {
         this.save();
       },
       // Remove entradas cujo código/turma não existam mais no dataset e
-      // atualiza slots/cor das válidas. Não entra no undo/redo.
+      // atualiza TODOS os dados da turma (professor, horário, vagas etc.)
+      // a partir do JSON recém-carregado — não só slots/cor. Assim, se o
+      // .json for atualizado (ex: professor trocado numa mesma turma), o
+      // app reflete a mudança já no próximo carregamento, sem exigir que
+      // o usuário desselecione/reselecione manualmente. A escolha do
+      // usuário (qual matéria/turma ele quer) é preservada; só os
+      // metadados da turma são atualizados. Não entra no undo/redo.
       pruneAndRefresh(resolve) {
         Object.keys(selected).forEach(code => {
           const result = resolve(code, selected[code]);
           if (!result) { delete selected[code]; return; }
-          selected[code].slots = result.slots;
-          selected[code].color = result.color;
+          selected[code] = Object.assign({}, selected[code], result);
         });
       },
 
@@ -1321,7 +1326,14 @@ function subjectColor(code, contextCodes) {
       if (!sub) return null;
       const t = sub.turmas.find(x => x.turma === sel.turma);
       if (!t) return null;
-      return { slots: parseHorario(t.h), color: subjectColor(code) };
+      // Reconstrói a entrada com os dados atuais da turma (mesmo formato
+      // usado em selectTurma), garantindo que professor/horário/vagas
+      // fiquem sempre sincronizados com o .json mais recente.
+      return {
+        name: sub.name, prof: t.prof, h: t.h,
+        slots: parseHorario(t.h), color: subjectColor(code),
+        enq: t.enq, vt: t.vt, vc: t.vc, res: t.res, prio: t.prio, opt: t.opt
+      };
     });
   }
 

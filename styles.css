@@ -380,6 +380,11 @@
      das estatísticas, alinhados à esquerda. */
   .stats-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px;}
   .stats-row .stats{margin-bottom:0;flex:1;min-width:0;}
+  /* Modo horizontal: estatísticas em uma linha só (font-size ajustado via fitStatsLine em app.js). */
+  @media(min-width:981px) and (orientation:landscape){
+    .stats-row .stats{flex-wrap:nowrap;overflow:hidden;}
+    .stats-row .stats>div{white-space:nowrap;flex-shrink:0;}
+  }
   .template-bar{display:flex;gap:6px;flex-shrink:0;padding-top:6px;}
   .template-btn{width:34px;height:34px;padding:0;border-radius:4px;
     background:var(--panel2);color:var(--text);border:1px solid var(--border);

@@ -864,6 +864,7 @@ function subjectColor(code, contextCodes) {
       <div class="stat-with-icon"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><polyline points="12 7 12 12 15.5 14"></polyline></svg><b>${totalHoras}</b> horas semanais</div>
       <div>${conflicts.size > 0 ? `<b style="color:var(--danger)">${conflicts.size}</b> em conflito` : `<b style="color:var(--ok)">Sem conflitos</b>`}</div>
     `;
+    fitStatsLine();
 
     if (conflicts.size > 0) {
       const names = [...conflicts].map(c => selected[c] ? esc(selected[c].code) + " (" + esc(selected[c].name) + ")" : esc(c));
@@ -871,6 +872,20 @@ function subjectColor(code, contextCodes) {
       conflictBanner.classList.add("show");
     } else {
       conflictBanner.classList.remove("show");
+    }
+  }
+
+  // Encolhe o font-size do #statsBar até caber em uma linha (modo horizontal).
+  function fitStatsLine() {
+    const statsBar = document.getElementById("statsBar");
+    if (!statsBar) return;
+    statsBar.style.fontSize = "";
+    if (mqMiniGridActive.matches) return;
+    const baseSize = parseFloat(getComputedStyle(statsBar).fontSize);
+    if (statsBar.clientWidth > 0 && statsBar.scrollWidth > statsBar.clientWidth) {
+      const ratio = statsBar.clientWidth / statsBar.scrollWidth;
+      const newSize = Math.max(9, baseSize * ratio * 0.96);
+      statsBar.style.fontSize = newSize + "px";
     }
   }
 
@@ -891,12 +906,58 @@ function subjectColor(code, contextCodes) {
     if (rbtn) rbtn.disabled = !State.canRedo();
   }
 
+  // Media query que espelha a regra CSS que torna .mini-grid visível
+  // (ver styles.css). matches===false = display:none (desktop/paisagem).
+  const mqMiniGridActive = window.matchMedia("(max-width:980px), (orientation:portrait)");
+  // Ao entrar na faixa onde o mini-grid é exibido (resize/rotação), força
+  // um render — renderMiniGrid() pulou o rebuild enquanto fora dela.
+  mqMiniGridActive.addEventListener("change", () => {
+    if (mqMiniGridActive.matches) renderMiniGrid();
+    fitStatsLine();
+  });
+
+  // Reajusta o font-size das estatísticas ao redimensionar a janela.
+  let statsResizeTimer = null;
+  window.addEventListener("resize", () => {
+    clearTimeout(statsResizeTimer);
+    statsResizeTimer = setTimeout(fitStatsLine, 100);
+  });
+
+  // Células do mini-grid, criadas uma única vez (AULAS/DAYS vêm de
+  // config.js e são fixos para todo o app — não mudam ao trocar de
+  // curso/sede). Map "dia-aula" -> elemento, reaproveitado em todo render.
+  let miniCellEls = null;
+  function buildMiniGridCells(miniGrid) {
+    const frag = document.createDocumentFragment();
+    miniCellEls = new Map();
+    AULAS.forEach(a => {
+      DAYS.forEach(d => {
+        const div = document.createElement("div");
+        div.dataset.day = d.n;
+        div.dataset.aula = a.code;
+        frag.appendChild(div);
+        miniCellEls.set(d.n + "-" + a.code, div);
+      });
+    });
+    miniGrid.style.gridTemplateColumns = `repeat(${DAYS.length}, 1fr)`;
+    miniGrid.style.gridTemplateRows = `repeat(${AULAS.length}, 1fr)`;
+    miniGrid.innerHTML = "";
+    miniGrid.appendChild(frag);
+  }
+
   // Mini-prévia da grade (celular): espelha a grade real em miniatura —
   // verde onde há disciplina alocada, vermelho em conflito. A última
   // matéria escolhida aparece em azul (ou vermelho, se tiver conflito).
   function renderMiniGrid(occ) {
     const miniGrid = document.getElementById("miniGrid");
     if (!miniGrid) return;
+    // Pula o render caro quando o mini-grid não está visível: display:none
+    // no desktop (mqMiniGridActive.matches é false) ou escondido por scroll
+    // no mobile (.mini-hidden, que só usa opacity/transform, então o
+    // elemento continua no layout). Ambas as checagens são leituras
+    // baratas (matchMedia/classList), sem reflow.
+    if (!mqMiniGridActive.matches || miniGrid.classList.contains("mini-hidden")) return;
+    if (!miniCellEls) buildMiniGridCells(miniGrid);
     occ = occ || computeOccupancy();
     const lastCode = State.getLastSelected();
     const conflictCodes = computeConflictCodes(occ);
@@ -909,10 +970,14 @@ function subjectColor(code, contextCodes) {
         previewMap[s.day + "-" + s.code] = previewSlots.conflict ? "mini-preview-conflict" : "mini-preview-ok";
       });
     }
-    let html = "";
+    // Em vez de reconstruir o innerHTML inteiro a cada hover, só atualiza a
+    // classe de cada célula já existente (e só escreve no DOM quando a
+    // classe realmente muda) — bem mais barato que recriar ~AULAS×DAYS
+    // elementos toda vez.
     AULAS.forEach(a => {
       DAYS.forEach(d => {
-        const occupants = occ[d.n + "-" + a.code] || [];
+        const key = d.n + "-" + a.code;
+        const occupants = occ[key] || [];
         let cls = "mini-cell";
         if (occupants.length > 1) {
           cls += " mini-conflict";
@@ -924,14 +989,12 @@ function subjectColor(code, contextCodes) {
             cls += " mini-filled";
           }
         }
-        const previewCls = previewMap[d.n + "-" + a.code];
+        const previewCls = previewMap[key];
         if (previewCls) cls += " " + previewCls;
-        html += `<div class="${cls}" data-day="${d.n}" data-aula="${a.code}"></div>`;
+        const el = miniCellEls.get(key);
+        if (el && el.className !== cls) el.className = cls;
       });
     });
-    miniGrid.style.gridTemplateColumns = `repeat(${DAYS.length}, 1fr)`;
-    miniGrid.style.gridTemplateRows = `repeat(${AULAS.length}, 1fr)`;
-    miniGrid.innerHTML = html;
   }
 
   function renderAll() {
@@ -1044,7 +1107,7 @@ function subjectColor(code, contextCodes) {
     const isTyping = tag === "input" || tag === "textarea" || e.target.isContentEditable;
     const key = e.key.toLowerCase();
 
-    // "/" foca a busca, só quando não já digitando
+    // "/" foca a busca (padrão tipo GitHub), só quando não já digitando
     if (!isTyping && key === "/") {
       e.preventDefault();
       searchBox.focus();
@@ -1115,7 +1178,8 @@ function subjectColor(code, contextCodes) {
   }
 
   // Tema (claro/escuro/sistema): valor salvo já aplicado por script
-
+  // inline no <head> do index.html, para evitar "flash" de tela clara.
+  // Aqui só cuidamos da interação com os botões e do tema do SO.
   const THEME_KEY = "utfpr_theme";
   const mqDark = window.matchMedia("(prefers-color-scheme: dark)");
 
@@ -1194,8 +1258,14 @@ function subjectColor(code, contextCodes) {
     const MINI_GRID_REVEAL_PX = isTabletPortrait ? Math.round(window.innerHeight * 0.55) : 120;
     let gridVisible = false;
     let pastGrid = false;
+    let wasHidden = false;
     const applyVisibility = () => {
-      miniGrid.classList.toggle("mini-hidden", gridVisible || pastGrid);
+      const hidden = gridVisible || pastGrid;
+      miniGrid.classList.toggle("mini-hidden", hidden);
+      // renderMiniGrid() pula o rebuild enquanto escondido (ver função) —
+      // ao reaparecer, força um render pra não mostrar conteúdo velho.
+      if (wasHidden && !hidden) renderMiniGrid();
+      wasHidden = hidden;
     };
     if (gridWrap && "IntersectionObserver" in window) {
       const io = new IntersectionObserver((entries) => {

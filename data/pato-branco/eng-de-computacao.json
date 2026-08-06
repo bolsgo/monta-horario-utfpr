@@ -1722,6 +1722,23 @@
     ]
   },
   {
+    "code": "IC47CP",
+    "name": "Internet Das Coisas: Arquiteturas E Desenvolvimento De Aplicações",
+    "turmas": [
+      {
+        "turma": "7CP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "5N1(V006)-5N2(V006)-5N3(V006)-5N4(V006)",
+        "prof": "Fabio Favarim",
+        "opt": "Matriz:640"
+      }
+    ]
+  },
+  {
     "code": "IE41CP",
     "name": "Introdução À Engenharia De Computação",
     "turmas": [
@@ -2100,6 +2117,23 @@
         "h": "2T1(V104)-2T2(V104)-2T3(V104)",
         "prof": "",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OC47CP",
+    "name": "Oficina De Projetos Em Ciência De Dados E Inteligência Artificial",
+    "turmas": [
+      {
+        "turma": "7CP",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "6N1(V109)-6N2(V109)-6N3(V109)-6N4(V109)-6N5(V109)",
+        "prof": "Luiz Fernando Puttow Southier",
+        "opt": "Matriz:640"
       }
     ]
   },

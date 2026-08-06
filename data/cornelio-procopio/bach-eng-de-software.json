@@ -123,7 +123,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "3N4(P102)-3N5(P102)-5N2(P102)-5N3(P102)",
+        "h": "3N4(P102)-3N5(P102)-5N4(P102)-5N5(P102)",
         "prof": "Adriano Rivolli Da Silva",
         "opt": "Não"
       }
@@ -140,7 +140,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "3N2(P005)-3N3(P005)-5N4(P005)-5N5(P005)",
+        "h": "3N2(P005)-3N3(P005)-5N2(P005)-5N3(P005)",
         "prof": "Adriano Rivolli Da Silva",
         "opt": "Não"
       }
@@ -740,8 +740,8 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "2N2(P004)-2N3(P004)",
-        "prof": "Camila Dias De Oliveira Sestito",
+        "h": "5N4(P004)-5N5(P004)",
+        "prof": "Camila Dias De Oliveira Sestito, Anderson Paulo Avila Santos",
         "opt": "Não"
       }
     ]
@@ -758,7 +758,7 @@
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
         "h": "5N2(P005)-5N3(P005)",
-        "prof": "Camila Dias De Oliveira Sestito",
+        "prof": "Camila Dias De Oliveira Sestito, Anderson Paulo Avila Santos",
         "opt": "Não"
       }
     ]
@@ -876,7 +876,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "5N2(P004)-5N3(P004)-6N4(P004)-6N5(P004)",
+        "h": "5N4(P004)-5N5(P004)-6N4(P004)-6N5(P004)",
         "prof": "Juliana Ferri",
         "opt": "Não"
       }
@@ -1250,7 +1250,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "3N4(P105)-3N5(P105)-4N2(P105)-4N3(P105)-5N4(P105)-5N5(P105)",
+        "h": "2N2(P105)-2N3(P105)-3N4(P105)-3N5(P105)-4N2(P105)-4N3(P105)",
         "prof": "Jose Antonio Goncalves",
         "opt": "Não"
       }
@@ -1284,7 +1284,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "3N2(I205)-3N3(I205)-5N2(I205)-5N3(I205)",
+        "h": "2N4(I205)-2N5(I205)-3N2(I205)-3N3(I205)",
         "prof": "Jose Antonio Goncalves",
         "opt": "Não"
       }
@@ -1369,7 +1369,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "5N2(A040)-5N3(A040)-6N4(A040)-6N5(A040)",
+        "h": "5N4(A040)-5N5(A040)-6N4(A040)-6N5(A040)",
         "prof": "",
         "opt": "Não"
       }
@@ -1437,7 +1437,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "4N2(P102)-4N3(P102)-5N4(P102)-5N5(P102)",
+        "h": "4N2(P102)-4N3(P102)-5N2(P102)-5N3(P102)",
         "prof": "",
         "opt": "Não"
       }
@@ -1574,7 +1574,7 @@
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
         "h": "2N4(P002)-2N5(P002)-3N2(P002)-3N3(P002)",
-        "prof": "Camila Dias De Oliveira Sestito",
+        "prof": "Camila Dias De Oliveira Sestito, Anderson Paulo Avila Santos",
         "opt": "Não"
       }
     ]
@@ -1726,7 +1726,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "2N4(P003)-2N5(P003)-6N4(P001)-6N5(P001)",
+        "h": "5N2(P003)-5N3(P003)-6N4(P001)-6N5(P001)",
         "prof": "Eduarda Maganha De Almeida",
         "opt": "Não"
       }
@@ -1841,11 +1841,11 @@
       {
         "turma": "ES51",
         "enq": "Presencial",
-        "vt": "39",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Bach Eng De Software",
-        "h": "5N4(REM)-5N5(REM)-6N2(REM)-6N3(REM)",
+        "h": "5N2(REM)-5N3(REM)-6N2(REM)-6N3(REM)",
         "prof": "Fabio Fernandes Da Rocha Vicente",
         "opt": "Não"
       }

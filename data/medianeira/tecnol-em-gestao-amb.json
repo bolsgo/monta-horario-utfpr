@@ -1,5 +1,22 @@
 [
   {
+    "code": "QUI1076",
+    "name": "Análise Instrumental",
+    "turmas": [
+      {
+        "turma": "TAL3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N4(H35)-5N5(H35)-6N3(L26A)-6N4(L26A)",
+        "prof": "Angela Claudia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1003",
     "name": "Avaliação De Impacto Ambiental",
     "turmas": [
@@ -58,6 +75,23 @@
         "h": "4N4(I42)-4N5(I42)",
         "prof": "Ivonei Ottobelli",
         "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "QUI1035",
+    "name": "Bioquímica: Estrutura, Propriedade E Funções De Biomoléculas",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(I44)-6N2(I44)-6N3(I44)",
+        "prof": "Tainara Orlando",
+        "opt": "Não"
       }
     ]
   },
@@ -208,6 +242,79 @@
     ]
   },
   {
+    "code": "PRO1036",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(H614)-2M5(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "ELE7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(H614)-2T3(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H610)-4M5(H610)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "PRO1050",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "BQ3",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "3N3(H614)-3N4(H614)-3N5(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1010",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(I26)-4N2(I26)-4N3(I26)",
+        "prof": "Vanessa Hlenka",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
@@ -225,8 +332,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -477,6 +584,23 @@
     ]
   },
   {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "HLA1007",
     "name": "Psicologia E Desenvolvimento Humano",
     "turmas": [
@@ -501,6 +625,34 @@
         "h": "5N4(H33)-5N5(H33)",
         "prof": "Shiderlene Vieira De Almeida Araujo",
         "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "QUI1002",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M4(I41)-2M5(I41)-4M4(L24A)-4M5(L24A)",
+        "prof": "Alex Sanches Torquato, Jose Goncales Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N4(L24A)-3N5(L24A)-5N1(L22)-5N2(L22)",
+        "prof": "Alex Sanches Torquato, Angela Claudia Rodrigues",
+        "opt": "Não"
       }
     ]
   },

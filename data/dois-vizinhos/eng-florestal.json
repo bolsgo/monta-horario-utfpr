@@ -385,7 +385,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "5T2(B3-S3)-5T3(B3-S3)-5T4(B3-S3)",
         "prof": "Cilene Cristina Borges",
-        "opt": "Matriz:53, Matriz:52"
+        "opt": "Matriz:53, Matriz:21, Matriz:52"
       }
     ]
   },
@@ -436,7 +436,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "6M1(B7-S6)-6M2(B7-S6)-6M3(LABMADEIRA)-6M4(LABMADEIRA)",
         "prof": "Cilene Cristina Borges",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -504,7 +504,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "2M5(B3-S2)-2M6(B3-S2)",
         "prof": "Patricia Fernandes",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -855,7 +855,7 @@
         "prio": "1 - Agronomia",
         "h": "4M2(B5-S5)-4M3(B5-S5)-5M4(B5-S5)-5M5(B5-S5)",
         "prof": "Laercio Ricardo Sartor",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1331,7 +1331,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "2M4(B6-S3)-2M5(B6-S3)-2M6(B6-S3)",
         "prof": "Flavia Alves Pereira",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1597,7 +1597,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "3T2(B7-S5)-3T2(B7-S5)-3T3(B7-S5)-3T3(B7-S5)-3T4(B7-S5)-3T4(B7-S5)-3T5(B7-S5)-3T5(B7-S5)",
         "prof": "Erick Martins Nieri, Simone Neumann Wendt",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1818,7 +1818,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "5M4(B3-S5)-5M5(B3-S5)",
         "prof": "Alvaro Boson De Castro Faria",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2055,7 +2055,7 @@
         "prio": "1 - Agronomia",
         "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T4(B5-S3)-5T4(B5-S3)",
         "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "3AG2",
@@ -2066,7 +2066,7 @@
         "prio": "1 - Agronomia",
         "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
         "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2100,7 +2100,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "4M5(B8-S2)-4M6(B8-S2)",
         "prof": "Everton Marcos Batistela",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2134,7 +2134,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "4M4(LABSEMENTE)-4M5(LABSEMENTE)-4M6(LABSEMENTE)",
         "prof": "Daniela Cleide Azevedo De Abreu",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },

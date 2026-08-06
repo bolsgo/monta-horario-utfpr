@@ -923,7 +923,7 @@
         "prio": "1 - Zootecnia",
         "h": "3T3(B6-S6)-3T4(B6-S6)-3T5(B6-S6)-4M2(B6-S2)-4M3(B6-S2)",
         "prof": "Valter Oshiro Vilela",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -957,7 +957,7 @@
         "prio": "1 - Agronomia",
         "h": "4M2(B5-S5)-4M3(B5-S5)-5M4(B5-S5)-5M5(B5-S5)",
         "prof": "Laercio Ricardo Sartor",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1590,7 +1590,7 @@
         "prio": "1 - Zootecnia",
         "h": "3M4(B6-S5)-3M5(B6-S5)-4T1(B6-S2)-4T2(B6-S2)",
         "prof": "Fabiana Martins Costa",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1918,7 +1918,7 @@
         "prio": "1 - Agronomia",
         "h": "3M2(B5-S2)-3M3(B5-S2)-3M4(B5-S2)",
         "prof": "Taciara Zborowski Horst",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "2AG2",
@@ -1929,7 +1929,7 @@
         "prio": "1 - Agronomia",
         "h": "3M2(B5-S2)-3M3(B5-S2)-3M5(B5-S2)",
         "prof": "Taciara Zborowski Horst",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },

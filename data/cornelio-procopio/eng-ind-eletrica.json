@@ -713,6 +713,23 @@
     ]
   },
   {
+    "code": "EM35A",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "M51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2M2(A038)-2M3(A038)",
+        "prof": "Jose Pedro Tomadon Veiga Mello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A4CSA14",
     "name": "Gestão Da Qualidade",
     "turmas": [

@@ -1,0 +1,53 @@
+[
+  {
+    "code": "ING01",
+    "name": "Inglês 1",
+    "turmas": [
+      {
+        "turma": "LEM1",
+        "enq": "Presencial",
+        "vt": "9",
+        "vc": "9",
+        "res": "Aberta",
+        "prio": "1 - Língua Inglesa - Calem",
+        "h": "3M2(C306)-3M3(C306)-5M2(C306)-5M3(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ING02",
+    "name": "Inglês 2",
+    "turmas": [
+      {
+        "turma": "LEM2",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Língua Inglesa - Calem",
+        "h": "3T1(C306)-3T2(C306)-5T1(C306)-5T2(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ING04",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "LEM4",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Língua Inglesa - Calem",
+        "h": "3M4(C306)-3M5(C306)-5M4(C306)-5M5(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Não"
+      }
+    ]
+  }
+]

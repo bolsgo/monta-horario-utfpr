@@ -74,8 +74,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "40",
+        "vt": "49",
+        "vc": "41",
         "res": "Fechada",
         "prio": "1 - Ciência Computação",
         "h": "5M1(L41)-5M2(L41)",
@@ -242,6 +242,45 @@
     ]
   },
   {
+    "code": "PRO1036",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(H614)-2M5(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "ELE7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(H614)-2T3(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H610)-4M5(H610)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      }
+    ]
+  },
+  {
     "code": "MAT1002",
     "name": "Estruturas Geométricas E Vetores",
     "turmas": [
@@ -331,8 +370,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -516,8 +555,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "42",
-        "vc": "40",
+        "vt": "43",
+        "vc": "41",
         "res": "Fechada",
         "prio": "1 - Ciência Computação",
         "h": "2M4(I25)-2M5(I25)-4M1(I25)-4M2(I25)-6M4(I25)-6M5(I25)",
@@ -605,6 +644,23 @@
     ]
   },
   {
+    "code": "PRO1055",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "6T4(H611)",
+        "prof": "Lidiana Zocche",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1008",
     "name": "Inglês Básico 1",
     "turmas": [
@@ -662,8 +718,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "48",
-        "vc": "42",
+        "vt": "47",
+        "vc": "41",
         "res": "Fechada",
         "prio": "1 - Ciência Computação",
         "h": "5M3(L12A)-5M4(L12A)-5M5(L12A)",
@@ -847,8 +903,8 @@
       {
         "turma": "CC1A",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Fechada",
         "prio": "1 - Ciência Computação",
         "h": "2M1(L41)-2M2(L41)-2M3(L41)-3M3(L41)",
@@ -1234,6 +1290,23 @@
     ]
   },
   {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "HLA1007",
     "name": "Psicologia E Desenvolvimento Humano",
     "turmas": [
@@ -1409,17 +1482,6 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
         "h": "6T3(H34)-6T4(H34)-6T5(H34)",
-        "prof": "Renato Santos Flauzino",
-        "opt": "Matriz:654"
-      },
-      {
-        "turma": "EP7",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
-        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
         "prof": "Renato Santos Flauzino",
         "opt": "Matriz:654"
       }

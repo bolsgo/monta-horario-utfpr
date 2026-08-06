@@ -17,6 +17,23 @@
     ]
   },
   {
+    "code": "PRO1053",
+    "name": "Administração",
+    "turmas": [
+      {
+        "turma": "TECNOLOG",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Tecnol.Manut.Indl.",
+        "h": "4N4(H610)-4N5(H610)-6N1(H610)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1088",
     "name": "Agronegócio E As Ciências Da Natureza",
     "turmas": [
@@ -30,6 +47,40 @@
         "h": "5N4(I26)-5N5(I26)",
         "prof": "Carla Cristina Bem",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1061",
+    "name": "Análise De Investimentos",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N2(H624)-5N3(H624)",
+        "prof": "Lotario Fank",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1060",
+    "name": "Associativismo E Cooperativismo",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N2(H610)-4N3(H610)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Matriz:653"
       }
     ]
   },
@@ -102,6 +153,23 @@
     ]
   },
   {
+    "code": "PRO1062",
+    "name": "Comercialização Rural E Comércio Exterior",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N4(H624)-2N5(H624)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
     "code": "AMB1079",
     "name": "Computação Aplicada",
     "turmas": [
@@ -153,6 +221,62 @@
     ]
   },
   {
+    "code": "PRO1036",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(H614)-2M5(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "ELE7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(H614)-2T3(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H610)-4M5(H610)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      }
+    ]
+  },
+  {
+    "code": "MAT1012",
+    "name": "Estatística Experimental",
+    "turmas": [
+      {
+        "turma": "AGR2TA3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Gestão Do Agronegócio",
+        "h": "2N4(I21)-2N5(I21)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
@@ -170,8 +294,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -266,6 +390,153 @@
         "prio": "1 - Gestão Do Agronegócio",
         "h": "5N1(L27)-5N2(L27)-5N3(L27)",
         "prof": "Lisiane Sobucki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1057",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "AGR2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N1(H610)-5N2(H610)-5N3(H610)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1016",
+    "name": "Gestão Da Qualidade Na Manutenção",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(H610)-5N2(H610)-5N3(H610)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1010",
+    "name": "Gestão De Custos",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(H624)-5M3(H624)",
+        "prof": "Sergio Adelar Brun",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1007",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L23)-4M5(L23)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1067",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N3(H610)-3N4(H610)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1012",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 2 - Eng Amb/Sanitária",
+        "h": "6M4(I21)-6M5(I21)",
+        "prof": "Lotario Fank",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1059",
+    "name": "Gestão Financeira E Custos",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N4(H615)-3N5(H615)",
+        "prof": "Reginaldo Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1032",
+    "name": "Gestão Mercadológica",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(H611)-2N2(H611)",
+        "prof": "Marcio Becker",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M1(H610)-2M2(H610)",
+        "prof": "Marcio Becker",
         "opt": "Não"
       }
     ]
@@ -406,6 +677,23 @@
         "prio": "1 - Gestão Do Agronegócio",
         "h": "4N3(I21)-4N4(I21)-4N5(I21)",
         "prof": "Vanderlei Leopold Magalhaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1064",
+    "name": "Intervenção Em Conflitos No Agronegócio",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "5N1(H624)",
+        "prof": "Carlos Laercio Wrasse",
         "opt": "Não"
       }
     ]
@@ -562,6 +850,23 @@
     ]
   },
   {
+    "code": "PRO1058",
+    "name": "Logística E Gestão Da Cadeia De Suprimentos",
+    "turmas": [
+      {
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "3N1(H615)-3N2(H615)",
+        "prof": "Reginaldo Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1083",
     "name": "Manejo De Recursos Naturais",
     "turmas": [
@@ -607,6 +912,23 @@
     ]
   },
   {
+    "code": "MEC1007",
+    "name": "Máquinas E Mecanização",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N4(J42)-4N5(J42)",
+        "prof": "Dirceu De Melo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1090",
     "name": "Oficinas De Capacitação Em Agronegócio",
     "turmas": [
@@ -619,6 +941,23 @@
         "prio": "1 - Gestão Do Agronegócio",
         "h": "4N4(H611)-4N5(H611)",
         "prof": "Cidmar Ortiz Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1063",
+    "name": "Oficinas De Capacitação Em Gestão Do Agronegócio",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N1(H624)-4N2(H624)",
+        "prof": "Cristhiane Rohde",
         "opt": "Não"
       }
     ]
@@ -637,6 +976,23 @@
         "h": "4N1(H36)",
         "prof": "Marlon Rodrigues",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
       }
     ]
   },

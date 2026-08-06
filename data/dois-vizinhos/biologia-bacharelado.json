@@ -231,6 +231,23 @@
     ]
   },
   {
+    "code": "BQ14BB",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M2(B6-S5)-4M3(B6-S5)-5M2(B8-S1)-5M3(B8-S1)-5M4(LABMULT1)-5M5(LABMULT1)",
+        "prof": "Samara Ernandes Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "BG12CB",
     "name": "Bioquímica Geral",
     "turmas": [
@@ -434,6 +451,40 @@
     ]
   },
   {
+    "code": "CE11FL",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "1EF1",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M1(B7-S5)-4M2(B7-S5)",
+        "prof": "Francieli Motter Ludovico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA12AG",
+    "name": "Cálculo Aplicado",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M1(B5-S2)-2M2(B5-S2)-4M1(B5-S2)-4M2(B5-S2)",
+        "prof": "Adriana Sbardelotto Di Domenico",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECE12CB",
     "name": "Ecologia De Ecossistemas",
     "turmas": [
@@ -514,7 +565,7 @@
         "prio": "1 - Ciências Biológicas",
         "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
         "prof": "Anelize Queiroz Amaral",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -604,6 +655,23 @@
     ]
   },
   {
+    "code": "FF13FL",
+    "name": "Fisiologia Florestal",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M3(B8-S1)-4M4(B8-S1)-4M5(LABFISIOLO)-4M6(LABFISIOLO)",
+        "prof": "Americo Wagner Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FH14CB",
     "name": "Fisiologia Humana",
     "turmas": [
@@ -655,6 +723,40 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "5N2(LABANAHUM)-5N3(LABANAHUM)-6N3(B5-S4)-6N4(B5-S4)-6N5(B5-S4)",
         "prof": "Fernando Carlos De Sousa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FV13AG",
+    "name": "Fisiologia Vegetal",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(B5-S3)-3T2(B5-S3)-3T3(B5-S3)-4T2(B5-S3)-4T3(B5-S3)",
+        "prof": "Americo Wagner Junior",
+        "opt": "Matriz:53"
+      }
+    ]
+  },
+  {
+    "code": "FA13AG",
+    "name": "Física Aplicada Ii",
+    "turmas": [
+      {
+        "turma": "3AG1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "2M4(B5-S3)-2M5(B5-S3)-4M4(B5-S3)-4M5(B5-S3)",
+        "prof": "Thiago Petrucci Rodrigues",
         "opt": "Não"
       }
     ]
@@ -830,7 +932,7 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "5N3(B3-S2)-5N4(B3-S2)-5N5(B3-S2)",
         "prof": "Jucelaine Haas",
-        "opt": "Matriz:35, Matriz:53, Matriz:58"
+        "opt": "Matriz:35, Matriz:53, Matriz:21, Matriz:58"
       }
     ]
   },
@@ -847,6 +949,74 @@
         "prio": "1 - Ciências Biológicas",
         "h": "4N4(B7-S5)-4N5(B7-S5)",
         "prof": "Marcela De Paiva Foletto Felipe",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IB17BB",
+    "name": "Imunologia Aplicada À Biotecnologia",
+    "turmas": [
+      {
+        "turma": "7EB1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T2(B3-S2)-3T3(B3-S2)-3T4(B3-S2)",
+        "prof": "Flavia Regina Oliveira De Barros",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IC11BB",
+    "name": "Introdução Ao Cálculo",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3M3(B6-S4)-3M4(B6-S4)-3M5(B6-S4)",
+        "prof": "Adilson Da Silveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IE11BB",
+    "name": "Introdução À Ecologia",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "30",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4T2(B3-S5)-4T2(B3-S5)-4T3(B3-S5)-4T3(B3-S5)-4T4(B3-S5)-4T4(B3-S5)",
+        "prof": "Diesse Aparecida De Oliveira Sereia, Sandrieli Goncalves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA11BB",
+    "name": "Letramento Acadêmico",
+    "turmas": [
+      {
+        "turma": "1EB1",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "27",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M1(B7-S5)-4M2(B7-S5)",
+        "prof": "Francieli Motter Ludovico",
         "opt": "Não"
       }
     ]
@@ -960,6 +1130,40 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "2N1(B5-S2)-2N2(B5-S2)",
         "prof": "Luciana Boemer Cesar Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP12BB",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "2EB1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "4M4(B8-S4)-4M5(B8-S4)",
+        "prof": "Samara Ernandes Adamczuk",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MP13FL",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "3EF1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Florestal",
+        "h": "4M1(B8-S1)-4M2(B8-S1)",
+        "prof": "Patricia Fernandes",
         "opt": "Não"
       }
     ]
@@ -1101,6 +1305,79 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "3N1(B5-S1)-3N2(B5-S1)-3N3(B5-S1)",
         "prof": "Jucelaine Haas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE14BB",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "4EB1",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T1(3PRODSOFT)-3T2(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      },
+      {
+        "turma": "4EB2",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Bioproc. E Biote",
+        "h": "3T3(3PRODSOFT)-3T4(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE16SW",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "6ES1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software",
+        "h": "2N1(2PROGR)-2N2(2PROGR)-3N1(4COMP)-3N2(4COMP)",
+        "prof": "Edgar De Souza Vismara",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE12AG",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "2AG1",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T1(3PRODSOFT)-3T2(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
+        "opt": "Não"
+      },
+      {
+        "turma": "2AG2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "3T3(3PRODSOFT)-3T4(3PRODSOFT)-4T4(3PRODSOFT)-4T5(3PRODSOFT)",
+        "prof": "Lilian De Souza Vismara",
         "opt": "Não"
       }
     ]

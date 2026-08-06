@@ -225,7 +225,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Civil",
         "h": "2N2(F101)-2N3(F101)-5N1(G008)-5N2(G008)",
-        "prof": "Jessica De Lara Andrade, Humberto Hissashi Takeda",
+        "prof": "Humberto Hissashi Takeda, Paulo Roberto De Oliveira",
         "opt": "Não"
       }
     ]
@@ -1521,7 +1521,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "2N1(F108)-2N2(F108)-2N3(F108)-2N4(F108)",
+        "h": "2N2(F108)-2N3(F108)-2N4(F108)-2N5(F108)",
         "prof": "Roberto Widerski",
         "opt": "Matriz:43, Matriz:31"
       }
@@ -2120,7 +2120,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
         "h": "4M4(F110)-4M5(F110)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Matriz:86"
       }
     ]

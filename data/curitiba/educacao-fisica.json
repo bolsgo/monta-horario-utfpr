@@ -912,23 +912,6 @@
     ]
   },
   {
-    "code": "EFI72D",
-    "name": "Movimento E Consciência Corporal",
-    "turmas": [
-      {
-        "turma": "S93",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Educação Física",
-        "h": "6M1(**NO-001)-6M2(**NO-001)-6M3(**NO-001)",
-        "prof": "Daniela Isabel Kuhn",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EFI7AP",
     "name": "Mídias Digitais E O Mercado De Trabalho Na Educação Física",
     "turmas": [
@@ -942,6 +925,23 @@
         "h": "2M1(CQ-301)-2M2(CQ-301)",
         "prof": "Ana Paula Cabral Bonin Maoski",
         "opt": "Matriz:945, Matriz:541"
+      }
+    ]
+  },
+  {
+    "code": "EFI72D",
+    "name": "Movimento E Consciência Corporal",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "6M1(**NO-001)-6M2(**NO-001)-6M3(**NO-001)",
+        "prof": "Daniela Isabel Kuhn",
+        "opt": "Não"
       }
     ]
   },
@@ -1031,23 +1031,6 @@
     ]
   },
   {
-    "code": "EFI78B",
-    "name": "Politicas Públicas Para O Esporte E Lazer",
-    "turmas": [
-      {
-        "turma": "S93",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Educação Física",
-        "h": "5M4(CQ-305)-5M5(CQ-305)",
-        "prof": "Ana Paula Cabral Bonin Maoski",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FCH7XE",
     "name": "Políticas Públicas",
     "turmas": [
@@ -1061,6 +1044,23 @@
         "h": "4N1(CE-203)-4N2(CE-203)-4N3(CE-203)",
         "prof": "Maria Jose Menezes Lourega Belli",
         "opt": "Matriz:990, Matriz:995, Matriz:973, Matriz:948, Matriz:983, Matriz:957, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "EFI78B",
+    "name": "Politicas Públicas Para O Esporte E Lazer",
+    "turmas": [
+      {
+        "turma": "S93",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Educação Física",
+        "h": "5M4(CQ-305)-5M5(CQ-305)",
+        "prof": "Ana Paula Cabral Bonin Maoski",
+        "opt": "Não"
       }
     ]
   },

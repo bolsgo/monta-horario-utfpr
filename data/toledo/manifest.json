@@ -26,5 +26,13 @@
   {
     "slug": "eng-de-computacao",
     "label": "Eng. De Computação"
+  },
+  {
+    "slug": "lingua-inglesa-calem",
+    "label": "Língua Inglesa - Calem"
+  },
+  {
+    "slug": "lingua-alema-calem",
+    "label": "Língua Alemã - Calem"
   }
 ]

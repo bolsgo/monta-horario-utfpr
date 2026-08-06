@@ -34,6 +34,23 @@
     ]
   },
   {
+    "code": "OPT177",
+    "name": "Bioeconomia",
+    "turmas": [
+      {
+        "turma": "IFO",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4T2(D101)-4T3(D101)-4T4(E004)-4T5(E004)",
+        "prof": "Jose Hilton Bernardino De Araujo",
+        "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
     "code": "NCM027",
     "name": "Biologia Química",
     "turmas": [
@@ -1620,7 +1637,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
         "h": "6N2(D106)-6N3(D106)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Não"
       }
     ]
@@ -2116,7 +2133,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
         "h": "4M4(F110)-4M5(F110)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Matriz:86"
       }
     ]
@@ -2462,7 +2479,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
         "h": "3T2(H104)-3T3(H104)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Não"
       }
     ]
@@ -2705,7 +2722,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
         "h": "6T1(F110)-6T2(F110)-6T3(F110)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Não"
       },
       {
@@ -2716,7 +2733,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Ambiental",
         "h": "6T1(F110)-6T2(F110)-6T3(F110)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Não"
       }
     ]
@@ -2767,7 +2784,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Ambiental",
         "h": "4M1(F101)-4M2(F101)-4M3(F101)",
-        "prof": "Raphael Correa Medeiros",
+        "prof": "Leonardo Da Silva Tomadon",
         "opt": "Não"
       }
     ]

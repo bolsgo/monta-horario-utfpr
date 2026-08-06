@@ -129,7 +129,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "3N4(P102)-3N5(P102)-5N2(P102)-5N3(P102)",
+        "h": "3N4(P102)-3N5(P102)-5N4(P102)-5N5(P102)",
         "prof": "Adriano Rivolli Da Silva",
         "opt": "Não"
       }
@@ -1097,8 +1097,8 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "2N2(P004)-2N3(P004)",
-        "prof": "Camila Dias De Oliveira Sestito",
+        "h": "5N4(P004)-5N5(P004)",
+        "prof": "Camila Dias De Oliveira Sestito, Anderson Paulo Avila Santos",
         "opt": "Não"
       }
     ]
@@ -1526,7 +1526,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "3N4(P105)-3N5(P105)-4N2(P105)-4N3(P105)-5N4(P105)-5N5(P105)",
+        "h": "2N2(P105)-2N3(P105)-3N4(P105)-3N5(P105)-4N2(P105)-4N3(P105)",
         "prof": "Jose Antonio Goncalves",
         "opt": "Não"
       }
@@ -1611,7 +1611,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "4N2(P102)-4N3(P102)-5N4(P102)-5N5(P102)",
+        "h": "4N2(P102)-4N3(P102)-5N2(P102)-5N3(P102)",
         "prof": "",
         "opt": "Não"
       }

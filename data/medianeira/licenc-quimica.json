@@ -1,5 +1,39 @@
 [
   {
+    "code": "QUI1013",
+    "name": "Análises Químicas Envolvendo Equilíbrios Iônicos Em Sistemas Aquosos",
+    "turmas": [
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(L24A)-6N2(L24A)",
+        "prof": "Juliane Maria Bergamin Bocardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1015",
+    "name": "Análises Químicas Envolvendo Métodos Quantitativos Volumétricos E Gravimétricos",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N1(L24A)-2N2(L24A)",
+        "prof": "Oldair Donizeti Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1046",
     "name": "Bioquímica De Alimentos",
     "turmas": [
@@ -58,6 +92,40 @@
         "h": "2N1(I16)-2N2(I16)-2N3(I16)",
         "prof": "Larissa De Bortolli Chiamolera Sabbi",
         "opt": "Matriz:657"
+      }
+    ]
+  },
+  {
+    "code": "QUI1035",
+    "name": "Bioquímica: Estrutura, Propriedade E Funções De Biomoléculas",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(I44)-6N2(I44)-6N3(I44)",
+        "prof": "Tainara Orlando",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1064",
+    "name": "Concepções Em Ciência, Tecnologia, Sociedade E Ambiente",
+    "turmas": [
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "5N1(I15)-5N2(I15)",
+        "prof": "Emerson Luis Pires",
+        "opt": "Não"
       }
     ]
   },
@@ -184,6 +252,23 @@
     ]
   },
   {
+    "code": "QUI1012",
+    "name": "Equilíbrio Iônico Em Sistemas Aquosos",
+    "turmas": [
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N1(L22)-2N2(L22)-2N3(L22)",
+        "prof": "Marcos Andre Bechlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1002",
     "name": "Estruturas Geométricas E Vetores",
     "turmas": [
@@ -256,6 +341,159 @@
     ]
   },
   {
+    "code": "QUI1019",
+    "name": "Estudo De Compostos De Coordenação",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N3(H38)-3N4(H38)-3N5(H38)-6N3(H38)",
+        "prof": "Ana Cristina Trindade Cursino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1016",
+    "name": "Estudo Do Carbono E Seus Compostos",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N3(H37)-2N4(H37)-2N5(H37)",
+        "prof": "Daniel Walker Tondo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1022",
+    "name": "Estudos Experimentais Das Leis Da Termodinâmica E Suas Aplicações Na Química",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(H34)-6N2(H34)",
+        "prof": "Emerson Luis Pires",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1020",
+    "name": "Estudos Experimentais De Compostos De Coordenação",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "5N1(L33)-5N2(L33)-5N3(L33)",
+        "prof": "Roger Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1011",
+    "name": "Estudos Experimentais De Compostos Inorgânicos",
+    "turmas": [
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N1(L33)-3N2(L33)",
+        "prof": "Roger Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1017",
+    "name": "Estudos Experimentais De Compostos Orgânicos",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N1(L25A)-3N2(L25A)",
+        "prof": "Daniel Walker Tondo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1024",
+    "name": "Estudos Experimentais De Reações Orgânicas",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "5N1(L25B)-5N2(L25B)",
+        "prof": "Michelle Budke Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1037",
+    "name": "Estudos Experimentais De Cinética, Eletroquímica E Fenômenos De Superfície",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N4(L25B)-2N5(L25B)",
+        "prof": "Renata Mello Giona",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1029",
+    "name": "Estudos Experimentais De Termodinâmica Em Substâncias Puras, Misturas E Equilíbrios",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N4(L25B)-3N5(L25B)",
+        "prof": "Paulo Rodrigo Stival Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
@@ -273,8 +511,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -451,6 +689,23 @@
     ]
   },
   {
+    "code": "QUI1010",
+    "name": "Fundamentos Dos Compostos Inorgânicos",
+    "turmas": [
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "4N1(I15)-4N2(I15)-4N3(I15)",
+        "prof": "Roger Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1021",
     "name": "Fundamentos Psicológicos Em Educação, Desenvolvimento E Aprendizagem",
     "turmas": [
@@ -464,6 +719,40 @@
         "h": "5N3(H33)-5N4(H33)-5N5(H33)",
         "prof": "Shiderlene Vieira De Almeida Araujo",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1047",
+    "name": "Fundamento De Química Do Estado Sólido E Materiais",
+    "turmas": [
+      {
+        "turma": "BQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "6N4(I42)-6N5(I42)",
+        "prof": "Roger Borges",
+        "opt": "Matriz:657"
+      }
+    ]
+  },
+  {
+    "code": "QUI1054",
+    "name": "Fundamentos Químicos Em Processos Industriais",
+    "turmas": [
+      {
+        "turma": "BQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "2N4(I12)-2N5(I12)",
+        "prof": "Eduardo Eyng",
+        "opt": "Matriz:657"
       }
     ]
   },
@@ -580,6 +869,23 @@
     ]
   },
   {
+    "code": "QUI1018",
+    "name": "História E Epistemologia Da Química",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "4N4(H39)-4N5(H39)",
+        "prof": "Emerson Luis Pires",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "COM1001",
     "name": "Informática Instrumental",
     "turmas": [
@@ -681,6 +987,40 @@
         "prio": "1 - Licenc.Química",
         "h": "3N1(H38)",
         "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1039",
+    "name": "Instrumentação Para O Ensino De Química Ii: Práticas Investigativas E Experimentação Na Educação Básica",
+    "turmas": [
+      {
+        "turma": "LQ6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N4(I44)-4N5(I44)",
+        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1021",
+    "name": "Leis Da Termodinâmica E Suas Aplicações Na Química",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N1(H38)-2N2(H38)-2N3(H38)",
+        "prof": "Emerson Luis Pires",
         "opt": "Não"
       }
     ]
@@ -886,6 +1226,91 @@
     ]
   },
   {
+    "code": "QUI1038",
+    "name": "Metodologias Da Pesquisa Em Educação Química",
+    "turmas": [
+      {
+        "turma": "LQ6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N1(G06A)-4N2(G06A)",
+        "prof": "Rodrigo Ruschel Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1014",
+    "name": "Métodos Analíticos Quantitativos Volumétricos E Gravimétricos",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(H37)-6N2(H37)",
+        "prof": "Alex Sanches Torquato",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1034",
+    "name": "Métodos Cromatográficos",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "5N1(I44)-5N2(I44)-5N3(I44)",
+        "prof": "Oldair Donizeti Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1031",
+    "name": "Métodos Espectrométricos Aplicados A Determinação De Substâncias Orgânicas E Inorgânicas",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N4(H35)-2N5(H35)-4N1(H35)-4N2(H35)",
+        "prof": "Oldair Donizeti Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1030",
+    "name": "Métodos Instrumentais Para Análise Do Comportamento Térmico E Composição Química Elementar E Eletroanalítica",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "4N4(H35)-4N5(H35)",
+        "prof": "Jose Goncales Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1014",
     "name": "Organização E Funcionamento Da Educação Básica",
     "turmas": [
@@ -899,6 +1324,23 @@
         "h": "3N4(H37)-3N5(H37)",
         "prof": "Jacqueline Lidiane De Souza",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
       }
     ]
   },
@@ -931,6 +1373,176 @@
     ]
   },
   {
+    "code": "QUI1042",
+    "name": "Pesquisa E Extensão No Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N3(G06A)-4N4(G06A)-4N5(G06A)",
+        "prof": "Rodrigo Ruschel Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1036",
+    "name": "Princípios De Cinética, Eletroquímica E Fenômenos De Superfície",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N1(I44)-2N2(I44)-2N3(I44)",
+        "prof": "Renata Mello Giona",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1028",
+    "name": "Princípios De Termodinâmica Em Substâncias Puras, Misturas E Equilíbrios",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N1(I43)-3N2(I43)-3N3(I43)",
+        "prof": "Paulo Rodrigo Stival Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1040",
+    "name": "Projeto Integrador 2: Prática Investigativa E Experimental De Fenômenos E Processos Químicos No Contexto Educativo",
+    "turmas": [
+      {
+        "turma": "LQ6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N3(I44)",
+        "prof": "Ismael Laurindo Costa Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1045",
+    "name": "Projeto Integrador 3: Oficinas Temáticas E Extensionistas Visando A Integração No Espaço Escolar.",
+    "turmas": [
+      {
+        "turma": "LQ8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N1(G4)-4N2(G4)",
+        "prof": "Ismael Laurindo Costa Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1044",
+    "name": "Projeto De Trabalho De Conclusão De Curso Em Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "2N1(H36)-2N2(H36)-2N3(H36)",
+        "prof": "Juliane Maria Bergamin Bocardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2LQ1",
+    "name": "Prática De Ensino E Estágio Curricular Supervisionado Ii",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "5N1(G4)-5N2(G4)-5N3(G4)-5N4(G4)-5N5(G4)-6T3(G4)-6T4(G4)-6T5(G4)-6T6(G4)",
+        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1041",
+    "name": "Química Ambiental",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "4N1(I43)-4N2(I43)",
+        "prof": "Juliane Maria Bergamin Bocardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1023",
+    "name": "Reações Orgânicas E Seus Mecanismos",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "4N4(H34)-4N5(H34)-5N4(H34)-5N5(H34)",
+        "prof": "Tainara Orlando",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1043",
+    "name": "Recursos Didáticos, Mídias, Tecnologias E Metodologias Ativas Para O Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(I42)-3N2(I42)",
+        "prof": "Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1005",
     "name": "Sociologia",
     "turmas": [
@@ -944,6 +1556,23 @@
         "h": "3M4(L23)-3M5(L23)",
         "prof": "Claudimara Cassoli Bortoloto",
         "opt": "Matriz:665, Matriz:655, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "TCCLQ1",
+    "name": "Trabalho De Conclusão De Curso Em Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N3(I45)",
+        "prof": "Juliane Maria Bergamin Bocardi",
+        "opt": "Não"
       }
     ]
   },

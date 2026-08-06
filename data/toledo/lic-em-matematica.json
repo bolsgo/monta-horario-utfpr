@@ -34,6 +34,23 @@
     ]
   },
   {
+    "code": "EET41B",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T2(C201LINF3)-2T3(C201LINF3)-5T5(E306LINF6)-5T6(E306LINF6)",
+        "prof": "Jefferson Gustavo Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA2F",
     "name": "Construções Geométricas",
     "turmas": [
@@ -63,6 +80,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "5N1(C305)-5N2(C305)-5N3(C305)",
         "prof": "Barbara Winiarski Diesel Novaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP44A",
+    "name": "Cálculo 4",
+    "turmas": [
+      {
+        "turma": "CP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
+        "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Não"
       }
     ]
@@ -115,6 +149,39 @@
         "h": "3T3(E104)-3T4(E104)-5T1(E104)-5T2(E104)-6T2(E104)-6T3(E104)",
         "prof": "Araceli Ciotti De Marins",
         "opt": "Não"
+      },
+      {
+        "turma": "CP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T4(E203)-2T5(E203)-3T4(E203)-3T5(E203)-5T1(E203)-5T2(E203)",
+        "prof": "Marcia Regina Piovesan",
+        "opt": "Não"
+      },
+      {
+        "turma": "CV14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(C203)-2M5(C203)-2M6(C203)-5M2(C203)-5M3(C203)-5M4(C203)",
+        "prof": "Regiane Slongo Fagundes",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T1(E106)-3T2(E106)-5T3(E106)-5T4(E106)-6T4(E106)-6T5(E106)",
+        "prof": "Araceli Ciotti De Marins",
+        "opt": "Não"
       }
     ]
   },
@@ -131,6 +198,67 @@
         "prio": "1 - Eng.  De Bioprocessos",
         "h": "2T4(E105)-2T5(E105)-4T2(E104)-4T3(E104)",
         "prof": "Vanderlei Galina",
+        "opt": "Não"
+      },
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T5(E204)-4T6(E204)-5T3(E204)-5T4(E204)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      },
+      {
+        "turma": "CV24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M4(C204)-4M5(C204)-6M3(C204)-6M4(C204)",
+        "prof": "Adriano Gomes De Santana",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4M2(E106)-4M3(E106)-6M5(E106)-6M6(E106)",
+        "prof": "Adriano Gomes De Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT004",
+    "name": "Cálculo Diferencial E Integral 3",
+    "turmas": [
+      {
+        "turma": "CP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T5(E205)-2T6(E205)-3T3(AUDITORIO1)-3T4(AUDITORIO1)",
+        "prof": "Dione Ines Christ Milani",
+        "opt": "Não"
+      },
+      {
+        "turma": "CV34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M1(E204)-3M2(E204)-4M2(E204)-4M3(E204)",
+        "prof": "Dione Ines Christ Milani",
         "opt": "Não"
       }
     ]
@@ -166,6 +294,17 @@
         "h": "3T1(E104)-3T2(E104)-5T1(E205)-5T2(E205)",
         "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
+      },
+      {
+        "turma": "CV44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M1(C205)-3M2(C205)-4M1(C205)-4M2(C205)",
+        "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
       }
     ]
   },
@@ -174,6 +313,17 @@
     "name": "Economia Contemporânea",
     "turmas": [
       {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T2(03VIDEOCON)-4T3(03VIDEOCON)-7M5(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
+      {
         "turma": "OPPQ",
         "enq": "Presencial",
         "vt": "20",
@@ -181,6 +331,17 @@
         "res": "Aberta",
         "prio": "1 - Tec. Proc. Quím.",
         "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
+      {
+        "turma": "OPTI",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(03VIDEOCON)-3N3(03VIDEOCON)-7M4(AVA)",
         "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
       }
@@ -200,6 +361,51 @@
         "h": "4N4(C206)-4N5(C206)",
         "prof": "Aline Keryn Pin",
         "opt": "Matriz:33, Matriz:41"
+      }
+    ]
+  },
+  {
+    "code": "MAT005",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "CP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T3(AUDITORIO1)-2T4(AUDITORIO1)-5T4(C205)-5T5(C205)",
+        "prof": "Jocelaine Cargnelutti",
+        "opt": "Matriz:49"
+      },
+      {
+        "turma": "CV34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M4(C204)-2M5(C204)-3M5(C204)-3M6(C204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Matriz:49"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Estudos Culturais E Relações Étnico-Raciais",
+    "turmas": [
+      {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
       }
     ]
   },
@@ -238,6 +444,40 @@
     ]
   },
   {
+    "code": "ECV42A",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "CV24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M3(C202LINF4)-3M3(C202LINF4)-3M4(C202LINF4)-3M5(C202LINF4)",
+        "prof": "Rosane Fatima Passarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP41C",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "CP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5T5(E307LREDES)-5T6(E307LREDES)-6T5(E302LINF1)-6T6(E302LINF1)",
+        "prof": "Bruno Meneghel Zilli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FIS001",
     "name": "Física 1",
     "turmas": [
@@ -250,6 +490,39 @@
         "prio": "1 - Eng.  De Bioprocessos",
         "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
         "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T1(E203)-4T2(E203)-6T2(E203)-6T3(E203)-6T4(E203)",
+        "prof": "Danuce Marcele Dudek",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CV24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M1(E203)-4M2(E203)-4M3(E203)-5M1(E203)-5M2(E203)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T4(E106)-2T5(E106)-2T6(E106)-5T1(E106)-5T2(E106)",
+        "prof": "Danuce Marcele Dudek",
         "opt": "Matriz:56"
       }
     ]
@@ -267,6 +540,45 @@
         "prio": "1 - Eng.  De Bioprocessos",
         "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
         "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T4(E204)-2T5(E204)-2T6(E204)-5T5(E204)-5T6(E204)",
+        "prof": "Leonardo De Lima",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M2(E106)-2M3(E106)-5M1(E106)-5M2(E106)-5M3(E106)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS003",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "CV44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
+        "prof": "Rafael Bertolini Frigori",
         "opt": "Matriz:56"
       }
     ]
@@ -319,6 +631,45 @@
         "h": "3T3(E103)-3T4(E103)-4T3(E103)-4T4(E103)-5T3(E103)-5T4(E103)",
         "prof": "Marcio Paulo De Oliveira",
         "opt": "Não"
+      },
+      {
+        "turma": "CV14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M1(C203)-3M2(C203)-4M1(C203)-4M2(C203)-6M4(C203)-6M5(C203)",
+        "prof": "Robson Willians Vinciguerra",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T5(E106)-3T6(E106)-4T5(E106)-4T6(E106)-6T2(E205)-6T3(E205)",
+        "prof": "Tatiany Mottin Dartora",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33G",
+    "name": "História Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(E204)-4N3(E204)-7M6(AVA)",
+        "prof": "Cezar Ricardo De Freitas",
+        "opt": "Não"
       }
     ]
   },
@@ -335,6 +686,57 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "2N3(C303LEM)-2N4(C303LEM)-2N5(C303LEM)",
         "prof": "Emerson Tortola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34G",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
+        "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM014",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T5(C307)-3T6(C307)-4T5(C307)-4T6(C307)",
+        "prof": "Aline Keryn Pin",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "ECP42B",
+    "name": "Lógica Para Computação",
+    "turmas": [
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T1(E204)-4T2(E204)-6T3(E204)-6T4(E204)",
+        "prof": "Gustavo Henrique Paetzold",
         "opt": "Não"
       }
     ]
@@ -408,6 +810,57 @@
     ]
   },
   {
+    "code": "ECP43A",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "CP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T1(E205)-3T2(E205)-6T1(E204)-6T2(E204)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV43C",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "CV34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M2(C204)-2M3(C204)-5M5(E203)-5M6(E203)",
+        "prof": "Regiane Slongo Fagundes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET42A",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T5(C206)-3T6(C206)-5T4(C202LINF4)-5T5(C202LINF4)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA6F",
     "name": "Probabilidade E Estatística",
     "turmas": [
@@ -446,6 +899,28 @@
     "name": "Soft Skills",
     "turmas": [
       {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(C205)-4T6(C205)-7M2(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "OPBPA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M4(E205)-5M5(E205)-7M5(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
         "turma": "OPPQ",
         "enq": "Presencial",
         "vt": "15",
@@ -453,6 +928,17 @@
         "res": "Aberta",
         "prio": "1 - Tec. Proc. Quím.",
         "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E204)-3N3(E204)-7M3(AVA)",
         "prof": "",
         "opt": "Matriz:21, Matriz:60, Matriz:58"
       }
@@ -573,6 +1059,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "4N1(C206)-4N2(C206)-6N1(C206)-6N2(C206)",
         "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP42A",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Não"
       }
     ]

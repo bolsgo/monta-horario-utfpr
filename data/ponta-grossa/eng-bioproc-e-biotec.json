@@ -1,5 +1,22 @@
 [
   {
+    "code": "AS60A",
+    "name": "Análise Sensorial",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M4(C009)-5M5(C009)",
+        "prof": "Safi Amaro Monteiro",
+        "opt": "Matriz:827, Matriz:821"
+      }
+    ]
+  },
+  {
     "code": "ATIV01H",
     "name": "Atividade Física E Qualidade De Vida",
     "turmas": [
@@ -24,6 +41,576 @@
         "h": "5M2(GINÁSIO)-5M3(GINÁSIO)",
         "prof": "Jose Alves De Faria Filho",
         "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      },
+      {
+        "turma": "OPTH",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "2T2(GINÁSIO)-2T3(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      },
+      {
+        "turma": "OPTHB",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3T4(GINÁSIO)-3T5(GINÁSIO)",
+        "prof": "Jose Alves De Faria Filho",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "BP66B",
+    "name": "Bioengenharia",
+    "turmas": [
+      {
+        "turma": "BP61",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(D001)-3M4(C114)-3M4(L-013)-3M5(L-013)-3M5(C114)-3M5(D001)-5T2(D001)-5T2(L114)-5T3(L114)-5T3(D001)-5T4(D001)-5T4(L114)-5T5(D001)-5T5(L114)-6M2(L012)-6M3(L012)",
+        "prof": "Sabrina Avila Rodrigues, Elis Regina Duarte, Paulo Cesar De Souza Kirnev",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60E",
+    "name": "Bioinformática",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "6M2(L008)-6M3(L008)",
+        "prof": "Mariana Machado Fidelis Do Nascimento",
+        "opt": "Matriz:827"
+      }
+    ]
+  },
+  {
+    "code": "BP61A",
+    "name": "Biologia Celular",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T2(L012)-3T3(L012)",
+        "prof": "Luis Alberto Chavez Ayala",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP63E",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "BP31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M1(L113)-3M2(L113)",
+        "prof": "Mariana Machado Fidelis Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP66C",
+    "name": "Biomateriais",
+    "turmas": [
+      {
+        "turma": "BP61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4M1(L001)-4M2(L001)",
+        "prof": "Rozane De Fatima Turchiello Gomez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP67A",
+    "name": "Bioprocessos 1",
+    "turmas": [
+      {
+        "turma": "BP71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2T2(C013C)-2T2(L002)-2T3(L002)-2T3(C013C)-2T4(L002)-2T4(C013C)-2T5(L002)-2T5(C013C)-4T1(K102)-4T2(K102)-5T4(K106)-5T5(K106)",
+        "prof": "Mariana Machado Fidelis Do Nascimento, Emanuele Elisa Hernandes, Paulo Cesar De Souza Kirnev",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP68A",
+    "name": "Bioprocessos 2",
+    "turmas": [
+      {
+        "turma": "BP81",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4M2(L101)-4M2(D001)-4M3(D001)-4M3(L101)-4M4(L101)-4M4(D001)-4M5(L101)-4M5(D001)-4T2(L107)-4T2(D001)-4T3(L107)-4T3(D001)-4T4(D001)-4T4(L107)-4T5(L107)-4T5(D001)",
+        "prof": "Safi Amaro Monteiro, Luis Alberto Chavez Ayala, Allan Valcareggi Morcelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP63C",
+    "name": "Bioquímica",
+    "turmas": [
+      {
+        "turma": "BP31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2M4(L111)-2M5(L111)",
+        "prof": "Elisabete Hiromi Hashimoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP64B",
+    "name": "Bioquímica De Micro-Organismos",
+    "turmas": [
+      {
+        "turma": "BP41A",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4M4(L109)-4M5(L109)-4T2(C006)-4T3(C006)",
+        "prof": "Maria Carolina De Oliveira Ribeiro, Elisabete Hiromi Hashimoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP63D",
+    "name": "Bioquímica Experimental",
+    "turmas": [
+      {
+        "turma": "BP31A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M2(C004)-5M3(C004)",
+        "prof": "Emanuele Elisa Hernandes",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP31B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M4(C004)-5M5(C004)",
+        "prof": "Emanuele Elisa Hernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP68B",
+    "name": "Biotecnologia Vegetal",
+    "turmas": [
+      {
+        "turma": "BP81",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(K102)-3M5(K102)",
+        "prof": "Juliana Vitoria Messias Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP65B",
+    "name": "Compostos Bioativos",
+    "turmas": [
+      {
+        "turma": "BP51A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5T1(L105)-5T2(L105)-5T3(L105)",
+        "prof": "Alessandra Cristine Novak Sydney",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP64C",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "BP41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2M4(L114)-2M5(L114)-3T2(L114)-3T3(L114)",
+        "prof": "Paulo Cesar De Souza Kirnev",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60G",
+    "name": "Fundamentos De Produtos Lácteos Fermentados",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M1(L006)-5M2(L006)-5M2(C010)-5M3(C010)",
+        "prof": "Luis Alberto Chavez Ayala",
+        "opt": "Matriz:827, Matriz:821"
+      }
+    ]
+  },
+  {
+    "code": "BP63A",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "BP31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2T2(L114)-2T3(L114)-2T4(L114)",
+        "prof": "Luis Octavio De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP63B",
+    "name": "Físico-Química Experimental",
+    "turmas": [
+      {
+        "turma": "BP31A",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(C003)-3M5(C003)",
+        "prof": "Luis Fernando Quintino Pereira Marchesi",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP31B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(C002)-3T4(C002)",
+        "prof": "Luis Fernando Quintino Pereira Marchesi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP65C",
+    "name": "Genética De Micro-Organismos",
+    "turmas": [
+      {
+        "turma": "BP51A",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M2(L114)-5M3(L114)-5M4(H004)-5M5(H004)",
+        "prof": "Juliana Vitoria Messias Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP66D",
+    "name": "Imunologia Geral",
+    "turmas": [
+      {
+        "turma": "BP61",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4M3(L106)-4M4(L106)-4M5(L106)",
+        "prof": "Simone Bowles",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP61B",
+    "name": "Introdução À Engenharia De Bioprocessos E Biotecnologia",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "39",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T4(L003)-3T5(L003)",
+        "prof": "Emanuele Elisa Hernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP67B",
+    "name": "Laboratório De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP71",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T1(D001)-5T1(H105)-5T2(H105)-5T2(D001)-5T3(H105)-5T3(D001)",
+        "prof": "Allan Valcareggi Morcelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP62A",
+    "name": "Microbiologia",
+    "turmas": [
+      {
+        "turma": "BP21A",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M2(C006)-3M3(C006)-5M3(L113)",
+        "prof": "Maria Carolina De Oliveira Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP21B",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(C006)-3M5(C006)-5M3(L113)",
+        "prof": "Maria Carolina De Oliveira Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP68C",
+    "name": "Modelagem E Simulação De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP81A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M2(C104)-5M2(L003)-5M3(C104)-5M3(L003)-5M4(L001)-5M4(C104)",
+        "prof": "Allan Valcareggi Morcelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP64A",
+    "name": "Métodos Analíticos De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP41A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5T2(C114)-5T3(C114)-5T4(C114)",
+        "prof": "Simone Bowles",
+        "opt": "Matriz:821"
+      }
+    ]
+  },
+  {
+    "code": "BP65E",
+    "name": "Métodos Instrumentais De Análise 1",
+    "turmas": [
+      {
+        "turma": "BP51A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M3(L105)-3M3(C005)-3M4(C005)-3M4(L105)-3M5(L105)-3M5(C005)",
+        "prof": "Aline Coqueiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP51B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T2(C005)-3T2(K106)-3T3(C005)-3T3(K106)-3T4(K106)-3T4(C005)",
+        "prof": "Aline Coqueiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60K",
+    "name": "Planejamento De Experimentos",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T1(LABOSP1)-3T2(LABOSP1)",
+        "prof": "Allan Valcareggi Morcelli",
+        "opt": "Matriz:827"
+      }
+    ]
+  },
+  {
+    "code": "BP60L",
+    "name": "Probióticos, Prebióticos E Simbióticos",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2N1(L113)-2N2(L113)",
+        "prof": "Emanuele Elisa Hernandes",
+        "opt": "Matriz:827"
+      }
+    ]
+  },
+  {
+    "code": "BP65D",
+    "name": "Processos Fermentativos Industriais",
+    "turmas": [
+      {
+        "turma": "BP51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2T1(L012)-2T2(L012)-2T3(L012)-4M4(L102)-4M5(L102)",
+        "prof": "Mariana Machado Fidelis Do Nascimento",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP61",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T1(D003)-2T2(D003)-2T3(D003)-4M4(D003)-4M5(D003)",
+        "prof": "Mariana Machado Fidelis Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP68D",
+    "name": "Projeto De Indústria De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP81",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "6M2(D002)-6M2(K107)-6M3(K107)-6M3(D002)-6M4(D002)-6M4(K107)-6M5(K107)-6M5(D002)-6T2(D002)-6T2(K107)-6T3(D002)-6T3(K107)-6T4(K107)-6T4(D002)-6T5(K107)-6T5(D002)",
+        "prof": "Alessandra Cristine Novak Sydney",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP64D",
+    "name": "Práticas Extensionistas E Divulgação Científica",
+    "turmas": [
+      {
+        "turma": "BP41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T4(C004)-3T4(K102)-3T5(C004)-3T5(K102)",
+        "prof": "Elisabete Hiromi Hashimoto",
+        "opt": "Não"
       }
     ]
   },
@@ -32,15 +619,167 @@
     "name": "Qualidade De Vida",
     "turmas": [
       {
-        "turma": "OPEE",
+        "turma": "OPTB",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "2T4(GINÁSIO)-2T5(GINÁSIO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      },
+      {
+        "turma": "OPTC",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3M2(GINÁSIO)-3M3(GINÁSIO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      },
+      {
+        "turma": "OPTD",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3M4(GINÁSIO)-3M5(GINÁSIO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      },
+      {
+        "turma": "OPTH",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "2T2(CAMPO)-2T3(CAMPO)",
+        "prof": "Adriana Aparecida Guimaraes",
+        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+      }
+    ]
+  },
+  {
+    "code": "BP62F",
+    "name": "Química Orgânica",
+    "turmas": [
+      {
+        "turma": "BP21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2M4(H104)-2M5(H104)-5M4(L104)-5M5(L104)",
+        "prof": "Luciano Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP63F",
+    "name": "Química Orgânica Experimental",
+    "turmas": [
+      {
+        "turma": "BP31A",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química",
+        "h": "3T2(C113)-3T4(C113)",
+        "prof": "Graciela Leila Heep",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "SESAT00H",
+    "name": "Segurança E Saúde Do Trabalho",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia Elétrica",
+        "h": "2T2(L011)-2T3(L011)",
+        "prof": "Ariel Orlei Michaloski",
+        "opt": "Matriz:844, Matriz:799, Matriz:827, Matriz:826, Matriz:814, Matriz:821"
+      }
+    ]
+  },
+  {
+    "code": "BP60N",
+    "name": "Sistemas Agroindustriais",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3N1(L101)-3N2(L101)",
+        "prof": "Luis Alberto Chavez Ayala",
+        "opt": "Matriz:827, Matriz:821"
+      }
+    ]
+  },
+  {
+    "code": "BP60O",
+    "name": "Tecnologia Da Produção De Cervejas Artesanais",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "20",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
-        "h": "4M4(GINÁSIO)-4M5(GINÁSIO)",
-        "prof": "Adriana Aparecida Guimaraes",
-        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:820, Matriz:822"
+        "h": "4T4(L114)-4T4(C010)-4T4(C008)-4T5(L114)-4T5(C010)-4T5(C008)",
+        "prof": "Luis Alberto Chavez Ayala",
+        "opt": "Matriz:827, Matriz:821"
+      }
+    ]
+  },
+  {
+    "code": "BP65A",
+    "name": "Termodinâmica",
+    "turmas": [
+      {
+        "turma": "BP51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "2T4(L107)-2T5(L107)-4T2(L002)-4T3(L002)",
+        "prof": "Maria Eduarda Kounaris Fuziki",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60R",
+    "name": "Toxicologia",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(L106)-3M5(L106)",
+        "prof": "Elisabete Hiromi Hashimoto",
+        "opt": "Matriz:827"
       }
     ]
   },
@@ -58,6 +797,57 @@
         "h": "",
         "prof": "Safi Amaro Monteiro",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60Q",
+    "name": "Tópicos Especiais Em Biotecnologia",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3N1(SLVIRTUAL2)-3N2(SLVIRTUAL2)",
+        "prof": "Elis Regina Duarte",
+        "opt": "Matriz:827, Matriz:802"
+      }
+    ]
+  },
+  {
+    "code": "BP60T",
+    "name": "Tópicos Gerais De Biodegradação Ou Biotransformação",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(SLVIRTUAL1)-2N2(SLVIRTUAL1)",
+        "prof": "Safi Amaro Monteiro, Mariana Machado Fidelis Do Nascimento",
+        "opt": "Matriz:827"
+      }
+    ]
+  },
+  {
+    "code": "BP60X",
+    "name": "Tópicos Em Engenharia Multidisciplinar",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(D001)-3T2(L001)-3T3(L001)-3T3(D001)",
+        "prof": "Elis Regina Duarte",
+        "opt": "Matriz:827"
       }
     ]
   }

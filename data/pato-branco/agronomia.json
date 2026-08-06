@@ -185,7 +185,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Agronomia",
-        "h": "2T2(O004)-2T3(O004)-2T4(O004)",
+        "h": "2T1(O004)-2T2(O004)-2T3(O004)",
         "prof": "Jose Ricardo Da Rocha Campos",
         "opt": "Matriz:639"
       }
@@ -1659,6 +1659,17 @@
         "h": "3M1(O005)-3M2(O005)",
         "prof": "Alcir Jose Modolo",
         "opt": "Não"
+      },
+      {
+        "turma": "5GSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Alcir Jose Modolo",
+        "opt": "Não"
       }
     ]
   },
@@ -2077,6 +2088,17 @@
         "h": "3M4(O001)-3M5(O001)",
         "prof": "Larissa Macedo Dos Santos Tonial",
         "opt": "Não"
+      },
+      {
+        "turma": "1GSP",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Larissa Macedo Dos Santos Tonial",
+        "opt": "Não"
       }
     ]
   },
@@ -2105,6 +2127,17 @@
         "h": "4M1(N003)-4M2(N003)-4M3(N003)",
         "prof": "Larissa Macedo Dos Santos Tonial",
         "opt": "Não"
+      },
+      {
+        "turma": "2GSP",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "",
+        "prof": "Larissa Macedo Dos Santos Tonial",
+        "opt": "Não"
       }
     ]
   },
@@ -2131,6 +2164,17 @@
         "res": "Aberta",
         "prio": "1 - Agronomia",
         "h": "4M2(O003)-4M3(O003)-6M3(O003)-6M4(O003)",
+        "prof": "Vacilania Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "3GSP",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "",
         "prof": "Vacilania Pacheco",
         "opt": "Não"
       }
@@ -2446,7 +2490,7 @@
         "res": "Aberta",
         "prio": "4 - Eng Cart Agrimensura",
         "h": "4N1(N011)-4N2(N011)-4N3(N011)-7M4(S001)",
-        "prof": "",
+        "prof": "Kaue De Moraes Vestena",
         "opt": "Não"
       }
     ]

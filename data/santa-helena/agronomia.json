@@ -230,7 +230,7 @@
         "res": "Sem Reserva",
         "prio": "1 - Agronomia",
         "h": "2T1(N16)-2T2(N16)",
-        "prof": "Glauco Vieira Miranda",
+        "prof": "Lucas Vinicius Dallacorte",
         "opt": "Não"
       }
     ]
@@ -298,7 +298,7 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "5M1(K8)-5M2(K8)-5M3(K8)-5M4(K8)",
-        "prof": "Glauco Vieira Miranda",
+        "prof": "Lucas Vinicius Dallacorte",
         "opt": "Não"
       },
       {
@@ -309,7 +309,7 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "5M1(K8)-5M2(K8)-5M5(K8)-5M6(K8)",
-        "prof": "Glauco Vieira Miranda",
+        "prof": "Lucas Vinicius Dallacorte",
         "opt": "Não"
       }
     ]
@@ -325,7 +325,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Agronomia",
-        "h": "3T2(K8)-3T3(K8)",
+        "h": "3T2(K8)-3T2(K8)-3T3(K8)-3T3(K8)",
         "prof": "Maura Gabriela Da Silva Brochado, Willie Anderson Dos Santos Vieira",
         "opt": "Não"
       }
@@ -382,7 +382,7 @@
         "res": "Sem Reserva",
         "prio": "1 - Agronomia",
         "h": "2M2(N16)-2M3(N16)-2M4(N16)",
-        "prof": "Glauco Vieira Miranda",
+        "prof": "Lucas Vinicius Dallacorte",
         "opt": "Não"
       }
     ]
@@ -464,8 +464,8 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
+        "res": "Aberta",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia, 3 - Ciências Biológicas",
         "h": "6T2(L7)-6T3(L7)",
         "prof": "Paula Regina Zarelli",
         "opt": "Matriz:11"
@@ -552,7 +552,7 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "5T2(K10)-5T3(K10)-5T4(K10)",
-        "prof": "Glauco Vieira Miranda",
+        "prof": "Lucas Vinicius Dallacorte",
         "opt": "Não"
       }
     ]
@@ -785,8 +785,8 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Aberta",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia, 3 - Ciências Biológicas",
         "h": "4T4(L10)-4T5(L10)",
         "prof": "Vera Lucia Vasilevski Dos Santos Araujo",
         "opt": "Matriz:11"
@@ -1119,12 +1119,23 @@
     "name": "Metodologia Da Pesquisa",
     "turmas": [
       {
+        "turma": "CB7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Biológicas, 2 - Ciência Da Computação, 3 - Agronomia",
+        "h": "5N1(L7)-5N2(L7)",
+        "prof": "Alexandre Meira De Vasconcelos",
+        "opt": "Matriz:11"
+      },
+      {
         "turma": "CC2",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
+        "res": "Aberta",
+        "prio": "1 - Ciência Da Computação, 2 - Ciências Biológicas, 3 - Agronomia",
         "h": "6M4(L5)-6M5(L5)",
         "prof": "Alexandre Meira De Vasconcelos",
         "opt": "Matriz:11"
@@ -1434,8 +1445,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
+        "res": "Aberta",
+        "prio": "1 - Ciência Da Computação, 2 - Agronomia, 3 - Ciências Biológicas",
         "h": "5T5(L7)-6T1(L7)",
         "prof": "Paula Regina Zarelli",
         "opt": "Matriz:11"
@@ -1453,8 +1464,8 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Agronomia",
-        "h": "3T4(K8)-3T5(K8)",
-        "prof": "Maura Gabriela Da Silva Brochado",
+        "h": "3T4(K8)-3T4(K8)-3T5(K8)-3T5(K8)",
+        "prof": "Maura Gabriela Da Silva Brochado, Willie Anderson Dos Santos Vieira",
         "opt": "Não"
       }
     ]

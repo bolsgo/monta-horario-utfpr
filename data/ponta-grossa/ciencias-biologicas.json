@@ -1,5 +1,22 @@
 [
   {
+    "code": "BP64B",
+    "name": "Bioquímica De Micro-Organismos",
+    "turmas": [
+      {
+        "turma": "BP41A",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4M4(L109)-4M5(L109)-4T2(C006)-4T3(C006)",
+        "prof": "Maria Carolina De Oliveira Ribeiro, Elisabete Hiromi Hashimoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CB03B",
     "name": "Ecologia Avançada",
     "turmas": [
@@ -13,6 +30,57 @@
         "h": "",
         "prof": "Igor De Paiva Affonso",
         "opt": "Matriz:804"
+      }
+    ]
+  },
+  {
+    "code": "BP65C",
+    "name": "Genética De Micro-Organismos",
+    "turmas": [
+      {
+        "turma": "BP51A",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M2(L114)-5M3(L114)-5M4(H004)-5M5(H004)",
+        "prof": "Juliana Vitoria Messias Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP66D",
+    "name": "Imunologia Geral",
+    "turmas": [
+      {
+        "turma": "BP61",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4M3(L106)-4M4(L106)-4M5(L106)",
+        "prof": "Simone Bowles",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60R",
+    "name": "Toxicologia",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(L106)-3M5(L106)",
+        "prof": "Elisabete Hiromi Hashimoto",
+        "opt": "Matriz:827"
       }
     ]
   },

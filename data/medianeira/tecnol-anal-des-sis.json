@@ -1,0 +1,19 @@
+[
+  {
+    "code": "MAT1010",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(I26)-4N2(I26)-4N3(I26)",
+        "prof": "Vanessa Hlenka",
+        "opt": "Não"
+      }
+    ]
+  }
+]

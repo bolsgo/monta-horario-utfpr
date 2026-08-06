@@ -140,6 +140,17 @@
     "name": "Economia Contemporânea",
     "turmas": [
       {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T2(03VIDEOCON)-4T3(03VIDEOCON)-7M5(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
+      {
         "turma": "OPPQ",
         "enq": "Presencial",
         "vt": "20",
@@ -149,6 +160,51 @@
         "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
         "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
+      {
+        "turma": "OPTI",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(03VIDEOCON)-3N3(03VIDEOCON)-7M4(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM020",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5M4(AVA)-5M5(AVA)",
+        "prof": "Sandra Regina Da Silva Pinela",
+        "opt": "Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35G",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(AVA)-2N5(AVA)",
+        "prof": "Sandra Regina Da Silva Pinela",
+        "opt": "Não"
       }
     ]
   },
@@ -166,6 +222,23 @@
         "h": "4N1(E103)-4N2(E103)-4N3(E103)",
         "prof": "Marcio Paulo De Oliveira",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Estudos Culturais E Relações Étnico-Raciais",
+    "turmas": [
+      {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
       }
     ]
   },
@@ -306,6 +379,74 @@
     ]
   },
   {
+    "code": "TSIN33G",
+    "name": "História Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(E204)-4N3(E204)-7M6(AVA)",
+        "prof": "Cezar Ricardo De Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM009",
+    "name": "Inglês 1",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(C306)-3M3(C306)-5M2(C306)-5M3(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM010",
+    "name": "Inglês 2",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(C306)-3T2(C306)-5T1(C306)-5T2(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM012",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(C306)-3M5(C306)-5M4(C306)-5M5(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TPQ55A",
     "name": "Instalações Industriais",
     "turmas": [
@@ -336,6 +477,40 @@
         "h": "2N4(E106)-2N5(E106)-6N1(E106)-6N2(E106)",
         "prof": "Michelle Maria Detoni Zanette",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34G",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
+        "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM014",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T5(C307)-3T6(C307)-4T5(C307)-4T6(C307)",
+        "prof": "Aline Keryn Pin",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
       }
     ]
   },
@@ -565,6 +740,28 @@
     "name": "Soft Skills",
     "turmas": [
       {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(C205)-4T6(C205)-7M2(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "OPBPA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M4(E205)-5M5(E205)-7M5(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
         "turma": "OPPQ",
         "enq": "Presencial",
         "vt": "15",
@@ -572,6 +769,17 @@
         "res": "Aberta",
         "prio": "1 - Tec. Proc. Quím.",
         "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E204)-3N3(E204)-7M3(AVA)",
         "prof": "",
         "opt": "Matriz:21, Matriz:60, Matriz:58"
       }

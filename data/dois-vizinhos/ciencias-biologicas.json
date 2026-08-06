@@ -537,7 +537,7 @@
         "prio": "1 - Ciências Biológicas",
         "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
         "prof": "Anelize Queiroz Amaral",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -882,7 +882,7 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "5N3(B3-S2)-5N4(B3-S2)-5N5(B3-S2)",
         "prof": "Jucelaine Haas",
-        "opt": "Matriz:35, Matriz:53, Matriz:58"
+        "opt": "Matriz:35, Matriz:53, Matriz:21, Matriz:58"
       }
     ]
   },
@@ -1690,7 +1690,7 @@
         "prio": "1 - Ciências Biológicas",
         "h": "3N4(B5-S1)-3N5(B5-S1)",
         "prof": "Jucelaine Haas",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   }

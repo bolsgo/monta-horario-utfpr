@@ -1,5 +1,22 @@
 [
   {
+    "code": "PRO1053",
+    "name": "Administração",
+    "turmas": [
+      {
+        "turma": "TECNOLOG",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Tecnol.Manut.Indl.",
+        "h": "4N4(H610)-4N5(H610)-6N1(H610)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1044",
     "name": "Análise De Alimentos",
     "turmas": [
@@ -12,6 +29,23 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "3N1(H35)-3N2(H35)-3N3(H35)",
         "prof": "Deisy Alessandra Drunkler",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1076",
+    "name": "Análise Instrumental",
+    "turmas": [
+      {
+        "turma": "TAL3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N4(H35)-5N5(H35)-6N3(L26A)-6N4(L26A)",
+        "prof": "Angela Claudia Rodrigues",
         "opt": "Não"
       }
     ]
@@ -181,6 +215,40 @@
     ]
   },
   {
+    "code": "PRO1054",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "TECNOLOG",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Tecnol.Manut.Indl.",
+        "h": "6N3(H611)-6N4(H611)-6N5(H611)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1012",
+    "name": "Estatística Experimental",
+    "turmas": [
+      {
+        "turma": "AGR2TA3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Gestão Do Agronegócio",
+        "h": "2N4(I21)-2N5(I21)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
@@ -198,8 +266,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -288,6 +356,40 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "4N1(I12)-4N2(I12)-6N1(I12)-6N2(I12)",
         "prof": "Daiane Cristina Lenhard",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1007",
+    "name": "Física",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(L23)-2N2(L23)-5N1(L23)-5N2(L23)",
+        "prof": "Fabio Rogerio Longen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1060",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "6N3(L23)-6N4(L23)-6N5(L23)",
+        "prof": "Jose Goncales Filho",
         "opt": "Não"
       }
     ]
@@ -786,6 +888,23 @@
     ]
   },
   {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "HLA1007",
     "name": "Psicologia E Desenvolvimento Humano",
     "turmas": [
@@ -814,6 +933,23 @@
     ]
   },
   {
+    "code": "QUI1059",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N4(L23)-2N5(L23)-3N1(L24A)-3N2(L24A)",
+        "prof": "Juliane Maria Bergamin Bocardi, Angela Claudia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1061",
     "name": "Química Geral E Inorgânica",
     "turmas": [
@@ -831,6 +967,23 @@
     ]
   },
   {
+    "code": "QUI1005",
+    "name": "Química Instrumental",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M4(I44)-2M5(I44)-3M2(I44)-3M3(I44)",
+        "prof": "Marcos Andre Bechlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1062",
     "name": "Química Orgânica",
     "turmas": [
@@ -843,6 +996,23 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "4N3(I11)-4N4(I11)-4N5(I11)-5N3(I11)",
         "prof": "Michelle Budke Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1063",
+    "name": "Química Orgânica Experimental",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N1(L25A)-4N2(L25A)-4N3(L25A)",
+        "prof": "Tainara Orlando",
         "opt": "Não"
       }
     ]

@@ -219,6 +219,23 @@
     ]
   },
   {
+    "code": "CS47CV",
+    "name": "Construções Sustentáveis",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4M2(O-202)-4M3(O-202)-4M4(O-202)-4M5(O-202)",
+        "prof": "Paulo Cezar Vitorio Junior",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
     "code": "CT43MC",
     "name": "Custos",
     "turmas": [
@@ -1828,6 +1845,23 @@
     ]
   },
   {
+    "code": "IM47CV",
+    "name": "Introdução À Modelagem Hidrológica E Hidráulica",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "6M1(M105)-6M2(M105)-6M3(M105)",
+        "prof": "Cesar Augusto Medeiros Destro",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
     "code": "LB26M",
     "name": "Libras 2",
     "turmas": [
@@ -2132,6 +2166,23 @@
     ]
   },
   {
+    "code": "NR47CV",
+    "name": "Noções De Recuperação De Áreas Degradadas",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4N4(M003)-4N5(M003)",
+        "prof": "Vaneza Andrea Lima De Freitas",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
     "code": "PN29CV",
     "name": "Pontes",
     "turmas": [
@@ -2279,6 +2330,23 @@
         "h": "",
         "prof": "Danilo Rinaldi Bisconsini",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PE47CV",
+    "name": "Projetos Arquitetônicos Utilizando Estratégias Bioclimáticas",
+    "turmas": [
+      {
+        "turma": "REDE",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T4(S001)-3T4(S001)-3T5(S001)-3T5(S001)-5T4(S001)-5T4(S001)-5T5(S001)-5T5(S001)",
+        "prof": "Eduardo Leite Kruger, Jose Alberto Cerri",
+        "opt": "Matriz:636"
       }
     ]
   },
@@ -2704,7 +2772,7 @@
         "res": "Aberta",
         "prio": "4 - Eng Cart Agrimensura",
         "h": "4N1(N011)-4N2(N011)-4N3(N011)-7M4(S001)",
-        "prof": "",
+        "prof": "Kaue De Moraes Vestena",
         "opt": "Não"
       }
     ]

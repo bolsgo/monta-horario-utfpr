@@ -268,6 +268,17 @@
         "h": "3M1(A145)-3M2(A145)-3M3(A145)-5M2(A145)-5M3(A145)",
         "prof": "Fabio Rodrigo Mandello Rodrigues",
         "opt": "Não"
+      },
+      {
+        "turma": "M72",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "3M1(A145)-3M2(A145)-3M3(A145)-4M4(P201)-4M5(P201)",
+        "prof": "Fabio Rodrigo Mandello Rodrigues",
+        "opt": "Não"
       }
     ]
   },
@@ -447,6 +458,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "3T2(A136)-3T3(A136)",
+        "prof": "Jose Pedro Tomadon Veiga Mello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM35A",
+    "name": "Gestão Da Produção",
+    "turmas": [
+      {
+        "turma": "M51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  Mecanica",
+        "h": "2M2(A038)-2M3(A038)",
         "prof": "Jose Pedro Tomadon Veiga Mello",
         "opt": "Não"
       }

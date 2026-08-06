@@ -1,8 +1,308 @@
 [
   {
+    "code": "TSIN33D",
+    "name": "Análise E Projeto De Sistemas",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N4(E303LINF2)-4N5(E303LINF2)-5N4(E303LINF2)-5N5(E303LINF2)",
+        "prof": "Suzan Kelly Borges Piovesan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35B",
+    "name": "Apis E Web Services",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(E305LINF5)-4N3(E305LINF5)-5N4(E305LINF5)-5N5(E305LINF5)",
+        "prof": "Ivan Luiz Salvadori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36B",
+    "name": "Arquitetura De Sistemas Distribuídos",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(C201LINF3)-2N5(C201LINF3)",
+        "prof": "Alexandre Huff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP44D",
+    "name": "Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T3(E307LREDES)-2T4(E307LREDES)-3T3(E303LINF2)-3T4(E303LINF2)",
+        "prof": "Sidgley Camargo De Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34D",
+    "name": "Banco De Dados Nosql",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N4(E305LINF5)-4N5(E305LINF5)-6N4(E305LINF5)-6N5(E305LINF5)",
+        "prof": "Ivan Luiz Salvadori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32D",
+    "name": "Banco De Dados Relacional",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N2(E307LREDES)-2N3(E307LREDES)-2N4(E307LREDES)-2N5(E307LREDES)",
+        "prof": "Sidgley Camargo De Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31F",
+    "name": "Computação E Sociedade",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E302LINF1)-3N3(E302LINF1)",
+        "prof": "Marcelo Alexandre Da Cruz Ismael",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35E",
+    "name": "Computação Em Nuvem",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N2(E306LINF6)-2N3(E306LINF6)",
+        "prof": "Alexandre Huff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36A",
+    "name": "Computação Ubíqua E Internet Das Coisas",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(C201LINF3)-4N3(C201LINF3)",
+        "prof": "Fabio Engel De Camargo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34E",
+    "name": "Conteinerização",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N2(E305LINF5)-5N3(E305LINF5)",
+        "prof": "Fabio Engel De Camargo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34C",
+    "name": "Desenvolvimento De Aplicações Móveis 1",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(E306LINF6)-4N3(E306LINF6)-6N2(E306LINF6)-6N3(E306LINF6)",
+        "prof": "Roberto Milton Scheffel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35C",
+    "name": "Desenvolvimento De Aplicações Móveis 2",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E306LINF6)-3N3(E306LINF6)-4N4(E306LINF6)-4N5(E306LINF6)",
+        "prof": "Roberto Milton Scheffel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33B",
+    "name": "Desenvolvimento Web Back-End 1",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N2(E303LINF2)-2N3(E303LINF2)-6N4(E303LINF2)-6N5(E303LINF2)",
+        "prof": "Marcelo Alexandre Da Cruz Ismael",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34B",
+    "name": "Desenvolvimento Web Back-End 2",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(E305LINF5)-2N5(E305LINF5)-3N4(E305LINF5)-3N5(E305LINF5)",
+        "prof": "Marcelo Alexandre Da Cruz Ismael",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31B",
+    "name": "Desenvolvimento Web Front-End 1",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N4(E302LINF1)-4N5(E302LINF1)-5N4(E302LINF1)-5N5(E302LINF1)",
+        "prof": "Eduardo Pezutti Beletato Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32B",
+    "name": "Desenvolvimento Web Front-End 2",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E307LREDES)-3N3(E307LREDES)-4N2(E307LREDES)-4N3(E307LREDES)",
+        "prof": "Eduardo Pezutti Beletato Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31C",
+    "name": "Design Gráfico",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "6N2(E302LINF1)-6N3(E302LINF1)",
+        "prof": "Eduardo Pezutti Beletato Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM002",
     "name": "Economia Contemporânea",
     "turmas": [
+      {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T2(03VIDEOCON)-4T3(03VIDEOCON)-7M5(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
       {
         "turma": "OPPQ",
         "enq": "Presencial",
@@ -11,6 +311,17 @@
         "res": "Aberta",
         "prio": "1 - Tec. Proc. Quím.",
         "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      },
+      {
+        "turma": "OPTI",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(03VIDEOCON)-3N3(03VIDEOCON)-7M4(AVA)",
         "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
       }
@@ -34,9 +345,558 @@
     ]
   },
   {
+    "code": "TSIN35G",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(AVA)-2N5(AVA)",
+        "prof": "Sandra Regina Da Silva Pinela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33A",
+    "name": "Estrutura, Pesquisa E Ordenação De Dados",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N4(E303LINF2)-3N5(E303LINF2)-6N2(E303LINF2)-6N3(E303LINF2)",
+        "prof": "Jeferson Jose Baqueta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM006",
+    "name": "Estudos Culturais E Relações Étnico-Raciais",
+    "turmas": [
+      {
+        "turma": "OPCP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36D",
+    "name": "Fundamentos De Ciência De Dados",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N4(C201LINF3)-5N5(C201LINF3)",
+        "prof": "Fabio Alexandre Spanhol",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33C",
+    "name": "Fundamentos De Estatística",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N2(E303LINF2)-5N3(E303LINF2)",
+        "prof": "Marcio Paulo De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31E",
+    "name": "Fundamentos De Interface De Linha De Comando",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N2(E302LINF1)-2N3(E302LINF1)",
+        "prof": "Fabio Alexandre Spanhol",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP44C",
+    "name": "Fundamentos De Orientação A Objetos",
+    "turmas": [
+      {
+        "turma": "CP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T5(E302LINF1)-4T6(E302LINF1)-5T5(E302LINF1)-5T6(E302LINF1)",
+        "prof": "Ricardo Tavares De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31A",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N4(E302LINF1)-3N5(E302LINF1)-4N2(E302LINF1)-4N3(E302LINF1)-5N2(E302LINF1)-5N3(E302LINF1)",
+        "prof": "Rosane Fatima Passarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34A",
+    "name": "Fundamentos De Programação Concorrente",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N4(E306LINF6)-5N5(E306LINF6)",
+        "prof": "Alexandre Huff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32A",
+    "name": "Fundamentos De Programação Orientada A Objetos",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N4(E307LREDES)-3N5(E307LREDES)-5N4(E307LREDES)-5N5(E307LREDES)",
+        "prof": "Vilson Luiz Dalle Mole",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32F",
+    "name": "Fundamentos De Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N4(E307LREDES)-4N5(E307LREDES)-6N2(E307LREDES)-6N3(E307LREDES)",
+        "prof": "Fabio Engel De Camargo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35A",
+    "name": "Fundamentos De Segurança Computacional",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "6N4(E306LINF6)-6N5(E306LINF6)",
+        "prof": "Fabio Engel De Camargo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32E",
+    "name": "Fundamentos De Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N2(E307LREDES)-5N3(E307LREDES)",
+        "prof": "Fabio Alexandre Spanhol",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36E",
+    "name": "Gerenciamento De Configuração E Infraestrutura Como Código",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N2(C201LINF3)-5N3(C201LINF3)",
+        "prof": "Alexandre Huff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36G",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N2(AVA)-2N3(AVA)",
+        "prof": "Sandra Regina Da Silva Pinela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33G",
+    "name": "História Da Tecnologia",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N2(E204)-4N3(E204)-7M6(AVA)",
+        "prof": "Cezar Ricardo De Freitas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM009",
+    "name": "Inglês 1",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M2(C306)-3M3(C306)-5M2(C306)-5M3(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM010",
+    "name": "Inglês 2",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "11",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(C306)-3T2(C306)-5T1(C306)-5T2(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "HUM012",
+    "name": "Inglês 4",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3M4(C306)-3M5(C306)-5M4(C306)-5M5(C306)",
+        "prof": "Lucielen Porfirio",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TSIN32C",
+    "name": "Interface Humano Computador",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "6N4(E307LREDES)-6N5(E307LREDES)",
+        "prof": "Eduardo Pezutti Beletato Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34G",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
+        "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM014",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T5(C307)-3T6(C307)-4T5(C307)-4T6(C307)",
+        "prof": "Aline Keryn Pin",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "ECP46E",
+    "name": "Organização E Arquitetura De Computadores",
+    "turmas": [
+      {
+        "turma": "CP64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2M4(E303LINF2)-2M5(E303LINF2)-5M4(E302LINF1)-5M5(E302LINF1)",
+        "prof": "Evandro Da Silva Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31D",
+    "name": "Organização E Arquitetura De Computadores",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(E302LINF1)-2N5(E302LINF1)",
+        "prof": "Fabio Engel De Camargo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP43A",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "CP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T1(E205)-3T2(E205)-6T1(E204)-6T2(E204)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET42A",
+    "name": "Probabilidade E Estatística",
+    "turmas": [
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T5(C206)-3T6(C206)-5T4(C202LINF4)-5T5(C202LINF4)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN34F",
+    "name": "Processo De Desenvolvimento De Software",
+    "turmas": [
+      {
+        "turma": "SI43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E305LINF5)-3N3(E305LINF5)",
+        "prof": "Vilson Luiz Dalle Mole",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35D",
+    "name": "Recuperação, Integração E Reuso De Dados",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "5N2(E306LINF6)-5N3(E306LINF6)-6N2(E305LINF5)-6N3(E305LINF5)",
+        "prof": "Ivan Luiz Salvadori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP47B",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T1(E302LINF1)-3T2(E302LINF1)-4T1(E307LREDES)-4T2(E307LREDES)",
+        "prof": "Alvaro Ricieri Castro E Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP48A",
+    "name": "Segurança Computacional",
+    "turmas": [
+      {
+        "turma": "CP84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T3(E302LINF1)-2T4(E302LINF1)-4T3(E302LINF1)-4T4(E302LINF1)",
+        "prof": "Alexandre Augusto Giron",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP47D",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "CP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5T3(E302LINF1)-5T4(E302LINF1)-6T3(E302LINF1)-6T4(E302LINF1)",
+        "prof": "Alexandre Augusto Giron",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM041",
     "name": "Soft Skills",
     "turmas": [
+      {
+        "turma": "OPBP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N1(C205)-4T6(C205)-7M2(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "OPBPA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5M4(E205)-5M5(E205)-7M5(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
       {
         "turma": "OPPQ",
         "enq": "Presencial",
@@ -47,6 +907,51 @@
         "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
         "prof": "",
         "opt": "Matriz:21, Matriz:60, Matriz:58"
+      },
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N2(E204)-3N3(E204)-7M3(AVA)",
+        "prof": "",
+        "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "TSIN36C",
+    "name": "Teste De Software",
+    "turmas": [
+      {
+        "turma": "SI63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "4N4(C201LINF3)-4N5(C201LINF3)",
+        "prof": "Vilson Luiz Dalle Mole",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN35F",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "SI53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N4(E306LINF6)-3N5(E306LINF6)-7M5(AVA)-7M6(AVA)",
+        "prof": "Alexandre Huff",
+        "opt": "Não"
       }
     ]
   },
@@ -80,6 +985,23 @@
         "prio": "1 - Sist. Para Internet",
         "h": "",
         "prof": "Roberto Milton Scheffel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN33E",
+    "name": "Virtualização, Configuração E Gestão De Serviços Para Internet",
+    "turmas": [
+      {
+        "turma": "SI33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "2N4(E303LINF2)-2N5(E303LINF2)",
+        "prof": "Fabio Alexandre Spanhol",
         "opt": "Não"
       }
     ]

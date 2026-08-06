@@ -1,5 +1,158 @@
 [
   {
+    "code": "ELE1050",
+    "name": "Acionamentos De Máquinas",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(J43)-4N2(J43)-4N3(J43)-5N4(J43)-5N5(J43)",
+        "prof": "Amauri Massochin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1054",
+    "name": "Acionamentos Industriais Por Clp",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N4(J44)-2N5(J44)-3N1(J44)-3N2(J44)-3N3(J44)",
+        "prof": "Giovano Mayer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1053",
+    "name": "Administração",
+    "turmas": [
+      {
+        "turma": "TECNOLOG",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Tecnol.Manut.Indl.",
+        "h": "4N4(H610)-4N5(H610)-6N1(H610)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1027",
+    "name": "Análise De Falhas Mecânicas",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N4(J21)-2N5(J21)",
+        "prof": "Anderson Miguel Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1053",
+    "name": "Análise De Projetos Elétricos Industriais",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N1(I21)-2N2(I21)-2N3(I21)",
+        "prof": "Ismael Burgardt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1047",
+    "name": "Análise De Projetos Elétricos Prediais",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N2(J43)-3N1(J47)-3N2(J47)",
+        "prof": "Katiani Pereira Da Conceicao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1015",
+    "name": "Bombas E Tubulações",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N3(J35)-2N4(J35)-2N5(J35)",
+        "prof": "Thiago Destri Cabral",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "MEC1030",
+    "name": "Desenho De Montagem E Detalhamento Mecânico",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N1(J22)-2N2(J22)-2N3(J22)",
+        "prof": "Paulo Cesar Tonin",
+        "opt": "Matriz:659"
+      }
+    ]
+  },
+  {
+    "code": "MEC1012",
+    "name": "Desenho Mecânico Em Cad 3d",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N3(J22)-3N4(J22)-3N5(J22)",
+        "prof": "Paulo Cesar Tonin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MEC1008",
     "name": "Desenho Técnico",
     "turmas": [
@@ -12,6 +165,142 @@
         "prio": "1 - Tecnol.Manut.Indl.",
         "h": "5N3(I25)-5N4(I25)-5N5(I25)",
         "prof": "Paulo Cesar Tonin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1052",
+    "name": "Elementos De Eletrônica Digital",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl., 2 - Ciência Computação",
+        "h": "3N4(J41)-3N5(J41)-4N4(J41)-4N5(J41)",
+        "prof": "Cristiane Lionco De Oliveira, Thiago Naufal Santelo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1014",
+    "name": "Elementos De Máquinas",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N3(J27)-3N4(J27)-3N5(J27)",
+        "prof": "Igor Seicho Kiyomura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1044",
+    "name": "Eletricidade",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N1(J43)-3N2(J43)-6N2(J43)-6N3(J43)-6N4(J43)",
+        "prof": "Edson Andreoli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1049",
+    "name": "Eletrônica",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(J49)-5N2(J49)-6N1(J47)-6N2(J47)",
+        "prof": "Alexandre Victor Casella",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1051",
+    "name": "Eletrônica Industrial",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N1(J47)-2N2(J47)-6N4(J47)-6N5(J47)",
+        "prof": "Filipe Marangoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1054",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "TECNOLOG",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Tecnol.Manut.Indl.",
+        "h": "6N3(H611)-6N4(H611)-6N5(H611)",
+        "prof": "Neron Alipio Cortes Berghauser",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1018",
+    "name": "Ensaios Destrutivos E Não Destrutivos",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "6N1(J21)-6N2(J21)-6N3(J21)",
+        "prof": "Marlos Wander Grigoleto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1010",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(I26)-4N2(I26)-4N3(I26)",
+        "prof": "Vanessa Hlenka",
         "opt": "Não"
       }
     ]
@@ -34,8 +323,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -118,6 +407,57 @@
         "prio": "1 - Tecnol.Manut.Indl.",
         "h": "6N1(I16)-6N2(I16)-6N3(I16)",
         "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1019",
+    "name": "Geração E Distribuição De Vapor",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N3(J42)-2N4(J42)-2N5(J42)",
+        "prof": "Dirceu De Melo",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "ELE1057",
+    "name": "Gerenciamento E Conservação De Energia",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(J44)-5N2(J44)-5N3(J44)",
+        "prof": "Edson Andreoli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1016",
+    "name": "Gestão Da Qualidade Na Manutenção",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(H610)-5N2(H610)-5N3(H610)",
+        "prof": "Edilson Chibiaqui",
         "opt": "Não"
       }
     ]
@@ -212,6 +552,23 @@
     ]
   },
   {
+    "code": "ELE1046",
+    "name": "Instalações Elétricas Prediais",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "2N1(J27)-2N2(J27)-5N4(J27)-5N5(J27)",
+        "prof": "Yuri Ferruzzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ELE1045",
     "name": "Instrumentos E Medidas",
     "turmas": [
@@ -258,6 +615,23 @@
         "prio": "1 - Tecnol.Manut.Indl.",
         "h": "3N1(J35)-3N2(J35)",
         "prof": "Igor Fernando Basso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1013",
+    "name": "Laboratório De Processos Mecânicos",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N3(J25)-4N4(J25)-4N5(J25)",
+        "prof": "Ivair Marchetti",
         "opt": "Não"
       }
     ]
@@ -363,6 +737,159 @@
     ]
   },
   {
+    "code": "MEC1020",
+    "name": "Lubrificação",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N4(J21)-3N5(J21)",
+        "prof": "Anderson Miguel Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1056",
+    "name": "Manutenção De Instalações Elétricas Prediais E Industriais",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N3(J47)-4N4(J47)-4N5(J47)",
+        "prof": "Ismael Burgardt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1055",
+    "name": "Manutenção Eletrônica",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(J41)-4N2(J41)-4N3(J41)",
+        "prof": "Alberto Noboru Miyadaira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1023",
+    "name": "Manutenção Em Sistemas De Refrigeração E Ar Condicionado",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "6N3(J35)-6N4(J35)-6N5(J35)",
+        "prof": "Anderson Miguel Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1024",
+    "name": "Manutenção Industrial",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N4(J22)-5N5(J22)-6N1(J22)-6N2(J22)",
+        "prof": "Anderson Miguel Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1021",
+    "name": "Manutenção Preditiva",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N4(J21)-4N5(J21)-6N1(J24)-6N2(J24)",
+        "prof": "Igor Fernando Basso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1048",
+    "name": "Máquinas Elétricas",
+    "turmas": [
+      {
+        "turma": "TMI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "4N1(J28)-4N2(J28)-5N3(J28)-5N4(J28)-5N5(J28)",
+        "prof": "Marcos Fischborn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1022",
+    "name": "Processos De Fabricação Mecânica",
+    "turmas": [
+      {
+        "turma": "TMI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(J25)-5N2(J25)-5N3(J25)",
+        "prof": "Ivair Marchetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "HLA1007",
     "name": "Psicologia E Desenvolvimento Humano",
     "turmas": [
@@ -408,6 +935,23 @@
     ]
   },
   {
+    "code": "MEC1011",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "TMI2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "5N1(J21)-5N2(J21)-5N3(J21)",
+        "prof": "Marlos Wander Grigoleto",
+        "opt": "Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "ELE1043",
     "name": "Segurança No Trabalho E Meio Ambiente",
     "turmas": [
@@ -420,6 +964,40 @@
         "prio": "1 - Tecnol.Manut.Indl., 1 - Química Industrial",
         "h": "2N4(I16)-2N5(I16)",
         "prof": "Yuri Ferruzzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1017",
+    "name": "Sistemas De Manutenção",
+    "turmas": [
+      {
+        "turma": "TMI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N1(J21)-3N2(J21)-3N3(J21)",
+        "prof": "Marlos Wander Grigoleto",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "MEC1025",
+    "name": "Sistemas Hidráulicos E Pneumáticos",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N1(J42)-3N2(J42)-4N1(J42)-4N2(J42)",
+        "prof": "Dirceu De Melo",
         "opt": "Não"
       }
     ]
@@ -442,6 +1020,23 @@
     ]
   },
   {
+    "code": "MEC1028",
+    "name": "Soldagem Para Manutenção",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "6N3(J25)-6N4(J25)-6N5(J25)",
+        "prof": "Ivair Marchetti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MEC1010",
     "name": "Tecnologia Dos Materiais",
     "turmas": [
@@ -454,6 +1049,23 @@
         "prio": "1 - Tecnol.Manut.Indl.",
         "h": "4N1(J21)-4N2(J21)-4N3(J21)",
         "prof": "Igor Seicho Kiyomura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1026",
+    "name": "Usinagem Por Cnc",
+    "turmas": [
+      {
+        "turma": "TMI6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Manut.Indl.",
+        "h": "3N3(J25B)-3N4(J25B)-3N5(J25B)",
+        "prof": "Ivair Marchetti, Igor Fernando Basso",
         "opt": "Não"
       }
     ]

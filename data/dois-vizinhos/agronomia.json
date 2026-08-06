@@ -1093,7 +1093,7 @@
         "prio": "1 - Ciências Biológicas",
         "h": "6N1(B5-S3)-6N2(B5-S3)-6N3(B5-S3)",
         "prof": "Anelize Queiroz Amaral",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1500,7 +1500,7 @@
         "prio": "1 - Agronomia",
         "h": "4M2(B5-S5)-4M3(B5-S5)-5M4(B5-S5)-5M5(B5-S5)",
         "prof": "Laercio Ricardo Sartor",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -1568,7 +1568,7 @@
         "prio": "1 - Agronomia",
         "h": "3M1(B5-S5)-3M2(B5-S5)-3M3(LABMULT2)-3M4(LABMULT2)",
         "prof": "Sergio Miguel Mazaro",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2061,7 +2061,7 @@
         "prio": "1 - Biologia Bacharelado",
         "h": "5N3(B3-S2)-5N4(B3-S2)-5N5(B3-S2)",
         "prof": "Jucelaine Haas",
-        "opt": "Matriz:35, Matriz:53, Matriz:58"
+        "opt": "Matriz:35, Matriz:53, Matriz:21, Matriz:58"
       }
     ]
   },
@@ -2344,7 +2344,7 @@
         "prio": "1 - Zootecnia",
         "h": "3M4(B6-S5)-3M5(B6-S5)-4T1(B6-S2)-4T2(B6-S2)",
         "prof": "Fabiana Martins Costa",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2593,7 +2593,7 @@
         "prio": "1 - Agronomia",
         "h": "4M3(B5-S2)-4M4(B5-S2)-4M5(B5-S2)-6T2(LABFISIOLO)-6T3(LABFISIOLO)",
         "prof": "Pedro Valerio Dutra De Moraes",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "2AG2",
@@ -2604,7 +2604,7 @@
         "prio": "1 - Agronomia",
         "h": "4M3(B5-S2)-4M4(B5-S2)-4M5(B5-S2)-6T4(LABFISIOLO)-6T5(LABFISIOLO)",
         "prof": "Pedro Valerio Dutra De Moraes",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -2773,7 +2773,7 @@
         "prio": "1 - Agronomia",
         "h": "3M2(B5-S2)-3M3(B5-S2)-3M4(B5-S2)",
         "prof": "Taciara Zborowski Horst",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "2AG2",
@@ -2784,7 +2784,7 @@
         "prio": "1 - Agronomia",
         "h": "3M2(B5-S2)-3M3(B5-S2)-3M5(B5-S2)",
         "prof": "Taciara Zborowski Horst",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -3173,7 +3173,7 @@
         "prio": "1 - Agronomia",
         "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T4(B5-S3)-5T4(B5-S3)",
         "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "3AG2",
@@ -3184,7 +3184,7 @@
         "prio": "1 - Agronomia",
         "h": "4T4(B5-S3)-4T4(B5-S3)-4T5(B5-S3)-4T5(B5-S3)-5T5(B5-S3)-5T5(B5-S3)",
         "prof": "Elisandra Pocojeski, Andre Pellegrini",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -3201,7 +3201,7 @@
         "prio": "1 - Agronomia",
         "h": "3M3(B5-S4)-3M4(B5-S4)",
         "prof": "Joel Donazzolo",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       },
       {
         "turma": "4AG2",
@@ -3212,7 +3212,7 @@
         "prio": "1 - Agronomia",
         "h": "3M3(B5-S4)-3M5(B5-S4)",
         "prof": "Joel Donazzolo",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -3263,7 +3263,7 @@
         "prio": "1 - Eng. Florestal",
         "h": "4M4(LABSEMENTE)-4M5(LABSEMENTE)-4M6(LABSEMENTE)",
         "prof": "Daniela Cleide Azevedo De Abreu",
-        "opt": "Matriz:53"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },
@@ -3534,7 +3534,7 @@
         "prio": "1 - Agronomia",
         "h": "6M2(B7-S8)-6M2(B7-S8)-6M3(B7-S8)-6M3(B7-S8)-6M4(B7-S8)-6M4(B7-S8)-6M5(B7-S8)-6M5(B7-S8)",
         "prof": "Celso Eduardo Pereira Ramos, Joel Donazzolo",
-        "opt": "Não"
+        "opt": "Matriz:53, Matriz:21"
       }
     ]
   },

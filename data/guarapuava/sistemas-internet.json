@@ -248,7 +248,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Sistemas Internet",
-        "h": "2N3(LABB8INF)-2N4(LABB8INF)",
+        "h": "2N3(SALAF6)-2N4(SALAF6)",
         "prof": "Adriano Martins De Souza",
         "opt": "Não"
       }
@@ -261,7 +261,7 @@
       {
         "turma": "TSI2",
         "enq": "Presencial",
-        "vt": "40",
+        "vt": "20",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Sistemas Internet",
@@ -381,84 +381,6 @@
         "h": "2N1(SALAB11)-2N2(SALAB11)",
         "prof": "Carlos Eduardo Andrade Iatskiu",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HUM1G",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUCI",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "3T2(SALAH209)-3T3(SALAH209)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
-      },
-      {
-        "turma": "HUME",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecânica",
-        "h": "2T5(SALAH209)-2T6(SALAH209)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
-      },
-      {
-        "turma": "HUMT",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "2T5(SALAH207)-2T6(SALAH207)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
-      }
-    ]
-  },
-  {
-    "code": "HUM1H",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "HUCI",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "3T5(SALAH209)-3T6(SALAH209)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
-      },
-      {
-        "turma": "HUME",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecânica",
-        "h": "2T2(SALAH209)-2T3(SALAH209)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
-      },
-      {
-        "turma": "HUMT",
-        "enq": "Presencial",
-        "vt": "17",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3T5(SALAH207)-3T6(SALAH207)",
-        "prof": "Vilmar Fernando Carvalho Ferreira De Almeida",
-        "opt": "Matriz:25, Matriz:20, Matriz:16, Matriz:27, Matriz:22, Matriz:17, Matriz:15, Matriz:19"
       }
     ]
   },
@@ -616,7 +538,7 @@
       {
         "turma": "TSI4",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Sistemas Internet",

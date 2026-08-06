@@ -1,5 +1,22 @@
 [
   {
+    "code": "PRO1070",
+    "name": "Análise De Viabilidade Econômica De Projetos",
+    "turmas": [
+      {
+        "turma": "AMB8",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5T1(I44)-5T2(I44)",
+        "prof": "Lotario Fank",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1032",
     "name": "Aplicações Em Engenharia Ambiental E Sanitária",
     "turmas": [
@@ -85,6 +102,23 @@
     ]
   },
   {
+    "code": "PRO1031",
+    "name": "Controle Estatístico De Processos",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M3(H610)-3M4(H610)-3M5(H610)",
+        "prof": "Levi Lopes Teixeira",
+        "opt": "Matriz:660, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "MAT1008",
     "name": "Descrição E Inferência Estatística De Dados",
     "turmas": [
@@ -163,11 +197,28 @@
       {
         "turma": "EP1",
         "enq": "Presencial",
-        "vt": "48",
+        "vt": "54",
         "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "prio": "1 - Engenharia Alimentos, 2 - Eng.Produção",
         "h": "2M1(I21)-2M2(I21)-2M3(I21)",
+        "prof": "Carlos Aparecido Fernandes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1034",
+    "name": "Desenho Técnico E Universal",
+    "turmas": [
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "6N3(I21)-6N4(I21)-6N5(I21)",
         "prof": "Carlos Aparecido Fernandes",
         "opt": "Não"
       }
@@ -259,6 +310,34 @@
     ]
   },
   {
+    "code": "PRO1001",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M4(H615)-3M5(H615)",
+        "prof": "Marcio Becker",
+        "opt": "Matriz:660, Matriz:662"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M1(H38)-3M2(H38)",
+        "prof": "Marcio Becker",
+        "opt": "Matriz:660, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "AMB1029",
     "name": "Educação Ambiental",
     "turmas": [
@@ -337,6 +416,45 @@
     ]
   },
   {
+    "code": "PRO1036",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(H614)-2M5(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "ELE7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(H614)-2T3(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H610)-4M5(H610)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      }
+    ]
+  },
+  {
     "code": "AMB1064",
     "name": "Energias Renováveis",
     "turmas": [
@@ -375,6 +493,17 @@
     "name": "Engenharia De Segurança Do Trabalho",
     "turmas": [
       {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N4(H610)-5N5(H610)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      },
+      {
         "turma": "ELE1",
         "enq": "Presencial",
         "vt": "50",
@@ -384,6 +513,34 @@
         "h": "5T4(L21)-5T5(L21)",
         "prof": "Peterson Diego Kunh",
         "opt": "Não"
+      },
+      {
+        "turma": "EP4ALI8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(H624)-3M2(H624)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1009",
+    "name": "Ergonomia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H624)-5M5(H624)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660"
       }
     ]
   },
@@ -539,8 +696,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -778,6 +935,34 @@
     ]
   },
   {
+    "code": "QUI1004",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "ALI4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "6M2(L28)-6M3(L28)-6M4(L25B)-6M5(L25B)",
+        "prof": "Renata Mello Giona",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N1(L25B)-2N2(L25B)-2N3(H34)-2N4(H34)",
+        "prof": "Paulo Rodrigo Stival Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1015",
     "name": "Geologia E Pedologia",
     "turmas": [
@@ -812,6 +997,40 @@
     ]
   },
   {
+    "code": "PRO1010",
+    "name": "Gestão De Custos",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(H624)-5M3(H624)",
+        "prof": "Sergio Adelar Brun",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1007",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L23)-4M5(L23)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
     "code": "AMB1040",
     "name": "Gestão De Projetos Ambientais E Sanitários",
     "turmas": [
@@ -842,6 +1061,23 @@
         "h": "3N2(H33)-3N3(H33)-6N1(H33)-6N2(H33)",
         "prof": "Dangela Maria Fernandes Kitamura",
         "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "PRO1012",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 2 - Eng Amb/Sanitária",
+        "h": "6M4(I21)-6M5(I21)",
+        "prof": "Lotario Fank",
+        "opt": "Matriz:656, Matriz:660"
       }
     ]
   },
@@ -1484,6 +1720,23 @@
     ]
   },
   {
+    "code": "MEC1003",
+    "name": "Princípios De Resistência De Materiais",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(J35)-4M5(J35)",
+        "prof": "Thiago Destri Cabral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1026",
     "name": "Problemas Estruturados Em Engenharia",
     "turmas": [
@@ -1535,6 +1788,23 @@
     ]
   },
   {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "HLA1007",
     "name": "Psicologia E Desenvolvimento Humano",
     "turmas": [
@@ -1563,6 +1833,34 @@
     ]
   },
   {
+    "code": "QUI1002",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "2M4(I41)-2M5(I41)-4M4(L24A)-4M5(L24A)",
+        "prof": "Alex Sanches Torquato, Jose Goncales Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N4(L24A)-3N5(L24A)-5N1(L22)-5N2(L22)",
+        "prof": "Alex Sanches Torquato, Angela Claudia Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1001",
     "name": "Química Geral E Inorgânica",
     "turmas": [
@@ -1573,7 +1871,7 @@
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
+        "h": "5N3(L24A)-5N4(L24A)-6N1(L22)-6N2(L22)",
         "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
         "opt": "Não"
       },
@@ -1597,6 +1895,34 @@
         "prio": "1 - Eng.Produção",
         "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
         "prof": "Jose Goncales Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1006",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "AMB4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N4(J35)-3N5(J35)",
+        "prof": "Thiago Destri Cabral",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M4(J35)-4M5(J35)",
+        "prof": "Thiago Destri Cabral",
         "opt": "Não"
       }
     ]

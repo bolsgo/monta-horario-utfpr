@@ -1,5 +1,141 @@
 [
   {
+    "code": "PRO1015",
+    "name": "Arranjo Físico",
+    "turmas": [
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "3M1(H615)-3M2(H615)",
+        "prof": "Carine Cristiane Machado Urbim Pasa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1038",
+    "name": "Certificadora (Avaliar) - Projeto De Unidades Produtivas",
+    "turmas": [
+      {
+        "turma": "EP9A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M2(H623)",
+        "prof": "Edson Hermenegildo Pereira Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1035",
+    "name": "Certificadora (Coordenar) - Simulação Discreta Empresarial",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "4M2(I21)-4M3(I21)",
+        "prof": "Carine Cristiane Machado Urbim Pasa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1019",
+    "name": "Certificadora (Intervir) - Liderança E Gerenciamento",
+    "turmas": [
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "3M3(H615)",
+        "prof": "Marcio Becker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1024",
+    "name": "Certificadora (Investigar) - Investigação De Cenários Em Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M1(H623)",
+        "prof": "Edson Hermenegildo Pereira Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1034",
+    "name": "Certificadora (Planejar) - Planejamento Estratégico Industrial",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "6M4(H623)-6M5(H623)",
+        "prof": "Reinalda Blanco Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1013",
+    "name": "Certificadora (Resolver) - Questões E Cenários Em Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "5M3(H610)",
+        "prof": "Levi Lopes Teixeira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1035",
+    "name": "Componentes De Instalações Industriais",
+    "turmas": [
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(J22)-2M5(J22)",
+        "prof": "Paulo Cesar Tonin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1004",
     "name": "Conservação De Massa E Energia Em Processos Industriais",
     "turmas": [
@@ -13,6 +149,23 @@
         "h": "3M4(I16)-3M5(I16)",
         "prof": "Aziza Kamal Genena",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1031",
+    "name": "Controle Estatístico De Processos",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M3(H610)-3M4(H610)-3M5(H610)",
+        "prof": "Levi Lopes Teixeira",
+        "opt": "Matriz:660, Matriz:662"
       }
     ]
   },
@@ -95,13 +248,41 @@
       {
         "turma": "EP1",
         "enq": "Presencial",
-        "vt": "48",
+        "vt": "54",
         "vc": "44",
         "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "prio": "1 - Engenharia Alimentos, 2 - Eng.Produção",
         "h": "2M1(I21)-2M2(I21)-2M3(I21)",
         "prof": "Carlos Aparecido Fernandes",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1001",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "3M4(H615)-3M5(H615)",
+        "prof": "Marcio Becker",
+        "opt": "Matriz:660, Matriz:662"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M1(H38)-3M2(H38)",
+        "prof": "Marcio Becker",
+        "opt": "Matriz:660, Matriz:662"
       }
     ]
   },
@@ -167,6 +348,45 @@
     ]
   },
   {
+    "code": "PRO1036",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "2M4(H614)-2M5(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "ELE7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(H614)-2T3(H614)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H610)-4M5(H610)",
+        "prof": "Luciano Da Costa Barzotto",
+        "opt": "Matriz:660, Matriz:655"
+      }
+    ]
+  },
+  {
     "code": "ELE1024",
     "name": "Energia E Eficiência Energética",
     "turmas": [
@@ -188,6 +408,17 @@
     "name": "Engenharia De Segurança Do Trabalho",
     "turmas": [
       {
+        "turma": "AMB7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N4(H610)-5N5(H610)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      },
+      {
         "turma": "ELE1",
         "enq": "Presencial",
         "vt": "50",
@@ -196,6 +427,79 @@
         "prio": "1 - Engenharia Elétrica",
         "h": "5T4(L21)-5T5(L21)",
         "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4ALI8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(H624)-3M2(H624)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1037",
+    "name": "Engenharia Econômica",
+    "turmas": [
+      {
+        "turma": "ELE4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M1(I25)-5M2(I25)",
+        "prof": "Lotario Fank",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP9",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(I25)-5M5(I25)",
+        "prof": "Lotario Fank",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1009",
+    "name": "Ergonomia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H624)-5M5(H624)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1006",
+    "name": "Estrutura Financeira E Contábil",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H623)-5M5(H623)",
+        "prof": "Sergio Adelar Brun",
         "opt": "Não"
       }
     ]
@@ -273,6 +577,40 @@
     ]
   },
   {
+    "code": "MEC1002",
+    "name": "Estudo De Materiais Emergentes",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "6M2(J21)-6M3(J21)",
+        "prof": "Marlos Wander Grigoleto",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "MEC1005",
+    "name": "Fenômenos De Transporte",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
+        "h": "3M3(J35)-3M4(J35)-3M5(J35)",
+        "prof": "Igor Seicho Kiyomura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
@@ -290,8 +628,8 @@
       {
         "turma": "CC1",
         "enq": "Presencial",
-        "vt": "46",
-        "vc": "40",
+        "vt": "47",
+        "vc": "41",
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
@@ -357,6 +695,23 @@
         "prio": "1 - Eng.Produção",
         "h": "5M1(H35)-5M2(H35)",
         "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1004",
+    "name": "Fundamentos De Elementos De Máquinas",
+    "turmas": [
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(J42)-2M5(J42)",
+        "prof": "Igor Seicho Kiyomura",
         "opt": "Não"
       }
     ]
@@ -512,6 +867,136 @@
     ]
   },
   {
+    "code": "PRO1026",
+    "name": "Gestão Da Cadeia De Suprimentos",
+    "turmas": [
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H611)-5M5(H611)",
+        "prof": "Reinalda Blanco Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1028",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(H611)-3M5(H611)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1010",
+    "name": "Gestão De Custos",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(H624)-5M3(H624)",
+        "prof": "Sergio Adelar Brun",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1017",
+    "name": "Gestão De Materiais",
+    "turmas": [
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "6M4(H615)-6M5(H615)",
+        "prof": "Reginaldo Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1007",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L23)-4M5(L23)",
+        "prof": "Edilson Chibiaqui",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1025",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "ELE4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6M4(H611)",
+        "prof": "Lidiana Zocche",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
+        "h": "6M2(H611)",
+        "prof": "Lidiana Zocche",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1048",
+    "name": "Gestão De Serviços",
+    "turmas": [
+      {
+        "turma": "EP7OPT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(H614)-3M5(H614)",
+        "prof": "Sergio Adelar Brun",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
     "code": "AMB1023",
     "name": "Gestão E Tratamento De Resíduos Sólidos",
     "turmas": [
@@ -529,6 +1014,51 @@
     ]
   },
   {
+    "code": "PRO1012",
+    "name": "Gestão Financeira",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 2 - Eng Amb/Sanitária",
+        "h": "6M4(I21)-6M5(I21)",
+        "prof": "Lotario Fank",
+        "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1032",
+    "name": "Gestão Mercadológica",
+    "turmas": [
+      {
+        "turma": "AGR4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(H611)-2N2(H611)",
+        "prof": "Marcio Becker",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M1(H610)-2M2(H610)",
+        "prof": "Marcio Becker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PRO1005",
     "name": "Gestão Organizacional",
     "turmas": [
@@ -542,6 +1072,23 @@
         "h": "4M2(H614)-4M3(H614)",
         "prof": "Sergio Adelar Brun",
         "opt": "Matriz:656, Matriz:660"
+      }
+    ]
+  },
+  {
+    "code": "PRO1049",
+    "name": "Gestão Por Processos",
+    "turmas": [
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(H623)-4M5(H623)",
+        "prof": "Edson Hermenegildo Pereira Junior",
+        "opt": "Matriz:653, Matriz:655"
       }
     ]
   },
@@ -669,6 +1216,23 @@
     ]
   },
   {
+    "code": "PRO1021",
+    "name": "Introdução À Qualidade",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M1(H614)-2M2(H614)-2M3(H614)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1001",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -765,6 +1329,40 @@
         "h": "5M1(I11)",
         "prof": "Dayse Grassi Bernardon",
         "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "PRO1011",
+    "name": "Logística",
+    "turmas": [
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(H615)-2M5(H615)",
+        "prof": "Cidmar Ortiz Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1023",
+    "name": "Logística De Distribuição",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "6M2(H623)-6M3(H623)",
+        "prof": "Reinalda Blanco Pereira",
+        "opt": "Não"
       }
     ]
   },
@@ -964,6 +1562,23 @@
     ]
   },
   {
+    "code": "PRO1008",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(H611)-2M5(H611)",
+        "prof": "Carine Cristiane Machado Urbim Pasa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1006",
     "name": "Métodos Aproximados Em Soluções Matemáticas",
     "turmas": [
@@ -1014,6 +1629,23 @@
     ]
   },
   {
+    "code": "PRO1029",
+    "name": "Métodos Estocásticos E Simulação",
+    "turmas": [
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M2(H611)-2M3(H611)-4M4(H611)-4M5(H611)",
+        "prof": "Carine Cristiane Machado Urbim Pasa",
+        "opt": "Matriz:656"
+      }
+    ]
+  },
+  {
     "code": "FIS1005",
     "name": "Oscilações E Ondas",
     "turmas": [
@@ -1042,6 +1674,108 @@
     ]
   },
   {
+    "code": "PRO1014",
+    "name": "Pesquisa Operacional 1",
+    "turmas": [
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "2M2(J22)-2M3(J22)-5M4(J22)-5M5(J22)",
+        "prof": "Levi Lopes Teixeira",
+        "opt": "Matriz:656"
+      }
+    ]
+  },
+  {
+    "code": "PRO1020",
+    "name": "Pesquisa Operacional 2",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(L12A)-2M5(L12A)-5M2(L12A)",
+        "prof": "Levi Lopes Teixeira",
+        "opt": "Matriz:656"
+      }
+    ]
+  },
+  {
+    "code": "PRO1022",
+    "name": "Planejamento E Controle Da Produção 1",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M2(H610)-4M3(H610)",
+        "prof": "Peterson Diego Kunh",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1027",
+    "name": "Planejamento E Controle Da Produção 2",
+    "turmas": [
+      {
+        "turma": "EP7A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "4M1(H623)-4M2(H623)-4M3(H623)",
+        "prof": "Edson Hermenegildo Pereira Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1033",
+    "name": "Planejamento E Controle Da Produção 3",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M3(H623)-2M4(H623)-2M5(H623)",
+        "prof": "Edson Hermenegildo Pereira Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1030",
+    "name": "Planejamento E Projeto De Produtos",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M1(H610)-6M2(H610)-6M3(H610)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1066",
     "name": "Planejamento Experimental E Otimização De Processos",
     "turmas": [
@@ -1055,6 +1789,40 @@
         "h": "5N1(I25)-5N2(I25)",
         "prof": "Eliane Colla",
         "opt": "Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "MEC1003",
+    "name": "Princípios De Resistência De Materiais",
+    "turmas": [
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(J35)-4M5(J35)",
+        "prof": "Thiago Destri Cabral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PRO1003",
+    "name": "Projetos Inovadores Aplicados",
+    "turmas": [
+      {
+        "turma": "MEIU1",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "5T3(H615)-5T4(H615)",
+        "prof": "Reginaldo Borges, Elias Lira Dos Santos Junior",
+        "opt": "Matriz:659, Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:658, Matriz:662"
       }
     ]
   },
@@ -1097,7 +1865,7 @@
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N4(L33)-5N5(L33)-6N1(L22)-6N2(L22)",
+        "h": "5N3(L24A)-5N4(L24A)-6N1(L22)-6N2(L22)",
         "prof": "Alex Sanches Torquato, Suelen Specht Calegaro Milioli",
         "opt": "Não"
       },
@@ -1121,6 +1889,34 @@
         "prio": "1 - Eng.Produção",
         "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
         "prof": "Jose Goncales Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1006",
+    "name": "Resistência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "AMB4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N4(J35)-3N5(J35)",
+        "prof": "Thiago Destri Cabral",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M4(J35)-4M5(J35)",
+        "prof": "Thiago Destri Cabral",
         "opt": "Não"
       }
     ]
@@ -1214,15 +2010,49 @@
         "opt": "Matriz:654"
       },
       {
-        "turma": "EP7",
+        "turma": "EP7B",
         "enq": "Presencial",
-        "vt": "40",
+        "vt": "30",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Elétrica",
-        "h": "4M1(H38)-4M2(H38)-4M3(H38)",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "3M1(H34)-3M2(H34)-3M3(H34)",
         "prof": "Renato Santos Flauzino",
         "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "PRO1069",
+    "name": "Sustentabilidade Em Processos Industriais",
+    "turmas": [
+      {
+        "turma": "EP8OPTA",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M2(H611)-5M3(H611)",
+        "prof": "Reinalda Blanco Pereira",
+        "opt": "Matriz:653"
+      }
+    ]
+  },
+  {
+    "code": "PRO1056",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "EP8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M2(H610)",
+        "prof": "Carlos Laercio Wrasse",
+        "opt": "Não"
       }
     ]
   },

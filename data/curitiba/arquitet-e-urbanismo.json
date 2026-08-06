@@ -920,6 +920,23 @@
     ]
   },
   {
+    "code": "ARQ7EP",
+    "name": "Geroarquitetura",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5M1(*EA-206)-5M2(*EA-206)-5M3(*EA-206)",
+        "prof": "Orlando Pinto Ribeiro",
+        "opt": "Matriz:961, Matriz:867"
+      }
+    ]
+  },
+  {
     "code": "FCH7HA",
     "name": "História Da Técnica E Da Tecnologia",
     "turmas": [
@@ -1085,6 +1102,23 @@
         "h": "4T3(*EIJ-104B)-4T4(*EIJ-104B)-4T5(*EIJ-104B)-6M2(*EIJ-104B)-6M3(*EIJ-104B)-6M4(*EIJ-104B)",
         "prof": "Murad Jorge Mussi Vaz",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ARQ7EL",
+    "name": "Introdução A Modelagem Bim",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "5T2(*EA-206)-5T3(*EA-206)-5T4(*EA-206)-5T5(*EA-206)",
+        "prof": "Jonas Dos Santos Leite",
+        "opt": "Matriz:867, Matriz:961"
       }
     ]
   },
@@ -1726,6 +1760,23 @@
         "h": "6T4(CE-303)-6T5(CE-303)",
         "prof": "Maria Luisa Carvalho",
         "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ARQ7EM",
+    "name": "Projeto Executivo De Arquitetura",
+    "turmas": [
+      {
+        "turma": "S53",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Arquitet E Urbanismo",
+        "h": "2M1(*EA-206)-2M2(*EA-206)-2M3(*EA-206)-2M4(*EA-206)",
+        "prof": "Armando Luis Yoshio Ito",
+        "opt": "Matriz:961, Matriz:867"
       }
     ]
   },

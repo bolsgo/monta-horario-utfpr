@@ -1,5 +1,22 @@
 [
   {
+    "code": "EBP41B",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA4D",
     "name": "Cálculo De Funções De Várias Variáveis",
     "turmas": [
@@ -34,6 +51,40 @@
     ]
   },
   {
+    "code": "MAT001",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "BP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E104)-3T4(E104)-5T1(E104)-5T2(E104)-6T2(E104)-6T3(E104)",
+        "prof": "Araceli Ciotti De Marins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT003",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T4(E105)-2T5(E105)-4T2(E104)-4T3(E104)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA6D",
     "name": "Cálculo Numérico",
     "turmas": [
@@ -46,6 +97,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
         "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT006",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E104)-3T2(E104)-5T1(E205)-5T2(E205)",
+        "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
     ]
@@ -68,6 +136,108 @@
     ]
   },
   {
+    "code": "BP46A",
+    "name": "Economia E Organização Industrial",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M2(03VIDEOCON)-2M3(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS001",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS002",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Geometria Analítica E Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E103)-3T4(E103)-4T3(E103)-4T4(E103)-5T3(E103)-5T4(E103)",
+        "prof": "Marcio Paulo De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46G",
+    "name": "Higiene E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M1(C306)-2M2(C306)",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41E",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(AVA)-2M5(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA6F",
     "name": "Probabilidade E Estatística",
     "turmas": [
@@ -80,6 +250,51 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "5N1(C206)-5N2(C206)-6N3(AVA)-6N4(AVA)",
         "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41F",
+    "name": "Química Básica Experimental",
+    "turmas": [
+      {
+        "turma": "BP14A",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T5(K01LABQ1)-3T6(K01LABQ1)",
+        "prof": "Michael Jackson Vieira Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP14B",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "24",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5T1(K01LABQ1)-5T2(K01LABQ1)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41D",
+    "name": "Química Básica Teórica",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E103)-3T2(E103)-4T5(E103)-4T6(E103)",
+        "prof": "Michael Jackson Vieira Da Silva",
         "opt": "Não"
       }
     ]

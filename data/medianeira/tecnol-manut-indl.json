@@ -21,6 +21,17 @@
     "name": "Filosofia",
     "turmas": [
       {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(H35)-3T2(H35)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
         "turma": "CC1",
         "enq": "Presencial",
         "vt": "46",
@@ -28,6 +39,28 @@
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M2(L21)-4M3(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L21)-4M5(L21)",
         "prof": "Lairton Moacir Winter",
         "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
       }
@@ -145,7 +178,7 @@
         "res": "Aberta",
         "prio": "1 - Tecnol Em Alimentos",
         "h": "2N1(L18)-2N2(L18)",
-        "prof": "",
+        "prof": "Marcos Ricardo Muller",
         "opt": "Não"
       },
       {
@@ -196,6 +229,23 @@
     ]
   },
   {
+    "code": "HLA1015",
+    "name": "Introdução À Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(H38)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MEC1009",
     "name": "Introdução À Manutenção Industrial",
     "turmas": [
@@ -236,6 +286,17 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "5N1(I11)-5N2(I11)",
         "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4M4(I44)-4M5(I44)",
+        "prof": "Claudimara Cassoli Bortoloto",
         "opt": "Não"
       },
       {
@@ -302,6 +363,34 @@
     ]
   },
   {
+    "code": "HLA1007",
+    "name": "Psicologia E Desenvolvimento Humano",
+    "turmas": [
+      {
+        "turma": "OPHUMCC",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(H37)-5T5(H37)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      },
+      {
+        "turma": "TMI5OP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(H33)-5N5(H33)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "QUI1055",
     "name": "Química Aplicada À Manutenção Industrial",
     "turmas": [
@@ -332,6 +421,23 @@
         "h": "2N4(I16)-2N5(I16)",
         "prof": "Yuri Ferruzzi",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1005",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(L23)-3M5(L23)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Matriz:665, Matriz:655, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
       }
     ]
   },

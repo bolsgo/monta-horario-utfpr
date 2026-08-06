@@ -109,6 +109,34 @@
         "h": "2N2(F110)-2N3(F110)-3N1(F110)-3N2(F110)",
         "prof": "Angelo Giovanni Bonfim Corelhano",
         "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV37C",
+    "name": "Concreto Armado1",
+    "turmas": [
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Douglas Fukunaga Surco",
+        "opt": "Não"
       }
     ]
   },
@@ -124,6 +152,17 @@
         "res": "Aberta",
         "prio": "1 - Eng Civil",
         "h": "3N2(F106)-3N3(F106)-5N2(F109)-5N3(F109)",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
         "prof": "Ronaldo Rigobello",
         "opt": "Não"
       }
@@ -582,6 +621,17 @@
         "res": "Aberta",
         "prio": "1 - Eng Civil",
         "h": "2T2(F108)-2T3(F108)-3T2(B107)-3T3(B107)",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
         "prof": "Angelo Giovanni Bonfim Corelhano",
         "opt": "Não"
       }
@@ -2341,6 +2391,40 @@
         "h": "2T1(D102)-2T2(D102)-2T3(D102)",
         "prof": "Flavia Vieira Da Silva",
         "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
+    "code": "CV35D",
+    "name": "Teoria Das Estruturas 1",
+    "turmas": [
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Marcelo Rodrigo Carreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV36E",
+    "name": "Teoria Das Estruturas 2",
+    "turmas": [
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
       }
     ]
   },

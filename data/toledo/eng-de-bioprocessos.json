@@ -1,5 +1,220 @@
 [
   {
+    "code": "EBP41A",
+    "name": "Biologia Celular",
+    "turmas": [
+      {
+        "turma": "BP14A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T3(E103)-2T4(E103)-6T3(K03LAMIC)",
+        "prof": "Thiago Cintra Maniglia, Cleverson Busso",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP14B",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T3(E103)-2T4(E103)-6T4(K03LAMIC)",
+        "prof": "Thiago Cintra Maniglia, Cleverson Busso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP44A",
+    "name": "Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M1(E104)-2M2(E104)-2M3(E104)",
+        "prof": "Thiago Cintra Maniglia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP49D",
+    "name": "Bioprocessos Aplicados A Indústria De Bioenergia",
+    "turmas": [
+      {
+        "turma": "BP94",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6T1(C307)-6T2(C307)-6T3(C307)",
+        "prof": "Priscila Vaz De Arruda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47C",
+    "name": "Bioprocessos Na Indústria De Alimentos",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6M2(E105)-6M3(E105)-6M4(E105)",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47B",
+    "name": "Bioprocessos Na Indústria Farmacêutica",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M3(E205)-2M4(E205)-2M5(E205)",
+        "prof": "Luis Felipe Minozzo Figueiredo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP43C",
+    "name": "Bioquímica 1",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T2(E205)-2T3(E205)-5T2(E105)-5T3(E105)",
+        "prof": "Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP44B",
+    "name": "Bioquímica 2",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M4(E104)-3M5(E104)-4M4(E104)-4M5(E104)",
+        "prof": "Luis Felipe Minozzo Figueiredo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP45A",
+    "name": "Biotecnologia De Microorganismos",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6T2(E105)-6T3(E105)-6T4(E105)",
+        "prof": "Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46A",
+    "name": "Biotecnologia Vegetal",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M2(E203)-3M3(E203)-6M2(E203)-6M3(E203)",
+        "prof": "Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46D",
+    "name": "Bioética E Biossegurança",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6M5(AVA)-6M6(AVA)",
+        "prof": "Cleverson Busso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41B",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP48B",
+    "name": "Controle E Instrumentação Industrial",
+    "turmas": [
+      {
+        "turma": "BP84",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5T2(E305LINF5)-5T3(E305LINF5)-5T4(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA4D",
     "name": "Cálculo De Funções De Várias Variáveis",
     "turmas": [
@@ -34,6 +249,40 @@
     ]
   },
   {
+    "code": "MAT001",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "BP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E104)-3T4(E104)-5T1(E104)-5T2(E104)-6T2(E104)-6T3(E104)",
+        "prof": "Araceli Ciotti De Marins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT003",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T4(E105)-2T5(E105)-4T2(E104)-4T3(E104)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA6D",
     "name": "Cálculo Numérico",
     "turmas": [
@@ -46,6 +295,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
         "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT006",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E104)-3T2(E104)-5T1(E205)-5T2(E205)",
+        "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
     ]
@@ -68,6 +334,40 @@
     ]
   },
   {
+    "code": "EBP48F",
+    "name": "Desenho Técnico Para Projeto De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6T1(E106)-6T2(E106)-6T3(E106)",
+        "prof": "Gerson Filippini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP48A",
+    "name": "Desenvolvimento De Soluções Biotecnológicas",
+    "turmas": [
+      {
+        "turma": "BP84",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T4(C307)-2T5(C307)-2T6(C307)",
+        "prof": "Thiago Cintra Maniglia, Priscila Vaz De Arruda, Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM002",
     "name": "Economia Contemporânea",
     "turmas": [
@@ -81,6 +381,425 @@
         "h": "3N4(03VIDEOCON)-3N5(03VIDEOCON)-7M1(AVA)",
         "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "BP46A",
+    "name": "Economia E Organização Industrial",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M2(03VIDEOCON)-2M3(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP47D",
+    "name": "Empreendedorismo E Inovação",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5T3(E307LREDES)-5T4(E307LREDES)",
+        "prof": "Sandra Regina Da Silva Pinela",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47H",
+    "name": "Engenharia Ambiental",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T4(C201LINF3)-2T5(C201LINF3)-3T4(E105)-3T5(E105)",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47A",
+    "name": "Enzimologia",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4M2(E105)-4M3(E105)-4M4(E105)",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46I",
+    "name": "Esterilização Em Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T3(E104)-2T4(E104)-2T5(E104)",
+        "prof": "Luis Felipe Minozzo Figueiredo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP45D",
+    "name": "Fenômenos De Transporte 1",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T2(E105)-2T3(E105)-3T3(C206)-3T4(C206)",
+        "prof": "Cristiano Luiz Diel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46E",
+    "name": "Fenômenos De Transporte 2",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M4(E103)-3M5(E103)-4M4(E103)-4M5(E103)",
+        "prof": "Fabiano Bisinella Scheufele",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS001",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS002",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "EBP44E",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6M1(E104)-6M2(E104)-6M3(E104)",
+        "prof": "Renato Eising",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP43A",
+    "name": "Genética Básica E De Microrganismos",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T4(E204)-3T5(E204)-5T4(E104)-5T5(E104)",
+        "prof": "Thiago Cintra Maniglia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Geometria Analítica E Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E103)-3T4(E103)-4T3(E103)-4T4(E103)-5T3(E103)-5T4(E103)",
+        "prof": "Marcio Paulo De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46J",
+    "name": "Gestão Da Qualidade",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4M2(E305LINF5)-4M3(E305LINF5)-5M4(E105)-5M5(E105)",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47G",
+    "name": "Gestão Lean De Processos",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T4(E105)-4T5(E105)",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46G",
+    "name": "Higiene E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M1(C306)-2M2(C306)",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP46B",
+    "name": "Imunologia Geral",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "7M3(AVA)-7M4(AVA)-7M5(AVA)",
+        "prof": "Cleverson Busso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP44C",
+    "name": "Introdução Aos Cálculos De Processos",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5M2(E104)-5M3(E104)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41C",
+    "name": "Introdução À Engenharia De Bioprocessos E Biotecnologia",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T1(E103)-2T2(E103)",
+        "prof": "Luis Felipe Minozzo Figueiredo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP49C",
+    "name": "Laboratório De Engenharia",
+    "turmas": [
+      {
+        "turma": "EB94",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T4(C306)-4T5(C306)",
+        "prof": "Cristiano Luiz Diel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41E",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(AVA)-2M5(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP42A",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "BP24A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E103)-2M5(E103)-4M2(K03LAMIC)-4M3(K03LAMIC)",
+        "prof": "Cleverson Busso",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP24B",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E103)-2M5(E103)-4M4(K03LAMIC)-4M5(K03LAMIC)",
+        "prof": "Cleverson Busso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47E",
+    "name": "Operações Unitárias 1",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T2(E105)-4T3(E105)-5T2(C204)-5T3(C204)",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP48C",
+    "name": "Operações Unitárias 2",
+    "turmas": [
+      {
+        "turma": "BP84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M2(E104)-3M3(E104)-5M4(E104)-5M5(E104)",
+        "prof": "Fabiano Bisinella Scheufele",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP46D",
+    "name": "Planejamento De Experimentos",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3N1(C305)-3N2(C305)-3N3(C305)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
       }
     ]
   },
@@ -102,6 +821,153 @@
     ]
   },
   {
+    "code": "EBP46C",
+    "name": "Processos Fermentativos",
+    "turmas": [
+      {
+        "turma": "BP64",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5M1(E105)-5M2(E105)-5M3(E105)",
+        "prof": "Priscila Vaz De Arruda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP47D",
+    "name": "Projeto De Biorreatores",
+    "turmas": [
+      {
+        "turma": "BP74",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T2(E106)-2T3(E106)-3T2(E105)-3T3(E105)",
+        "prof": "Priscila Vaz De Arruda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP49B",
+    "name": "Projetos Da Indústria De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP94",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T2(C307)-2T3(C307)-3T2(C307)-3T3(C307)",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP42B",
+    "name": "Química Analítica",
+    "turmas": [
+      {
+        "turma": "BP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5M4(E103)-5M5(E103)-6M4(E103)-6M5(E103)",
+        "prof": "Cristiano Luiz Diel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41F",
+    "name": "Química Básica Experimental",
+    "turmas": [
+      {
+        "turma": "BP14A",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T5(K01LABQ1)-3T6(K01LABQ1)",
+        "prof": "Michael Jackson Vieira Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP14B",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "24",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "5T1(K01LABQ1)-5T2(K01LABQ1)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41D",
+    "name": "Química Básica Teórica",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E103)-3T2(E103)-4T5(E103)-4T6(E103)",
+        "prof": "Michael Jackson Vieira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP42C",
+    "name": "Química Orgânica Aplicada A Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP24",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M1(E103)-3M2(E103)-3M3(E103)-5M1(E103)-5M2(E103)-5M3(E103)",
+        "prof": "Renato Eising",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP43B",
+    "name": "Química Orgânica Experimental Aplicada A Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "6T2(K02LABQ2)-6T3(K02LABQ2)-6T4(K02LABQ2)",
+        "prof": "Renato Eising",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM041",
     "name": "Soft Skills",
     "turmas": [
@@ -115,6 +981,40 @@
         "h": "5N1(AVA)-5N2(AVA)-7M4(AVA)",
         "prof": "",
         "opt": "Matriz:21, Matriz:60, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "EBP45C",
+    "name": "Termodinâmica",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T2(C306)-4T3(C306)-5T3(C307)-5T4(C307)",
+        "prof": "Cristiano Luiz Diel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP48H",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3M4(A105)-3M5(A105)",
+        "prof": "Thiago Cintra Maniglia",
+        "opt": "Não"
       }
     ]
   },

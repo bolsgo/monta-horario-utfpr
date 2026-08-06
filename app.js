@@ -1,40 +1,24 @@
-/* ==================================================================
-   app.js — Lógica do MontaHorário UTFPR
-   Depende de config.js (DAYS, AULAS, PALETTE) já carregado antes.
-   As disciplinas (DATA) não vêm mais de um <script> fixo: cada curso
-   é um data/<slug>.json carregado sob demanda via fetch (ver seção
-   "CARREGAMENTO DE CURSO" perto do fim do arquivo).
-   Tudo fica dentro de uma IIFE: nada aqui vaza para o escopo global,
-   exceto o que já vem de config.js.
-   ================================================================== */
+/* app.js — Lógica do MontaHorário UTFPR
+   Depende de config.js (DAYS, AULAS, PALETTE). Disciplinas (DATA) são
+   carregadas sob demanda via fetch de data/<slug>.json (ver "CARREGAMENTO
+   DE CURSO"). Tudo dentro de uma IIFE. */
 (function () {
   "use strict";
 
-  /* Disciplinas do curso atualmente carregado. Começa vazio e é
-     preenchido por applyDataset() sempre que um data/<slug>.json
-     termina de carregar (na primeira vez ou ao trocar de curso). */
+  // Disciplinas do curso atualmente carregado (preenchido por applyDataset()).
   let DATA = [];
 
-  /* Em vez de checar UMA VEZ se o aparelho "tem hover" (isso não cobre um
-     iPad que ganha um mouse/trackpad depois de carregar a página, ou perde
-     ele), os efeitos de passar-o-mouse abaixo usam Pointer Events e olham
-     o pointerType de CADA evento: só ativam quando pointerType === "mouse"
-     (ou "pen"). Toque (pointerType === "touch") nunca aciona preview nem
-     hover cruzado, então não tem como grudar. */
+  // Pointer Events em vez de mouse/hover fixo: cobre iPad que ganha/perde
+  // mouse depois de carregado. Toque nunca aciona preview/hover cruzado.
 
-  /* ============== REMOVEDOR DE DUPLICATAS ==============
-     Lê um array de disciplinas (no formato do data/<slug>.json) e
-     remove blocos de horários exatamente iguais antes de montar os
-     índices, preservando salas com hífen (ex: CD-108). Roda uma vez
-     por curso carregado, não uma vez só na inicialização. */
+  // Remove blocos de horário duplicados (ex: "5T2(CD-108)" repetido) antes
+  // de montar os índices, preservando salas com hífen.
   function dedupeHorarios(disciplinas) {
     disciplinas.forEach(disciplina => {
       disciplina.turmas.forEach(turma => {
         if (turma.h) {
-          // Usa RegEx para capturar os blocos "5T2(CD-108)" em vez de split('-')
           const blocos = turma.h.match(/\d[MTN]\d\s*\([^)]*\)/g);
           if (blocos) {
-            // Remove as duplicatas exatas e junta com hífen novamente
             turma.h = [...new Set(blocos)].join('-');
           }
         }
@@ -45,11 +29,7 @@
   const AULA_INDEX = {};
   AULAS.forEach((a, i) => { AULA_INDEX[a.code] = i; });
 
-  /* ============== ESCAPE DE HTML ==============
-     Todo texto vindo do dataset (ou de qualquer fonte futura, como uma
-     API) passa por aqui antes de entrar no DOM via innerHTML — mesmo
-     sendo dados estáticos hoje, isso evita que o app quebre ou vire um
-     vetor de XSS caso um dia passe a consumir dados dinâmicos. */
+  // Escapa texto antes de inserir no DOM via innerHTML (evita XSS).
   function esc(s) {
     return String(s == null ? "" : s)
       .replace(/&/g, "&amp;")
@@ -58,10 +38,9 @@
       .replace(/>/g, "&gt;");
   }
 
-  /* ============== PARSER ============== */
-  // entrada: "5N1(CE-102)-5N2(CE-102)-6M1(*CE-303)-6M2(**CE-303)"
+  // Parser: entrada "5N1(CE-102)-5N2(CE-102)-6M1(*CE-303)-6M2(**CE-303)"
   // asteriscos indicam sede diferente (Ecoville/Neoville)
-  const parseHorarioCache = new Map(); // h (string) -> slots já parseados
+  const parseHorarioCache = new Map();
   function parseHorario(h) {
     if (!h) return [];
     const cached = parseHorarioCache.get(h);
@@ -81,30 +60,22 @@
     parseHorarioCache.set(h, out);
     return out;
   }
-/* Converte "#rrggbb" para {r,g,b} */
+// Converte "#rrggbb" para {r,g,b}
 function hexToRgb(hex) {
   const n = parseInt(hex.slice(1), 16);
   return { r: (n >> 16) & 255, g: (n >> 8) & 255, b: n & 255 };
 }
 
-/* Distância euclidiana simples entre duas cores — quanto maior, mais
-   visualmente diferentes elas são uma da outra. */
+// Distância euclidiana entre duas cores (quanto maior, mais diferentes)
 function colorDistance(hexA, hexB) {
   const a = hexToRgb(hexA), b = hexToRgb(hexB);
   return Math.sqrt((a.r - b.r) ** 2 + (a.g - b.g) ** 2 + (a.b - b.b) ** 2);
 }
 
-/* Escolhe, para cada código (na ordem dada), a cor da PALETTE que fica
-   mais distante das já escolhidas antes dela — maximizando o contraste
-   entre as matérias selecionadas ao mesmo tempo. A ordem é preservada
-   entre chamadas (mesmo prefixo de códigos = mesmas cores), então
-   selecionar/remover uma matéria não embaralha a cor das demais. */
-/* Calcula, de uma vez só, a cor de cada código de uma lista ordenada —
-   mesmo algoritmo de maximizar distância entre cores, mas processando
-   a lista inteira em uma única passada em vez de recomeçar do zero pra
-   cada código. Use isso quando precisar da cor de VÁRIOS códigos ao
-   mesmo tempo (ex: toda a lista de disciplinas em um render), em vez de
-   chamar subjectColor() um a um — economiza o O(n × paleta) repetido. */
+// Para cada código (na ordem dada), escolhe a cor da PALETTE mais distante
+// das já escolhidas antes dela, maximizando contraste. A ordem é
+// preservada entre chamadas, então selecionar/remover matéria não
+// embaralha a cor das demais.
 function computeColorMap(codes) {
   const map = new Map();
   const assigned = [];
@@ -122,57 +93,37 @@ function computeColorMap(codes) {
   return map;
 }
 
-/* Cor de UM código específico, dado o contexto (ordem) das selecionadas.
-   Por baixo dos panos usa computeColorMap — mantido pros poucos lugares
-   que só precisam de um código por vez (selecionar/colar uma turma).
-   Para pintar uma lista inteira, prefira computeColorMap() direto. */
+// Cor de UM código específico, dado o contexto (ordem) das selecionadas.
 function subjectColor(code, contextCodes) {
   const selectedCodes = contextCodes || Object.keys(State.getSelected());
   const codes = selectedCodes.includes(code) ? selectedCodes : [...selectedCodes, code];
   return computeColorMap(codes).get(code);
 }
 
-  /* ============== ESTADO DA APLICAÇÃO ==============
-     Toda informação mutável (seleção atual, disciplinas expandidas,
-     filtro ativo, pilha de desfazer/refazer, preview de hover) fica
-     encapsulada aqui dentro, em vez de espalhada em variáveis globais.
-     O resto do código só lê e modifica o estado através dos métodos
-     abaixo — nenhuma função fora daqui faz `selected[x] = y` diretamente. */
+  // Estado da aplicação: toda informação mutável (seleção, disciplinas
+  // expandidas, filtro ativo, undo/redo, preview) encapsulada aqui. O
+  // resto do código só acessa via os métodos abaixo.
   const State = (function () {
     let selected = {};              // {codigo: {..dados da turma escolhida..}}
     let openSubjects = new Set();   // códigos de disciplinas expandidas na lista
     let openInfo = new Set();       // códigos com o painel de detalhes da turma ativa aberto
-    // Turmas fixadas (pin), só usado/exibido no modo compacto. Guardado por
-    // disciplina: {codigo_da_materia: [turma1, turma2, ...]} na ORDEM em que
-    // foram fixadas — essa ordem é a ordem final de exibição (1ª fixada vai
-    // pra 1ª posição, 2ª fixada pra 2ª, etc). Não entra na pilha de
-    // desfazer/refazer nem é persistido: é só um atalho de visualização.
+    // Turmas fixadas (pin, só modo compacto). {codigo: [turma1, turma2, ...]}
+    // na ordem de fixação. Não entra no undo/redo nem é persistido.
     let pinned = {};
     let filterMode = "all";         // "all" | "selected" | "conflict" | "pinned"
     let previewSlots = null;        // {slots, conflict} enquanto o mouse está sobre uma turma
     let undoStack = [];
     let redoStack = [];
-    // Histórico de desfazer/refazer de cada template (1/2/3), guardado só
-    // em memória (não vai pro localStorage — "por sessão": some ao
-    // recarregar a página, mas fica preservado ao alternar entre
-    // templates enquanto a aba continua aberta). Indexado pelo id do
-    // template ("1"/"2"/"3"); é zerado inteiro em switchCourse(), já que
-    // aí é um curso novo.
+    // Histórico de undo/redo por template (1/2/3), só em memória (não
+    // persiste ao recarregar). Zerado em switchCourse().
     let undoRedoByTemplate = {};
     let lastSelectedCode = null;    // código da última matéria escolhida (destaque azul na mini-grade)
-    // A chave de storage inclui o slug do curso: cada curso guarda sua
-    // própria seleção separadamente (trocar de curso não apaga nem
-    // mistura o que foi salvo nos outros). Além disso, cada curso tem 3
-    // "templates" de grade independentes (botões 1/2/3 na tela) — por
-    // isso a chave final também leva o template ativo no final
-    // ("..._t1", "..._t2", "..._t3"). Trocar de curso/sede sempre volta
-    // para o template "1" (activeTemplate abaixo).
+    // A chave de storage inclui slug do curso + template ativo
+    // ("..._t1"/"_t2"/"_t3"), já que cada curso tem 3 grades independentes.
+    // Trocar de curso/sede sempre volta para o template "1".
     let baseStorageKey = "utfpr_horario_v2";
     let activeTemplate = "1";
-    // Chave de storage das turmas fixadas (pin) — mesmo esquema do
-    // baseStorageKey acima: namespaced por sede+curso em switchCourse(), pra
-    // cada curso/sede guardar seus próprios pins sem misturar com os
-    // de outro curso.
+    // Chave de storage dos pins, namespaced por sede+curso em switchCourse().
     let PIN_STORAGE_KEY = "utfpr_pinned_v1";
 
     function templateStorageKey() { return baseStorageKey + "_t" + activeTemplate; }
@@ -185,9 +136,8 @@ function subjectColor(code, contextCodes) {
     // que numa chave que ninguém mais olha. Aqui a gente copia esse
     // valor antigo (se existir) pra dentro do template 1 na primeira
     // vez que o curso é aberto depois da atualização, e apaga a chave
-    // antiga (evita reprocessar essa migração toda vez, e evita ela
-    // sobrescrever o template 1 se o usuário já tiver mexido nele desde
-    // então — só migra se o template 1 ainda estiver vazio).
+    // Migra grade salva na chave antiga (pré-templates) para o template 1,
+    // só se ele ainda estiver vazio.
     function migrateLegacyStorage() {
       const legacyKey = baseStorageKey;
       const t1Key = baseStorageKey + "_t1";
@@ -239,9 +189,8 @@ function subjectColor(code, contextCodes) {
         lastSelectedCode = null;
         this.save();
       },
-      // Usado só na inicialização: remove entradas cujo código/turma não
-      // existam mais no dataset e atualiza slots/cor das válidas.
-      // Não passa pela pilha de desfazer (não é uma "ação" do usuário).
+      // Remove entradas cujo código/turma não existam mais no dataset e
+      // atualiza slots/cor das válidas. Não entra no undo/redo.
       pruneAndRefresh(resolve) {
         Object.keys(selected).forEach(code => {
           const result = resolve(code, selected[code]);
@@ -257,17 +206,14 @@ function subjectColor(code, contextCodes) {
       },
       closeAllOpen() { openSubjects = new Set(); },
 
-      // Controla se o painel de detalhes (horário, vagas, etc.) de uma
-      // turma ativa está expandido. É puramente de exibição — não entra
-      // na pilha de desfazer/refazer nem é persistido.
+      // Painel de detalhes da turma ativa expandido. Só exibição — não
+      // entra no undo/redo nem é persistido.
       isInfoOpen(code) { return openInfo.has(code); },
       toggleInfo(code) {
         if (openInfo.has(code)) openInfo.delete(code); else openInfo.add(code);
       },
 
-      // Fixar/desafixar uma turma dentro da lista de uma disciplina. Ao
-      // fixar, a turma entra no FIM da lista de fixadas (última fixada =
-      // última entre as fixadas); ao desafixar, sai de onde estiver.
+      // Fixar entra no fim da lista de fixadas; desafixar sai de onde estiver.
       isPinned(code, turma) {
         return !!(pinned[code] && pinned[code].includes(turma));
       },
@@ -334,12 +280,9 @@ function subjectColor(code, contextCodes) {
         localStorage.setItem(templateStorageKey(), snapshot());
       },
 
-      // Chamado ao clicar num dos botões de template (1/2/3): salva a
-      // grade atual na chave do template que estava ativo, troca para o
-      // template escolhido e carrega a grade salva dele (ou vazia, se
-      // ainda não houver nada salvo). Cada template guarda sua própria
-      // seleção, accordions/desfazer-refazer não fazem sentido entre um
-      // template e outro, então são resetados aqui também.
+      // Salva a grade atual no template ativo, troca para o template
+      // escolhido e carrega a grade salva dele. Accordions/undo-redo são
+      // resetados (não fazem sentido entre templates diferentes).
       switchTemplate(id) {
         if (id === activeTemplate) return;
         this.save();
@@ -355,14 +298,9 @@ function subjectColor(code, contextCodes) {
         this.load();
       },
 
-      // Chamado ao trocar de curso: aponta o storage para a chave do
-      // novo curso, namespaced por sede (cada curso de cada sede tem sua
-      // própria "utfpr_horario_v2_<sede>_<slug>" — evita colisão caso duas
-      // sedes venham a ter cursos com o mesmo slug), volta o template
-      // ativo para "1", carrega a seleção salva desse curso/template (se
-      // houver) e limpa todo estado de UI/histórico que só fazia sentido
-      // para o curso anterior (accordions abertos, desfazer/refazer,
-      // preview de hover etc.).
+      // Troca de curso: aponta o storage para a chave do novo curso
+      // (namespaced por sede, evitando colisão de slugs), volta o
+      // template para "1" e limpa estado de UI/histórico do curso anterior.
       switchCourse(sedeSlug, slug) {
         baseStorageKey = "utfpr_horario_v2_" + sedeSlug + "_" + slug;
         PIN_STORAGE_KEY = "utfpr_pinned_v1_" + sedeSlug + "_" + slug;
@@ -396,9 +334,7 @@ function subjectColor(code, contextCodes) {
     }).join(" &middot; ");
   }
 
-  /* Monta o texto completo do tooltip (title nativo) com todos os campos da turma.
-     Recebe dois objetos (sub, t) que juntos tenham: name, code, turma, enq, vt,
-     vc, res, prio, h, prof, opt — usado tanto para a lista quanto para a grade. */
+  // Monta o tooltip (title nativo) com todos os campos da turma.
   function turmaTooltip(sub, t) {
     const linhas = [
       `${sub.name} (${sub.code})`,
@@ -415,12 +351,8 @@ function subjectColor(code, contextCodes) {
     return esc(linhas.join("\n"));
   }
 
-  /* Monta o texto curto de vagas ("Vagas:30" ou "Vagas:30 Cal.:5") a
-     partir dos campos vt (vagas total) e vc (vagas calouros) de uma
-     turma. Quando vt é "0", exibe "-" no lugar (sem vaga = sem
-     número fazendo sentido mostrar). Só mostra a parte "Cal." quando
-     existe reserva de vagas para calouros (vc presente e maior que
-     zero) — igual antes. */
+  // Monta o texto curto de vagas ("Vagas:30" ou "Vagas:30 Cal.:5").
+  // Quando vt é "0", exibe "-"; "Cal." só aparece se vc > 0.
   function vagasLabel(t) {
     if (!t || t.vt === undefined || t.vt === null || t.vt === "" || t.vt === "-") return "";
     const vtDisplay = Number(t.vt) === 0 ? "-" : t.vt;
@@ -432,8 +364,7 @@ function subjectColor(code, contextCodes) {
     return label;
   }
 
-  /* checa conflito de um conjunto de slots candidatos contra a seleção atual,
-     ignorando um código específico */
+  // Checa conflito de slots candidatos contra a seleção atual, ignorando um código
   function wouldConflict(slots, ignoreCode) {
     const occ = computeOccupancy(ignoreCode);
     for (const s of slots) {
@@ -447,30 +378,23 @@ function subjectColor(code, contextCodes) {
   const subjectListEl = document.getElementById("subjectList");
   const searchBox = document.getElementById("searchBox");
 
-  /* Remove acentos/diacríticos para permitir busca "algebra" encontrar "álgebra" */
+  // Remove acentos/diacríticos para permitir busca "algebra" encontrar "álgebra"
   function normalizeText(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
   function renderSubjectList(occ) {
     const q = normalizeText(searchBox.value.trim());
-    // A lista inteira é reconstruída (innerHTML="" + reapend de tudo) a
-    // cada seleção/remoção — em touch (especialmente iOS), zerar o
-    // conteúdo por um instante zera também o scrollHeight do container,
-    // e o navegador "clampa" o scrollTop dele a 0 nesse meio-tempo; depois
-    // que o conteúdo volta, o scroll não é restaurado sozinho. Isso fazia
-    // a lista pular pro topo sozinha ao selecionar uma turma mais abaixo.
-    // Guardamos o scrollTop de antes e reaplicamos no fim, depois que todo
-    // o conteúdo novo já foi inserido de volta.
+    // A lista é reconstruída (innerHTML="") a cada seleção/remoção; em
+    // touch (especialmente iOS) isso zera o scrollHeight e o navegador
+    // clampa o scrollTop a 0, fazendo a lista pular pro topo. Guardamos e
+    // reaplicamos o scrollTop no fim.
     const prevScrollTop = subjectListEl.scrollTop;
     subjectListEl.innerHTML = "";
     const conflictSet = computeConflictCodes(occ);
     const selected = State.getSelected();
     const filterMode = State.getFilterMode();
-    // Modo compacto: cada painel de turmas (matéria aberta) com muitas
-    // opções vira 2 colunas em vez de scroll longo — ver uso de "two-col"
-    // logo abaixo, aplicado por matéria (cada uma pode ter uma quantidade
-    // diferente de turmas).
+    // Modo compacto: painel de turmas com muitas opções vira 2 colunas
     const compactOn = document.documentElement.getAttribute("data-compact") === "true";
 
     DATA.forEach(sub => {
@@ -485,18 +409,11 @@ function subjectColor(code, contextCodes) {
       const div = document.createElement("div");
       div.className = "subject" + (isSelected ? " selected" : "") + (State.isOpen(sub.code) ? " open" : "");
       div.setAttribute("data-code", sub.code);
-      // Usa a MESMA cor já fixada em selected[code].color (definida uma
-      // única vez ao selecionar a turma — ver State.selectTurma) em vez de
-      // recalcular na hora: recalcular aqui reordenava as cores de outras
-      // matérias já selecionadas sempre que uma matéria era removida
-      // (a cor de cada uma dependia da posição das demais na lista de
-      // selecionadas), fazendo a lista mostrar uma cor diferente da usada
-      // na grade/legenda para a mesma matéria.
+      // Usa a MESMA cor já fixada em selected[code].color (ver
+      // State.selectTurma) em vez de recalcular: recalcular reordenava as
+      // cores das outras matérias selecionadas ao remover uma delas.
       const color = isSelected ? selected[sub.code].color : null;
-      // Selo "EAD" ao lado do nome da matéria: some quando a turma
-      // SELECIONADA é EAD, e também temporariamente ao passar o mouse
-      // sobre qualquer turma da lista (ver setHeaderInfo() mais abaixo).
-      // O indicador de EAD vem do campo "enq" (ex.: "EaD" vs "Presencial").
+      // Selo "EAD" (campo "enq"): visível quando a turma selecionada é EAD.
       const hasEAD = isSelected && /\bead\b/i.test(selected[sub.code].enq || "");
 
       const head = document.createElement("div");
@@ -535,11 +452,8 @@ function subjectColor(code, contextCodes) {
       };
       div.appendChild(head);
 
-      /* Elementos do cabeçalho (ao lado/embaixo do código da matéria) que
-         o hover numa turma da lista abaixo atualiza temporariamente —
-         ver setHeaderInfo() e o onpointerenter/onpointerleave de cada
-         .turma-opt logo mais abaixo. Não muda o tamanho de nada, só o
-         conteúdo desses três elementos. */
+      // Elementos do cabeçalho atualizados temporariamente pelo hover numa
+      // turma da lista (ver setHeaderInfo() e onpointerenter/onpointerleave abaixo)
       const turmaChipEl = head.querySelector(".turma-chip");
       const turmaChipTextEl = head.querySelector(".turma-chip-text");
       const turmaChipStarEl = head.querySelector(".turma-chip-star");
@@ -570,15 +484,11 @@ function subjectColor(code, contextCodes) {
       const isTwoCol = compactOn && sub.turmas.length > 8;
       const tp = document.createElement("div");
       tp.className = "turma-panel" + (isTwoCol ? " two-col" : "");
-      // No modo compacto, a info da turma ativa não entra "no meio" do
-      // fluxo (bagunçaria o alinhamento das colunas) — fica guardada aqui
-      // e é adicionada só uma vez, no fim, depois de todas as turmas.
+      // No modo compacto, a info da turma ativa entra só no fim (senão
+      // bagunçaria o alinhamento das colunas).
       let bottomInfoHtml = null;
 
-      // Fixar (pin) existe nos dois modos (compacto e normal) e usa o
-      // mesmo estado — fixar/desafixar em um modo reflete no outro. As
-      // fixadas vêm primeiro, na ordem em que foram fixadas; o resto
-      // mantém a ordem original entre si.
+      // Fixadas vêm primeiro (ordem de fixação); resto mantém ordem original.
       let turmasToRender = sub.turmas;
       {
         const pinOrder = State.getPinnedOrder(sub.code);
@@ -590,14 +500,9 @@ function subjectColor(code, contextCodes) {
         }
       }
 
-      // Ícones "pin-angle" / "pin-angle-fill" dos Bootstrap Icons
-      // (https://icons.getbootstrap.com/icons/pin-angle/), via SVG
-      // Repo. Bootstrap Icons é licenciado sob MIT (Copyright (c)
-      // 2019-2024 The Bootstrap Authors) — aviso de licença/atribuição
-      // mantido aqui, junto do uso do ícone. A versão outline é usada
-      // quando a turma NÃO está fixada; ao fixar (pressed), troca pra
-      // versão preenchida (miolo com cor). Usado nos dois modos
-      // (compacto e normal).
+      // Ícones "pin-angle"/"pin-angle-fill" dos Bootstrap Icons
+      // (https://icons.getbootstrap.com/icons/pin-angle/), licenciados
+      // sob MIT (Copyright (c) 2019-2024 The Bootstrap Authors).
       const PIN_PATH_OUTLINE = "M9.828.722a.5.5 0 0 1 .354.146l4.95 4.95a.5.5 0 0 1 0 .707c-.48.48-1.072.588-1.503.588-.177 0-.335-.018-.46-.039l-3.134 3.134a5.927 5.927 0 0 1 .16 1.013c.046.702-.032 1.687-.72 2.375a.5.5 0 0 1-.707 0l-2.829-2.828-3.182 3.182c-.195.195-1.219.902-1.414.707-.195-.195.512-1.22.707-1.414l3.182-3.182-2.828-2.829a.5.5 0 0 1 0-.707c.688-.688 1.673-.767 2.375-.72a5.922 5.922 0 0 1 1.013.16l3.134-3.133a2.772 2.772 0 0 1-.04-.461c0-.43.108-1.022.589-1.503a.5.5 0 0 1 .353-.146zm.122 2.112v-.002.002zm0-.002v.002a.5.5 0 0 1-.122.51L6.293 6.878a.5.5 0 0 1-.511.12H5.78l-.014-.004a4.507 4.507 0 0 0-.288-.076 4.922 4.922 0 0 0-.765-.116c-.422-.028-.836.008-1.175.15l5.51 5.509c.141-.34.177-.753.149-1.175a4.924 4.924 0 0 0-.192-1.054l-.004-.013v-.001a.5.5 0 0 1 .12-.512l3.536-3.535a.5.5 0 0 1 .532-.115l.096.022c.087.017.208.034.344.034.114 0 .23-.011.343-.04L9.927 2.028c-.029.113-.04.23-.04.343a1.779 1.779 0 0 0 .062.46z";
       const PIN_PATH_FILLED = "M9.828.722a.5.5 0 0 1 .354.146l4.95 4.95a.5.5 0 0 1 0 .707c-.48.48-1.072.588-1.503.588-.177 0-.335-.018-.46-.039l-3.134 3.134a5.927 5.927 0 0 1 .16 1.013c.046.702-.032 1.687-.72 2.375a.5.5 0 0 1-.707 0l-2.829-2.828-3.182 3.182c-.195.195-1.219.902-1.414.707-.195-.195.512-1.22.707-1.414l3.182-3.182-2.828-2.829a.5.5 0 0 1 0-.707c.688-.688 1.673-.767 2.375-.72a5.922 5.922 0 0 1 1.013.16l3.134-3.133a2.772 2.772 0 0 1-.04-.461c0-.43.108-1.022.589-1.503a.5.5 0 0 1 .353-.146z";
       const pinIcon = (filled) => `<svg viewBox="0 0 16 16" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="${filled ? PIN_PATH_FILLED : PIN_PATH_OUTLINE}"></path></svg>`;
@@ -611,36 +516,14 @@ function subjectColor(code, contextCodes) {
         const hasOther = slots.some(s => s.otherCampus);
 
         if (compactOn) {
-          /* Modo compacto: o botão vira um controle de até 3 partes:
-               1) "i" — só existe na turma ATIVA da matéria (nas demais
-                  nem entra no DOM, deixando o texto da turma ocupar
-                  mais espaço à esquerda/direita).
-               2) turma (.t-mid) — a maior parte do botão, mostrando só
-                  o código da turma (sem o prefixo "Turma", em 1 ou 2
-                  colunas) pra sobrar espaço pra prioridade de curso
-                  (t.prio), exibida ao lado em tom apagado e cortada
-                  com "…" se não couber (ver .t-prio-compact no CSS).
-                  Quando a turma vira a ativa, a prioridade some de vez
-                  no modo de 2 colunas e só parcialmente no de 1 coluna
-                  (sobra menos espaço com os botões "i"/pin visíveis,
-                  então o texto trunca mais, mas continua aparecendo).
-                  Clique normal seleciona; se já estiver selecionada, o
-                  hover fica vermelho e o clique nesse estado REMOVE —
-                  substitui o antigo botão "✕". Se a turma estiver
-                  fixada (pin) e não for a ativa, mostra por cima um
-                  indicativo (badge) não-clicável de que ela está
-                  fixada — ver .t-pin-indicator no CSS.
-               3) pin — botão de verdade (clicável) só existe na turma
-                  ATIVA, mesma regra do "i". */
-          // pinIcon() / PIN_PATH_OUTLINE / PIN_PATH_FILLED: definidos acima
-          // do forEach, compartilhados com o modo normal.
+          // Modo compacto: botão com até 3 partes:
+          // 1) "i" — só na turma ATIVA (info da turma).
+          // 2) turma (.t-mid) — código da turma + prioridade (t.prio) ao
+          //    lado em tom apagado, truncada com "…" se não couber. Clique
+          //    seleciona; se já selecionada, hover fica vermelho e clique remove.
+          //    Se fixada e não ativa, mostra badge não-clicável (.t-pin-indicator).
+          // 3) pin — clicável só na turma ATIVA.
           const turmaLabel = esc(t.turma);
-          // Prioridade de curso: fica ao lado do código da turma, num
-          // tom apagado, o mais compacta possível (ellipsis se não
-          // couber). Quando a turma é selecionada some de vez no modo
-          // de 2 colunas (menos espaço sobrando) e só parcialmente no
-          // de 1 coluna (o espaço reservado pros botões "i"/pin some
-          // menos texto, então o ellipsis corta menos).
           const prioText = (t.prio && t.prio !== "-") ? esc(t.prio) : "";
           const showPrio = !!prioText && !(isActive && isTwoCol);
           optDiv.innerHTML = `
@@ -704,30 +587,21 @@ function subjectColor(code, contextCodes) {
           };
           optDiv.onclick = activate;
           optDiv.onkeydown = (e) => {
-            if (e.target !== optDiv) return; // o botão "Remover" nativo já cuida de si mesmo
+            if (e.target !== optDiv) return; // botão "Remover" já cuida de si mesmo
             if (e.key === "Enter" || e.key === " " || e.key === "Spacebar") {
               e.preventDefault();
               activate(e);
             }
           };
         }
-        /* pointerenter em vez de mouseenter: assim dá pra checar o
-           pointerType de cada evento (mouse/pen vs touch) em vez de
-           decidir uma vez só se o aparelho "tem hover" — cobre também
-           iPad com mouse/trackpad conectado. A limpeza do preview (ao
-           sair) não fica mais no pointerleave deste item: veja o vigia
-           global logo abaixo, mais confiável. Vale pra linha inteira nos
-           dois modos (não interfere com os cliques, que são tratados
-           separadamente acima). */
+        // pointerenter em vez de mouseenter: cobre iPad com mouse/trackpad.
+        // A limpeza do preview ao sair fica no vigia global logo abaixo.
         optDiv.onpointerenter = (e) => {
           if (e.pointerType === "touch") return;
           if (isActive) {
             setLinkedHover(sub.code, true);
-            // Turma já selecionada não usa prévia (ela já está "aplicada" na
-            // grade) — mas se o mouse veio rápido de cima de outra turma
-            // (não selecionada) que tinha deixado uma prévia verde/vermelha
-            // ativa, essa prévia ficava presa na grade porque este ramo
-            // nunca a limpava. Limpa aqui, sempre que entra numa ativa.
+            // Turma já selecionada não usa prévia, mas limpa uma prévia
+            // residual deixada por outra turma sobre a qual o mouse passou antes.
             if (State.getPreview()) {
               State.setPreview(null);
               renderGridPreviewOnly();
@@ -742,15 +616,9 @@ function subjectColor(code, contextCodes) {
         optDiv.onpointerleave = (e) => {
           if (e.pointerType === "touch") return;
           if (isActive) setLinkedHover(sub.code, false);
-          /* restoreHeaderInfo() NÃO fica mais aqui: se ficasse, ao mover o
-             mouse de uma turma pra outra vizinha (mesmo painel) ele
-             restauraria o texto da turma selecionada por um instante antes
-             do pointerenter da próxima turma sobrescrever de novo — dando
-             aquele "pulo" (turma de cima > selecionada > turma de baixo)
-             no cabeçalho. A restauração agora só acontece no pointerleave
-             do painel inteiro (tp, logo abaixo), que só dispara quando o
-             mouse sai de toda a lista de turmas daquela matéria — nunca ao
-             passar entre turmas vizinhas. */
+          // restoreHeaderInfo() não fica aqui para evitar um "pulo" visual
+          // ao mover o mouse entre turmas vizinhas — a restauração acontece
+          // só no pointerleave do painel inteiro (tp, abaixo).
         };
         tp.appendChild(optDiv);
 
@@ -764,7 +632,7 @@ function subjectColor(code, contextCodes) {
             <div><b>Optativa:</b> ${esc(t.opt || "-")}</div>
           `;
           if (compactOn) {
-            bottomInfoHtml = infoHtml; // só uma turma por matéria pode estar ativa
+            bottomInfoHtml = infoHtml;
           } else {
             const info = document.createElement("div");
             info.className = "turma-info";
@@ -781,10 +649,9 @@ function subjectColor(code, contextCodes) {
         tp.appendChild(info);
       }
 
-      /* pointerleave do painel inteiro (não bubble, então só dispara quando
-         o mouse sai de fato de toda a área de turmas desta matéria — ver
-         comentário no onpointerleave de cada .turma-opt, acima). É aqui que
-         o cabeçalho volta a mostrar a turma selecionada. */
+      // pointerleave do painel inteiro (não bubble): dispara só quando o
+      // mouse sai de toda a área de turmas da matéria. Aqui o cabeçalho
+      // volta a mostrar a turma selecionada.
       tp.onpointerleave = (e) => {
         if (e.pointerType === "touch") return;
         restoreHeaderInfo();
@@ -796,9 +663,7 @@ function subjectColor(code, contextCodes) {
     if (subjectListEl.children.length === 0) {
       subjectListEl.innerHTML = `<div class="empty-state">Nenhuma disciplina encontrada.</div>`;
     }
-    // Restaura a posição de rolagem de antes do rebuild (ver comentário no
-    // início da função). Precisa ser depois de todo o conteúdo já estar de
-    // volta no DOM, senão o scrollHeight ainda não reflete a lista cheia.
+    // Restaura a posição de rolagem de antes do rebuild.
     subjectListEl.scrollTop = prevScrollTop;
   }
 
@@ -879,7 +744,7 @@ function subjectColor(code, contextCodes) {
     gridTable.innerHTML = baseGridHTML(occ);
   }
 
-  /* Clique (ou Enter/Espaço) em um bloco de aula na grade remove a disciplina da seleção */
+  // Clique (ou Enter/Espaço) em um bloco de aula na grade remove a disciplina da seleção
   function removeFromCellBlock(block) {
     const code = block.dataset.code;
     if (!code || !State.isSelected(code)) return;
@@ -901,13 +766,9 @@ function subjectColor(code, contextCodes) {
     }
   });
 
-  /* Vigia global do preview: em vez de confiar em algum evento específico
-     de "saída" disparar (pointerleave de item, de container, etc. — que
-     na prática falhava em alguns casos, deixando o preview preso mesmo
-     sem mouse em cima de nada), checa a cada movimento do mouse em
-     QUALQUER lugar da página se o ponteiro ainda está sobre uma
-     .turma-opt. Se não estiver e ainda houver preview ativo, limpa.
-     Isso garante que o preview nunca fica "grudado". */
+  // Vigia global do preview: a cada movimento do mouse em qualquer lugar
+  // da página, checa se o ponteiro ainda está sobre uma .turma-opt; se não
+  // estiver, limpa o preview (evita que fique "grudado").
   document.addEventListener("pointermove", (e) => {
     if (e.pointerType === "touch") return;
     if (!State.getPreview()) return;
@@ -915,8 +776,7 @@ function subjectColor(code, contextCodes) {
     State.setPreview(null);
     renderGridPreviewOnly();
   });
-  /* E se o mouse sair da janela/documento inteiro (sem gerar mais
-     pointermove dentro dela), garante a limpeza também. */
+  // Se o mouse sair da janela/documento inteiro, limpa também.
   document.addEventListener("pointerleave", (e) => {
     if (e.pointerType === "touch") return;
     if (!State.getPreview()) return;
@@ -924,11 +784,8 @@ function subjectColor(code, contextCodes) {
     renderGridPreviewOnly();
   });
 
-  /* ============== HOVER CRUZADO (lista ⇄ grade) ==============
-     Passar o mouse num bloco da grade destaca a matéria correspondente
-     na lista (mesmo visual de hover da lista), e vice-versa — sem
-     inventar um estilo novo, só reaplicando o hover já existente de
-     cada lado no elemento correspondente do outro lado. */
+  // Hover cruzado (lista ⇄ grade): passar o mouse num bloco da grade
+  // destaca a matéria correspondente na lista, e vice-versa.
   function setLinkedHover(code, on) {
     if (!code) return;
     subjectListEl.querySelectorAll(`.subject[data-code="${CSS.escape(code)}"] .subject-head`)
@@ -936,10 +793,7 @@ function subjectColor(code, contextCodes) {
     gridTable.querySelectorAll(`.cell-block[data-code="${CSS.escape(code)}"]`)
       .forEach(el => el.classList.toggle("hover-linked", on));
   }
-  /* pointerover/pointerout em vez de mouseover/mouseout, ignorando
-     pointerType "touch" — mesmo raciocínio do preview: funciona com
-     mouse/trackpad em qualquer aparelho (inclusive iPad com mouse
-     conectado), e nunca gruda em toque puro. */
+  // pointerover/pointerout ignorando touch (mesmo raciocínio do preview)
   gridTable.addEventListener("pointerover", (e) => {
     if (e.pointerType === "touch") return;
     const block = e.target.closest(".cell-block");
@@ -955,10 +809,7 @@ function subjectColor(code, contextCodes) {
   });
   subjectListEl.addEventListener("pointerover", (e) => {
     if (e.pointerType === "touch") return;
-    // Só conta como hover cruzado o cabeçalho da matéria (hover na matéria
-    // inteira) ou a turma-opt já ativa/selecionada — turmas não selecionadas
-    // ficam de fora, senão passar o mouse por qualquer turma da lista
-    // acenderia o mesmo destaque na grade.
+    // Só conta o cabeçalho da matéria ou a turma-opt já ativa/selecionada
     const trigger = e.target.closest(".subject-head, .turma-opt.active");
     if (!trigger) return;
     const subject = trigger.closest(".subject");
@@ -975,14 +826,12 @@ function subjectColor(code, contextCodes) {
     setLinkedHover(subject.dataset.code, false);
   });
 
-  /* A mini-grade já resolve o preview sozinha dentro de renderMiniGrid()
-     (lendo o State a cada desenho), então só precisamos redesenhá-la. */
+  // A mini-grade resolve o preview sozinha dentro de renderMiniGrid()
   function renderMiniGridPreviewOnly() {
     renderMiniGrid();
   }
 
-  /* Re-render apenas para aplicar/remover overlay de preview sem reconstruir
-     tudo (rápido no hover) */
+  // Re-render apenas do overlay de preview, sem reconstruir tudo (rápido no hover)
   function renderGridPreviewOnly() {
     gridTable.querySelectorAll(".cell-preview").forEach(el => el.remove());
     const previewSlots = State.getPreview();
@@ -1042,15 +891,9 @@ function subjectColor(code, contextCodes) {
     if (rbtn) rbtn.disabled = !State.canRedo();
   }
 
-  /* ============== MINI-PRÉVIA DA GRADE (celular) ==============
-     Espelha a grade real em miniatura (uma célula por aula x dia, sem
-     texto): verde onde há uma disciplina alocada, vermelho quando dois ou
-     mais horários colidem na mesma célula. A última matéria escolhida
-     aparece em azul para ficar fácil de achar — a não ser que ela própria
-     tenha algum conflito (em qualquer horário seu), caso em que todas as
-     suas células ficam vermelhas, não só a que colide. Preenche o canto
-     vazio do cabeçalho no celular, quando a barra de ferramentas quebra
-     de linha. */
+  // Mini-prévia da grade (celular): espelha a grade real em miniatura —
+  // verde onde há disciplina alocada, vermelho em conflito. A última
+  // matéria escolhida aparece em azul (ou vermelho, se tiver conflito).
   function renderMiniGrid(occ) {
     const miniGrid = document.getElementById("miniGrid");
     if (!miniGrid) return;
@@ -1058,12 +901,7 @@ function subjectColor(code, contextCodes) {
     const lastCode = State.getLastSelected();
     const conflictCodes = computeConflictCodes(occ);
     const lastHasConflict = !!(lastCode && conflictCodes.has(lastCode));
-    /* Preview (hover na lista) resolvido aqui também, junto com o resto:
-       um mapa "dia-aula" -> "ok"/"conflict" pros slots da turma em hover.
-       Assim a mini-grade nunca fica com preview "preso": toda vez que ela
-       é redesenhada (por hover ou por qualquer outro motivo), a classe de
-       preview reflete o State atual, nunca uma classe deixada por uma
-       célula antiga que já nem existe mais. */
+    // Preview (hover na lista): mapa "dia-aula" -> "ok"/"conflict"
     const previewSlots = State.getPreview();
     const previewMap = {};
     if (previewSlots) {
@@ -1097,7 +935,7 @@ function subjectColor(code, contextCodes) {
   }
 
   function renderAll() {
-    const occ = computeOccupancy(); // calculado 1x aqui e reaproveitado abaixo
+    const occ = computeOccupancy();
     renderSubjectList(occ);
     renderGrid(occ);
     renderStats(occ);
@@ -1116,11 +954,8 @@ function subjectColor(code, contextCodes) {
     toastTimer = setTimeout(() => t.classList.remove("show"), 2400);
   }
 
-  /* ============== COPY / PASTE / LIMPAR ==============
-     Extraídas em funções nomeadas (em vez de ficarem só dentro do
-     onclick de cada botão) porque agora também são disparadas pelos
-     atalhos de teclado (Ctrl+C, Ctrl+V, Delete) mais abaixo — assim os
-     botões e os atalhos chamam exatamente a mesma lógica. */
+  // Extraídas em funções nomeadas para serem chamadas tanto pelos botões
+  // quanto pelos atalhos de teclado (Ctrl+C, Ctrl+V, Delete) abaixo.
   async function doCopySelection() {
     const items = Object.values(State.getSelected());
     if (!items.length) { toast("Nada selecionado para copiar."); return; }
@@ -1181,12 +1016,8 @@ function subjectColor(code, contextCodes) {
   document.getElementById("btnPaste").onclick = doPasteSelection;
   document.getElementById("btnClear").onclick = doClearAll;
 
-  /* Botões de template (1/2/3): cada um guarda sua própria grade de
-     turmas para o curso atual (ver State.switchTemplate). O botão ativo
-     é só um reflexo visual do template atual — não precisa de
-     localStorage próprio, porque State.switchCourse() sempre volta pro
-     template "1" ao trocar de curso/sede, e updateActiveTemplateBtn()
-     é chamado depois de toda troca de curso pra manter a UI sincronizada. */
+  // Botões de template (1/2/3): cada um guarda sua própria grade (ver
+  // State.switchTemplate). O botão ativo é só reflexo visual do estado.
   const templateBtns = document.querySelectorAll(".template-btn");
   function updateActiveTemplateBtn() {
     const active = State.getActiveTemplate();
@@ -1213,10 +1044,7 @@ function subjectColor(code, contextCodes) {
     const isTyping = tag === "input" || tag === "textarea" || e.target.isContentEditable;
     const key = e.key.toLowerCase();
 
-    // "/" foca a busca de qualquer lugar da página (padrão tipo GitHub) —
-    // checado antes do "isTyping" de propósito, mas só dispara quando o
-    // foco NÃO já está em um campo de texto (senão a pessoa nunca
-    // conseguiria digitar uma barra dentro da própria busca).
+    // "/" foca a busca, só quando não já digitando
     if (!isTyping && key === "/") {
       e.preventDefault();
       searchBox.focus();
@@ -1234,10 +1062,8 @@ function subjectColor(code, contextCodes) {
       e.preventDefault();
       if (State.redo()) { renderAll(); toast("Ação refeita."); }
     } else if ((e.ctrlKey || e.metaKey) && key === "c") {
-      // Só assume o Ctrl+C quando não há texto selecionado manualmente na
-      // página — senão quebraria o copiar nativo de qualquer trecho que
-      // a pessoa tenha selecionado (ex: um texto do rodapé ou das
-      // estatísticas), que deve continuar funcionando normalmente.
+      // Só assume o Ctrl+C se não há texto selecionado manualmente na
+      // página (senão quebraria o copiar nativo desse texto).
       const hasTextSelection = !!(window.getSelection && window.getSelection().toString());
       if (!hasTextSelection) {
         e.preventDefault();
@@ -1276,10 +1102,7 @@ function subjectColor(code, contextCodes) {
   document.getElementById("filterPin").onclick = (e) => { setFilter("pinned", e.currentTarget); };
   function setFilter(mode, btn) {
     const prevMode = State.getFilterMode();
-    // Fecha todas as disciplinas expandidas na lista sempre que o filtro
-    // muda (em qualquer direção) — evita levar cards abertos (às vezes de
-    // disciplinas que nem aparecerão mais no filtro novo) para o novo
-    // contexto de visualização.
+    // Fecha disciplinas expandidas sempre que o filtro muda
     if (prevMode !== mode) State.closeAllOpen();
     State.setFilterMode(mode);
     document.querySelectorAll(".filter-row button").forEach(b => {
@@ -1291,22 +1114,16 @@ function subjectColor(code, contextCodes) {
     renderSubjectList();
   }
 
-  /* ============== TEMA (Claro / Escuro / Sistema) ==============
-     O tema salvo já é aplicado por um pequeno script inline no <head>
-     do index.html (antes deste arquivo carregar), para evitar "flash"
-     de tela clara. Aqui só cuidamos da interação com os botões e da
-     resposta a mudanças do tema do sistema operacional. */
+  // Tema (claro/escuro/sistema): valor salvo já aplicado por script
+
   const THEME_KEY = "utfpr_theme";
   const mqDark = window.matchMedia("(prefers-color-scheme: dark)");
 
   const SUN_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="1.5" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22.5"></line><line x1="3.5" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="20.5" y2="12"></line><line x1="5.6" y1="5.6" x2="7.4" y2="7.4"></line><line x1="16.6" y1="16.6" x2="18.4" y2="18.4"></line><line x1="16.6" y1="7.4" x2="18.4" y2="5.6"></line><line x1="5.6" y1="18.4" x2="7.4" y2="16.6"></line></svg>';
   const MOON_SVG = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.6 15.3A8.6 8.6 0 0 1 8.7 3.4a.8.8 0 0 0-1-1A10.2 10.2 0 1 0 21.6 16.3a.8.8 0 0 0-1-1z"></path></svg>';
 
-  // A preferência guardada pode ser "light", "dark" ou "system". O botão
-  // deslizante não tem uma posição própria para "sistema": quando a
-  // preferência é "system", o slider apenas espelha a aparência atual do
-  // SO (mostrando sol ou lua) — mas continua reagindo a mudanças do SO em
-  // tempo real, já que a preferência salva continua sendo "system".
+  // Preferência pode ser "light", "dark" ou "system"; no modo "system" o
+  // slider só espelha a aparência atual do SO, reagindo a mudanças dele.
   function applyTheme(pref) {
     const isDark = pref === "dark" || (pref === "system" && mqDark.matches);
     document.documentElement.setAttribute("data-theme", isDark ? "dark" : "light");
@@ -1326,9 +1143,7 @@ function subjectColor(code, contextCodes) {
   if (themeToggleBtn) {
     themeToggleBtn.addEventListener("click", () => {
       const isDarkNow = document.documentElement.getAttribute("data-theme") === "dark";
-      // Um clique sempre define uma preferência explícita (claro/escuro),
-      // saindo do modo "sistema" — que permanece disponível para quem
-      // nunca clicou, mas não tem um controle visível dedicado.
+      // Um clique sempre define uma preferência explícita, saindo do modo "sistema"
       setThemePref(isDarkNow ? "light" : "dark");
     });
   }
@@ -1337,13 +1152,9 @@ function subjectColor(code, contextCodes) {
   });
   applyTheme(localStorage.getItem(THEME_KEY) || "system");
 
-  /* ============== MODO COMPACTO ==============
-     Some com professor/reserva/prioridade nas turmas (ver CSS,
-     html[data-compact="true"]), deixando só o botão "i" e o número da
-     turma — assim cabem mais opções na tela sem precisar rolar tanto
-     pra hover/ver a lista inteira. Preferência persistida como o tema;
-     o valor inicial já é aplicado antes da 1ª pintura (ver <head>).
-     Padrão: ativado (quando não há preferência salva ainda). */
+  // Modo compacto: some com professor/reserva/prioridade nas turmas (ver
+  // CSS, html[data-compact="true"]), deixando só o "i" e o número da
+  // turma. Preferência persistida como o tema. Padrão: ativado.
   const COMPACT_KEY = "utfpr_compact";
   function applyCompact(on) {
     if (on) document.documentElement.setAttribute("data-compact", "true");
@@ -1366,28 +1177,12 @@ function subjectColor(code, contextCodes) {
     });
   }
 
-  /* ============== VISIBILIDADE DA MINI-GRADE FLUTUANTE (celular/tablet) ==============
-     A mini-grade fica fixa na tela (ver CSS) exceto em dois casos, em que
-     ela some para não duplicar informação já visível ou aparecer depois
-     de qualquer conteúdo abaixo da tabela (ex.: a seção "O que é..."):
-     1) quando a tabela grande JÁ APARECEU um pouco na tela (não no
-        primeiro pixel — só depois de uns MINI_GRID_REVEAL_PX de tabela
-        visível, pra não sumir a mini-grade cedo demais); e
-     2) quando o usuário já rolou para ALÉM da tabela grande — nesse caso
-        ela fica travada escondida até o usuário rolar de volta para cima,
-        antes da tabela. Isso substitui o antigo "atBottom" (que só
-        cobria o fim absoluto da página e deixava a mini-grade reaparecer
-        em qualquer conteúdo novo inserido depois da tabela).
-
-     Tablet na vertical tem uma tela bem mais alta que um celular, então a
-     lista de disciplinas (que fica empilhada acima da tabela, ver CSS) é
-     proporcionalmente mais curta perto do fim da tela — a tabela grande já
-     aparece (mesmo que só uma fatia no rodapé da viewport) bem mais cedo
-     durante a rolagem da lista, quando na prática ainda falta muito pra
-     realmente chegar nela. Usar os mesmos 120px fixos do celular escondia a
-     mini-grade cedo demais nesse caso. Por isso, em tablets no modo retrato,
-     exigimos uma fatia bem maior da tabela visível (proporcional à altura da
-     tela) antes de considerar que ela "já apareceu" e esconder a mini-grade. */
+  // Visibilidade da mini-grade flutuante (celular/tablet): some quando a
+  // tabela grande já apareceu na tela (depois de MINI_GRID_REVEAL_PX
+  // visíveis) ou quando o usuário já rolou para além dela. Em tablet
+  // retrato, a tela é bem mais alta, então exige uma fatia maior da
+  // tabela (55% da altura) antes de considerar "já apareceu" — usar os
+  // 120px fixos do celular escondia a mini-grade cedo demais.
   function initMiniGridVisibility() {
     const miniGrid = document.getElementById("miniGrid");
     const gridWrap = document.querySelector(".grid-wrap");
@@ -1423,14 +1218,10 @@ function subjectColor(code, contextCodes) {
     }
   }
 
-  /* ============== CARREGAMENTO DE SEDE E CURSO ==============
-     Estrutura em duas camadas: data/sedes.json lista as sedes (por
-     enquanto só Curitiba), e cada sede tem sua própria pasta
-     data/<sede>/ com um manifest.json (catálogo de cursos daquela sede)
-     e um data/<sede>/<slug>.json por curso (só o array de disciplinas —
-     DAYS, AULAS e PALETTE já vêm de config.js e são iguais pra tudo).
-     Trocar de sede recarrega o manifest de cursos daquela sede e carrega
-     o primeiro curso dela (ou o último usado nessa sede, se houver). */
+  // Carregamento de sede/curso: data/sedes.json lista as sedes; cada sede
+  // tem data/<sede>/manifest.json (catálogo de cursos) e um
+  // data/<sede>/<slug>.json por curso. Trocar de sede recarrega o
+  // manifest e carrega o primeiro curso dela (ou o último usado).
   const LAST_SEDE_KEY = "utfpr_sede";
   const sedeSelect = document.getElementById("sedeSelect");
   const courseSelect = document.getElementById("courseSelect");
@@ -1578,13 +1369,8 @@ function subjectColor(code, contextCodes) {
     initMiniGridVisibility();
   })();
 
-  /* ============== EXPORT PARA TESTES (Node) ==============
-     Só roda em Node (module.exports não existe no browser), então isso
-     nunca afeta o app rodando no navegador. Expõe as funções puras
-     (sem DOM) e também o State (seleção de turmas, templates 1/2/3,
-     desfazer/refazer) para serem testados isoladamente em test.js — o
-     State não toca o DOM diretamente, só localStorage, então funciona
-     igual no sandbox de teste. */
+  // Export para testes (Node): só roda em Node, nunca afeta o navegador.
+  // Expõe funções puras e o State (não toca DOM, só localStorage) para test.js.
   if (typeof module !== "undefined" && module.exports) {
     module.exports = {
       parseHorario,

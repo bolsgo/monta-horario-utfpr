@@ -185,6 +185,17 @@
     "name": "Filosofia",
     "turmas": [
       {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(H35)-3T2(H35)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
         "turma": "CC1",
         "enq": "Presencial",
         "vt": "46",
@@ -192,6 +203,28 @@
         "res": "Aberta",
         "prio": "1 - Ciência Computação",
         "h": "3M4(L21)-3M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M2(L21)-4M3(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L21)-4M5(L21)",
         "prof": "Lairton Moacir Winter",
         "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
       }
@@ -366,7 +399,7 @@
         "res": "Aberta",
         "prio": "1 - Tecnol Em Alimentos",
         "h": "2N1(L18)-2N2(L18)",
-        "prof": "",
+        "prof": "Marcos Ricardo Muller",
         "opt": "Não"
       },
       {
@@ -396,6 +429,23 @@
         "h": "2T2(H34)-2T3(H34)-4T2(H34)",
         "prof": "Joice Maria Maltauro Juliano",
         "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "HLA1015",
+    "name": "Introdução À Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(H38)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
       }
     ]
   },
@@ -440,6 +490,17 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "5N1(I11)-5N2(I11)",
         "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4M4(I44)-4M5(I44)",
+        "prof": "Claudimara Cassoli Bortoloto",
         "opt": "Não"
       },
       {
@@ -502,6 +563,78 @@
         "h": "5M1(I11)",
         "prof": "Dayse Grassi Bernardon",
         "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:654, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "MAT1003",
+    "name": "Matemática Univariável",
+    "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M1(H36)-4M2(H36)-6M4(H36)-6M5(H36)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N4(L42)-2N5(L42)-4N4(L42)-4N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "2N4(L22)-2N5(L22)-4N4(L22)-4N5(L22)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4T1(L41)-4T2(L41)-6T1(L41)-6T2(L41)",
+        "prof": "Tatiane Tambarussi Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M4(H38)-5M5(H38)-6M1(H38)-6M2(H38)",
+        "prof": "Eliane Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M1(I11)-4M2(I11)-6M4(I11)-6M5(I11)",
+        "prof": "Pedro Elton Weber",
+        "opt": "Não"
       }
     ]
   },
@@ -653,6 +786,34 @@
     ]
   },
   {
+    "code": "HLA1007",
+    "name": "Psicologia E Desenvolvimento Humano",
+    "turmas": [
+      {
+        "turma": "OPHUMCC",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(H37)-5T5(H37)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      },
+      {
+        "turma": "TMI5OP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(H33)-5N5(H33)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "QUI1061",
     "name": "Química Geral E Inorgânica",
     "turmas": [
@@ -664,7 +825,7 @@
         "res": "Fechada",
         "prio": "1 - Tecnol Em Alimentos",
         "h": "4N1(L33)-4N2(L33)-5N4(I11)-5N5(I11)",
-        "prof": "Emerson Luis Pires",
+        "prof": "Emerson Luis Pires, Jose Goncales Filho",
         "opt": "Não"
       }
     ]
@@ -683,6 +844,23 @@
         "h": "4N3(I11)-4N4(I11)-4N5(I11)-5N3(I11)",
         "prof": "Michelle Budke Costa",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1005",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(L23)-3M5(L23)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Matriz:665, Matriz:655, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
       }
     ]
   },

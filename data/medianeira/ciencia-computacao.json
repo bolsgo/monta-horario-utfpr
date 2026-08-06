@@ -1,5 +1,73 @@
 [
   {
+    "code": "COM1052",
+    "name": "Aprendizado De Máquina",
+    "turmas": [
+      {
+        "turma": "CC7OP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4M1(L18)-4M2(L18)-4M3(L18)",
+        "prof": "Jandrei Sartori Spancerski",
+        "opt": "Matriz:654, Matriz:656"
+      }
+    ]
+  },
+  {
+    "code": "COM1027",
+    "name": "Arquitetura Avançada De Hardware",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3M1(L15)-3M2(L15)-3M3(L15)",
+        "prof": "Hamilton Pereira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1023",
+    "name": "Arquitetura E Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T4(L16)-4T1(L16)-4T2(L16)",
+        "prof": "Nelson Miguel Betzek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1038",
+    "name": "Computação Gráfica",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T4(L17)-2T5(L17)-3T4(L17)-3T5(L17)",
+        "prof": "Pedro Luiz De Paula Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "COM1005",
     "name": "Comunicação De Dados",
     "turmas": [
@@ -17,9 +85,177 @@
     ]
   },
   {
+    "code": "COM1033",
+    "name": "Construção De Compiladores",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T2(L18)-2T3(L18)-5T4(L18)-5T5(L18)",
+        "prof": "Jorge Aikes Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1008",
+    "name": "Descrição E Inferência Estatística De Dados",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N3(I26)-2N4(I26)-2N5(I26)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N3(I25)-6N4(I25)-6N5(I25)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "3M3(L18)-3M4(L18)-3M5(L18)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6M3(L12A)-6M4(L12A)-6M5(L12A)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "4M1(L12A)-4M2(L12A)-4M3(L12A)",
+        "prof": "Samuel Bellido Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1021",
+    "name": "Desenvolvimento De Aplicativos Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T1(L16)-2T2(L16)-2T3(L16)",
+        "prof": "Everton Coimbra De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1030",
+    "name": "Desenvolvimento De Sistemas Corporativos",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T1(L18)-3T2(L18)-3T3(L18)-3T4(L18)",
+        "prof": "Everton Coimbra De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1007",
+    "name": "Eletrônica Digital",
+    "turmas": [
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Ciência Computação",
+        "h": "4M4(J49)-4M5(J49)-5M2(J41)-5M3(J41)",
+        "prof": "Alberto Noboru Miyadaira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1061",
+    "name": "Eletrônica Digital",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T1(J49)-3T2(J49)-3T3(J49)",
+        "prof": "Alexandre Victor Casella",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC2EXTR",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T1(J43)-3T2(J43)-3T3(J43)",
+        "prof": "Anderson De Camargo Bortoluzzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1002",
     "name": "Estruturas Geométricas E Vetores",
     "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(I44)-5M2(I44)-5M3(I44)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
       {
         "turma": "AMB1",
         "enq": "Presencial",
@@ -30,6 +266,50 @@
         "h": "3N3(L22)-3N4(L22)-3N5(L22)",
         "prof": "Tasia Hickmann",
         "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N3(L42)-3N4(L42)-3N5(L42)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "6M1(L21)-6M2(L21)-6M3(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M1(I16)-2M2(I16)-2M3(I16)",
+        "prof": "Tatiane Tambarussi Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(L23)-5M2(L23)-5M3(L23)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
       }
     ]
   },
@@ -37,6 +317,17 @@
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
+      {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(H35)-3T2(H35)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
       {
         "turma": "CC1",
         "enq": "Presencial",
@@ -47,6 +338,135 @@
         "h": "3M4(L21)-3M5(L21)",
         "prof": "Lairton Moacir Winter",
         "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M2(L21)-4M3(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L21)-4M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "COM1045",
+    "name": "Frameworks Para Desenvolvimento Cross Platform",
+    "turmas": [
+      {
+        "turma": "CC8OP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4T3(L17)-4T4(L17)-4T5(L17)",
+        "prof": "Jandrei Sartori Spancerski",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "COM1012",
+    "name": "Fundamentos Da Engenharia De Software",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "6T3(L15)-6T4(L15)-6T5(L15)",
+        "prof": "Alan Gavioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1002",
+    "name": "Fundamentos Da Termodinâmica",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M4(H36)-5M5(H36)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB3QUI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "5N4(H37)-5N5(H37)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(H35)-5M2(H35)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1010",
+    "name": "Fundamentos De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T1(L15)-2T2(L15)-2T3(L15)",
+        "prof": "Kelyn Schenatto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1009",
+    "name": "Fundamentos De Estruturas De Dados",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T4(L15)-2T5(L15)-4T4(L15)-4T5(L15)",
+        "prof": "Marcos Ricardo Muller",
+        "opt": "Não"
       }
     ]
   },
@@ -107,6 +527,84 @@
     ]
   },
   {
+    "code": "FIS1001",
+    "name": "Física Do Movimento",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(H37)-5M2(H37)-5M3(H37)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N1(L43)-2N2(L43)-2N3(L43)",
+        "prof": "Fabricio Tronco Dalmolin",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N3(I15)-6N4(I15)-6N5(I15)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T1(L27)-3T2(L27)-3T3(L27)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M1(L23)-6M2(L23)-6M3(L23)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1024",
+    "name": "Gestão Da Qualidade De Software",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4T3(L16)-4T4(L16)-4T5(L16)",
+        "prof": "Juliano Rodrigo Lamb",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1008",
     "name": "Inglês Básico 1",
     "turmas": [
@@ -124,6 +622,40 @@
     ]
   },
   {
+    "code": "COM1032",
+    "name": "Inteligência Artificial",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4T1(L18)-4T2(L18)-5T2(L18)-5T3(L18)",
+        "prof": "Jandrei Sartori Spancerski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1028",
+    "name": "Interação Humano-Computador",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4M1(L17)-4M2(L17)-4M3(L17)",
+        "prof": "Marcos Ricardo Muller",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "COM1007",
     "name": "Introdução À Ciência Da Computação",
     "turmas": [
@@ -136,6 +668,57 @@
         "prio": "1 - Ciência Computação",
         "h": "5M3(L12A)-5M4(L12A)-5M5(L12A)",
         "prof": "Alessandra Bortoletto Garbelotti Hoffmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1015",
+    "name": "Introdução À Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(H38)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1016",
+    "name": "Laboratório De Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5M1(L13)-5M2(L13)-6M4(L13)-6M5(L13)",
+        "prof": "Neylor Michel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1026",
+    "name": "Laboratório De Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "6M1(L13)-6M2(L13)-6M3(L13)",
+        "prof": "Juliano Rodrigo Lamb",
         "opt": "Não"
       }
     ]
@@ -164,6 +747,17 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "5N1(I11)-5N2(I11)",
         "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4M4(I44)-4M5(I44)",
+        "prof": "Claudimara Cassoli Bortoloto",
         "opt": "Não"
       },
       {
@@ -230,6 +824,151 @@
     ]
   },
   {
+    "code": "COM1041",
+    "name": "Linguagem Procedural Para Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC8OP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T1(L17)-3T2(L17)-3T3(L17)",
+        "prof": "Cesar Angonese",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "COM1008",
+    "name": "Lógica Matemática",
+    "turmas": [
+      {
+        "turma": "CC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "40",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M1(L41)-2M2(L41)-2M3(L41)-3M3(L41)",
+        "prof": "Nelson Miguel Betzek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1005",
+    "name": "Matemática Multivariável",
+    "turmas": [
+      {
+        "turma": "AMB3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(L42)-4N2(L42)-6N1(L42)-6N2(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L42)-4T3(L42)-5T2(L42)-5T3(L42)",
+        "prof": "Andre Sandmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(I11)-2M5(I11)-4M4(I11)-4M5(I11)",
+        "prof": "Pedro Elton Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1003",
+    "name": "Matemática Univariável",
+    "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M1(H36)-4M2(H36)-6M4(H36)-6M5(H36)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N4(L42)-2N5(L42)-4N4(L42)-4N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "2N4(L22)-2N5(L22)-4N4(L22)-4N5(L22)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4T1(L41)-4T2(L41)-6T1(L41)-6T2(L41)",
+        "prof": "Tatiane Tambarussi Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M4(H38)-5M5(H38)-6M1(H38)-6M2(H38)",
+        "prof": "Eliane Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M1(I11)-4M2(I11)-6M4(I11)-6M5(I11)",
+        "prof": "Pedro Elton Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1002",
     "name": "Metodologia Da Pesquisa",
     "turmas": [
@@ -264,6 +1003,401 @@
     ]
   },
   {
+    "code": "COM1031",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2T4(L18)-2T5(L18)",
+        "prof": "Kelyn Schenatto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1017",
+    "name": "Modelagem De Software",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4M3(L16)-4M4(L16)-4M5(L16)",
+        "prof": "Alan Gavioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1006",
+    "name": "Métodos Aproximados Em Soluções Matemáticas",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(L12A)-4N2(L12A)-4N3(L12A)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "5M3(L22)-5M4(L22)-5M5(L22)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T1(I26)-4T2(I26)-4T3(I26)",
+        "prof": "Samuel Bellido Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "4M3(I26)-4M4(I26)-4M5(I26)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1013",
+    "name": "Oficina De Computação Para A Comunidade",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4T3(L43)",
+        "prof": "Nelson Miguel Betzek",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1029",
+    "name": "Oficina De Desenvolvimento De Software",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3M4(L15)-3M5(L15)",
+        "prof": "Ricardo Sobjak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1039",
+    "name": "Oficina De Gestão E Desenvolvimento De Sistemas Computacionais",
+    "turmas": [
+      {
+        "turma": "CC8",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "4T1(L17)-4T2(L17)",
+        "prof": "Ricardo Sobjak",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1036",
+    "name": "Oficina De Suporte Tecnológico",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5M1(L18)-5M2(L18)",
+        "prof": "Jorge Aikes Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1015",
+    "name": "Orientação A Objetos",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M3(L16)-2M4(L16)-2M5(L16)-5M5(L16)",
+        "prof": "Everton Coimbra De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1005",
+    "name": "Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L27)-3T5(L27)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H34)-5M5(H34)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1019",
+    "name": "Paradigmas De Linguagens De Programação",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5T1(L16)-5T2(L16)-5T3(L16)",
+        "prof": "Alessandra Bortoletto Garbelotti Hoffmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1053",
+    "name": "Processamento De Imagens E Reconhecimento De Padrões",
+    "turmas": [
+      {
+        "turma": "CC8OP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5T1(L17)-5T2(L17)-5T3(L17)",
+        "prof": "Pedro Luiz De Paula Filho",
+        "opt": "Matriz:654, Matriz:656"
+      }
+    ]
+  },
+  {
+    "code": "HLA1007",
+    "name": "Psicologia E Desenvolvimento Humano",
+    "turmas": [
+      {
+        "turma": "OPHUMCC",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(H37)-5T5(H37)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      },
+      {
+        "turma": "TMI5OP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(H33)-5N5(H33)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "COM1048",
+    "name": "Realidade Virtual",
+    "turmas": [
+      {
+        "turma": "CC7OPT",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3M3(L16)-3M4(L16)-3M5(L16)",
+        "prof": "Jorge Aikes Junior",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "COM1011",
+    "name": "Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T4(L13)-3T5(L13)-5T2(L13)-5T3(L13)",
+        "prof": "Neylor Michel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1035",
+    "name": "Redes Neurais Artificiais",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "6M1(L18)-6M2(L18)-6M3(L18)",
+        "prof": "Hamilton Pereira Da Silva",
+        "opt": "Matriz:656"
+      }
+    ]
+  },
+  {
+    "code": "COM1050",
+    "name": "Segurança Em Redes De Computadores",
+    "turmas": [
+      {
+        "turma": "CC7OP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "5M3(L13)-5M4(L13)-5M5(L13)",
+        "prof": "Neylor Michel",
+        "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "COM1034",
+    "name": "Sistemas Distribuídos",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T5(L18)-4T3(L18)-4T4(L18)-4T5(L18)",
+        "prof": "Fernando Schutz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1018",
+    "name": "Sistemas Gerenciadores De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M1(L16)-2M2(L16)-4M1(L16)-4M2(L16)",
+        "prof": "Kelyn Schenatto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1022",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T1(L16)-3T2(L16)-5T4(L16)-5T5(L16)",
+        "prof": "Hamilton Pereira Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1005",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(L23)-3M5(L23)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Matriz:665, Matriz:655, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
     "code": "AMB1001",
     "name": "Sustentabilidade E Gestão",
     "turmas": [
@@ -288,6 +1422,40 @@
         "h": "4M1(H38)-4M2(H38)-4M3(H38)",
         "prof": "Renato Santos Flauzino",
         "opt": "Matriz:654"
+      }
+    ]
+  },
+  {
+    "code": "COM1025",
+    "name": "Teoria Da Computação",
+    "turmas": [
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M3(L17)-2M4(L17)-2M5(L17)-5M1(L17)-5M2(L17)",
+        "prof": "Evando Carlos Pizzini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1037",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "2M1(L18)-2M2(L18)-2M3(L18)-6M4(L18)",
+        "prof": "Alessandra Bortoletto Garbelotti Hoffmann",
+        "opt": "Não"
       }
     ]
   },
@@ -321,6 +1489,90 @@
         "prio": "",
         "h": "",
         "prof": "Jorge Aikes Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1020",
+    "name": "Tópicos Em Algoritmos",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3T3(L16)-3T4(L16)-3T5(L16)",
+        "prof": "Marcos Ricardo Muller",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1004",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
+        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1014",
+    "name": "Árvores E Grafos",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Computação",
+        "h": "3M1(L16)-3M2(L16)-5M3(L16)-5M4(L16)",
+        "prof": "Evando Carlos Pizzini",
         "opt": "Não"
       }
     ]

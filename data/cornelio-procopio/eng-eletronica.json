@@ -1,5 +1,22 @@
 [
   {
+    "code": "E2OPH1",
+    "name": "A Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "E21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica",
+        "h": "4N2(A136)-4N3(A136)",
+        "prof": "Guadalupe Estrelita Dos Santos Menta",
+        "opt": "Matriz:178"
+      }
+    ]
+  },
+  {
     "code": "AMP",
     "name": "Amplificadores",
     "turmas": [
@@ -901,6 +918,23 @@
         "h": "3M2(S202)-3M3(S202)-4M4(S105)-4M5(S105)-4T2(A142)-4T3(A142)",
         "prof": "Leonardo Poltronieri Sampaio",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPS1",
+    "name": "Eletrônica Para Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "ET81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M4(S205)-5M5(S205)-6M4(S109)-6M5(S109)",
+        "prof": "Luis Fernando Caparroz Duarte",
+        "opt": "Matriz:172, Matriz:176"
       }
     ]
   },
@@ -1934,23 +1968,6 @@
     ]
   },
   {
-    "code": "MCT2",
-    "name": "Metodologia Científica E Tecnológica",
-    "turmas": [
-      {
-        "turma": "ET71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica, 2 - Eng. Eletrica, 2 - Eng. Controle/Automa",
-        "h": "4M4(S202)-4M5(S202)",
-        "prof": "Maria Eugenia Dajer",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "E6MCC",
     "name": "Microcontroladores",
     "turmas": [
@@ -2240,6 +2257,23 @@
     ]
   },
   {
+    "code": "EL21F",
+    "name": "Química",
+    "turmas": [
+      {
+        "turma": "SP01",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 1 - Eng. Controle/Automa, 1 - Eng. Eletrônica",
+        "h": "3N1(A036)-3N2(A036)-4T4(A142)-4T5(A142)",
+        "prof": "Walter Anibal Rammazzina Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QMC",
     "name": "Química",
     "turmas": [
@@ -2258,22 +2292,11 @@
         "turma": "ET12",
         "enq": "Presencial",
         "vt": "22",
-        "vc": "22",
-        "res": "Fechada",
+        "vc": "2",
+        "res": "Aberta",
         "prio": "1 - Eng. Eletrônica",
         "h": "4M4(A146)-4M5(A031)",
         "prof": "Paulo Cezar Tulio",
-        "opt": "Não"
-      },
-      {
-        "turma": "ET13",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2T2(A142)-2T3(A142)",
-        "prof": "Juliana Cortez",
         "opt": "Não"
       }
     ]
@@ -2425,7 +2448,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "2M2(S109)-2M3(S109)-3M2(A037)-3M3(A037)",
+        "h": "2M2(S109)-2M3(S109)-3M4(A037)-3M5(A037)",
         "prof": "Paulo Rogerio Scalassara",
         "opt": "Não"
       }

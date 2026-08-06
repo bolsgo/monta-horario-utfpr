@@ -208,11 +208,11 @@
       {
         "turma": "S91",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "20",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Letras Português",
-        "h": "6N1(CA-203)-6N2(CA-203)",
+        "h": "6N1(CA-101)-6N2(CA-101)",
         "prof": "Paula Avila Nunes",
         "opt": "Matriz:919"
       }
@@ -971,7 +971,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Letras Português",
-        "h": "4N1(CE-304)-4N2(CE-304)-6N3(CE-304)-6N4(CE-304)",
+        "h": "4N1(CE-103)-4N2(CE-103)-6N3(CE-104)-6N4(CE-104)",
         "prof": "Paula Avila Nunes",
         "opt": "Não"
       }
@@ -1164,7 +1164,7 @@
       {
         "turma": "S91",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "20",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Letras Português",

@@ -140,7 +140,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Cart Agrimensura",
         "h": "2N1(V007)-2N2(V007)",
-        "prof": "Keli Starck",
+        "prof": "",
         "opt": "Não"
       }
     ]
@@ -413,7 +413,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Cart Agrimensura",
         "h": "5N3(V003)-5N4(V003)-5N5(V003)-7M2(S001)",
-        "prof": "Keli Starck",
+        "prof": "",
         "opt": "Não"
       }
     ]
@@ -1525,7 +1525,7 @@
         "res": "Aberta",
         "prio": "1 - Eng Cart Agrimensura",
         "h": "4N1(V008)-4N2(V008)-4N3(V008)-7M1(S001)",
-        "prof": "Keli Starck",
+        "prof": "",
         "opt": "Não"
       }
     ]

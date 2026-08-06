@@ -333,7 +333,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng De Produção",
-        "h": "2N3(K306)-2N4(K306)-3N3(K306)-3N4(K306)",
+        "h": "2N3(T106)-2N4(T106)-3N3(K306)-3N4(K306)",
         "prof": "Jose Angelo Ferreira",
         "opt": "Não"
       }
@@ -1289,7 +1289,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng De Produção",
-        "h": "2N1(K312)-2N2(K312)-3N1(K312)-3N2(K312)",
+        "h": "2N1(T106)-2N2(T106)-3N1(K312)-3N2(K312)",
         "prof": "Jose Angelo Ferreira",
         "opt": "Não"
       }

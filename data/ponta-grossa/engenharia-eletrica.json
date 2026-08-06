@@ -79,6 +79,23 @@
     ]
   },
   {
+    "code": "EE60AO",
+    "name": "Sistemas De Controle Fuzzy",
+    "turmas": [
+      {
+        "turma": "OPEE",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(V1-102)-3T5(V1-102)-5T4(V1-102)-5T5(V1-102)",
+        "prof": "Fernanda Cristina Correa",
+        "opt": "Matriz:820"
+      }
+    ]
+  },
+  {
     "code": "EE60AP",
     "name": "Sistemas De Supervisão E Controle",
     "turmas": [
@@ -140,7 +157,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
-        "h": "2N1(L005)-2N1(V1-103)-2N2(L005)-2N2(V1-103)-3N1(L005)-3N1(V1-103)-3N2(L005)-3N2(V1-103)",
+        "h": "2N1(V1-008)-2N2(V1-008)-3N1(V1-008)-3N2(V1-008)",
         "prof": "Eloi Agostini Junior",
         "opt": "Matriz:806"
       }

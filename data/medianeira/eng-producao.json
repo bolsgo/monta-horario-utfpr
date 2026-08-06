@@ -17,6 +17,67 @@
     ]
   },
   {
+    "code": "MAT1008",
+    "name": "Descrição E Inferência Estatística De Dados",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N3(I26)-2N4(I26)-2N5(I26)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N3(I25)-6N4(I25)-6N5(I25)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "3M3(L18)-3M4(L18)-3M5(L18)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6M3(L12A)-6M4(L12A)-6M5(L12A)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "4M1(L12A)-4M2(L12A)-4M3(L12A)",
+        "prof": "Samuel Bellido Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MEC1001",
     "name": "Desenho Técnico Assistido Por Computador",
     "turmas": [
@@ -45,6 +106,84 @@
     ]
   },
   {
+    "code": "FIS1004",
+    "name": "Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "ALI5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M3(I41)-4M4(I41)-4M5(I41)",
+        "prof": "Sheyse Martins De Carvalho",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "5N1(H39)-5N2(H39)-5N3(H39)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "4N1(L43)-4N2(L43)-4N3(L43)",
+        "prof": "Fabricio Tronco Dalmolin",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6M1(I41)-6M2(I41)-6M3(I41)",
+        "prof": "Sheyse Martins De Carvalho",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M1(H37)-6M2(H37)-6M3(H37)",
+        "prof": "Sheyse Martins De Carvalho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE1024",
+    "name": "Energia E Eficiência Energética",
+    "turmas": [
+      {
+        "turma": "EP7",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(I21)-5M2(I21)-5M3(I21)",
+        "prof": "Katiani Pereira Da Conceicao",
+        "opt": "Matriz:660"
+      }
+    ]
+  },
+  {
     "code": "PRO1002",
     "name": "Engenharia De Segurança Do Trabalho",
     "turmas": [
@@ -66,6 +205,17 @@
     "name": "Estruturas Geométricas E Vetores",
     "turmas": [
       {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(I44)-5M2(I44)-5M3(I44)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
         "turma": "AMB1",
         "enq": "Presencial",
         "vt": "54",
@@ -75,6 +225,50 @@
         "h": "3N3(L22)-3N4(L22)-3N5(L22)",
         "prof": "Tasia Hickmann",
         "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N3(L42)-3N4(L42)-3N5(L42)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "6M1(L21)-6M2(L21)-6M3(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M1(I16)-2M2(I16)-2M3(I16)",
+        "prof": "Tatiane Tambarussi Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(L23)-5M2(L23)-5M3(L23)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
       }
     ]
   },
@@ -82,6 +276,17 @@
     "code": "HLA1006",
     "name": "Filosofia",
     "turmas": [
+      {
+        "turma": "AMB6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(H35)-3T2(H35)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
       {
         "turma": "CC1",
         "enq": "Presencial",
@@ -92,6 +297,67 @@
         "h": "3M4(L21)-3M5(L21)",
         "prof": "Lairton Moacir Winter",
         "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M2(L21)-4M3(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M4(L21)-4M5(L21)",
+        "prof": "Lairton Moacir Winter",
+        "opt": "Matriz:665, Matriz:655, Matriz:659, Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "FIS1002",
+    "name": "Fundamentos Da Termodinâmica",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M4(H36)-5M5(H36)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB3QUI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "5N4(H37)-5N5(H37)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(H35)-5M2(H35)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
       }
     ]
   },
@@ -130,6 +396,117 @@
         "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
         "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
         "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COM1002",
+    "name": "Fundamentos De Programação De Computadores",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "2M1(L12A)-2M2(L12A)-2M3(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Matriz:657, Matriz:662"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3N1(L12A)-3N2(L12A)-3N3(L12A)",
+        "prof": "Diego Venancio Thomaz",
+        "opt": "Matriz:657, Matriz:662"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3M1(L12A)-3M2(L12A)-3M3(L12A)",
+        "prof": "Cesar Alfredo Cardoso",
+        "opt": "Matriz:657, Matriz:662"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M1(I25)-2M2(I25)-2M3(I25)",
+        "prof": "Cesar Angonese",
+        "opt": "Matriz:657, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "FIS1001",
+    "name": "Física Do Movimento",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(H37)-5M2(H37)-5M3(H37)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N1(L43)-2N2(L43)-2N3(L43)",
+        "prof": "Fabricio Tronco Dalmolin",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N3(I15)-6N4(I15)-6N5(I15)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T1(L27)-3T2(L27)-3T3(L27)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M1(L23)-6M2(L23)-6M3(L23)",
+        "prof": "Leandro Herculano Da Silva",
         "opt": "Não"
       }
     ]
@@ -224,7 +601,7 @@
         "res": "Aberta",
         "prio": "1 - Tecnol Em Alimentos",
         "h": "2N1(L18)-2N2(L18)",
-        "prof": "",
+        "prof": "Marcos Ricardo Muller",
         "opt": "Não"
       },
       {
@@ -275,6 +652,23 @@
     ]
   },
   {
+    "code": "HLA1015",
+    "name": "Introdução À Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(H38)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1001",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -298,6 +692,17 @@
         "prio": "1 - Eng Amb/Sanitária",
         "h": "5N1(I11)-5N2(I11)",
         "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4M4(I44)-4M5(I44)",
+        "prof": "Claudimara Cassoli Bortoloto",
         "opt": "Não"
       },
       {
@@ -364,6 +769,167 @@
     ]
   },
   {
+    "code": "MAT1005",
+    "name": "Matemática Multivariável",
+    "turmas": [
+      {
+        "turma": "AMB3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(L42)-4N2(L42)-6N1(L42)-6N2(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(L42)-4T3(L42)-5T2(L42)-5T3(L42)",
+        "prof": "Andre Sandmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "2M4(I11)-2M5(I11)-4M4(I11)-4M5(I11)",
+        "prof": "Pedro Elton Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1003",
+    "name": "Matemática Univariável",
+    "turmas": [
+      {
+        "turma": "ALI2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M1(H36)-4M2(H36)-6M4(H36)-6M5(H36)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N4(L42)-2N5(L42)-4N4(L42)-4N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "2N4(L22)-2N5(L22)-4N4(L22)-4N5(L22)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "4T1(L41)-4T2(L41)-6T1(L41)-6T2(L41)",
+        "prof": "Tatiane Tambarussi Thomaz",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M4(H38)-5M5(H38)-6M1(H38)-6M2(H38)",
+        "prof": "Eliane Pereira",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP2",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "4M1(I11)-4M2(I11)-6M4(I11)-6M5(I11)",
+        "prof": "Pedro Elton Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1003",
+    "name": "Mecânica Do Equilíbrio",
+    "turmas": [
+      {
+        "turma": "ALI4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "4M1(L28)-4M2(L28)",
+        "prof": "Elizandra Sehn",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N4(I42)-2N5(I42)",
+        "prof": "Fabio Rogerio Longen",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M1(H37)-4M2(H37)",
+        "prof": "Elizandra Sehn",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP6",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "3M1(H37)-3M2(H37)",
+        "prof": "Elizandra Sehn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1002",
     "name": "Metodologia Da Pesquisa",
     "turmas": [
@@ -398,6 +964,84 @@
     ]
   },
   {
+    "code": "MAT1006",
+    "name": "Métodos Aproximados Em Soluções Matemáticas",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(L12A)-4N2(L12A)-4N3(L12A)",
+        "prof": "Tasia Hickmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação",
+        "h": "5M3(L22)-5M4(L22)-5M5(L22)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T1(I26)-4T2(I26)-4T3(I26)",
+        "prof": "Samuel Bellido Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP5",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "4M3(I26)-4M4(I26)-4M5(I26)",
+        "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS1005",
+    "name": "Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L27)-3T5(L27)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M4(H34)-5M5(H34)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1066",
     "name": "Planejamento Experimental E Otimização De Processos",
     "turmas": [
@@ -411,6 +1055,34 @@
         "h": "5N1(I25)-5N2(I25)",
         "prof": "Eliane Colla",
         "opt": "Matriz:658"
+      }
+    ]
+  },
+  {
+    "code": "HLA1007",
+    "name": "Psicologia E Desenvolvimento Humano",
+    "turmas": [
+      {
+        "turma": "OPHUMCC",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(H37)-5T5(H37)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      },
+      {
+        "turma": "TMI5OP",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N4(H33)-5N5(H33)",
+        "prof": "Shiderlene Vieira De Almeida Araujo",
+        "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
       }
     ]
   },
@@ -448,7 +1120,7 @@
         "res": "Aberta",
         "prio": "1 - Eng.Produção",
         "h": "2M4(L33)-2M5(L33)-4M4(L22)-4M5(L22)",
-        "prof": "Suelen Specht Calegaro Milioli",
+        "prof": "Jose Goncales Filho",
         "opt": "Não"
       }
     ]
@@ -466,6 +1138,62 @@
         "prio": "1 - Eng.Produção",
         "h": "6M4(H34)-6M5(H34)",
         "prof": "Dangela Maria Fernandes Kitamura",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1005",
+    "name": "Sociologia",
+    "turmas": [
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng.Produção",
+        "h": "3M4(L23)-3M5(L23)",
+        "prof": "Claudimara Cassoli Bortoloto",
+        "opt": "Matriz:665, Matriz:655, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
+      }
+    ]
+  },
+  {
+    "code": "MAT1007",
+    "name": "Soluções Exatas De Modelos Matemáticos",
+    "turmas": [
+      {
+        "turma": "AMB4BQ5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "6N1(L21)-6N2(L21)-6N3(L21)",
+        "prof": "Vanessa Hlenka",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5M3(L42)-5M4(L42)-5M5(L42)",
+        "prof": "Andre Sandmann",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "36",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "2M1(I26)-2M2(I26)-2M3(I26)",
+        "prof": "Samuel Bellido Rodrigues",
         "opt": "Não"
       }
     ]
@@ -545,6 +1273,73 @@
         "prio": "1 - Engenharia Ambiental",
         "h": "3T1(I41)-3T2(I41)-3T3(I41)",
         "prof": "Ivonei Ottobelli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP62G",
+    "name": "Técnicas De Aval.De Sist.Automatizados",
+    "turmas": [
+      {
+        "turma": "E81OPTA",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(I21)-3T3(I21)-3T4(I21)-3T5(I21)",
+        "prof": "Jose Airton Azevedo Dos Santos",
+        "opt": "Matriz:548"
+      }
+    ]
+  },
+  {
+    "code": "MAT1004",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
+        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
+        "prof": "Franciele Buss Frescki Kestring",
         "opt": "Não"
       }
     ]

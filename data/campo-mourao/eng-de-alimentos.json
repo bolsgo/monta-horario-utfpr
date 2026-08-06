@@ -115,6 +115,17 @@
         "h": "2T4(H104)-2T5(H104)-3T2(B103)-3T3(B103)",
         "prof": "Karla Silva",
         "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "3",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "",
+        "prof": "Karla Silva",
+        "opt": "Não"
       }
     ]
   },

@@ -207,7 +207,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Eng. Ambiental, 1 - Eng. Amb. Sanitária",
-        "h": "2M1(G101)-2M2(G101)",
+        "h": "3M1(G101)-3M2(G101)",
         "prof": "Fernando Cesar Manosso",
         "opt": "Matriz:30"
       }
@@ -382,7 +382,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Amb. Sanitária",
-        "h": "3M1(G202)-3M2(G202)-4M1(G202)-4M2(G202)",
+        "h": "2M1(G202)-2M2(G202)-4M1(G202)-4M2(G202)",
         "prof": "Rodrigo Lingnau",
         "opt": "Não"
       }
@@ -1905,7 +1905,7 @@
         "res": "Sem Reserva",
         "prio": "1 - Agronomia",
         "h": "2N1(R208)-2N2(R208)-2N3(R208)",
-        "prof": "Luciano Lucchetta",
+        "prof": "Luciano Lucchetta, Naimara Vieira Do Prado, Irede Angela Lucini Dalmolin",
         "opt": "Não"
       }
     ]

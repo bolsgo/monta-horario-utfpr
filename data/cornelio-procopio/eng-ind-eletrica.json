@@ -1053,6 +1053,23 @@
     ]
   },
   {
+    "code": "EL21F",
+    "name": "Química",
+    "turmas": [
+      {
+        "turma": "SP01",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrica, 1 - Eng. Controle/Automa, 1 - Eng. Eletrônica",
+        "h": "3N1(A036)-3N2(A036)-4T4(A142)-4T5(A142)",
+        "prof": "Walter Anibal Rammazzina Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A7RID",
     "name": "Redes Industriais",
     "turmas": [
@@ -1114,7 +1131,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Controle/Automa, 2 - Eng. Eletrica, 2 - Eng. Eletrônica",
-        "h": "2M2(S109)-2M3(S109)-3M2(A037)-3M3(A037)",
+        "h": "2M2(S109)-2M3(S109)-3M4(A037)-3M5(A037)",
         "prof": "Paulo Rogerio Scalassara",
         "opt": "Não"
       }

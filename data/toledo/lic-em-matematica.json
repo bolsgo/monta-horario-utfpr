@@ -17,6 +17,23 @@
     ]
   },
   {
+    "code": "EBP41B",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA2F",
     "name": "Construções Geométricas",
     "turmas": [
@@ -85,6 +102,40 @@
     ]
   },
   {
+    "code": "MAT001",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "BP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E104)-3T4(E104)-5T1(E104)-5T2(E104)-6T2(E104)-6T3(E104)",
+        "prof": "Araceli Ciotti De Marins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT003",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2T4(E105)-2T5(E105)-4T2(E104)-4T3(E104)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA6D",
     "name": "Cálculo Numérico",
     "turmas": [
@@ -97,6 +148,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
         "prof": "Vanderlei Galina",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT006",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "BP54",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E104)-3T2(E104)-5T1(E205)-5T2(E205)",
+        "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
     ]
@@ -170,6 +238,40 @@
     ]
   },
   {
+    "code": "FIS001",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS002",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
     "code": "LMA4F",
     "name": "Geometria 2",
     "turmas": [
@@ -199,6 +301,23 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "2N4(C204)-2N5(C204)-3N1(C204)-3N2(C204)",
         "prof": "Jahina Fagundes De Assis Hattori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Geometria Analítica E Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T3(E103)-3T4(E103)-4T3(E103)-4T4(E103)-5T3(E103)-5T4(E103)",
+        "prof": "Marcio Paulo De Oliveira",
         "opt": "Não"
       }
     ]

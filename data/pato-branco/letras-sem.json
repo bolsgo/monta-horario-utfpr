@@ -17,23 +17,6 @@
     ]
   },
   {
-    "code": "AD45L",
-    "name": "Análise Do Discurso",
-    "turmas": [
-      {
-        "turma": "5LN",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "3N4(M102)-3N5(M102)-5N2(M102)-5N3(M102)",
-        "prof": "Marcia Andrea Dos Santos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AL44L",
     "name": "Análise Linguística Aplicada Ao Ensino",
     "turmas": [
@@ -46,6 +29,23 @@
         "prio": "1 - Letras (Sem)",
         "h": "3N4(L107)-3N5(L107)",
         "prof": "Denize Terezinha Teis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AD45L",
+    "name": "Análise Do Discurso",
+    "turmas": [
+      {
+        "turma": "5LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N4(M102)-3N5(M102)-5N2(M102)-5N3(M102)",
+        "prof": "Marcia Andrea Dos Santos",
         "opt": "Não"
       }
     ]
@@ -391,6 +391,23 @@
     ]
   },
   {
+    "code": "GP48L",
+    "name": "Gestão E Políticas Educacionais",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M107)-2N5(M107)",
+        "prof": "Franciele Clara Peloso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "GD44L",
     "name": "Gêneros Discursivos Nas Esferas Pessoal E Acadêmica Em Língua Inglesa",
     "turmas": [
@@ -403,51 +420,6 @@
         "prio": "1 - Letras (Sem)",
         "h": "3N2(L107)-3N3(L107)-5N4(L107)-5N5(L107)",
         "prof": "Mariese Ribas Stankiewicz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GN45L",
-    "name": "Gêneros Narrativos Em Língua Inglesa",
-    "turmas": [
-      {
-        "turma": "5LN",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "4N2(M102)-4N3(M102)-5N4(M102)-5N5(M102)",
-        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GT41L",
-    "name": "Gêneros Orais E Escritos Do Cotidiano Em Língua Inglesa 1",
-    "turmas": [
-      {
-        "turma": "1LNA",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "2N4(L104)-2N5(L104)-3N4(L104)-3N5(L104)-4N4(L104)-4N5(L104)",
-        "prof": "Amanda Stanislawski Reche",
-        "opt": "Não"
-      },
-      {
-        "turma": "1LNB",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "2N4(M104)-2N5(M104)-3N4(M104)-3N5(M104)-4N4(M104)-4N5(M104)",
-        "prof": "Amanda Lais Jacobsen De Oliveira",
         "opt": "Não"
       }
     ]
@@ -498,18 +470,46 @@
     ]
   },
   {
-    "code": "GP48L",
-    "name": "Gestão E Políticas Educacionais",
+    "code": "GT41L",
+    "name": "Gêneros Orais E Escritos Do Cotidiano Em Língua Inglesa 1",
     "turmas": [
       {
-        "turma": "8LN",
+        "turma": "1LNA",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(L104)-2N5(L104)-3N4(L104)-3N5(L104)-4N4(L104)-4N5(L104)",
+        "prof": "Amanda Stanislawski Reche",
+        "opt": "Não"
+      },
+      {
+        "turma": "1LNB",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "2N4(M104)-2N5(M104)-3N4(M104)-3N5(M104)-4N4(M104)-4N5(M104)",
+        "prof": "Amanda Lais Jacobsen De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GN45L",
+    "name": "Gêneros Narrativos Em Língua Inglesa",
+    "turmas": [
+      {
+        "turma": "5LN",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Letras (Sem)",
-        "h": "2N4(M107)-2N5(M107)",
-        "prof": "Franciele Clara Peloso",
+        "h": "4N2(M102)-4N3(M102)-5N4(M102)-5N5(M102)",
+        "prof": "Priscila Azevedo Da Fonseca Lanferdini",
         "opt": "Não"
       }
     ]
@@ -583,23 +583,6 @@
     ]
   },
   {
-    "code": "LA46L",
-    "name": "Leitura: Abordagens Teóricas E Metodológicas",
-    "turmas": [
-      {
-        "turma": "6LN",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "5N4(M105)-5N5(M105)",
-        "prof": "",
-        "opt": "Matriz:644"
-      }
-    ]
-  },
-  {
     "code": "LE41L",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -624,6 +607,23 @@
         "h": "6N2(N105)-6N3(N105)",
         "prof": "Ana Maria Da Silva",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LA46L",
+    "name": "Leitura: Abordagens Teóricas E Metodológicas",
+    "turmas": [
+      {
+        "turma": "6LN",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "5N4(M105)-5N5(M105)",
+        "prof": "",
+        "opt": "Matriz:644"
       }
     ]
   },
@@ -832,23 +832,6 @@
     ]
   },
   {
-    "code": "OP48L",
-    "name": "Oficina De Práticas De Análises Literárias",
-    "turmas": [
-      {
-        "turma": "8LN",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Letras (Sem)",
-        "h": "3N2(M107)-3N3(M107)",
-        "prof": "Rosangela Aparecida Marquezi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OP47L",
     "name": "Oficina De Práticas Docentes",
     "turmas": [
@@ -861,6 +844,23 @@
         "prio": "1 - Letras (Sem)",
         "h": "2N4(M106)-2N5(M106)-3N1(S001)-4N1(S001)",
         "prof": "Priscila Azevedo Da Fonseca Lanferdini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OP48L",
+    "name": "Oficina De Práticas De Análises Literárias",
+    "turmas": [
+      {
+        "turma": "8LN",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Letras (Sem)",
+        "h": "3N2(M107)-3N3(M107)",
+        "prof": "Rosangela Aparecida Marquezi",
         "opt": "Não"
       }
     ]
@@ -1155,6 +1155,23 @@
     ]
   },
   {
+    "code": "TC57LT",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "7LN",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Letras (Sem)",
+        "h": "",
+        "prof": "Vanda Mari Trombetta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TL42L",
     "name": "Teoria Da Literatura",
     "turmas": [
@@ -1201,23 +1218,6 @@
         "prio": "1 - Letras (Sem)",
         "h": "2N2(M105)-2N3(M105)",
         "prof": "Camila Paula Camilotti",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TC57LT",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "7LN",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Letras (Sem)",
-        "h": "",
-        "prof": "Vanda Mari Trombetta",
         "opt": "Não"
       }
     ]

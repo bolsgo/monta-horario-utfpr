@@ -173,7 +173,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Eng. Ambiental, 1 - Eng. Amb. Sanitária",
-        "h": "2M1(G101)-2M2(G101)",
+        "h": "3M1(G101)-3M2(G101)",
         "prof": "Fernando Cesar Manosso",
         "opt": "Matriz:30"
       }
@@ -348,7 +348,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Amb. Sanitária",
-        "h": "3M1(G202)-3M2(G202)-4M1(G202)-4M2(G202)",
+        "h": "2M1(G202)-2M2(G202)-4M1(G202)-4M2(G202)",
         "prof": "Rodrigo Lingnau",
         "opt": "Não"
       }
@@ -1356,7 +1356,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Química",
-        "h": "4M3(G204)-4M4(G204)-6M1(G204)-6M2(G204)",
+        "h": "4M3(R207)-4M4(R207)-6M1(R207)-6M2(R207)",
         "prof": "Douglas Da Costa Ferreira",
         "opt": "Não"
       }
@@ -1373,7 +1373,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng. Química",
-        "h": "2M1(G205)-2M2(G205)-4M1(G205)-4M2(G205)",
+        "h": "2M1(R207)-2M2(R207)-4M1(R207)-4M2(R207)",
         "prof": "Douglas Da Costa Ferreira",
         "opt": "Não"
       }

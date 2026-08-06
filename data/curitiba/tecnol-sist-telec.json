@@ -515,7 +515,7 @@
     "turmas": [
       {
         "turma": "N11",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "35",
         "vc": "0",
         "res": "Fechada",
@@ -751,7 +751,7 @@
     "turmas": [
       {
         "turma": "N11",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "35",
         "vc": "0",
         "res": "Fechada",
@@ -897,7 +897,7 @@
     "turmas": [
       {
         "turma": "N11",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "49",
         "vc": "30",
         "res": "Fechada",

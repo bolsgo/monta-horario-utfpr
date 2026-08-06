@@ -17,6 +17,23 @@
     ]
   },
   {
+    "code": "BP46A",
+    "name": "Economia E Organização Industrial",
+    "turmas": [
+      {
+        "turma": "BPES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M2(03VIDEOCON)-2M3(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM041",
     "name": "Soft Skills",
     "turmas": [

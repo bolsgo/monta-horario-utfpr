@@ -84,6 +84,23 @@
     ]
   },
   {
+    "code": "ELN82A",
+    "name": "Cálculo Para Telecomunicações",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "",
+        "prof": "Humberto Remigio Gamba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FCH7HC",
     "name": "Capitalismo Contemporâneo E Economia Política",
     "turmas": [
@@ -247,23 +264,6 @@
         "prio": "1 - Tecnol. Sist. Telec.",
         "h": "4N1(CQ-210)-4N1(CQ-210)-4N2(CQ-210)-4N2(CQ-210)",
         "prof": "Jamil De Araujo Farhat, Alexandre Jorge Miziara",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELN82A",
-    "name": "Cálculo Para Telecomunicações",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "",
-        "prof": "Humberto Remigio Gamba",
         "opt": "Não"
       }
     ]
@@ -1184,96 +1184,6 @@
     ]
   },
   {
-    "code": "FCH7XC",
-    "name": "Presença Africana No Brasil",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T2(CE-302)-2T3(CE-302)",
-        "prof": "Andrea Maila Voss",
-        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
-      }
-    ]
-  },
-  {
-    "code": "ELB21",
-    "name": "Programação De Computador",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "4N1(CQ-202)-4N2(CQ-202)-5N4(CQ-202)-5N5(CQ-202)",
-        "prof": "Valfredo Pilla Junior",
-        "opt": "Matriz:968, Matriz:906"
-      },
-      {
-        "turma": "S12",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
-        "h": "4N1(CQ-203)-4N2(CQ-203)-4N3(CQ-203)-4T6(CQ-203)",
-        "prof": "Edenilson Jose Da Silva",
-        "opt": "Matriz:968, Matriz:906"
-      },
-      {
-        "turma": "S13",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
-        "h": "6N1(CQ-210)-6N2(CQ-210)-6N3(CQ-210)-6N4(CQ-210)",
-        "prof": "Danillo Leal Belmonte",
-        "opt": "Matriz:968, Matriz:906"
-      }
-    ]
-  },
-  {
-    "code": "ELN74B",
-    "name": "Programação De Computador",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "28",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
-        "h": "2T1(CQ-201)-2T2(CQ-201)-2T3(CQ-201)-2T4(CQ-201)",
-        "prof": "Edenilson Jose Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELN84D",
-    "name": "Projeto Integrador",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "",
-        "prof": "Marcos Talau",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CAART04",
     "name": "Prática Artística Musical: Grupos Instrumentais 1",
     "turmas": [
@@ -1360,6 +1270,96 @@
         "h": "2T5(CE-105)-2T6(CE-105)-4T5(CE-106)-4T6(CE-106)",
         "prof": "Jamea Cristina Batista Silva Franklin",
         "opt": "Matriz:985"
+      }
+    ]
+  },
+  {
+    "code": "FCH7XC",
+    "name": "Presença Africana No Brasil",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CE-302)-2T3(CE-302)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "ELB21",
+    "name": "Programação De Computador",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "4N1(CQ-202)-4N2(CQ-202)-5N4(CQ-202)-5N5(CQ-202)",
+        "prof": "Valfredo Pilla Junior",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S12",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
+        "h": "4N1(CQ-203)-4N2(CQ-203)-4N3(CQ-203)-4T6(CQ-203)",
+        "prof": "Edenilson Jose Da Silva",
+        "opt": "Matriz:968, Matriz:906"
+      },
+      {
+        "turma": "S13",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
+        "h": "6N1(CQ-210)-6N2(CQ-210)-6N3(CQ-210)-6N4(CQ-210)",
+        "prof": "Danillo Leal Belmonte",
+        "opt": "Matriz:968, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "ELN74B",
+    "name": "Programação De Computador",
+    "turmas": [
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "28",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
+        "h": "2T1(CQ-201)-2T2(CQ-201)-2T3(CQ-201)-2T4(CQ-201)",
+        "prof": "Edenilson Jose Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELN84D",
+    "name": "Projeto Integrador",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "",
+        "prof": "Marcos Talau",
+        "opt": "Não"
       }
     ]
   },
@@ -1542,23 +1542,6 @@
     ]
   },
   {
-    "code": "ELE14",
-    "name": "Redes 2",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "5N1(CQ-204)-5N2(CQ-204)-5N3(CQ-204)",
-        "prof": "Kleber Kendy Horikawa Nabas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ELN82C",
     "name": "Redes Convergentes E Redes Legadas",
     "turmas": [
@@ -1605,6 +1588,23 @@
         "prio": "1 - Tecnol. Sist. Telec.",
         "h": "4N3(CQ-210)-4N4(CQ-210)-4N5(CQ-210)",
         "prof": "Jamil De Araujo Farhat",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELE14",
+    "name": "Redes 2",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "5N1(CQ-204)-5N2(CQ-204)-5N3(CQ-204)",
+        "prof": "Kleber Kendy Horikawa Nabas",
         "opt": "Não"
       }
     ]
@@ -1668,6 +1668,34 @@
         "h": "2N1(CQ-205)-2N2(CQ-205)",
         "prof": "Marcos Eduardo Pivaro Monteiro",
         "opt": "Matriz:973, Matriz:957"
+      }
+    ]
+  },
+  {
+    "code": "ICSE20",
+    "name": "Técnicas De Programação",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec.",
+        "h": "3N1(CB-301)-3N2(CB-301)-5N1(CB-301)-5N2(CB-301)",
+        "prof": "Ionildo Jose Sanches",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S02",
+        "enq": "EaD",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
+        "h": "4M2(D-PTO)-4M3(D-PTO)-4M4(D-PTO)-4M5(D-PTO)",
+        "prof": "Milton Borsato",
+        "opt": "Matriz:968"
       }
     ]
   },
@@ -1802,34 +1830,6 @@
         "h": "3N3(CQ-304)-3N4(CQ-304)-3N5(CQ-304)",
         "prof": "Francisco Muller Machado",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ICSE20",
-    "name": "Técnicas De Programação",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec.",
-        "h": "3N1(CB-301)-3N2(CB-301)-5N1(CB-301)-5N2(CB-301)",
-        "prof": "Ionildo Jose Sanches",
-        "opt": "Matriz:968"
-      },
-      {
-        "turma": "S02",
-        "enq": "EaD",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 1 - Sist De Informação, 2 - Eng Eletrônica",
-        "h": "4M2(D-PTO)-4M3(D-PTO)-4M4(D-PTO)-4M5(D-PTO)",
-        "prof": "Milton Borsato",
-        "opt": "Matriz:968"
       }
     ]
   },

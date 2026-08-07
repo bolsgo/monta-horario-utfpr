@@ -336,7 +336,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N1(H39)-5N2(H39)-5N3(H39)",
+        "h": "5N1(I43)-5N2(I43)-5N3(I43)",
         "prof": "Daiene De Mello Schaefer",
         "opt": "Não"
       },
@@ -369,7 +369,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng.Produção",
-        "h": "6M1(H37)-6M2(H37)-6M3(H37)",
+        "h": "6M1(H36)-6M2(H36)-6M3(H36)",
         "prof": "Sheyse Martins De Carvalho",
         "opt": "Não"
       }

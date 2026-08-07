@@ -51,6 +51,23 @@
     ]
   },
   {
+    "code": "EET43A",
+    "name": "Arquitetura E Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4T3(C202LINF4)-4T4(C202LINF4)-6T1(C202LINF4)-6T2(C202LINF4)",
+        "prof": "Jeferson Jose Baqueta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP44D",
     "name": "Banco De Dados",
     "turmas": [
@@ -289,6 +306,23 @@
     ]
   },
   {
+    "code": "ET47G",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ELES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M5(03VIDEOCON)-2M6(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM002",
     "name": "Economia Contemporânea",
     "turmas": [
@@ -358,6 +392,23 @@
         "h": "2N4(AVA)-2N5(AVA)",
         "prof": "Sandra Regina Da Silva Pinela",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM004",
+    "name": "Engenharia E Gestão Financeira 1",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(AVA)-5T5(AVA)-5T6(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:58"
       }
     ]
   },
@@ -685,6 +736,23 @@
     ]
   },
   {
+    "code": "HUM001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(C306)-6T4(C306)-7M4(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TSIN34G",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -696,6 +764,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
         "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Não"
       }
@@ -850,6 +929,23 @@
         "prio": "1 - Eng. De Computação",
         "h": "2T3(E302LINF1)-2T4(E302LINF1)-4T3(E302LINF1)-4T4(E302LINF1)",
         "prof": "Alexandre Augusto Giron",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44D",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T2(C202LINF4)-3T3(C202LINF4)-6T3(C202LINF4)-6T4(C202LINF4)",
+        "prof": "Jeferson Jose Baqueta",
         "opt": "Não"
       }
     ]

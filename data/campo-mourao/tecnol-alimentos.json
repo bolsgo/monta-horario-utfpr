@@ -91,7 +91,7 @@
       {
         "turma": "HUMA",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "34",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
@@ -100,9 +100,9 @@
         "opt": "Matriz:81, Matriz:63, Matriz:87, Matriz:89, Matriz:75, Matriz:88, Matriz:86"
       },
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -219,9 +219,9 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -236,23 +236,23 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "NA6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "5N4(D108)-5N5(D108)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
-      },
-      {
         "turma": "NQ8A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Lic Química",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
@@ -471,6 +471,17 @@
         "h": "4N1(F106)-4N2(F106)-4N3(F106)",
         "prof": "Alberto Cavalcanti Vitorio",
         "opt": "Matriz:81"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(F106)-4N2(F106)-4N3(F106)",
+        "prof": "Alberto Cavalcanti Vitorio",
+        "opt": "Matriz:81"
       }
     ]
   },
@@ -499,6 +510,17 @@
         "h": "2N3(C002)-2N4(C002)-2N5(C002)",
         "prof": "Gabrieli Oliveira Folador",
         "opt": "Matriz:81"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "2N3(C002)-2N4(C002)-2N5(C002)",
+        "prof": "Gabrieli Oliveira Folador",
+        "opt": "Matriz:81"
       }
     ]
   },
@@ -521,6 +543,17 @@
         "turma": "IQO",
         "enq": "Presencial",
         "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",

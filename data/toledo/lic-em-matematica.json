@@ -13,6 +13,17 @@
         "h": "2N3(C305)-2N4(C305)-4N3(C305)-4N4(C305)",
         "prof": "Leandro Antunes",
         "opt": "Não"
+      },
+      {
+        "turma": "SP83",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Leandro Antunes",
+        "opt": "Não"
       }
     ]
   },
@@ -64,6 +75,17 @@
         "h": "5N1(C204)-6N3(C204)-6N4(C204)-6N5(C204)",
         "prof": "Loreci Zanardini",
         "opt": "Não"
+      },
+      {
+        "turma": "SP23",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
       }
     ]
   },
@@ -102,6 +124,23 @@
     ]
   },
   {
+    "code": "EET44A",
+    "name": "Cálculo 4b",
+    "turmas": [
+      {
+        "turma": "ET44",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA4D",
     "name": "Cálculo De Funções De Várias Variáveis",
     "turmas": [
@@ -113,6 +152,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "5N1(C205)-5N2(C205)-6N4(C205)-6N5(C205)",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "Wilian Francisco De Araujo",
         "opt": "Não"
       }
@@ -130,6 +180,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "5N4(C204)-5N5(C204)-6N1(C204)-6N2(C204)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP23",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "",
         "opt": "Não"
       }
@@ -260,6 +321,17 @@
         "h": "3M1(E204)-3M2(E204)-4M2(E204)-4M3(E204)",
         "prof": "Dione Ines Christ Milani",
         "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T3(C206)-2T4(C206)-3T1(C205)-3T2(C205)",
+        "prof": "Dione Ines Christ Milani",
+        "opt": "Não"
       }
     ]
   },
@@ -275,6 +347,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "2N3(C206)-2N4(C206)-2N5(C206)-4N3(C206)",
+        "prof": "Vanderlei Galina",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP63",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "Vanderlei Galina",
         "opt": "Não"
       }
@@ -303,6 +386,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "3M1(C205)-3M2(C205)-4M1(C205)-4M2(C205)",
+        "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
         "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
@@ -365,6 +459,23 @@
     ]
   },
   {
+    "code": "HUM004",
+    "name": "Engenharia E Gestão Financeira 1",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(AVA)-5T5(AVA)-5T6(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "MAT005",
     "name": "Equações Diferenciais Ordinárias",
     "turmas": [
@@ -388,6 +499,17 @@
         "prio": "1 - Eng. Civil",
         "h": "2M4(C204)-2M5(C204)-3M5(C204)-3M6(C204)",
         "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Matriz:49"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M2(E105)-3M3(E105)-5M4(C204)-5M5(C204)",
+        "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Matriz:49"
       }
     ]
@@ -580,6 +702,17 @@
         "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
         "prof": "Rafael Bertolini Frigori",
         "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
       }
     ]
   },
@@ -597,6 +730,17 @@
         "h": "4N4(C205)-4N5(C205)-5N3(C205)-5N4(C205)-5N5(C205)",
         "prof": "Loreci Zanardini",
         "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
       }
     ]
   },
@@ -612,6 +756,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "2N4(C204)-2N5(C204)-3N1(C204)-3N2(C204)",
+        "prof": "Jahina Fagundes De Assis Hattori",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP23",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "Jahina Fagundes De Assis Hattori",
         "opt": "Não"
       }
@@ -691,6 +846,23 @@
     ]
   },
   {
+    "code": "HUM001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(C306)-6T4(C306)-7M4(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TSIN34G",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -702,6 +874,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
         "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Não"
       }
@@ -872,6 +1055,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "5N1(C206)-5N2(C206)-6N3(AVA)-6N4(AVA)",
+        "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP63",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "Rosangela Aparecida Botinha Assumpcao",
         "opt": "Não"
       }
@@ -1060,6 +1254,17 @@
         "h": "4N1(C206)-4N2(C206)-6N1(C206)-6N2(C206)",
         "prof": "Wilian Francisco De Araujo",
         "opt": "Não"
+      },
+      {
+        "turma": "SP63",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
       }
     ]
   },
@@ -1092,6 +1297,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Em Matemática",
         "h": "2N1(C205)-2N2(C205)-3N1(C205)-3N2(C205)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
         "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Não"
       }

@@ -1,156 +1,68 @@
 [
   {
-    "code": "MAT7AL",
-    "name": "Álgebra Linear",
+    "code": "FCH7HC",
+    "name": "Capitalismo Contemporâneo E Economia Política",
     "turmas": [
       {
-        "turma": "S11",
+        "turma": "S01",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "44",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
       },
       {
-        "turma": "S15",
+        "turma": "S02",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "44",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S73",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist De Informação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",
+        "prof": "Sandro Marlus Wambier",
+        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
       }
     ]
   },
   {
-    "code": "MECP72A",
-    "name": "Álgebra Linear Para Engenharia",
+    "code": "INF71A",
+    "name": "Computação 1",
     "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(CB-105)-4T3(CB-105)-4T4(CB-105)-4T5(CB-105)",
+        "prof": "Silvia Amelia Bim",
+        "opt": "Matriz:995, Matriz:983"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
+        "h": "5T1(*EM-105)-5T2(*EM-105)-5T3(*EM-105)-5T4(*EM-105)",
+        "prof": "Rita Cristina Galarraga Berardi",
+        "opt": "Matriz:995, Matriz:983"
+      },
       {
         "turma": "S45",
         "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
+        "vt": "24",
+        "vc": "22",
         "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2T4(*EK-307)-2T5(*EK-307)-3T4(*EK-204)-3T5(*EK-204)",
+        "prio": "1 - Eng. Da Produção",
+        "h": "5T3(*EK-302)-5T4(*EK-302)-5T5(*EK-302)-5T6(*EK-302)",
         "prof": "",
-        "opt": "Não"
+        "opt": "Matriz:995, Matriz:983"
       }
     ]
   },
@@ -244,34 +156,6 @@
         "prio": "1 - Lic Fisica 9",
         "h": "2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",
         "prof": "Priscila Savulski Ferreira De Miranda",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MECP71B",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2T4(*D-PTE)-2T5(*D-PTE)-2T6(*D-PTE)-4N1(*D-PTE)-4N2(*D-PTE)-4N3(*D-PTE)",
-        "prof": "Jonas Joacir Radtke",
-        "opt": "Não"
-      },
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2N1(*EK-204)-2N2(*EK-204)-2N3(*EK-204)-6N1(*EK-105)-6N2(*EK-105)-6N3(*EK-105)",
-        "prof": "",
         "opt": "Não"
       }
     ]
@@ -426,6 +310,34 @@
     ]
   },
   {
+    "code": "MECP71B",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2T4(*D-PTE)-2T5(*D-PTE)-2T6(*D-PTE)-4N1(*D-PTE)-4N2(*D-PTE)-4N3(*D-PTE)",
+        "prof": "Jonas Joacir Radtke",
+        "opt": "Não"
+      },
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2N1(*EK-204)-2N2(*EK-204)-2N3(*EK-204)-6N1(*EK-105)-6N2(*EK-105)-6N3(*EK-105)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MECP72B",
     "name": "Cálculo Diferencial E Integral 2",
     "turmas": [
@@ -450,73 +362,6 @@
         "h": "2N2(*D-PTE)-2N3(*D-PTE)-2N4(*D-PTE)-5N1(*D-PTE)-5N2(*D-PTE)-5N3(*D-PTE)",
         "prof": "Jonas Joacir Radtke",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FCH7HC",
-    "name": "Capitalismo Contemporâneo E Economia Política",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "5T4(*EL-208)-5T5(*EL-208)-5T6(*EL-208)",
-        "prof": "Sandro Marlus Wambier",
-        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N1(CE-301)-3N2(CE-301)-3N3(CE-301)",
-        "prof": "Sandro Marlus Wambier",
-        "opt": "Matriz:990, Matriz:973, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:985, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:974, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "INF71A",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "EaD",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T2(CB-105)-4T3(CB-105)-4T4(CB-105)-4T5(CB-105)",
-        "prof": "Silvia Amelia Bim",
-        "opt": "Matriz:995, Matriz:983"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
-        "h": "5T1(*EM-105)-5T2(*EM-105)-5T3(*EM-105)-5T4(*EM-105)",
-        "prof": "Rita Cristina Galarraga Berardi",
-        "opt": "Matriz:995, Matriz:983"
-      },
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção",
-        "h": "5T3(*EK-302)-5T4(*EK-302)-5T5(*EK-302)-5T6(*EK-302)",
-        "prof": "",
-        "opt": "Matriz:995, Matriz:983"
       }
     ]
   },
@@ -599,23 +444,6 @@
         "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
         "h": "2T1(*EM-106)-2T2(*EM-106)-2T3(*EM-106)",
         "prof": "Irapuan Santos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MECP72D",
-    "name": "Desenho Auxiliado Por Computador 1",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3N1(*EM-105)-3N2(*EM-105)-3N3(*EM-105)",
-        "prof": "Nilton Luiz Cararo",
         "opt": "Não"
       }
     ]
@@ -849,6 +677,23 @@
     ]
   },
   {
+    "code": "MECP72D",
+    "name": "Desenho Auxiliado Por Computador 1",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3N1(*EM-105)-3N2(*EM-105)-3N3(*EM-105)",
+        "prof": "Nilton Luiz Cararo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EDU70I",
     "name": "Educação Especial E Processos Inclusivos",
     "turmas": [
@@ -916,6 +761,23 @@
     ]
   },
   {
+    "code": "EST7AK",
+    "name": "Estatística Computacional Em R",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 3 - Eng Mecatrônica",
+        "h": "4T2(CA-003)-4T2(CA-003)-4T3(CA-003)-4T3(CA-003)-4T4(CA-003)-4T4(CA-003)-4T5(CA-003)-4T5(CA-003)",
+        "prof": "Mauricio Koubay Do Amaral, Jose Carlos Pereira Coninck",
+        "opt": "Matriz:990"
+      }
+    ]
+  },
+  {
     "code": "MEC73C",
     "name": "Estática",
     "turmas": [
@@ -973,23 +835,6 @@
         "h": "4T5(*EL-105)-4T6(*EL-105)-5T3(*EK-307)-5T4(*EK-307)",
         "prof": "Claudio Tavares Da Silva",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EST7AK",
-    "name": "Estatística Computacional Em R",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 3 - Eng Mecatrônica",
-        "h": "4T2(CA-003)-4T2(CA-003)-4T3(CA-003)-4T3(CA-003)-4T4(CA-003)-4T4(CA-003)-4T5(CA-003)-4T5(CA-003)",
-        "prof": "Mauricio Koubay Do Amaral, Jose Carlos Pereira Coninck",
-        "opt": "Matriz:990"
       }
     ]
   },
@@ -1072,35 +917,79 @@
     ]
   },
   {
-    "code": "MECP72C",
-    "name": "Física Aplicada 1",
+    "code": "MEC72B",
+    "name": "Fundamentos De Ciências Dos Materiais",
     "turmas": [
       {
-        "turma": "S45",
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 1 - Eng Mecatrônica, 1 - Eng. Da Produção",
+        "h": "4T4(*EK-201)-4T5(*EK-201)-6T4(*EK-201)-6T5(*EK-201)",
+        "prof": "Marjorie Benegra",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4T3(*EM-104)-4T4(*EM-104)-6T4(*EM-104)-6T5(*EM-104)",
-        "prof": "Geocris Rodrigues Dos Santos",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
+        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "S16",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
+        "h": "5M2(*EK-105)-5M3(*EK-105)-5M4(*EK-105)-5M5(*EK-105)",
+        "prof": "Paulo Cesar Borges",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
+        "h": "4T5(*EK-105)-4T6(*EK-105)-6T5(*EL-102)-6T6(*EL-102)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
+        "h": "4T2(*EK-308)-4T3(*EK-308)-6T2(*EK-105)-6T3(*EK-105)",
+        "prof": "Paulo Cesar Borges",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "MECP73B",
-    "name": "Física Experimental Aplicada",
+    "code": "MECP72E",
+    "name": "Fundamentos De Ciências Dos Materiais",
     "turmas": [
       {
         "turma": "S45",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "30",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3T3(*EK-020)-3T4(*EK-020)",
-        "prof": "Geocris Rodrigues Dos Santos",
+        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
         "opt": "Não"
       }
     ]
@@ -1669,79 +1558,35 @@
     ]
   },
   {
-    "code": "MEC72B",
-    "name": "Fundamentos De Ciências Dos Materiais",
+    "code": "MECP72C",
+    "name": "Física Aplicada 1",
     "turmas": [
       {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 1 - Eng Mecatrônica, 1 - Eng. Da Produção",
-        "h": "4T4(*EK-201)-4T5(*EK-201)-6T4(*EK-201)-6T5(*EK-201)",
-        "prof": "Marjorie Benegra",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
+        "turma": "S45",
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
-        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "S16",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
-        "h": "5M2(*EK-105)-5M3(*EK-105)-5M4(*EK-105)-5M5(*EK-105)",
-        "prof": "Paulo Cesar Borges",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
-        "h": "4T5(*EK-105)-4T6(*EK-105)-6T5(*EL-102)-6T6(*EL-102)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
-        "h": "4T2(*EK-308)-4T3(*EK-308)-6T2(*EK-105)-6T3(*EK-105)",
-        "prof": "Paulo Cesar Borges",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4T3(*EM-104)-4T4(*EM-104)-6T4(*EM-104)-6T5(*EM-104)",
+        "prof": "Geocris Rodrigues Dos Santos",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "MECP72E",
-    "name": "Fundamentos De Ciências Dos Materiais",
+    "code": "MECP73B",
+    "name": "Física Experimental Aplicada",
     "turmas": [
       {
         "turma": "S45",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "22",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "h": "3T3(*EK-020)-3T4(*EK-020)",
+        "prof": "Geocris Rodrigues Dos Santos",
         "opt": "Não"
       }
     ]
@@ -1883,23 +1728,6 @@
         "h": "4N1(CE-202)-4N2(CE-202)-4N3(CE-202)",
         "prof": "Sandro Marlus Wambier",
         "opt": "Matriz:990, Matriz:973, Matriz:985, Matriz:957, Matriz:981, Matriz:978, Matriz:979, Matriz:960, Matriz:845, Matriz:784, Matriz:873, Matriz:888, Matriz:806, Matriz:982, Matriz:968, Matriz:961, Matriz:867, Matriz:755, Matriz:870, Matriz:844, Matriz:708, Matriz:709, Matriz:906, Matriz:919, Matriz:823, Matriz:962, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "MECP71C",
-    "name": "Introdução À Engenharia De Produção",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção",
-        "h": "2T4(*EK-303)-2T5(*EK-303)",
-        "prof": "Cleina Yayoe Okoshi",
-        "opt": "Não"
       }
     ]
   },
@@ -2065,6 +1893,23 @@
         "prio": "1 - Sist De Informação",
         "h": "2N1(CA-003)-2N2(CA-003)-2N3(CA-003)-2N4(CA-003)",
         "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP71C",
+    "name": "Introdução À Engenharia De Produção",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção",
+        "h": "2T4(*EK-303)-2T5(*EK-303)",
+        "prof": "Cleina Yayoe Okoshi",
         "opt": "Não"
       }
     ]
@@ -2321,23 +2166,6 @@
     ]
   },
   {
-    "code": "MECP74C",
-    "name": "Processos Metalúrgicos De Fabricação E Soldagem",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 3 - Eng Mecatrônica",
-        "h": "3N1(*EK-201)-3T5(*EK-201)-3T6(*EK-201)",
-        "prof": "Fabio Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FCH7PA",
     "name": "Psicologia Do Trabalho",
     "turmas": [
@@ -2439,6 +2267,23 @@
         "h": "6T4(CE-303)-6T5(CE-303)",
         "prof": "Maria Luisa Carvalho",
         "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "MECP74C",
+    "name": "Processos Metalúrgicos De Fabricação E Soldagem",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 3 - Eng Mecatrônica",
+        "h": "3N1(*EK-201)-3T5(*EK-201)-3T6(*EK-201)",
+        "prof": "Fabio Martins",
+        "opt": "Não"
       }
     ]
   },
@@ -2573,6 +2418,161 @@
         "h": "2T4(CA-202)-2T5(CA-202)-2T6(CA-202)",
         "prof": "Roland Baschta Junior",
         "opt": "Matriz:990, Matriz:973, Matriz:981, Matriz:976, Matriz:970, Matriz:945, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP72A",
+    "name": "Álgebra Linear Para Engenharia",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2T4(*EK-307)-2T5(*EK-307)-3T4(*EK-204)-3T5(*EK-204)",
+        "prof": "",
+        "opt": "Não"
       }
     ]
   }

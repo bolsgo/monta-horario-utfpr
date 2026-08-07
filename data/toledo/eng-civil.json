@@ -182,6 +182,17 @@
         "h": "3T1(E106)-3T2(E106)-5T3(E106)-5T4(E106)-6T4(E106)-6T5(E106)",
         "prof": "Araceli Ciotti De Marins",
         "opt": "Não"
+      },
+      {
+        "turma": "SPCV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
+        "prof": "Regiane Slongo Fagundes",
+        "opt": "Não"
       }
     ]
   },
@@ -232,6 +243,17 @@
         "h": "4M2(E106)-4M3(E106)-6M5(E106)-6M6(E106)",
         "prof": "Adriano Gomes De Santana",
         "opt": "Não"
+      },
+      {
+        "turma": "SPCV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
+        "prof": "Adriano Gomes De Santana",
+        "opt": "Não"
       }
     ]
   },
@@ -258,6 +280,28 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "3M1(E204)-3M2(E204)-4M2(E204)-4M3(E204)",
+        "prof": "Dione Ines Christ Milani",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T3(C206)-2T4(C206)-3T1(C205)-3T2(C205)",
+        "prof": "Dione Ines Christ Milani",
+        "opt": "Não"
+      },
+      {
+        "turma": "SPCV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
         "prof": "Dione Ines Christ Milani",
         "opt": "Não"
       }
@@ -303,6 +347,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "3M1(C205)-3M2(C205)-4M1(C205)-4M2(C205)",
+        "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
         "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
@@ -461,6 +516,23 @@
     ]
   },
   {
+    "code": "HUM004",
+    "name": "Engenharia E Gestão Financeira 1",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(AVA)-5T5(AVA)-5T6(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "MAT005",
     "name": "Equações Diferenciais Ordinárias",
     "turmas": [
@@ -483,6 +555,28 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "2M4(C204)-2M5(C204)-3M5(C204)-3M6(C204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Matriz:49"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M2(E105)-3M3(E105)-5M4(C204)-5M5(C204)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Matriz:49"
+      },
+      {
+        "turma": "SPCV",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
         "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Matriz:49"
       }
@@ -553,6 +647,23 @@
         "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
+    "code": "EET45F",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T2(03VIDEOCON)-3T3(03VIDEOCON)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
       }
     ]
   },
@@ -778,6 +889,17 @@
         "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
         "prof": "Rafael Bertolini Frigori",
         "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
       }
     ]
   },
@@ -991,6 +1113,23 @@
     ]
   },
   {
+    "code": "EET46D",
+    "name": "Instalações Elétricas",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M1(E305LINF5)-3M2(E305LINF5)-4M1(E302LINF1)-4M2(E302LINF1)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV46A",
     "name": "Instalações Elétricas Prediais",
     "turmas": [
@@ -1059,6 +1198,23 @@
     ]
   },
   {
+    "code": "HUM001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(C306)-6T4(C306)-7M4(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TSIN34G",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -1070,6 +1226,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
         "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Não"
       }
@@ -1280,6 +1447,23 @@
         "prio": "1 - Eng. De Computação",
         "h": "3M4(AVA)-3M5(AVA)",
         "prof": "Osni Hoss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET48D",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "EL84",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M5(C307)-5M6(C307)",
+        "prof": "Gerson Filippini",
         "opt": "Não"
       }
     ]
@@ -1777,6 +1961,23 @@
         "turma": "CV04",
         "enq": "Presencial",
         "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Civil",
+        "h": "",
+        "prof": "Silvana Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV40A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CV04",
+        "enq": "Presencial",
+        "vt": "10",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Civil",

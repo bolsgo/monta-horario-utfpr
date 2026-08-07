@@ -75,6 +75,17 @@
         "h": "6M2(E105)-6M3(E105)-6M4(E105)",
         "prof": "Karina Graziella Fiametti Colombo",
         "opt": "Não"
+      },
+      {
+        "turma": "SP74",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "",
+        "prof": "Karina Graziella Fiametti Colombo",
+        "opt": "Não"
       }
     ]
   },
@@ -141,6 +152,17 @@
         "res": "Aberta",
         "prio": "1 - Eng.  De Bioprocessos",
         "h": "6T2(E105)-6T3(E105)-6T4(E105)",
+        "prof": "Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP54",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "",
         "prof": "Patricia Dayane Carvalho Schaker",
         "opt": "Não"
       }
@@ -390,6 +412,17 @@
         "h": "3M1(C205)-3M2(C205)-4M1(C205)-4M2(C205)",
         "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
+        "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
       }
     ]
   },
@@ -468,6 +501,23 @@
         "prio": "1 - Eng.  De Bioprocessos",
         "h": "2T4(C307)-2T5(C307)-2T6(C307)",
         "prof": "Thiago Cintra Maniglia, Priscila Vaz De Arruda, Patricia Dayane Carvalho Schaker",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET47G",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ELES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M5(03VIDEOCON)-2M6(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Não"
       }
     ]
@@ -597,6 +647,23 @@
     ]
   },
   {
+    "code": "HUM004",
+    "name": "Engenharia E Gestão Financeira 1",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(AVA)-5T5(AVA)-5T6(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "EBP47A",
     "name": "Enzimologia",
     "turmas": [
@@ -637,6 +704,17 @@
         "prio": "1 - Eng. Civil",
         "h": "2M4(C204)-2M5(C204)-3M5(C204)-3M6(C204)",
         "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Matriz:49"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M2(E105)-3M3(E105)-5M4(C204)-5M5(C204)",
+        "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Matriz:49"
       }
     ]
@@ -878,6 +956,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
         "prof": "Rafael Bertolini Frigori",
         "opt": "Matriz:56"
       }
@@ -1161,6 +1250,23 @@
     ]
   },
   {
+    "code": "HUM001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(C306)-6T4(C306)-7M4(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TSIN34G",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -1172,6 +1278,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
         "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Não"
       }
@@ -1241,6 +1358,23 @@
         "prio": "1 - Eng. De Computação",
         "h": "3M4(AVA)-3M5(AVA)",
         "prof": "Osni Hoss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET48D",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "EL84",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M5(C307)-5M6(C307)",
+        "prof": "Gerson Filippini",
         "opt": "Não"
       }
     ]
@@ -1665,6 +1799,23 @@
         "turma": "BP04",
         "enq": "Presencial",
         "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "",
+        "prof": "Robson Luciano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP40A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "BP04",
+        "enq": "Presencial",
+        "vt": "10",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng.  De Bioprocessos",

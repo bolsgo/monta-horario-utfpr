@@ -1,22 +1,5 @@
 [
   {
-    "code": "MA3AL",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "CC3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "6T1(L9)-6T2(L9)-6T3(L9)",
-        "prof": "Evandro Alves Nakajima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CC1AED1",
     "name": "Algoritmos E Estrutura De Dados I",
     "turmas": [
@@ -102,23 +85,6 @@
     ]
   },
   {
-    "code": "MA3CA",
-    "name": "Cálculo Aplicado",
-    "turmas": [
-      {
-        "turma": "CC3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "4T4(L9)-4T5(L9)-5T1(L9)-5T2(L9)",
-        "prof": "Vanderlea De Lima Inaba",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CC7CS",
     "name": "Cibersegurança",
     "turmas": [
@@ -182,6 +148,23 @@
         "prio": "1 - Ciência Da Computação",
         "h": "4T4(E10)-4T5(E10)-5T4(E10)-5T5(E10)",
         "prof": "Anderson Brilhador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA3CA",
+    "name": "Cálculo Aplicado",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4T4(L9)-4T5(L9)-5T1(L9)-5T2(L9)",
+        "prof": "Vanderlea De Lima Inaba",
         "opt": "Não"
       }
     ]
@@ -401,7 +384,7 @@
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Ciência Da Computação",
-        "h": "3M1(L8)-3M2(L8)-5M1(L8)-5M2(L8)",
+        "h": "3M1(L4)-3M2(L4)-5M1(L4)-5M2(L4)",
         "prof": "Leiliane Pereira De Rezende",
         "opt": "Não"
       }
@@ -521,6 +504,23 @@
     ]
   },
   {
+    "code": "CC1MBD",
+    "name": "Modelagem De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "CC1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3T4(L8)-3T5(L8)-5T4(L8)-5T5(L8)",
+        "prof": "Leiliane Pereira De Rezende",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MA5MN",
     "name": "Métodos Numéricos",
     "turmas": [
@@ -533,23 +533,6 @@
         "prio": "1 - Ciência Da Computação",
         "h": "2T1(L4)-2T2(L4)-2T3(L4)",
         "prof": "Vanderlea De Lima Inaba",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CC1MBD",
-    "name": "Modelagem De Banco De Dados",
-    "turmas": [
-      {
-        "turma": "CC1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "25",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "3T4(L5)-3T5(L5)-5T4(L5)-5T5(L5)",
-        "prof": "Leiliane Pereira De Rezende",
         "opt": "Não"
       }
     ]
@@ -572,23 +555,6 @@
     ]
   },
   {
-    "code": "CC4PO",
-    "name": "Pesquisa E Ordenação",
-    "turmas": [
-      {
-        "turma": "CC4",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "3M4(E09)-3M5(E09)-4M4(E09)-4M5(E09)",
-        "prof": "Gloria Patricia Lopez Sepulveda",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MA6PO",
     "name": "Pesquisa Operacional",
     "turmas": [
@@ -601,6 +567,23 @@
         "prio": "1 - Ciência Da Computação",
         "h": "2M3(L6)-2M4(L6)-2M5(L6)",
         "prof": "Joao Augusto Navarro Cossich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC4PO",
+    "name": "Pesquisa E Ordenação",
+    "turmas": [
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "3M4(E09)-3M5(E09)-4M4(E09)-4M5(E09)",
+        "prof": "Gloria Patricia Lopez Sepulveda",
         "opt": "Não"
       }
     ]
@@ -657,23 +640,6 @@
     ]
   },
   {
-    "code": "CC6PDSW",
-    "name": "Projeto E Desenvolvimento De Sistemas Web",
-    "turmas": [
-      {
-        "turma": "CC6",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "5M2(E10)-5M3(E10)-6M4(E10)-6M5(E10)",
-        "prof": "Wellington De Souza Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CC3PI1",
     "name": "Projeto Integrador I: Computação E Educação",
     "turmas": [
@@ -720,6 +686,23 @@
         "prio": "1 - Ciência Da Computação",
         "h": "2T6(REMOTA)-3T6(REMOTA)-4T6(REMOTA)-5T6(REMOTA)-6T5(REMOTA)-6T6(REMOTA)-7M1(REMOTA)-7M2(REMOTA)-7M3(REMOTA)-7M4(REMOTA)-7M5(REMOTA)-7M6(REMOTA)",
         "prof": "Arlete Teresinha Beuren, Davi Marcondes Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CC6PDSW",
+    "name": "Projeto E Desenvolvimento De Sistemas Web",
+    "turmas": [
+      {
+        "turma": "CC6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "5M2(E10)-5M3(E10)-6M4(E10)-6M5(E10)",
+        "prof": "Wellington De Souza Ferreira",
         "opt": "Não"
       }
     ]
@@ -861,23 +844,6 @@
     ]
   },
   {
-    "code": "OPETCD",
-    "name": "Tópicos Em Ciência De Dados",
-    "turmas": [
-      {
-        "turma": "CC7",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "4M4(E11)-4M5(E11)-6M4(E11)-6M5(E11)",
-        "prof": "Arlete Teresinha Beuren",
-        "opt": "Matriz:11"
-      }
-    ]
-  },
-  {
     "code": "TCC1",
     "name": "Trabalho De Conclusão De Curso I",
     "turmas": [
@@ -912,6 +878,23 @@
     ]
   },
   {
+    "code": "OPETCD",
+    "name": "Tópicos Em Ciência De Dados",
+    "turmas": [
+      {
+        "turma": "CC7",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "4M4(E11)-4M5(E11)-6M4(E11)-6M5(E11)",
+        "prof": "Arlete Teresinha Beuren",
+        "opt": "Matriz:11"
+      }
+    ]
+  },
+  {
     "code": "CC7VC",
     "name": "Visão Computacional",
     "turmas": [
@@ -924,6 +907,23 @@
         "prio": "1 - Ciência Da Computação",
         "h": "4M1(E09)-5M1(E09)-5M2(E09)-5M3(E09)",
         "prof": "Anderson Brilhador",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MA3AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CC3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciência Da Computação",
+        "h": "6T1(L9)-6T2(L9)-6T3(L9)",
+        "prof": "Evandro Alves Nakajima",
         "opt": "Não"
       }
     ]

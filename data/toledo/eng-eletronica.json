@@ -1,5 +1,56 @@
 [
   {
+    "code": "EET43B",
+    "name": "Análise De Circuitos Elétricos 1",
+    "turmas": [
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T5(C206)-2T6(C206)-4T5(C206)-4T6(C206)",
+        "prof": "Jorge Augusto Vasconcelos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44F",
+    "name": "Análise De Circuitos Elétricos 2",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M3(E105)-2M4(E105)-3M3(E205)-3M4(E205)",
+        "prof": "Jorge Augusto Vasconcelos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET43A",
+    "name": "Arquitetura E Organização De Computadores",
+    "turmas": [
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4T3(C202LINF4)-4T4(C202LINF4)-6T1(C202LINF4)-6T2(C202LINF4)",
+        "prof": "Jeferson Jose Baqueta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP44B",
     "name": "Circuitos Elétricos 1",
     "turmas": [
@@ -158,6 +209,74 @@
     ]
   },
   {
+    "code": "EET46B",
+    "name": "Controle De Sistemas Lineares 1",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M1(A001LACCA)-5M2(A001LACCA)-6M1(A001LACCA)-6M2(A001LACCA)",
+        "prof": "Jose Dolores Vergara Dietrich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET47B",
+    "name": "Controle De Sistemas Lineares 2",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T5(A001LACCA)-5T6(A001LACCA)-6T3(A001LACCA)-6T4(A001LACCA)",
+        "prof": "Jose Dolores Vergara Dietrich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET48B",
+    "name": "Controle Supervisório",
+    "turmas": [
+      {
+        "turma": "EL84",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4M3(A001LACCA)-4M4(A001LACCA)-6M3(A001LACCA)-6M4(A001LACCA)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET46C",
+    "name": "Conversão De Energia 1",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M4(C307)-2M5(C307)-5M3(C307)-5M4(C307)",
+        "prof": "Ednei Luiz Miotto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP44A",
     "name": "Cálculo 4",
     "turmas": [
@@ -169,6 +288,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. De Computação",
         "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44A",
+    "name": "Cálculo 4b",
+    "turmas": [
+      {
+        "turma": "ET44",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
         "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Não"
       }
@@ -333,6 +469,17 @@
         "h": "3M1(E204)-3M2(E204)-4M2(E204)-4M3(E204)",
         "prof": "Dione Ines Christ Milani",
         "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T3(C206)-2T4(C206)-3T1(C205)-3T2(C205)",
+        "prof": "Dione Ines Christ Milani",
+        "opt": "Não"
       }
     ]
   },
@@ -376,6 +523,17 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "3M1(C205)-3M2(C205)-4M1(C205)-4M2(C205)",
+        "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
         "prof": "Gustavo Henrique Dalposso",
         "opt": "Não"
       }
@@ -422,6 +580,23 @@
         "prio": "1 - Eng. Eletrônica",
         "h": "4T2(E106)-4T3(E106)-4T4(E106)",
         "prof": "Gerson Filippini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET47G",
+    "name": "Economia",
+    "turmas": [
+      {
+        "turma": "ELES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M5(03VIDEOCON)-2M6(03VIDEOCON)",
+        "prof": "Diane Aparecida Ostroski Weber",
         "opt": "Não"
       }
     ]
@@ -483,6 +658,23 @@
     ]
   },
   {
+    "code": "EET44C",
+    "name": "Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M1(E205)-5M2(E205)-6M1(E205)-6M2(E205)",
+        "prof": "Alberto Yoshihiro Nakano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP45B",
     "name": "Eletrônica Analógica 1",
     "turmas": [
@@ -500,6 +692,23 @@
     ]
   },
   {
+    "code": "EET44E",
+    "name": "Eletrônica Analógica 1",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M5(A001LACCA)-2M6(A001LACCA)-4M3(C307)-4M4(C307)-5M3(A001LACCA)-5M4(A001LACCA)",
+        "prof": "Fabio Rizental Coutinho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP46B",
     "name": "Eletrônica Analógica 2",
     "turmas": [
@@ -512,6 +721,62 @@
         "prio": "1 - Eng. De Computação",
         "h": "3T1(E207LSDE)-3T2(E207LSDE)-4T1(E207LSDE)-4T2(E207LSDE)",
         "prof": "Bruno Meneghel Zilli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET45E",
+    "name": "Eletrônica Analógica 2",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C306)-2T2(C306)-2T3(C306)-3T4(A001LACCA)-3T5(A001LACCA)-3T6(A001LACCA)",
+        "prof": "Alberto Vinicius De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP54",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "",
+        "prof": "Alberto Vinicius De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET47C",
+    "name": "Eletrônica De Potência",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T5(C306)-2T6(C306)-3T1(A001LACCA)-3T2(A001LACCA)-4T1(A001LACCA)-4T2(A001LACCA)",
+        "prof": "Alberto Vinicius De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP74",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "",
+        "prof": "Alberto Vinicius De Oliveira",
         "opt": "Não"
       }
     ]
@@ -551,6 +816,23 @@
     ]
   },
   {
+    "code": "HUM004",
+    "name": "Engenharia E Gestão Financeira 1",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(AVA)-5T5(AVA)-5T6(AVA)",
+        "prof": "Osni Hoss",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:52, Matriz:55, Matriz:56, Matriz:33, Matriz:41, Matriz:54, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "MAT005",
     "name": "Equações Diferenciais Ordinárias",
     "turmas": [
@@ -575,6 +857,68 @@
         "h": "2M4(C204)-2M5(C204)-3M5(C204)-3M6(C204)",
         "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Matriz:49"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M2(E105)-3M3(E105)-5M4(C204)-5M5(C204)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Matriz:49"
+      }
+    ]
+  },
+  {
+    "code": "OPEET011",
+    "name": "Escrita De Trabalhos Acadêmicos Com Latex",
+    "turmas": [
+      {
+        "turma": "OPEL",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4M1(E306LINF6)-4M2(E306LINF6)",
+        "prof": "Alberto Yoshihiro Nakano",
+        "opt": "Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "ET44E",
+    "name": "Fenômenos De Transporte 1",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6M3(E205)-6M4(E205)",
+        "prof": "Gerson Filippini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET45F",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T2(03VIDEOCON)-3T3(03VIDEOCON)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
       }
     ]
   },
@@ -625,6 +969,23 @@
         "prio": "1 - Eng. Civil",
         "h": "2M1(C206)-2M2(C206)-2M3(C206)",
         "prof": "Rafael Dors Sakata",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET46E",
+    "name": "Fundamentos De Sistemas De Comunicação",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M3(C201LINF3)-3M4(C201LINF3)-4M3(C201LINF3)-4M4(C201LINF3)",
+        "prof": "Alessandro Paulo De Oliveira",
         "opt": "Não"
       }
     ]
@@ -749,6 +1110,34 @@
         "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
         "prof": "Rafael Bertolini Frigori",
         "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "EET45A",
+    "name": "Física 4",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4T3(C206)-4T4(C206)-6T3(C204)-6T4(C204)",
+        "prof": "Leonardo De Lima",
+        "opt": "Não"
       }
     ]
   },
@@ -805,6 +1194,23 @@
         "h": "3T5(E106)-3T6(E106)-4T5(E106)-4T6(E106)-6T2(E205)-6T3(E205)",
         "prof": "Tatiany Mottin Dartora",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET48H",
+    "name": "Geração, Transmissão E Distribuição De Energia Elétrica",
+    "turmas": [
+      {
+        "turma": "ELES",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M1(E306LINF6)-5M2(E306LINF6)-5M3(E306LINF6)-5M4(E306LINF6)",
+        "prof": "",
+        "opt": "Matriz:44, Matriz:28"
       }
     ]
   },
@@ -894,6 +1300,23 @@
     ]
   },
   {
+    "code": "EET46D",
+    "name": "Instalações Elétricas",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M1(E305LINF5)-3M2(E305LINF5)-4M1(E302LINF1)-4M2(E302LINF1)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV46A",
     "name": "Instalações Elétricas Prediais",
     "turmas": [
@@ -907,6 +1330,23 @@
         "h": "3M1(C201LINF3)-3M2(C201LINF3)-4M1(C201LINF3)-4M2(C201LINF3)",
         "prof": "",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AUT78C",
+    "name": "Inteligência Artificial Aplicada A Controle E Automação",
+    "turmas": [
+      {
+        "turma": "EL94",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4N1(AVA)-4N2(AVA)-5N1(AVA)-5N2(AVA)",
+        "prof": "Marcos Roberto Bombacini",
+        "opt": "Matriz:28, Matriz:44, Matriz:7"
       }
     ]
   },
@@ -928,6 +1368,57 @@
     ]
   },
   {
+    "code": "EET43C",
+    "name": "Laboratório De Circuitos Elétricos 1",
+    "turmas": [
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(E208LCEE)-6T4(E208LCEE)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44G",
+    "name": "Laboratório De Circuitos Elétricos 2",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M1(A001LACCA)-2M2(A001LACCA)",
+        "prof": "Marcos Roberto Bombacini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM001",
+    "name": "Leitura E Escrita Acadêmica",
+    "turmas": [
+      {
+        "turma": "OPET",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "6T3(C306)-6T4(C306)-7M4(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:52, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
+      }
+    ]
+  },
+  {
     "code": "TSIN34G",
     "name": "Leitura E Escrita Acadêmica",
     "turmas": [
@@ -939,6 +1430,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Para Internet, 2 - Lic. Em Matemática",
         "h": "2N2(E204)-2N3(E204)-7M2(ON-LINE01)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
         "prof": "Daiane Da Silva Lourenco",
         "opt": "Não"
       }
@@ -962,6 +1464,23 @@
     ]
   },
   {
+    "code": "ET48A",
+    "name": "Lógica Reconfigurável",
+    "turmas": [
+      {
+        "turma": "ELES",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M1(C202LINF4)-3M2(C202LINF4)-6M1(C202LINF4)-6M2(C202LINF4)",
+        "prof": "Felipe Walter Dafico Pfrimer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "OPECP008",
     "name": "Lógica Reconfigurável",
     "turmas": [
@@ -975,6 +1494,23 @@
         "h": "3T1(E307LREDES)-3T2(E307LREDES)-4T5(E307LREDES)-4T6(E307LREDES)",
         "prof": "Tiago Piovesan Vendruscolo",
         "opt": "Matriz:55"
+      }
+    ]
+  },
+  {
+    "code": "EET45D",
+    "name": "Materiais E Equipamentos Elétricos",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T4(A001LACCA)-2T5(A001LACCA)-6T1(A001LACCA)-6T2(A001LACCA)",
+        "prof": "Ednei Luiz Miotto",
+        "opt": "Não"
       }
     ]
   },
@@ -1030,6 +1566,23 @@
     ]
   },
   {
+    "code": "EET45C",
+    "name": "Medidas E Sensores",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T1(A001LACCA)-5T2(A001LACCA)-5T3(C306)",
+        "prof": "Fabio Rizental Coutinho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EBP41E",
     "name": "Metodologia Da Pesquisa",
     "turmas": [
@@ -1076,6 +1629,57 @@
         "prio": "1 - Eng. De Computação",
         "h": "3M4(AVA)-3M5(AVA)",
         "prof": "Osni Hoss",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET48D",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "EL84",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M5(C307)-5M6(C307)",
+        "prof": "Gerson Filippini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET47A",
+    "name": "Microcontroladores",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M2(C201LINF3)-2M3(C201LINF3)-2M4(C201LINF3)-2T2(E303LINF2)-2T3(E303LINF2)-2T4(E303LINF2)-3T3(E305LINF5)-3T4(E305LINF5)-3T5(E305LINF5)",
+        "prof": "Alessandro Paulo De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET47D",
+    "name": "Máquinas E Acionamentos",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4T5(A001LACCA)-4T6(A001LACCA)-5T3(A001LACCA)-5T4(A001LACCA)",
+        "prof": "Ednei Luiz Miotto",
         "opt": "Não"
       }
     ]
@@ -1161,6 +1765,40 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "5N1(C206)-5N2(C206)-6N3(AVA)-6N4(AVA)",
         "prof": "Rosangela Aparecida Botinha Assumpcao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEET014",
+    "name": "Processamento Digital De Imagens",
+    "turmas": [
+      {
+        "turma": "OPEL",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3N2(AVA)-3N3(AVA)-3N4(AVA)-3N5(AVA)",
+        "prof": "Gustavo Benvenutti Borba",
+        "opt": "Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "EET47E",
+    "name": "Processamento Digital De Sinais",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T1(E103)-5T2(E103)-6T1(E103)-6T2(E103)",
+        "prof": "Alberto Yoshihiro Nakano",
         "opt": "Não"
       }
     ]
@@ -1290,6 +1928,57 @@
     ]
   },
   {
+    "code": "EET45B",
+    "name": "Sinais E Sistemas",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T4(C306)-5T5(C306)-6T5(C202LINF4)-6T6(C202LINF4)",
+        "prof": "Jorge Augusto Vasconcelos Alves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEET022",
+    "name": "Sistemas De Potência",
+    "turmas": [
+      {
+        "turma": "OPEL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M3(A001LACCA)-2M4(A001LACCA)-3M3(E204)-3M4(E204)",
+        "prof": "Marcos Roberto Bombacini",
+        "opt": "Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "EET46A",
+    "name": "Sistemas Digitais",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M1(E302LINF1)-2M2(E302LINF1)-2M3(E302LINF1)-2T3(C202LINF4)-2T4(C202LINF4)-6M3(E302LINF1)-6M4(E302LINF1)-6M5(E302LINF1)",
+        "prof": "Eduardo Vinicius Kuhn",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP48B",
     "name": "Sistemas Embarcados",
     "turmas": [
@@ -1307,6 +1996,23 @@
     ]
   },
   {
+    "code": "EET48A",
+    "name": "Sistemas Embarcados",
+    "turmas": [
+      {
+        "turma": "EL84",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M1(C202LINF4)-2M2(C202LINF4)-4M1(C202LINF4)-4M2(C202LINF4)-4T2(C307)-4T3(C307)-4T4(C307)",
+        "prof": "Fabio Rizental Coutinho, Felipe Walter Dafico Pfrimer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP47C",
     "name": "Sistemas Microcontrolados",
     "turmas": [
@@ -1319,6 +2025,23 @@
         "prio": "1 - Eng. De Computação",
         "h": "2T1(E207LSDE)-2T2(E207LSDE)-5T1(E207LSDE)-5T2(E207LSDE)",
         "prof": "Luis Carlos Mathias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44D",
+    "name": "Sistemas Operacionais",
+    "turmas": [
+      {
+        "turma": "EL44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T2(C202LINF4)-3T3(C202LINF4)-6T3(C202LINF4)-6T4(C202LINF4)",
+        "prof": "Jeferson Jose Baqueta",
         "opt": "Não"
       }
     ]
@@ -1391,6 +2114,40 @@
     ]
   },
   {
+    "code": "ET49A",
+    "name": "Trabalho De Conclusão De Curso 1 (Tcc 1)",
+    "turmas": [
+      {
+        "turma": "EL94",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "7M3(C203)-7M4(C203)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET410A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "EL04",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ET50A",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -1404,6 +2161,40 @@
         "h": "",
         "prof": "Douglas Jose Coutinho",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPEET028",
+    "name": "Tópicos Especiais Em Computação 1",
+    "turmas": [
+      {
+        "turma": "OPEL",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5N2(AVA)-5N3(AVA)-5N4(AVA)-5N5(AVA)",
+        "prof": "Sergio Leandro Stebel",
+        "opt": "Matriz:52"
+      }
+    ]
+  },
+  {
+    "code": "OPEET032",
+    "name": "Tópicos Especiais Em Eletrotécnica 1",
+    "turmas": [
+      {
+        "turma": "OPEL",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4T3(AVA)-4T4(AVA)-4T5(AVA)-4T6(AVA)",
+        "prof": "Ubirajara Zoccoli",
+        "opt": "Matriz:52"
       }
     ]
   },

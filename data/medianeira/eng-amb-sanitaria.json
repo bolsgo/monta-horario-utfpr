@@ -286,7 +286,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
-        "h": "3N1(H36)-3N2(H36)",
+        "h": "3N1(H37)-3N2(H37)",
         "prof": "Cristhiane Rohde",
         "opt": "Não"
       }
@@ -376,7 +376,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "5N1(H39)-5N2(H39)-5N3(H39)",
+        "h": "5N1(I43)-5N2(I43)-5N3(I43)",
         "prof": "Daiene De Mello Schaefer",
         "opt": "Não"
       },
@@ -409,7 +409,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng.Produção",
-        "h": "6M1(H37)-6M2(H37)-6M3(H37)",
+        "h": "6M1(H36)-6M2(H36)-6M3(H36)",
         "prof": "Sheyse Martins De Carvalho",
         "opt": "Não"
       }
@@ -1215,7 +1215,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(H36)-4N2(H36)",
+        "h": "4N1(I11)-4N2(I11)",
         "prof": "Elias Lira Dos Santos Junior",
         "opt": "Não"
       }
@@ -1417,7 +1417,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "2N1(H39)-2N2(H39)",
+        "h": "2N1(H34)-2N2(H34)",
         "prof": "Carla Daniela Camara",
         "opt": "Não"
       }
@@ -2006,7 +2006,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
-        "h": "2N3(H36)-2N4(H36)-2N5(H36)",
+        "h": "2N3(I47)-2N4(I47)-2N5(I47)",
         "prof": "Fabio Orssatto",
         "opt": "Não"
       }

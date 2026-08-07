@@ -100,6 +100,40 @@
     ]
   },
   {
+    "code": "LICP77B",
+    "name": "Estudos De Discurso",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "5T3(CE-102)-5T4(CE-102)-6T4(CE-302)-6T5(CE-302)-6T6(CE-302)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP74C",
+    "name": "Estudos Do Texto",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "4N1(CA-101)-4N2(CA-101)-5N3(CC-205)-5N4(CC-205)-5N5(CC-205)",
+        "prof": "Evandro De Melo Catelan",
+        "opt": "Matriz:982"
+      }
+    ]
+  },
+  {
     "code": "LICP75D",
     "name": "Estágio Curricular Obrigatório 1",
     "turmas": [
@@ -164,40 +198,6 @@
         "h": "3M3(D-PTO)-3M4(D-PTO)-3M5(D-PTO)-3N3(CE-205)-3N4(CE-205)-4M4(D-PTO)-4M5(D-PTO)",
         "prof": "Maria De Lourdes Rossi Remenche",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP77B",
-    "name": "Estudos De Discurso",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "5T3(CE-102)-5T4(CE-102)-6T4(CE-302)-6T5(CE-302)-6T6(CE-302)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP74C",
-    "name": "Estudos Do Texto",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "4N1(CA-101)-4N2(CA-101)-5N3(CC-205)-5N4(CC-205)-5N5(CC-205)",
-        "prof": "Evandro De Melo Catelan",
-        "opt": "Matriz:982"
       }
     ]
   },
@@ -538,23 +538,6 @@
     ]
   },
   {
-    "code": "LICP78B",
-    "name": "Literatura Brasileira Contemporânea",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "2N1(CE-304)-2N2(CE-304)-4N3(CE-304)-4N4(CE-304)",
-        "prof": "Naira De Almeida Nascimento",
-        "opt": "Matriz:982"
-      }
-    ]
-  },
-  {
     "code": "LICP73A",
     "name": "Literatura Brasileira: Século Xix",
     "turmas": [
@@ -568,6 +551,23 @@
         "h": "3T2(CE-202)-3T3(CE-202)-3T4(CE-202)-3T5(CE-202)",
         "prof": "Iamni Reche Bezerra",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP78B",
+    "name": "Literatura Brasileira Contemporânea",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "2N1(CE-304)-2N2(CE-304)-4N3(CE-304)-4N4(CE-304)",
+        "prof": "Naira De Almeida Nascimento",
+        "opt": "Matriz:982"
       }
     ]
   },
@@ -825,6 +825,91 @@
     ]
   },
   {
+    "code": "LICP76F",
+    "name": "Projeto De Pesquisa Em Letras",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "5N3(CA-205)-5N4(CA-205)-6N3(CA-205)-6N4(CA-205)",
+        "prof": "Roberlei Alves Bertucci",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP76E",
+    "name": "Projeto Integrador: Literatura E Intermidialidade",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "2N3(CE-105)-2N4(CE-105)",
+        "prof": "Rogerio Caetano De Almeida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP77E",
+    "name": "Projeto Integrador: Multimodalidade E Ensino Não-Presencial",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "3T1(CE-302)-3T2(CE-302)",
+        "prof": "Gustavo Nishida",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP74E",
+    "name": "Projeto Integrador: Tecnologia E Trabalho Docente",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Letras Português",
+        "h": "2N1(CE-305)-2N2(CE-305)",
+        "prof": "Simone Azevedo Floripi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICP7BG",
+    "name": "Prosa Latino-Americana",
+    "turmas": [
+      {
+        "turma": "S91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T4(CE-305)-2T5(CE-305)-2T6(CE-305)",
+        "prof": "Naira De Almeida Nascimento",
+        "opt": "Matriz:825, Matriz:984"
+      }
+    ]
+  },
+  {
     "code": "LICP76C",
     "name": "Prática De Ensino E Variação Linguística",
     "turmas": [
@@ -923,91 +1008,6 @@
         "h": "6M3(D-PTO)-6M4(D-PTO)",
         "prof": "Roberlei Alves Bertucci",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP76F",
-    "name": "Projeto De Pesquisa Em Letras",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "5N3(CA-205)-5N4(CA-205)-6N3(CA-205)-6N4(CA-205)",
-        "prof": "Roberlei Alves Bertucci",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP76E",
-    "name": "Projeto Integrador: Literatura E Intermidialidade",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "2N3(CE-105)-2N4(CE-105)",
-        "prof": "Rogerio Caetano De Almeida",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP77E",
-    "name": "Projeto Integrador: Multimodalidade E Ensino Não-Presencial",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "3T1(CE-302)-3T2(CE-302)",
-        "prof": "Gustavo Nishida",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP74E",
-    "name": "Projeto Integrador: Tecnologia E Trabalho Docente",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Letras Português",
-        "h": "2N1(CE-305)-2N2(CE-305)",
-        "prof": "Simone Azevedo Floripi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LICP7BG",
-    "name": "Prosa Latino-Americana",
-    "turmas": [
-      {
-        "turma": "S91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T4(CE-305)-2T5(CE-305)-2T6(CE-305)",
-        "prof": "Naira De Almeida Nascimento",
-        "opt": "Matriz:825, Matriz:984"
       }
     ]
   },

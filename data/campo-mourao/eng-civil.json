@@ -72,7 +72,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "3N1(B105)-3N2(B105)-3N3(B105)-3N4(B105)",
+        "h": "3N1(B105)-3N2(B105)-3N3(B105)-3T6(B105)",
         "prof": "Rodrigo Cesar Pierozan",
         "opt": "Matriz:43, Matriz:86"
       }
@@ -644,7 +644,7 @@
       {
         "turma": "HUMA",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "34",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
@@ -653,9 +653,9 @@
         "opt": "Matriz:81, Matriz:63, Matriz:87, Matriz:89, Matriz:75, Matriz:88, Matriz:86"
       },
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -1668,9 +1668,9 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -1685,23 +1685,23 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "NA6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "5N4(D108)-5N5(D108)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
-      },
-      {
         "turma": "NQ8A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Lic Química",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
@@ -1967,6 +1967,17 @@
     "name": "Metodologia De Pesquisa",
     "turmas": [
       {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "",
+        "prof": "Sara Tatiana Moreira",
+        "opt": "Não"
+      },
+      {
         "turma": "ID2A",
         "enq": "Presencial",
         "vt": "44",
@@ -1984,17 +1995,6 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "5T5(F109)-5T6(F109)",
-        "prof": "Sara Tatiana Moreira",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
         "h": "5T5(F109)-5T6(F109)",
         "prof": "Sara Tatiana Moreira",
         "opt": "Não"
@@ -2561,6 +2561,17 @@
         "h": "2T4(D106)-2T5(D106)-3T2(B101)-3T3(B101)",
         "prof": "Ronaldo Rigobello",
         "opt": "Não"
+      },
+      {
+        "turma": "IDE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3N4(F101)-3N5(F101)-5N4(F101)-5N5(F101)",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
       }
     ]
   },
@@ -2773,6 +2784,23 @@
         "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
         "prof": "Erika Patricia Dantas De Oliveira Guazzi",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC32O",
+    "name": "Ética E Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "",
+        "prof": "Marcia Aparecida De Oliveira",
+        "opt": "Matriz:62, Matriz:44, Matriz:76, Matriz:43, Matriz:63, Matriz:30"
       }
     ]
   },

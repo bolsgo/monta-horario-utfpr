@@ -1,22 +1,5 @@
 [
   {
-    "code": "ASDM3O",
-    "name": "Ações Solidárias, Desenvolvimento Social E Cultural",
-    "turmas": [
-      {
-        "turma": "OPDM3A",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Design De Moda",
-        "h": "3T1(C004)-3T2(C004)-3T3(C004)",
-        "prof": "Patricia Aparecida De Almeida",
-        "opt": "Matriz:39"
-      }
-    ]
-  },
-  {
     "code": "AFCO5O",
     "name": "Aptidão Física",
     "turmas": [
@@ -58,6 +41,23 @@
         "h": "5M2(C007)-5M3(C007)",
         "prof": "Raquel Rabelo Andrade",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ASDM3O",
+    "name": "Ações Solidárias, Desenvolvimento Social E Cultural",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "3T1(C004)-3T2(C004)-3T3(C004)",
+        "prof": "Patricia Aparecida De Almeida",
+        "opt": "Matriz:39"
       }
     ]
   },
@@ -141,23 +141,6 @@
     ]
   },
   {
-    "code": "DMDM2A",
-    "name": "Desenho De Moda",
-    "turmas": [
-      {
-        "turma": "DM2A",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Design De Moda",
-        "h": "6M1(I001)-6M2(I001)-6M3(I001)-6M4(I001)",
-        "prof": "Celso Tetsuro Suono",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "DGDM1A",
     "name": "Desenho Geométrico Aplicado À Moda",
     "turmas": [
@@ -170,6 +153,23 @@
         "prio": "1 - Design De Moda",
         "h": "6M3(K003)-6M4(K003)",
         "prof": "Isabella Akemi Okumoto Borges",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "DMDM2A",
+    "name": "Desenho De Moda",
+    "turmas": [
+      {
+        "turma": "DM2A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "6M1(I001)-6M2(I001)-6M3(I001)-6M4(I001)",
+        "prof": "Celso Tetsuro Suono",
         "opt": "Não"
       }
     ]
@@ -328,6 +328,23 @@
     ]
   },
   {
+    "code": "GADM3O",
+    "name": "Gestão Ambiental Em Moda",
+    "turmas": [
+      {
+        "turma": "OPDM3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M4(L004A)-2M5(L004A)-2M6(L004A)",
+        "prof": "Patricia Krecl Abad",
+        "opt": "Matriz:39"
+      }
+    ]
+  },
+  {
     "code": "GTDM4A",
     "name": "Gêneros Textuais Acadêmicos",
     "turmas": [
@@ -375,23 +392,6 @@
         "h": "4M5(L002)-4M6(L002)",
         "prof": "Ana Cristina Fernandes Pereira Wolff",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GADM3O",
-    "name": "Gestão Ambiental Em Moda",
-    "turmas": [
-      {
-        "turma": "OPDM3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Design De Moda",
-        "h": "2M4(L004A)-2M5(L004A)-2M6(L004A)",
-        "prof": "Patricia Krecl Abad",
-        "opt": "Matriz:39"
       }
     ]
   },
@@ -683,6 +683,23 @@
     ]
   },
   {
+    "code": "PECO2A",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica",
+        "h": "5T4(N108)-5T5(N108)",
+        "prof": "Graciana Freitas Palioto Pescim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MMDM4A",
     "name": "Marketing De Moda",
     "turmas": [
@@ -779,23 +796,6 @@
     ]
   },
   {
-    "code": "PECO2A",
-    "name": "Metodologia De Pesquisa",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica",
-        "h": "5T4(N108)-5T5(N108)",
-        "prof": "Graciana Freitas Palioto Pescim",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MPDM3A",
     "name": "Metodologia De Pesquisa",
     "turmas": [
@@ -808,23 +808,6 @@
         "prio": "1 - Design De Moda, 2 - Engenharia Química, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "2M1(M002B)-2M2(M002B)",
         "prof": "Cynthia Correa Lopes Barbosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CSDM3A",
-    "name": "Moda, Consumo E Sociedade",
-    "turmas": [
-      {
-        "turma": "DM3A",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Design De Moda",
-        "h": "2M3(M002B)-2M4(M002B)",
-        "prof": "Marcio Roberto Ghizzo",
         "opt": "Não"
       }
     ]
@@ -859,6 +842,23 @@
         "prio": "1 - Design De Moda",
         "h": "5M3(H002)-5M4(H002)-5M5(H002)",
         "prof": "Gabriela Martins De Camargo Gaion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CSDM3A",
+    "name": "Moda, Consumo E Sociedade",
+    "turmas": [
+      {
+        "turma": "DM3A",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Design De Moda",
+        "h": "2M3(M002B)-2M4(M002B)",
+        "prof": "Marcio Roberto Ghizzo",
         "opt": "Não"
       }
     ]

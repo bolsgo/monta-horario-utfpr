@@ -1612,6 +1612,34 @@
     ]
   },
   {
+    "code": "EC44E",
+    "name": "Laboratório De Oscilações E Ondas",
+    "turmas": [
+      {
+        "turma": "C41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T2(A045)-5T3(A045)",
+        "prof": "Yuri Vinicius Bruschi De Santana",
+        "opt": "Não"
+      },
+      {
+        "turma": "C42",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "5T4(A045)-5T5(A045)",
+        "prof": "Yuri Vinicius Bruschi De Santana",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "A4LTF",
     "name": "Laboratório De Termodinâmica, Fluido E Ondas",
     "turmas": [
@@ -2778,6 +2806,23 @@
         "prio": "1 - Eng. Eletrica, 2 - Eng. Controle/Automa, 2 - Eng. Eletrônica",
         "h": "2M4(P104)-2M5(P104)-4T4(P104)-4T5(P104)",
         "prof": "Fabio Campos Poderoso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC45D",
+    "name": "Teoria De Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "C51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "4T2(A135)-4T3(A135)-6T2(A135)-6T3(A135)",
+        "prof": "Carlos Alexandre Brasil",
         "opt": "Não"
       }
     ]

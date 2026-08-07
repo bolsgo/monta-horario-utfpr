@@ -249,6 +249,23 @@
     ]
   },
   {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
     "code": "FIS001",
     "name": "Fenômenos Físicos Aplicados Na Tecnologia De Alimentos",
     "turmas": [
@@ -691,6 +708,23 @@
     ]
   },
   {
+    "code": "ALM021",
+    "name": "Tecnologia De Óleos E Gorduras Vegetais",
+    "turmas": [
+      {
+        "turma": "A63",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol  Alimentos",
+        "h": "3N3(A102)-3N4(A102)",
+        "prof": "Neusa Fatima Seibel",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM013",
     "name": "Tecnologia De Produtos Cárneos",
     "turmas": [
@@ -725,18 +759,18 @@
     ]
   },
   {
-    "code": "ALM021",
-    "name": "Tecnologia De Óleos E Gorduras Vegetais",
+    "code": "MAT001",
+    "name": "Tópicos De Matemática",
     "turmas": [
       {
-        "turma": "A63",
+        "turma": "A13",
         "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
+        "vt": "40",
+        "vc": "40",
         "res": "Fechada",
         "prio": "1 - Tecnol  Alimentos",
-        "h": "3N3(A102)-3N4(A102)",
-        "prof": "Neusa Fatima Seibel",
+        "h": "2N1(A103)-2N2(A103)-5N1(K206)-5N2(K206)",
+        "prof": "Reginaldo Fidelis",
         "opt": "Não"
       }
     ]
@@ -772,40 +806,6 @@
         "h": "",
         "prof": "Alexandre Rodrigo Coelho",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT001",
-    "name": "Tópicos De Matemática",
-    "turmas": [
-      {
-        "turma": "A13",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "40",
-        "res": "Fechada",
-        "prio": "1 - Tecnol  Alimentos",
-        "h": "2N1(A103)-2N2(A103)-5N1(K206)-5N2(K206)",
-        "prof": "Reginaldo Fidelis",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
       }
     ]
   }

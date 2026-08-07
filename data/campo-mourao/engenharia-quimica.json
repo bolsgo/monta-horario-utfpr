@@ -600,7 +600,7 @@
       {
         "turma": "HUMA",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "34",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "",
@@ -609,9 +609,9 @@
         "opt": "Matriz:81, Matriz:63, Matriz:87, Matriz:89, Matriz:75, Matriz:88, Matriz:86"
       },
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -1607,9 +1607,9 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "NA6A",
+        "turma": "OPTV",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -1624,23 +1624,23 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "NA6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Alimentos",
-        "h": "5N4(D108)-5N5(D108)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
-      },
-      {
         "turma": "NQ8A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Lic Química",
+        "h": "5N4(D108)-5N5(D108)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
@@ -1883,6 +1883,17 @@
     "name": "Metodologia De Pesquisa",
     "turmas": [
       {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "",
+        "prof": "Sara Tatiana Moreira",
+        "opt": "Não"
+      },
+      {
         "turma": "ID2A",
         "enq": "Presencial",
         "vt": "44",
@@ -1900,17 +1911,6 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "5T5(F109)-5T6(F109)",
-        "prof": "Sara Tatiana Moreira",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
         "h": "5T5(F109)-5T6(F109)",
         "prof": "Sara Tatiana Moreira",
         "opt": "Não"
@@ -2632,6 +2632,17 @@
         "h": "4N1(F106)-4N2(F106)-4N3(F106)",
         "prof": "Alberto Cavalcanti Vitorio",
         "opt": "Matriz:81"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "4N1(F106)-4N2(F106)-4N3(F106)",
+        "prof": "Alberto Cavalcanti Vitorio",
+        "opt": "Matriz:81"
       }
     ]
   },
@@ -2654,6 +2665,17 @@
         "turma": "IQO",
         "enq": "Presencial",
         "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "3N2(F105)-3N3(F105)-3N4(F105)",
+        "prof": "Miguel Angel Aparicio Rodriguez",
+        "opt": "Matriz:81"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Tecnol Alimentos",
@@ -2761,6 +2783,17 @@
         "h": "5T4(D104)-5T5(D104)",
         "prof": "Heron Oliveira Dos Santos Lima",
         "opt": "Matriz:89, Matriz:87"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
+        "h": "5T4(D104)-5T5(D104)",
+        "prof": "Heron Oliveira Dos Santos Lima",
+        "opt": "Matriz:89, Matriz:87"
       }
     ]
   },
@@ -2786,6 +2819,17 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Química",
+        "h": "6N1(C004)-6N2(C004)-6N3(C004)-6N4(C004)",
+        "prof": "Manuel Salvador Vicente Plata Oviedo, Raphael Menechini Neto",
+        "opt": "Matriz:89, Matriz:87"
+      },
+      {
+        "turma": "OPTV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Alimentos",
         "h": "6N1(C004)-6N2(C004)-6N3(C004)-6N4(C004)",
         "prof": "Manuel Salvador Vicente Plata Oviedo, Raphael Menechini Neto",
         "opt": "Matriz:89, Matriz:87"

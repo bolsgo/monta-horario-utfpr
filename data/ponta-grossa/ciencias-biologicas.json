@@ -1,5 +1,22 @@
 [
   {
+    "code": "CB51C",
+    "name": "Arte, Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(L004)-2T3(L004)",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "BP64B",
     "name": "Bioquímica De Micro-Organismos",
     "turmas": [
@@ -12,6 +29,255 @@
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M4(L109)-4M5(L109)-4T2(C006)-4T3(C006)",
         "prof": "Maria Carolina De Oliveira Ribeiro, Elisabete Hiromi Hashimoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56E",
+    "name": "Bioestatística",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T3(Z001)-2T4(Z001)-2T5(Z001)",
+        "prof": "Guatacara Dos Santos Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55E",
+    "name": "Biofísica",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T2(L110)-3T3(L110)",
+        "prof": "Rozane De Fatima Turchiello Gomez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51G",
+    "name": "Biologia Celular 1",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T4(L012)-3T5(L012)",
+        "prof": "Marcio Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52H",
+    "name": "Biologia Celular 2",
+    "turmas": [
+      {
+        "turma": "CB21A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(C016)-2T3(C016)-3T2(L101)-3T3(L101)",
+        "prof": "Marcio Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CB21B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(C016)-2T5(C016)-3T2(L101)-3T3(L101)",
+        "prof": "Marcio Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56G",
+    "name": "Biologia De Campo",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(K107)-4N2(K107)-4N3(K107)-4N4(K107)-4N5(K107)",
+        "prof": "Igor De Paiva Affonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB07N",
+    "name": "Biomonitoramento Ambiental",
+    "turmas": [
+      {
+        "turma": "OPT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(K102)-2T3(K102)-2T4(K102)-2T5(K102)-4T2(C015)-4T3(C015)-4T4(C015)-4T5(C015)",
+        "prof": "Fernanda Ferrari",
+        "opt": "Matriz:830"
+      }
+    ]
+  },
+  {
+    "code": "CB54F",
+    "name": "Bioquímica Básica",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(C212)-5N2(C212)-5N3(C016)-5N4(C016)",
+        "prof": "Marcio Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52F",
+    "name": "Botânica 1",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T4(L101)-3T5(L101)",
+        "prof": "Fernanda Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB53D",
+    "name": "Botânica 2",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(C017)-2T3(C017)-4T2(L113)-4T3(L113)-4T4(L113)-4T5(L113)",
+        "prof": "Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB54E",
+    "name": "Botânica 3",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T2(L104)-5T3(L104)-5T4(C017)-5T5(C017)",
+        "prof": "Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51I",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T2(L005)-4T3(L005)",
+        "prof": "Flavio Madalosso Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB06P",
+    "name": "Currículo E Formação De Professores De Ciências E Biologia",
+    "turmas": [
+      {
+        "turma": "OPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T4(L103)-5T5(L103)",
+        "prof": "Diuliana Nadalon Pereira",
+        "opt": "Matriz:830"
+      }
+    ]
+  },
+  {
+    "code": "CB54C",
+    "name": "Didática Para O Ensino De Ciências E Biologia",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T2(L001)-4T3(L001)-4T4(L001)-4T5(L001)",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56F",
+    "name": "Ecologia",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T2(L112)-4T3(L112)-4T4(L112)-4T5(L112)",
+        "prof": "Igor De Paiva Affonso",
         "opt": "Não"
       }
     ]
@@ -34,6 +300,125 @@
     ]
   },
   {
+    "code": "CB53C",
+    "name": "Educação, Ciência, Tecnologia, Sociedade E Ambiente",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N1(L004)-3N2(L004)",
+        "prof": "Rafael De Araujo E Viana Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB53G",
+    "name": "Embriologia E Histologia",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T2(L003)-5T3(L003)-5T4(L003)-5T5(L003)",
+        "prof": "Fernanda Ferrari",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55B",
+    "name": "Ensino De Ciências E Biologia",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T2(L105)-4T2(L105)-4T3(L105)-4T3(L105)-4T4(L105)-4T4(L105)-4T5(L105)-4T5(L105)",
+        "prof": "Danislei Bertoni, Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56D",
+    "name": "Evolução",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(L109)-5N2(L109)-5N3(L109)-5N4(L109)",
+        "prof": "Viviane Demetrio Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52C",
+    "name": "Filosofia Geral",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T2(L101)-4T3(L101)",
+        "prof": "Rafael De Araujo E Viana Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52B",
+    "name": "Fundamentos Filosóficos E Sociológicos Da Educação",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(L005)-5N2(L005)",
+        "prof": "Natalia De Lima Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51H",
+    "name": "Fundamentos Da Matemática",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T2(L004)-3T3(L004)",
+        "prof": "Cristiane Toniolo Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "BP65C",
     "name": "Genética De Micro-Organismos",
     "turmas": [
@@ -46,6 +431,108 @@
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M2(L114)-5M3(L114)-5M4(H004)-5M5(H004)",
         "prof": "Juliana Vitoria Messias Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55H",
+    "name": "Genética",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T2(L012)-5T3(L012)-5T4(L012)-5T5(L012)",
+        "prof": "Viviane Demetrio Do Nascimento",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB03D",
+    "name": "Genética De Populações",
+    "turmas": [
+      {
+        "turma": "OPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N1(L003)-3N2(L003)-3N3(L003)-3N4(L003)",
+        "prof": "Viviane Demetrio Do Nascimento",
+        "opt": "Matriz:830, Matriz:804"
+      }
+    ]
+  },
+  {
+    "code": "CB52E",
+    "name": "Geologia",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T2(H104)-5T3(H104)-5T4(H104)-5T5(H104)",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51F",
+    "name": "História Da Biologia",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3N1(K107)-3N2(K107)",
+        "prof": "Igor De Paiva Affonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB53B",
+    "name": "História Da Educação",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N3(L005)-5N4(L005)",
+        "prof": "Natalia De Lima Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55D",
+    "name": "História E Cultura Afro Brasileira",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(L011)-2T5(L011)",
+        "prof": "Katya Cristina De Lima Picanco",
         "opt": "Não"
       }
     ]
@@ -68,6 +555,396 @@
     ]
   },
   {
+    "code": "CB53F",
+    "name": "Laboratório De Física 1",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(K110)-2T5(K110)",
+        "prof": "Gilvan Chaves Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB54G",
+    "name": "Laboratório De Física 2",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(K107)-2T3(K107)",
+        "prof": "Jose Carlos Alves Galvao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52G",
+    "name": "Laboratório De Química 1",
+    "turmas": [
+      {
+        "turma": "CB21C",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(H001)-2T4(L111)-2T5(L111)-2T5(H001)",
+        "prof": "Cinthia Eloise Domingues",
+        "opt": "Não"
+      },
+      {
+        "turma": "CB21D",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(L111)-2T2(H001)-2T3(C003)-2T3(L111)",
+        "prof": "Cinthia Eloise Domingues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB53E",
+    "name": "Laboratório De Química 2",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T2(C003)-3T2(C212)-3T3(C212)-3T3(C003)-3T4(C003)-3T4(C212)",
+        "prof": "Cinthia Eloise Domingues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52D",
+    "name": "Libras",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T4(L102)-4T5(L102)-4T6(L102)",
+        "prof": "Luiz Andre Brito Coelho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB04D",
+    "name": "Linguagem E Docência",
+    "turmas": [
+      {
+        "turma": "OPT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T4(L103)-4T5(L103)",
+        "prof": "Eloiza Aparecida Silva Avila De Matos",
+        "opt": "Matriz:830, Matriz:804"
+      }
+    ]
+  },
+  {
+    "code": "CB51J",
+    "name": "Metodologia De Pesquisa",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T2(L004)-5T3(L004)",
+        "prof": "Marcia De Andrade Pereira Bernardinis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51E",
+    "name": "Microbiologia",
+    "turmas": [
+      {
+        "turma": "CB11A",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "5",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(L005)-2T4(L005)-2T5(L005)-2T5(L005)-5N1(C017)-5N1(C017)-5N2(C017)-5N2(C017)",
+        "prof": "Jacqueline Peixoto Neves, Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "CB11B",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "5",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(L005)-2T4(L005)-2T5(L005)-2T5(L005)-4N1(C017)-4N1(C017)-4N2(C017)-4N2(C017)",
+        "prof": "Jacqueline Peixoto Neves, Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56B",
+    "name": "Paleontologia",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T2(LAPALEO)-3T3(LAPALEO)-3T4(LAPALEO)-3T5(LAPALEO)",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56A",
+    "name": "Parasitologia",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N1(K107)-2N2(K107)-2N3(K107)-2N4(K107)",
+        "prof": "Leticia Cuccolo Karling",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55C",
+    "name": "Política Educacional E Gestão Da Educação Básica",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(L104)-5N2(L104)",
+        "prof": "Danislei Bertoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52I",
+    "name": "Princípios Da Física",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2N1(L101)-2N2(L101)",
+        "prof": "Jose Carlos Alves Galvao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB54A",
+    "name": "Projeto Interdisciplinar Em Alfabetização Científica E Tecnológica",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6T2(L007)-6T3(L007)-6T4(L007)-6T5(L007)-6T6(L007)",
+        "prof": "Danislei Bertoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB52A",
+    "name": "Projeto Interdisciplinar Em Divulgação Científica",
+    "turmas": [
+      {
+        "turma": "CB21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6T2(L101)-6T3(L101)-6T4(L101)-6T5(L101)-6T6(L101)",
+        "prof": "Diuliana Nadalon Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB53A",
+    "name": "Projeto Interdisciplinar Em Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "CB31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6T2(L002)-6T3(L002)-6T4(L002)-6T5(L002)-6T6(L002)",
+        "prof": "Lia Maris Orth Ritter Antiqueira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55A",
+    "name": "Projeto Interdisciplinar Em Tecnologia Da Informação E Comunicação",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6T2(L006)-6T3(L006)-6T4(L006)-6T5(L006)-6T6(L006)",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51A",
+    "name": "Projeto Interdisciplinar Em Tecnologias Sociais E Sustentáveis",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6T2(L005)-6T3(L005)-6T4(L005)-6T5(L005)-6T6(L005)",
+        "prof": "Natalia De Lima Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB54B",
+    "name": "Psicologia Da Educação",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4N1(L104)-4N2(L104)",
+        "prof": "Natalia De Lima Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55G",
+    "name": "Química Ambiental",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T4(L110)-3T5(L110)-3T6(L110)",
+        "prof": "Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      },
+      {
+        "turma": "CB55",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T4(L110)-3T5(L110)-3T6(L110)",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51D",
+    "name": "Seminários 1",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5T4(L001)-5T5(L001)",
+        "prof": "Diego Gomes Do Valle",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51B",
+    "name": "Sociologia Geral",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "4T4(L110)-4T5(L110)",
+        "prof": "Katya Cristina De Lima Picanco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "BP60R",
     "name": "Toxicologia",
     "turmas": [
@@ -85,6 +962,23 @@
     ]
   },
   {
+    "code": "CB34H",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "CB41",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(L008)-2T3(L008)-2T4(L008)-2T5(L008)",
+        "prof": "Gizele Iank Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CB36A",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -96,6 +990,57 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "",
+        "prof": "Jacqueline Peixoto Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB54D",
+    "name": "Zoologia 1",
+    "turmas": [
+      {
+        "turma": "CB41A",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T4(C015)-2T4(C015)-2T5(C015)-2T5(C015)-3T2(L105)-3T2(L105)-3T3(L105)-3T3(L105)-3T4(L105)-3T4(L105)-3T5(L105)-3T5(L105)",
+        "prof": "Leticia Cuccolo Karling, Igor De Paiva Affonso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB55F",
+    "name": "Zoologia 2",
+    "turmas": [
+      {
+        "turma": "CB51",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "2T2(L105)-2T2(C015)-2T3(C015)-2T3(L105)",
+        "prof": "Lorena Julia Gali Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB56C",
+    "name": "Zoologia 3",
+    "turmas": [
+      {
+        "turma": "CB61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "6N1(L001)-6N2(L001)-6T2(L001)-6T3(L001)-6T4(L001)-6T5(L001)",
         "prof": "Jacqueline Peixoto Neves",
         "opt": "Não"
       }

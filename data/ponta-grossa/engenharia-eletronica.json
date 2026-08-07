@@ -50,6 +50,40 @@
     ]
   },
   {
+    "code": "EP37J",
+    "name": "Gestão Do Conhecimento E Da Inovação",
+    "turmas": [
+      {
+        "turma": "EP72",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia De Produção",
+        "h": "5T1(L109)-5T2(L109)-5T3(L109)",
+        "prof": "Joao Luiz Kovaleski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EN38A",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "EE81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T2(V1-005)-4T3(V1-005)",
+        "prof": "Antonio Vanderley Herrero Sola",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ET30A",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [

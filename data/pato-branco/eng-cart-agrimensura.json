@@ -369,7 +369,7 @@
       {
         "turma": "1MC",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "45",
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",
@@ -915,7 +915,7 @@
       {
         "turma": "1EL",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "45",
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
@@ -1116,7 +1116,7 @@
       {
         "turma": "1CV",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "45",
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
@@ -1127,7 +1127,7 @@
       {
         "turma": "1EL",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "45",
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
@@ -1138,7 +1138,7 @@
       {
         "turma": "1MC",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "45",
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",

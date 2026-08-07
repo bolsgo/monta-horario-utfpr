@@ -17,6 +17,161 @@
     ]
   },
   {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP72A",
+    "name": "Álgebra Linear Para Engenharia",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2T4(*EK-307)-2T5(*EK-307)-3T4(*EK-204)-3T5(*EK-204)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ELB11",
     "name": "Algoritmos De Programação",
     "turmas": [
@@ -125,6 +280,305 @@
         "h": "6T2(D-PTO)-6T3(D-PTO)-6T4(D-PTO)-6T5(D-PTO)",
         "prof": "Sergio Francisco Pichorim",
         "opt": "Matriz:973, Matriz:968, Matriz:962, Matriz:906"
+      }
+    ]
+  },
+  {
+    "code": "MAT7C1",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2T2(CE-108)-2T3(CE-108)-5T4(CE-101)-5T5(CE-101)-6T2(CE-108)-6T3(CE-108)",
+        "prof": "Priscila Savulski Ferreira De Miranda",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T5(CE-208)-2T6(CE-208)-3T5(CE-201)-3T6(CE-201)-4T5(CE-308)-4T6(CE-308)",
+        "prof": "Christian Manuel Surco Chuno",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2N4(CE-307)-2N5(CE-307)-3N4(CE-207)-3N5(CE-207)-5N2(CE-207)-5N3(CE-207)",
+        "prof": "Andres David Baez Sanchez",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M3(CE-107)-4M4(CE-107)-5T2(CE-101)-5T3(CE-101)-6M5(CE-308)-6M6(CE-308)",
+        "prof": "Francismar Ferreira Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "2M5(CE-308)-2M6(CE-308)-3M5(CE-108)-3M6(CE-108)-5M4(CE-308)-5M5(CE-308)",
+        "prof": "Francismar Ferreira Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M4(*EK-204)-2M5(*EK-204)-3T1(*EK-204)-3T2(*EK-204)-5M4(*EL-102)-5M5(*EL-102)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T1(CE-308)-2T2(CE-308)-2T3(CE-308)-4T1(CE-108)-4T2(CE-108)-4T3(CE-108)",
+        "prof": "Christian Manuel Surco Chuno",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",
+        "prof": "Priscila Savulski Ferreira De Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP71B",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2T4(*D-PTE)-2T5(*D-PTE)-2T6(*D-PTE)-4N1(*D-PTE)-4N2(*D-PTE)-4N3(*D-PTE)",
+        "prof": "Jonas Joacir Radtke",
+        "opt": "Não"
+      },
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2N1(*EK-204)-2N2(*EK-204)-2N3(*EK-204)-6N1(*EK-105)-6N2(*EK-105)-6N3(*EK-105)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7C2",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T3(CE-101)-2T4(CE-101)-3T3(CE-201)-3T4(CE-201)-5T3(CE-301)-5T4(CE-301)",
+        "prof": "Jorge Luis Torrejon Matos",
+        "opt": "Não"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",
+        "prof": "Joao Luis Goncalves",
+        "opt": "Não"
+      },
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",
+        "prof": "Inacio Andruski Guimaraes",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",
+        "prof": "Jorge Luis Torrejon Matos",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",
+        "prof": "Joao Luis Goncalves",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",
+        "prof": "Roy Wilhelm Probst",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",
+        "prof": "Roy Wilhelm Probst",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",
+        "prof": "Inacio Andruski Guimaraes",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",
+        "prof": "Jorge Luis Torrejon Matos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP72B",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2T1(*EL-104)-2T2(*EL-104)-2T3(*EL-104)-3T1(*EM-104)-3T2(*EM-104)-3T3(*EM-104)",
+        "prof": "Hilbeth Parente Azikri De Deus",
+        "opt": "Não"
+      },
+      {
+        "turma": "S46",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "2N2(*D-PTE)-2N3(*D-PTE)-2N4(*D-PTE)-5N1(*D-PTE)-5N2(*D-PTE)-5N3(*D-PTE)",
+        "prof": "Jonas Joacir Radtke",
+        "opt": "Não"
       }
     ]
   },
@@ -386,68 +840,6 @@
     ]
   },
   {
-    "code": "ELEC20",
-    "name": "Controle 1",
-    "turmas": [
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica, 3 - Eng Eletrônica",
-        "h": "3M2(CQ-203)-3M3(CQ-203)-3M4(CQ-203)-3M5(CQ-203)",
-        "prof": "Lucia Valeria Ramos De Arruda",
-        "opt": "Não"
-      },
-      {
-        "turma": "S72",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng De Computação, 1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "4T4(CQ-305)-4T5(CQ-305)-5T2(CQ-103)-5T3(CQ-103)",
-        "prof": "Paulo De Tarso Neves Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELF62",
-    "name": "Controle 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng De Computação, 2 - Eng Mecatrônica",
-        "h": "4T4(CQ-305)-4T5(CQ-305)-5T4(CQ-205)-5T5(CQ-205)",
-        "prof": "Paulo De Tarso Neves Junior",
-        "opt": "Matriz:968, Matriz:906"
-      }
-    ]
-  },
-  {
-    "code": "ELF72",
-    "name": "Controle 2",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "26",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Contr/Automação, 2 - Eng Mecatrônica",
-        "h": "3N1(CQ-103)-3T4(CQ-103)-3T5(CQ-103)-3T6(CQ-103)",
-        "prof": "Paulo Roberto Brero De Campos",
-        "opt": "Matriz:968, Matriz:906"
-      }
-    ]
-  },
-  {
     "code": "ELF81",
     "name": "Controle A Eventos Discretos",
     "turmas": [
@@ -516,301 +908,64 @@
     ]
   },
   {
-    "code": "MAT7C1",
-    "name": "Cálculo Diferencial E Integral 1",
+    "code": "ELEC20",
+    "name": "Controle 1",
     "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2T2(CE-108)-2T3(CE-108)-5T4(CE-101)-5T5(CE-101)-6T2(CE-108)-6T3(CE-108)",
-        "prof": "Priscila Savulski Ferreira De Miranda",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T5(CE-208)-2T6(CE-208)-3T5(CE-201)-3T6(CE-201)-4T5(CE-308)-4T6(CE-308)",
-        "prof": "Christian Manuel Surco Chuno",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "2N4(CE-307)-2N5(CE-307)-3N4(CE-207)-3N5(CE-207)-5N2(CE-207)-5N3(CE-207)",
-        "prof": "Andres David Baez Sanchez",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4M3(CE-107)-4M4(CE-107)-5T2(CE-101)-5T3(CE-101)-6M5(CE-308)-6M6(CE-308)",
-        "prof": "Francismar Ferreira Lima",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "2M5(CE-308)-2M6(CE-308)-3M5(CE-108)-3M6(CE-108)-5M4(CE-308)-5M5(CE-308)",
-        "prof": "Francismar Ferreira Lima",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M4(*EK-204)-2M5(*EK-204)-3T1(*EK-204)-3T2(*EK-204)-5M4(*EL-102)-5M5(*EL-102)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S73",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist De Informação",
-        "h": "2T1(CE-308)-2T2(CE-308)-2T3(CE-308)-4T1(CE-108)-4T2(CE-108)-4T3(CE-108)",
-        "prof": "Christian Manuel Surco Chuno",
-        "opt": "Não"
-      },
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",
-        "prof": "Priscila Savulski Ferreira De Miranda",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7C2",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T3(CE-101)-2T4(CE-101)-3T3(CE-201)-3T4(CE-201)-5T3(CE-301)-5T4(CE-301)",
-        "prof": "Jorge Luis Torrejon Matos",
-        "opt": "Não"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",
-        "prof": "Joao Luis Goncalves",
-        "opt": "Não"
-      },
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",
-        "prof": "Inacio Andruski Guimaraes",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",
-        "prof": "Jorge Luis Torrejon Matos",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "2N1(CE-307)-2N2(CE-307)-4N2(CE-207)-4N3(CE-207)-5N2(CE-101)-5N3(CE-101)",
-        "prof": "Joao Luis Goncalves",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",
-        "prof": "Roy Wilhelm Probst",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "3M1(CE-308)-3M2(CE-308)-4M1(CE-307)-4M2(CE-307)-6M3(CE-308)-6M4(CE-308)",
-        "prof": "Roy Wilhelm Probst",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",
-        "prof": "Luiz Pedro Palacio Daniel",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3N1(*EK-307)-3N2(*EK-307)-4T3(*EK-307)-4T4(*EK-307)-6T3(*EK-307)-6T4(*EK-307)",
-        "prof": "Luiz Pedro Palacio Daniel",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M4(*EK-307)-2M5(*EK-307)-3M4(*EK-307)-3M5(*EK-307)-5M4(*EK-307)-5M5(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
       {
         "turma": "S71",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "44",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T3(CE-201)-2T4(CE-201)-3T5(CE-208)-3T6(CE-208)-5T2(CE-208)-5T3(CE-208)",
-        "prof": "Inacio Andruski Guimaraes",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 2 - Eng Mecatrônica, 3 - Eng Eletrônica",
+        "h": "3M2(CQ-203)-3M3(CQ-203)-3M4(CQ-203)-3M5(CQ-203)",
+        "prof": "Lucia Valeria Ramos De Arruda",
         "opt": "Não"
       },
       {
-        "turma": "S81",
+        "turma": "S72",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "22",
         "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T5(CE-108)-2T6(CE-108)-3T5(CE-108)-3T6(CE-108)-5T5(CE-108)-5T6(CE-108)",
-        "prof": "Jorge Luis Torrejon Matos",
+        "res": "Fechada",
+        "prio": "1 - Eng De Computação, 1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "4T4(CQ-305)-4T5(CQ-305)-5T2(CQ-103)-5T3(CQ-103)",
+        "prof": "Paulo De Tarso Neves Junior",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "MECP71B",
-    "name": "Cálculo Diferencial E Integral 1",
+    "code": "ELF62",
+    "name": "Controle 1",
     "turmas": [
       {
-        "turma": "S01",
+        "turma": "S11",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "22",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2T4(*D-PTE)-2T5(*D-PTE)-2T6(*D-PTE)-4N1(*D-PTE)-4N2(*D-PTE)-4N3(*D-PTE)",
-        "prof": "Jonas Joacir Radtke",
-        "opt": "Não"
-      },
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2N1(*EK-204)-2N2(*EK-204)-2N3(*EK-204)-6N1(*EK-105)-6N2(*EK-105)-6N3(*EK-105)",
-        "prof": "",
-        "opt": "Não"
+        "prio": "1 - Eng Eletrônica, 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4T4(CQ-305)-4T5(CQ-305)-5T4(CQ-205)-5T5(CQ-205)",
+        "prof": "Paulo De Tarso Neves Junior",
+        "opt": "Matriz:968, Matriz:906"
       }
     ]
   },
   {
-    "code": "MECP72B",
-    "name": "Cálculo Diferencial E Integral 2",
+    "code": "ELF72",
+    "name": "Controle 2",
     "turmas": [
       {
-        "turma": "S45",
+        "turma": "S11",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "26",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2T1(*EL-104)-2T2(*EL-104)-2T3(*EL-104)-3T1(*EM-104)-3T2(*EM-104)-3T3(*EM-104)",
-        "prof": "Hilbeth Parente Azikri De Deus",
-        "opt": "Não"
-      },
-      {
-        "turma": "S46",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2N2(*D-PTE)-2N3(*D-PTE)-2N4(*D-PTE)-5N1(*D-PTE)-5N2(*D-PTE)-5N3(*D-PTE)",
-        "prof": "Jonas Joacir Radtke",
-        "opt": "Não"
+        "prio": "1 - Eng Eletrônica, 2 - Eng Contr/Automação, 2 - Eng Mecatrônica",
+        "h": "3N1(CQ-103)-3T4(CQ-103)-3T5(CQ-103)-3T6(CQ-103)",
+        "prof": "Paulo Roberto Brero De Campos",
+        "opt": "Matriz:968, Matriz:906"
       }
     ]
   },
@@ -921,6 +1076,23 @@
         "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
         "h": "2T1(*EM-106)-2T2(*EM-106)-2T3(*EM-106)",
         "prof": "Irapuan Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP72D",
+    "name": "Desenho Auxiliado Por Computador 1",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3N1(*EM-105)-3N2(*EM-105)-3N3(*EM-105)",
+        "prof": "Nilton Luiz Cararo",
         "opt": "Não"
       }
     ]
@@ -1137,6 +1309,23 @@
     ]
   },
   {
+    "code": "ELN7AM",
+    "name": "Desenvolvimento De Projetos Eletrônicos",
+    "turmas": [
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "16",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "5M4(CQ-203)-5M4(CQ-203)-5M5(CQ-203)-5M5(CQ-203)",
+        "prof": "Gabriel Kovalhuk, Fernando Cardoso Castaldo",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
     "code": "ELN8CD",
     "name": "Desenvolvimento Para Sistemas Gnu/Linux",
     "turmas": [
@@ -1245,40 +1434,6 @@
         "h": "5M3(CQ-301)-5M4(CQ-301)-5M5(CQ-301)",
         "prof": "Elena Camargo Shizuno",
         "opt": "Matriz:990, Matriz:948, Matriz:985, Matriz:963, Matriz:957, Matriz:959, Matriz:976, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:967, Matriz:982, Matriz:945, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:973, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "MECP72D",
-    "name": "Desenho Auxiliado Por Computador 1",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3N1(*EM-105)-3N2(*EM-105)-3N3(*EM-105)",
-        "prof": "Nilton Luiz Cararo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELN7AM",
-    "name": "Desenvolvimento De Projetos Eletrônicos",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "16",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "5M4(CQ-203)-5M4(CQ-203)-5M5(CQ-203)-5M5(CQ-203)",
-        "prof": "Gabriel Kovalhuk, Fernando Cardoso Castaldo",
-        "opt": "Matriz:973"
       }
     ]
   },
@@ -1920,23 +2075,6 @@
     ]
   },
   {
-    "code": "ELN8DK",
-    "name": "Estudos De Casos E Projetos De Cabeamento Estruturado",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
-        "h": "5N1(CQ-110)-5N2(CQ-110)",
-        "prof": "Christian Carlos De Souza Mendes",
-        "opt": "Matriz:973, Matriz:957"
-      }
-    ]
-  },
-  {
     "code": "MEC73C",
     "name": "Estática",
     "turmas": [
@@ -1994,6 +2132,40 @@
         "h": "4T5(*EL-105)-4T6(*EL-105)-5T3(*EK-307)-5T4(*EK-307)",
         "prof": "Claudio Tavares Da Silva",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ELN8DK",
+    "name": "Estudos De Casos E Projetos De Cabeamento Estruturado",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
+        "h": "5N1(CQ-110)-5N2(CQ-110)",
+        "prof": "Christian Carlos De Souza Mendes",
+        "opt": "Matriz:973, Matriz:957"
+      }
+    ]
+  },
+  {
+    "code": "ELO91",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica, 2 - Eng Amb/Sanitária",
+        "h": "4N1(CE-201)-4N2(CE-201)",
+        "prof": "Keiko Veronica Ono Fonseca",
+        "opt": "Matriz:973"
       }
     ]
   },
@@ -2076,415 +2248,35 @@
     ]
   },
   {
-    "code": "FCH7FB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T2(*EL-208)-2T3(*EL-208)-2T4(*EL-208)",
-        "prof": "Marcio Luiz Miotto",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design, 1 - Química Ambiental",
-        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
-        "prof": "Marcio Luiz Miotto",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S32",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design",
-        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
-        "prof": "Andrea Maila Voss",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "GEE7A1",
-    "name": "Fundamentos De Administração",
-    "turmas": [
-      {
-        "turma": "S61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química, 1 - Química Ambiental, 2 - Arquitet E Urbanismo, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4T1(*EB-201)-4T2(*EB-201)-4T3(*EB-201)",
-        "prof": "Paula Caldas Brognoli",
-        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "MEC72B",
-    "name": "Fundamentos De Ciências Dos Materiais",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 1 - Eng Mecatrônica, 1 - Eng. Da Produção",
-        "h": "4T4(*EK-201)-4T5(*EK-201)-6T4(*EK-201)-6T5(*EK-201)",
-        "prof": "Marjorie Benegra",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
-        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "S16",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
-        "h": "5M2(*EK-105)-5M3(*EK-105)-5M4(*EK-105)-5M5(*EK-105)",
-        "prof": "Paulo Cesar Borges",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
-        "h": "4T5(*EK-105)-4T6(*EK-105)-6T5(*EL-102)-6T6(*EL-102)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
-        "h": "4T2(*EK-308)-4T3(*EK-308)-6T2(*EK-105)-6T3(*EK-105)",
-        "prof": "Paulo Cesar Borges",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E3",
-    "name": "Fundamentos De Economia",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica",
-        "h": "2T2(*EK-201)-2T3(*EK-201)",
-        "prof": "Maria Lucia Figueiredo Gomes De Meza",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "5T4(CA-301)-5T5(CA-301)",
-        "prof": "Christian Luiz Da Silva",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "6M5(CA-301)-6M6(CA-301)",
-        "prof": "Maria Lucia Figueiredo Gomes De Meza",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
-        "h": "3T4(CE-206)-3T5(CE-206)",
-        "prof": "Andrea De Souza",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E1",
-    "name": "Fundamentos De Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
-        "h": "4N2(CE-204)-4N3(CE-204)",
-        "prof": "Paulo Apelles Camboim De Oliveira",
-        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
-      }
-    ]
-  },
-  {
-    "code": "MEC77C",
-    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4N1(*EK-201)-4N2(*EK-201)-4T6(*EK-201)",
-        "prof": "Adriano Araujo De Lima",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "6T4(*EL-104)-6T5(*EL-104)-6T6(*EL-104)",
-        "prof": "Jean Marc Stephane Lafay",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E5",
-    "name": "Fundamentos De Engenharia Econômica E Análise De Viabilidade",
-    "turmas": [
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Civil, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "2N2(*EB-304)-2N3(*EB-304)-4N2(*EB-201)-4N3(*EB-201)",
-        "prof": "Janine Nicolosi Correa",
-        "opt": "Matriz:957, Matriz:906, Matriz:968, Matriz:962, Matriz:972, Matriz:973"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Eng Civil, 2 - Eng Mecatrônica, 3 - Eng Eletrônica",
-        "h": "2M2(*EB-204)-2M3(*EB-204)-3M2(*EB-212)-3M3(*EB-212)",
-        "prof": "Janine Nicolosi Correa",
-        "opt": "Matriz:957, Matriz:906, Matriz:968, Matriz:962, Matriz:972, Matriz:973"
-      }
-    ]
-  },
-  {
-    "code": "GEE7F1",
-    "name": "Fundamentos De Finanças",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
-        "prof": "Armando Rasoto",
-        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7G1",
-    "name": "Fundamentos De Gestão De Pessoas",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Administração",
-        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
-        "prof": "Rejane Cioli",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7M1",
-    "name": "Fundamentos De Marketing",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Comunic Organizacional",
-        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "ELH01",
-    "name": "Fundamentos De Primeiros Socorros",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "2N2(CE-301)-2N3(CE-301)",
-        "prof": "Clayton Moura Belo",
-        "opt": "Matriz:973, Matriz:906, Matriz:957, Matriz:919, Matriz:968, Matriz:985, Matriz:962, Matriz:616"
-      }
-    ]
-  },
-  {
-    "code": "ELTD6",
-    "name": "Fundamentos Matemáticos Para Sinais, Imagens E Padrões",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "5N1(CQ-103)-5T4(CQ-103)-5T5(CQ-103)-5T6(CQ-103)",
-        "prof": "Andre Eugenio Lazzaretti",
-        "opt": "Matriz:973, Matriz:968"
-      }
-    ]
-  },
-  {
-    "code": "MEC74D",
-    "name": "Fundição",
-    "turmas": [
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "6T1(*EK-101)-6T2(*EK-101)",
-        "prof": "Maro Roger Guerios",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "6M4(*EK-101)-6M5(*EK-101)",
-        "prof": "Maro Roger Guerios",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MECP72E",
-    "name": "Fundamentos De Ciências Dos Materiais",
+    "code": "MECP72C",
+    "name": "Física Aplicada 1",
     "turmas": [
       {
         "turma": "S45",
         "enq": "Presencial",
-        "vt": "30",
+        "vt": "40",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
-        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "h": "4T3(*EM-104)-4T4(*EM-104)-6T4(*EM-104)-6T5(*EM-104)",
+        "prof": "Geocris Rodrigues Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP73B",
+    "name": "Física Experimental Aplicada",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3T3(*EK-020)-3T4(*EK-020)",
+        "prof": "Geocris Rodrigues Dos Santos",
         "opt": "Não"
       }
     ]
@@ -2981,35 +2773,415 @@
     ]
   },
   {
-    "code": "MECP72C",
-    "name": "Física Aplicada 1",
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
     "turmas": [
       {
-        "turma": "S45",
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T2(*EL-208)-2T3(*EL-208)-2T4(*EL-208)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "GEE7A1",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "S61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química, 1 - Química Ambiental, 2 - Arquitet E Urbanismo, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4T1(*EB-201)-4T2(*EB-201)-4T3(*EB-201)",
+        "prof": "Paula Caldas Brognoli",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "MEC72B",
+    "name": "Fundamentos De Ciências Dos Materiais",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 1 - Eng Mecatrônica, 1 - Eng. Da Produção",
+        "h": "4T4(*EK-201)-4T5(*EK-201)-6T4(*EK-201)-6T5(*EK-201)",
+        "prof": "Marjorie Benegra",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4T3(*EM-104)-4T4(*EM-104)-6T4(*EM-104)-6T5(*EM-104)",
-        "prof": "Geocris Rodrigues Dos Santos",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
+        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "S16",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica, 2 - Eng. Da Produção",
+        "h": "5M2(*EK-105)-5M3(*EK-105)-5M4(*EK-105)-5M5(*EK-105)",
+        "prof": "Paulo Cesar Borges",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
+        "h": "4T5(*EK-105)-4T6(*EK-105)-6T5(*EL-102)-6T6(*EL-102)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Eng. Da Produção",
+        "h": "4T2(*EK-308)-4T3(*EK-308)-6T2(*EK-105)-6T3(*EK-105)",
+        "prof": "Paulo Cesar Borges",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "MECP73B",
-    "name": "Física Experimental Aplicada",
+    "code": "MECP72E",
+    "name": "Fundamentos De Ciências Dos Materiais",
     "turmas": [
       {
         "turma": "S45",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "30",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3T3(*EK-020)-3T4(*EK-020)",
-        "prof": "Geocris Rodrigues Dos Santos",
+        "h": "5T2(*EL-101)-5T3(*EL-101)-6T2(*EL-101)-6T3(*EL-101)",
+        "prof": "Marcos Flavio De Oliveira Schiefler Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E3",
+    "name": "Fundamentos De Economia",
+    "turmas": [
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica",
+        "h": "2T2(*EK-201)-2T3(*EK-201)",
+        "prof": "Maria Lucia Figueiredo Gomes De Meza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "5T4(CA-301)-5T5(CA-301)",
+        "prof": "Christian Luiz Da Silva",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação, 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "6M5(CA-301)-6M6(CA-301)",
+        "prof": "Maria Lucia Figueiredo Gomes De Meza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
+        "h": "3T4(CE-206)-3T5(CE-206)",
+        "prof": "Andrea De Souza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "MEC77C",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4N1(*EK-201)-4N2(*EK-201)-4T6(*EK-201)",
+        "prof": "Adriano Araujo De Lima",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "6T4(*EL-104)-6T5(*EL-104)-6T6(*EL-104)",
+        "prof": "Jean Marc Stephane Lafay",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E5",
+    "name": "Fundamentos De Engenharia Econômica E Análise De Viabilidade",
+    "turmas": [
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Civil, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "2N2(*EB-304)-2N3(*EB-304)-4N2(*EB-201)-4N3(*EB-201)",
+        "prof": "Janine Nicolosi Correa",
+        "opt": "Matriz:957, Matriz:906, Matriz:968, Matriz:962, Matriz:972, Matriz:973"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng Amb/Sanitária, 2 - Eng Civil, 2 - Eng Mecatrônica, 3 - Eng Eletrônica",
+        "h": "2M2(*EB-204)-2M3(*EB-204)-3M2(*EB-212)-3M3(*EB-212)",
+        "prof": "Janine Nicolosi Correa",
+        "opt": "Matriz:957, Matriz:906, Matriz:968, Matriz:962, Matriz:972, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "GEE7F1",
+    "name": "Fundamentos De Finanças",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G1",
+    "name": "Fundamentos De Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "ELH01",
+    "name": "Fundamentos De Primeiros Socorros",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "2N2(CE-301)-2N3(CE-301)",
+        "prof": "Clayton Moura Belo",
+        "opt": "Matriz:973, Matriz:906, Matriz:957, Matriz:919, Matriz:968, Matriz:985, Matriz:962, Matriz:616"
+      }
+    ]
+  },
+  {
+    "code": "ELTD6",
+    "name": "Fundamentos Matemáticos Para Sinais, Imagens E Padrões",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "5N1(CQ-103)-5T4(CQ-103)-5T5(CQ-103)-5T6(CQ-103)",
+        "prof": "Andre Eugenio Lazzaretti",
+        "opt": "Matriz:973, Matriz:968"
+      }
+    ]
+  },
+  {
+    "code": "MEC74D",
+    "name": "Fundição",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "6T1(*EK-101)-6T2(*EK-101)",
+        "prof": "Maro Roger Guerios",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "6M4(*EK-101)-6M5(*EK-101)",
+        "prof": "Maro Roger Guerios",
         "opt": "Não"
       }
     ]
@@ -3060,6 +3232,23 @@
         "prio": "1 - Lic Física, 1 - Lic Fisica 9",
         "h": "4T1(CE-308)-4T2(CE-308)-6T2(CE-208)-6T3(CE-208)",
         "prof": "Thais Mariane Biembengut Faria",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MECP71A",
+    "name": "Geometria Analitica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "S45",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3N2(*EL-101)-3N3(*EL-101)-6T4(*EL-101)-6T5(*EL-101)",
+        "prof": "",
         "opt": "Não"
       }
     ]
@@ -3167,23 +3356,6 @@
         "h": "3T5(CE-302)-3T6(CE-302)",
         "prof": "Gabrielle Ribeiro Rodrigues Da Silva",
         "opt": "Matriz:708, Matriz:709"
-      }
-    ]
-  },
-  {
-    "code": "MECP71A",
-    "name": "Geometria Analitica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3N2(*EL-101)-3N3(*EL-101)-6T4(*EL-101)-6T5(*EL-101)",
-        "prof": "",
-        "opt": "Não"
       }
     ]
   },
@@ -3300,19 +3472,19 @@
     ]
   },
   {
-    "code": "ELTD7",
-    "name": "Introdução Ao Aprendizado De Máquina",
+    "code": "ELN7AL",
+    "name": "Internet Das Coisas",
     "turmas": [
       {
-        "turma": "S11",
+        "turma": "S15",
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "4N1(CQ-201)-4N2(CQ-201)-4N3(CQ-201)-4T6(CQ-201)",
-        "prof": "Heitor Silverio Lopes",
-        "opt": "Matriz:973, Matriz:968"
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T4(CQ-107)-2T5(CQ-107)-2T6(CQ-107)",
+        "prof": "Lincoln Herbert Teixeira",
+        "opt": "Matriz:973"
       }
     ]
   },
@@ -3545,19 +3717,19 @@
     ]
   },
   {
-    "code": "ELN7AL",
-    "name": "Internet Das Coisas",
+    "code": "ELTD7",
+    "name": "Introdução Ao Aprendizado De Máquina",
     "turmas": [
       {
-        "turma": "S15",
+        "turma": "S11",
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T4(CQ-107)-2T5(CQ-107)-2T6(CQ-107)",
-        "prof": "Lincoln Herbert Teixeira",
-        "opt": "Matriz:973"
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "4N1(CQ-201)-4N2(CQ-201)-4N3(CQ-201)-4T6(CQ-201)",
+        "prof": "Heitor Silverio Lopes",
+        "opt": "Matriz:973, Matriz:968"
       }
     ]
   },
@@ -3786,58 +3958,19 @@
     ]
   },
   {
-    "code": "MEC76F",
-    "name": "Mecanismos",
+    "code": "ELP62",
+    "name": "Máquinas Elétricas",
     "turmas": [
       {
-        "turma": "S41",
+        "turma": "S11",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3T4(*EM-105)-3T5(*EM-105)-6N1(*EM-105)-6T6(*EM-105)",
-        "prof": "Ana Paula Carvalho Da Silva Ferreira",
-        "opt": "Matriz:990"
-      },
-      {
-        "turma": "S42",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "3T4(*EL-106)-3T5(*EL-106)-6N1(*EL-106)-6T6(*EL-106)",
-        "prof": "Nilson Barbieri",
-        "opt": "Matriz:990"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "4T5(*EM-106)-4T6(*EM-106)-6T3(*EM-106)-6T4(*EM-106)",
-        "prof": "Luciano Zart Olanyk",
-        "opt": "Matriz:990"
-      }
-    ]
-  },
-  {
-    "code": "MEC7AE",
-    "name": "Mecanismos",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica",
-        "h": "2T4(*EK-016)-2T5(*EK-016)-6T4(*EM-105)-6T5(*EM-105)",
-        "prof": "Ana Paula Carvalho Da Silva Ferreira",
-        "opt": "Matriz:973"
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "2N1(CQ-105)-2T5(CQ-105)-2T6(CQ-105)",
+        "prof": "Ubirajara Zoccoli",
+        "opt": "Matriz:906"
       }
     ]
   },
@@ -3905,6 +4038,62 @@
         "h": "2T5(*EK-204)-2T6(*EK-204)-4T5(*EK-204)-4T6(*EK-204)-5T5(*EK-204)-5T6(*EK-204)",
         "prof": "Samuel Soares Ansay",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC7AE",
+    "name": "Mecanismos",
+    "turmas": [
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Eng Mecânica",
+        "h": "2T4(*EK-016)-2T5(*EK-016)-6T4(*EM-105)-6T5(*EM-105)",
+        "prof": "Ana Paula Carvalho Da Silva Ferreira",
+        "opt": "Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "MEC76F",
+    "name": "Mecanismos",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3T4(*EM-105)-3T5(*EM-105)-6N1(*EM-105)-6T6(*EM-105)",
+        "prof": "Ana Paula Carvalho Da Silva Ferreira",
+        "opt": "Matriz:990"
+      },
+      {
+        "turma": "S42",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "3T4(*EL-106)-3T5(*EL-106)-6N1(*EL-106)-6T6(*EL-106)",
+        "prof": "Nilson Barbieri",
+        "opt": "Matriz:990"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica",
+        "h": "4T5(*EM-106)-4T6(*EM-106)-6T3(*EM-106)-6T4(*EM-106)",
+        "prof": "Luciano Zart Olanyk",
+        "opt": "Matriz:990"
       }
     ]
   },
@@ -4088,23 +4277,6 @@
     ]
   },
   {
-    "code": "ELP62",
-    "name": "Máquinas Elétricas",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "2N1(CQ-105)-2T5(CQ-105)-2T6(CQ-105)",
-        "prof": "Ubirajara Zoccoli",
-        "opt": "Matriz:906"
-      }
-    ]
-  },
-  {
     "code": "ELH05",
     "name": "Noções Jurídicas Para Empreendedores",
     "turmas": [
@@ -4234,6 +4406,124 @@
     ]
   },
   {
+    "code": "CAART04",
+    "name": "Prática Artística Musical: Grupos Instrumentais 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "ELP42P",
+    "name": "Prática De Circuitos Elétricos",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "5T3(CQ-101)-5T4(CQ-101)-5T5(CQ-101)",
+        "prof": "Sergio Luiz Bazan De Paula",
+        "opt": "Matriz:968"
+      },
+      {
+        "turma": "S12",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
+        "h": "4T4(CQ-105)-4T5(CQ-105)-4T6(CQ-105)",
+        "prof": "Sergio Luiz Bazan De Paula",
+        "opt": "Matriz:968"
+      }
+    ]
+  },
+  {
+    "code": "CAART02",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(CT-016)-3T5(CT-016)-5T4(CT-016)-5T5(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "CAART03",
+    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 2",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(CT-016)-2T3(CT-016)-4T2(CT-016)-4T3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "MAT7PC",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "N12",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
+        "h": "2N1(CQ-309)-2N2(CQ-309)-5N4(CQ-305)-5N5(CQ-305)",
+        "prof": "Kleber Kendy Horikawa Nabas",
+        "opt": "Matriz:985"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "4M2(CE-101)-4M3(CE-101)-6M2(CE-201)-6M3(CE-201)",
+        "prof": "Sergio Flavio Schmitz",
+        "opt": "Matriz:985"
+      },
+      {
+        "turma": "S16",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
+        "h": "2T5(CE-105)-2T6(CE-105)-4T5(CE-106)-4T6(CE-106)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:985"
+      }
+    ]
+  },
+  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -4247,6 +4537,23 @@
         "h": "2T2(CE-302)-2T3(CE-302)",
         "prof": "Andrea Maila Voss",
         "opt": "Matriz:990, Matriz:995, Matriz:983, Matriz:957, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:920, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:962, Matriz:974, Matriz:980, Matriz:973"
+      }
+    ]
+  },
+  {
+    "code": "MEC7AA",
+    "name": "Princípios De Mecânica Racional",
+    "turmas": [
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "4T1(*EM-104)-4T2(*EM-104)-5T1(*EM-104)-5T2(*EM-104)",
+        "prof": "Hilbeth Parente Azikri De Deus",
+        "opt": "Matriz:973"
       }
     ]
   },
@@ -4275,23 +4582,6 @@
         "h": "4M4(CQ-110)-4M5(CQ-110)-4M6(CQ-110)",
         "prof": "Anderson Levati Amoroso",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC7AA",
-    "name": "Princípios De Mecânica Racional",
-    "turmas": [
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "4T1(*EM-104)-4T2(*EM-104)-5T1(*EM-104)-5T2(*EM-104)",
-        "prof": "Hilbeth Parente Azikri De Deus",
-        "opt": "Matriz:973"
       }
     ]
   },
@@ -4472,124 +4762,6 @@
         "h": "4N1(*EK-019)-4T6(*EK-019)",
         "prof": "Luiz Carlos De Abreu Rodrigues",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CAART04",
-    "name": "Prática Artística Musical: Grupos Instrumentais 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "ELP42P",
-    "name": "Prática De Circuitos Elétricos",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "5T3(CQ-101)-5T4(CQ-101)-5T5(CQ-101)",
-        "prof": "Sergio Luiz Bazan De Paula",
-        "opt": "Matriz:968"
-      },
-      {
-        "turma": "S12",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica",
-        "h": "4T4(CQ-105)-4T5(CQ-105)-4T6(CQ-105)",
-        "prof": "Sergio Luiz Bazan De Paula",
-        "opt": "Matriz:968"
-      }
-    ]
-  },
-  {
-    "code": "CAART02",
-    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T4(CT-016)-3T5(CT-016)-5T4(CT-016)-5T5(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "CAART03",
-    "name": "Prática Musical E Interações Humanas: Aprendizado Coletivo De Violino, Viola Erudita, Violoncelo E Contrabaixo Acústico 2",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T2(CT-016)-2T3(CT-016)-4T2(CT-016)-4T3(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:968, Matriz:957, Matriz:961, Matriz:962, Matriz:906, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "MAT7PC",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "N12",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng Mecatrônica",
-        "h": "2N1(CQ-309)-2N2(CQ-309)-5N4(CQ-305)-5N5(CQ-305)",
-        "prof": "Kleber Kendy Horikawa Nabas",
-        "opt": "Matriz:985"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "4M2(CE-101)-4M3(CE-101)-6M2(CE-201)-6M3(CE-201)",
-        "prof": "Sergio Flavio Schmitz",
-        "opt": "Matriz:985"
-      },
-      {
-        "turma": "S16",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Mecatrônica, 2 - Tecnol. Sist. Telec., 2 - Eng Eletrônica",
-        "h": "2T5(CE-105)-2T6(CE-105)-4T5(CE-106)-4T6(CE-106)",
-        "prof": "Jamea Cristina Batista Silva Franklin",
-        "opt": "Matriz:985"
       }
     ]
   },
@@ -5720,178 +5892,6 @@
         "h": "5N3(CB-301)-5N4(CB-301)-5N5(CB-301)",
         "prof": "Christian Carlos De Souza Mendes",
         "opt": "Matriz:973, Matriz:957"
-      }
-    ]
-  },
-  {
-    "code": "MAT7AL",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S73",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist De Informação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MECP72A",
-    "name": "Álgebra Linear Para Engenharia",
-    "turmas": [
-      {
-        "turma": "S45",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Da Produção, 2 - Eng Mecânica, 2 - Eng Mecatrônica",
-        "h": "2T4(*EK-307)-2T5(*EK-307)-3T4(*EK-204)-3T5(*EK-204)",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ELO91",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Eletrônica, 2 - Eng Mecatrônica, 2 - Eng Amb/Sanitária",
-        "h": "4N1(CE-201)-4N2(CE-201)",
-        "prof": "Keiko Veronica Ono Fonseca",
-        "opt": "Matriz:973"
       }
     ]
   }

@@ -235,6 +235,34 @@ function subjectColor(code, contextCodes) {
       getPinnedOrder(code) {
         return pinned[code] || [];
       },
+
+      // Re-sincroniza os pins com um novo carregamento de dados (nova
+      // raspagem). O código da turma (ex: "S73") não é estável entre
+      // raspagens — a universidade pode reatribuí-lo mesmo quando a
+      // oferta em si (mesma matéria, mesmo professor, mesmo horário)
+      // continua idêntica. Sem isso, o pin "some" silenciosamente porque
+      // isPinned()/getPinnedOrder() só comparam pelo código antigo.
+      //
+      // resolve(code, turmaCode) deve devolver:
+      //   - a MESMA turmaCode, se ela ainda existe nos dados novos → mantém
+      //   - uma turmaCode DIFERENTE, se achou uma turma equivalente (mesmo
+      //     professor + mesmo horário) sob um código novo → migra o pin
+      //   - null, se não achou nada equivalente → remove o pin
+      prunePinned(resolve) {
+        let changed = false;
+        Object.keys(pinned).forEach(code => {
+          const migrated = [];
+          pinned[code].forEach(turmaCode => {
+            const result = resolve(code, turmaCode);
+            if (result === turmaCode) { migrated.push(turmaCode); return; }
+            changed = true;
+            if (result) migrated.push(result);
+          });
+          if (migrated.length) pinned[code] = migrated;
+          else delete pinned[code];
+        });
+        if (changed) this.savePinned();
+      },
       loadPinned() {
         try {
           const raw = localStorage.getItem(PIN_STORAGE_KEY);
@@ -1319,6 +1347,11 @@ function subjectColor(code, contextCodes) {
   // Aplica no app um array de disciplinas já carregado (troca DATA,
   // dedupe de horários repetidos e reindexação da seleção salva).
   function applyDataset(disciplinas) {
+    // Guarda a matéria/turma antigas (por código) ANTES de trocar DATA,
+    // pra poder achar a "mesma oferta" no dataset novo mesmo que o
+    // código da turma tenha mudado (ver prunePinned abaixo).
+    const oldSubjectsByCode = new Map((DATA || []).map(s => [s.code, s]));
+
     dedupeHorarios(disciplinas);
     DATA = disciplinas;
     State.pruneAndRefresh((code, sel) => {
@@ -1334,6 +1367,24 @@ function subjectColor(code, contextCodes) {
         slots: parseHorario(t.h), color: subjectColor(code),
         enq: t.enq, vt: t.vt, vc: t.vc, res: t.res, prio: t.prio, opt: t.opt
       };
+    });
+    State.prunePinned((code, turmaCode) => {
+      const sub = DATA.find(s => s.code === code);
+      if (!sub) return null;
+      // Código igual e turma ainda existe nos dados novos: mantém.
+      if (sub.turmas.some(x => x.turma === turmaCode)) return turmaCode;
+      // Código sumiu do dataset novo. Antes de desistir, pega a turma
+      // ANTIGA (do snapshot pré-troca) pra saber quem era o professor e
+      // qual era o horário dessa oferta.
+      const oldSub = oldSubjectsByCode.get(code);
+      const oldTurma = oldSub && oldSub.turmas.find(x => x.turma === turmaCode);
+      if (!oldTurma) return null; // nem nos dados antigos existia mais: descarta
+      // Procura, nos dados NOVOS da mesma matéria, uma turma com professor
+      // E horário idênticos — sinal forte de que é a mesma oferta, só
+      // renumerada na raspagem. "Mesmos dados" = mesma turma pra nós;
+      // qualquer diferença (professor ou horário) e o pin cai.
+      const equivalent = sub.turmas.find(x => x.prof === oldTurma.prof && x.h === oldTurma.h);
+      return equivalent ? equivalent.turma : null;
     });
   }
 

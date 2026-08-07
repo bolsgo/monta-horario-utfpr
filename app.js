@@ -29,7 +29,7 @@
   const AULA_INDEX = {};
   AULAS.forEach((a, i) => { AULA_INDEX[a.code] = i; });
 
-  // Escapa texto antes de inserir no DOM via innerHTML (evita XSS)..
+  // Escapa texto antes de inserir no DOM via innerHTML (evita XSS).
   function esc(s) {
     return String(s == null ? "" : s)
       .replace(/&/g, "&amp;")

@@ -299,6 +299,40 @@
     ]
   },
   {
+    "code": "FIS1007",
+    "name": "Física",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "2N1(L23)-2N2(L23)-5N1(L23)-5N2(L23)",
+        "prof": "Fabio Rogerio Longen",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1060",
+    "name": "Físico-Química",
+    "turmas": [
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "6N3(L23)-6N4(L23)-6N5(L23)",
+        "prof": "Jose Goncales Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1011",
     "name": "Fundamentos Da Matemática",
     "turmas": [
@@ -356,40 +390,6 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "4N1(I12)-4N2(I12)-6N1(I12)-6N2(I12)",
         "prof": "Daiane Cristina Lenhard",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS1007",
-    "name": "Física",
-    "turmas": [
-      {
-        "turma": "TAL2",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "2N1(L23)-2N2(L23)-5N1(L23)-5N2(L23)",
-        "prof": "Fabio Rogerio Longen",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1060",
-    "name": "Físico-Química",
-    "turmas": [
-      {
-        "turma": "TAL2",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "6N3(L23)-6N4(L23)-6N5(L23)",
-        "prof": "Jose Goncales Filho",
         "opt": "Não"
       }
     ]
@@ -1103,6 +1103,23 @@
     ]
   },
   {
+    "code": "ALM1031",
+    "name": "Tecnologia De Óleos E Gorduras",
+    "turmas": [
+      {
+        "turma": "TAL5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "6N1(I41)-6N2(I41)",
+        "prof": "Cleusa Ines Weber",
+        "opt": "Matriz:655"
+      }
+    ]
+  },
+  {
     "code": "ALM1033",
     "name": "Tecnologia De Pescado",
     "turmas": [
@@ -1150,23 +1167,6 @@
         "h": "5N1(I41)-5N2(I41)-5N3(I41)",
         "prof": "Glaucia Cristina Moreira",
         "opt": "Matriz:665"
-      }
-    ]
-  },
-  {
-    "code": "ALM1031",
-    "name": "Tecnologia De Óleos E Gorduras",
-    "turmas": [
-      {
-        "turma": "TAL5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "6N1(I41)-6N2(I41)",
-        "prof": "Cleusa Ines Weber",
-        "opt": "Matriz:655"
       }
     ]
   },

@@ -1,5 +1,22 @@
 [
   {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05C",
     "name": "Abordagens Pedagógicas Em Ead 2",
     "turmas": [
@@ -17,6 +34,74 @@
     ]
   },
   {
+    "code": "LC06B",
+    "name": "Abordagens Pedagógicas Em Ead 3",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06E",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Geraldo Ranthum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06F",
+    "name": "Design Instrucional",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06C",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Camila Lopes Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05E",
     "name": "Engenharia De Software",
     "turmas": [
@@ -29,6 +114,23 @@
         "prio": "1 - Lic Computação - Jac",
         "h": "",
         "prof": "Eliana Claudia Mayumi Ishikawa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06D",
+    "name": "Programação De Aplicativos Móveis",
+    "turmas": [
+      {
+        "turma": "JAC6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Jac",
+        "h": "",
+        "prof": "Diego Roberto Antunes",
         "opt": "Não"
       }
     ]

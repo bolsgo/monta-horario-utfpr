@@ -1,5 +1,78 @@
 [
   {
+    "code": "LMA6E",
+    "name": "Álgebra",
+    "turmas": [
+      {
+        "turma": "MT63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N1(C206)-4N2(C206)-6N1(C206)-6N2(C206)",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP63",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Wilian Francisco De Araujo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP42A",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4E",
+    "name": "Álgebra Linear 2",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "2N1(C205)-2N2(C205)-3N1(C205)-3N2(C205)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LMA8B",
     "name": "Análise Real 2",
     "turmas": [
@@ -23,119 +96,6 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "",
         "prof": "Leandro Antunes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EBP41B",
-    "name": "Computação",
-    "turmas": [
-      {
-        "turma": "BP14",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.  De Bioprocessos",
-        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
-        "prof": "Jones Erni Schmitz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET41B",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "EL14",
-        "enq": "Presencial",
-        "vt": "21",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2T2(C201LINF3)-2T3(C201LINF3)-5T5(E306LINF6)-5T6(E306LINF6)",
-        "prof": "Jefferson Gustavo Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LMA2F",
-    "name": "Construções Geométricas",
-    "turmas": [
-      {
-        "turma": "MT23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "5N1(C204)-6N3(C204)-6N4(C204)-6N5(C204)",
-        "prof": "Loreci Zanardini",
-        "opt": "Não"
-      },
-      {
-        "turma": "SP23",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "",
-        "prof": "Loreci Zanardini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LMA5C",
-    "name": "Currículo E Avaliação Em Matemática",
-    "turmas": [
-      {
-        "turma": "MT83",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "5N1(C305)-5N2(C305)-5N3(C305)",
-        "prof": "Barbara Winiarski Diesel Novaes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP44A",
-    "name": "Cálculo 4",
-    "turmas": [
-      {
-        "turma": "CP44",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
-        "prof": "Karen Carrilho Da Silva Lira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET44A",
-    "name": "Cálculo 4b",
-    "turmas": [
-      {
-        "turma": "ET44",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
-        "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Não"
       }
     ]
@@ -403,6 +363,119 @@
     ]
   },
   {
+    "code": "ECP44A",
+    "name": "Cálculo 4",
+    "turmas": [
+      {
+        "turma": "CP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44A",
+    "name": "Cálculo 4b",
+    "turmas": [
+      {
+        "turma": "ET44",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41B",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET41B",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T2(C201LINF3)-2T3(C201LINF3)-5T5(E306LINF6)-5T6(E306LINF6)",
+        "prof": "Jefferson Gustavo Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA2F",
+    "name": "Construções Geométricas",
+    "turmas": [
+      {
+        "turma": "MT23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C204)-6N3(C204)-6N4(C204)-6N5(C204)",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP23",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA5C",
+    "name": "Currículo E Avaliação Em Matemática",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "5N1(C305)-5N2(C305)-5N3(C305)",
+        "prof": "Barbara Winiarski Diesel Novaes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HUM002",
     "name": "Economia Contemporânea",
     "turmas": [
@@ -515,23 +588,6 @@
     ]
   },
   {
-    "code": "HUM006",
-    "name": "Estudos Culturais E Relações Étnico-Raciais",
-    "turmas": [
-      {
-        "turma": "OPCP",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
-        "prof": "Daiane Da Silva Lourenco",
-        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
-      }
-    ]
-  },
-  {
     "code": "LMA6G",
     "name": "Estágio Supervisionado Na Educação Básica 2",
     "turmas": [
@@ -566,36 +622,19 @@
     ]
   },
   {
-    "code": "ECV42A",
-    "name": "Fundamentos De Programação",
+    "code": "HUM006",
+    "name": "Estudos Culturais E Relações Étnico-Raciais",
     "turmas": [
       {
-        "turma": "CV24",
+        "turma": "OPCP",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "20",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "2M3(C202LINF4)-3M3(C202LINF4)-3M4(C202LINF4)-3M5(C202LINF4)",
-        "prof": "Rosane Fatima Passarini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP41C",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "CP14",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
         "prio": "1 - Eng. De Computação",
-        "h": "5T5(E307LREDES)-5T6(E307LREDES)-6T5(E302LINF1)-6T6(E302LINF1)",
-        "prof": "Bruno Meneghel Zilli",
-        "opt": "Não"
+        "h": "6T1(C306)-6T2(C306)-7M3(AVA)",
+        "prof": "Daiane Da Silva Lourenco",
+        "opt": "Matriz:21, Matriz:60, Matriz:61, Matriz:57, Matriz:55, Matriz:54, Matriz:53, Matriz:58"
       }
     ]
   },
@@ -717,29 +756,35 @@
     ]
   },
   {
-    "code": "LMA4F",
-    "name": "Geometria 2",
+    "code": "ECV42A",
+    "name": "Fundamentos De Programação",
     "turmas": [
       {
-        "turma": "MT43",
+        "turma": "CV24",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "4N4(C205)-4N5(C205)-5N3(C205)-5N4(C205)-5N5(C205)",
-        "prof": "Loreci Zanardini",
+        "prio": "1 - Eng. Civil",
+        "h": "2M3(C202LINF4)-3M3(C202LINF4)-3M4(C202LINF4)-3M5(C202LINF4)",
+        "prof": "Rosane Fatima Passarini",
         "opt": "Não"
-      },
+      }
+    ]
+  },
+  {
+    "code": "ECP41C",
+    "name": "Fundamentos De Programação",
+    "turmas": [
       {
-        "turma": "SP43",
+        "turma": "CP14",
         "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "",
-        "prof": "Loreci Zanardini",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5T5(E307LREDES)-5T6(E307LREDES)-6T5(E302LINF1)-6T6(E302LINF1)",
+        "prof": "Bruno Meneghel Zilli",
         "opt": "Não"
       }
     ]
@@ -807,6 +852,34 @@
         "prio": "1 - Eng. Eletrônica",
         "h": "3T5(E106)-3T6(E106)-4T5(E106)-4T6(E106)-6T2(E205)-6T3(E205)",
         "prof": "Tatiany Mottin Dartora",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMA4F",
+    "name": "Geometria 2",
+    "turmas": [
+      {
+        "turma": "MT43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "4N4(C205)-4N5(C205)-5N3(C205)-5N4(C205)-5N5(C205)",
+        "prof": "Loreci Zanardini",
+        "opt": "Não"
+      },
+      {
+        "turma": "SP43",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Loreci Zanardini",
         "opt": "Não"
       }
     ]
@@ -1173,23 +1246,6 @@
     ]
   },
   {
-    "code": "MAT58D",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "MT83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "",
-        "prof": "Suellen Ribeiro Pardo Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OPMA015",
     "name": "Tópicos Da Educação Algébrica",
     "turmas": [
@@ -1203,6 +1259,23 @@
         "h": "5N4(C305)-5N5(C305)",
         "prof": "Tatiany Mottin Dartora",
         "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "MAT58D",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "MT83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic. Em Matemática",
+        "h": "",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
       }
     ]
   },
@@ -1236,79 +1309,6 @@
         "prio": "1 - Lic. Em Matemática",
         "h": "4N1(C303LEM)-4N2(C303LEM)-4N3(C303LEM)-7M4(AVA)-7M5(AVA)-7M6(AVA)",
         "prof": "Renato Francisco Merli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LMA6E",
-    "name": "Álgebra",
-    "turmas": [
-      {
-        "turma": "MT63",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "4N1(C206)-4N2(C206)-6N1(C206)-6N2(C206)",
-        "prof": "Wilian Francisco De Araujo",
-        "opt": "Não"
-      },
-      {
-        "turma": "SP63",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "",
-        "prof": "Wilian Francisco De Araujo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP42A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "CP24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
-        "prof": "Suellen Ribeiro Pardo Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LMA4E",
-    "name": "Álgebra Linear 2",
-    "turmas": [
-      {
-        "turma": "MT43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "2N1(C205)-2N2(C205)-3N1(C205)-3N2(C205)",
-        "prof": "Suellen Ribeiro Pardo Garcia",
-        "opt": "Não"
-      },
-      {
-        "turma": "SP43",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic. Em Matemática",
-        "h": "",
-        "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Não"
       }
     ]

@@ -129,164 +129,6 @@
     ]
   },
   {
-    "code": "CA29CV",
-    "name": "Concreto Armado 2",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2M4(M103)-2M5(M103)-3M2(M103)-3M3(M103)",
-        "prof": "Gustavo Lacerda Dias",
-        "opt": "Não"
-      },
-      {
-        "turma": "9CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Gustavo Lacerda Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AA29CV",
-    "name": "Concreto Auto-Adensavel",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4M4(M103)-4M5(M103)-4M6(M103)",
-        "prof": "Priscila Ongaratto Trentin",
-        "opt": "Matriz:512"
-      }
-    ]
-  },
-  {
-    "code": "CA42NB",
-    "name": "Ciências Do Ambiente",
-    "turmas": [
-      {
-        "turma": "2CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3M2(M102)-3M3(M102)",
-        "prof": "Elizangela Marcelo Siliprandi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CA48CV",
-    "name": "Concreto Armado 1",
-    "turmas": [
-      {
-        "turma": "8CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2M2(M105)-2M3(M105)-5M2(M105)-5M3(M105)",
-        "prof": "Paola Regina Dalcanal",
-        "opt": "Não"
-      },
-      {
-        "turma": "8CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Paola Regina Dalcanal",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CS47CV",
-    "name": "Construções Sustentáveis",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4M2(O-202)-4M3(O-202)-4M4(O-202)-4M5(O-202)",
-        "prof": "Paulo Cezar Vitorio Junior",
-        "opt": "Matriz:636"
-      }
-    ]
-  },
-  {
-    "code": "CT43MC",
-    "name": "Custos",
-    "turmas": [
-      {
-        "turma": "3MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 1 - Eng Mecânica",
-        "h": "4T2(Q007)-4T3(Q007)",
-        "prof": "Wanda Luquine Elias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CT47NB",
-    "name": "Custos",
-    "turmas": [
-      {
-        "turma": "7CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 1 - Engenharia Civil",
-        "h": "4T4(M107)-4T5(M107)",
-        "prof": "Wanda Luquine Elias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CT47QB",
-    "name": "Custos",
-    "turmas": [
-      {
-        "turma": "7QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M4(N106)-2M5(N106)",
-        "prof": "Wanda Luquine Elias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CD42NB",
     "name": "Cálculo Diferencial E Integral",
     "turmas": [
@@ -310,6 +152,128 @@
         "prio": "1 - Engenharia Civil",
         "h": "2T4(M103)-2T5(M103)-5T4(M103)-5T5(M103)",
         "prof": "Marieli Musial Tumelero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV41NB",
+    "name": "Cálculo Em Uma Variável Real",
+    "turmas": [
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
+        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
+        "prof": "Divanete Maria Bitdinger De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1CP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EL",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
+        "prof": "Larissa Hagedorn Vieira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1MC",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
+        "prof": "Larissa Hagedorn Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV42NB",
+    "name": "Cálculo Em Várias Variáveis Reais",
+    "turmas": [
+      {
+        "turma": "2CP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2N1(M004)-2N2(M004)-4N1(M004)-4N2(M004)",
+        "prof": "Santos Richard Wieller Sanguino Bejarano",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(L105)-2M5(L105)-4M4(L105)-4M5(L105)",
+        "prof": "Michael Santos Gonzales Gargate",
+        "opt": "Não"
+      },
+      {
+        "turma": "2MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T4(M004)-2T5(M004)-4T4(M004)-4T5(M004)",
+        "prof": "Santos Richard Wieller Sanguino Bejarano",
+        "opt": "Não"
+      },
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N011)-2M5(N011)-4M4(N011)-4M5(N011)",
+        "prof": "Marcio Alexandre De Oliveira Reis",
+        "opt": "Não"
+      },
+      {
+        "turma": "3CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M2(M003)-2M3(M003)-4M2(M003)-4M3(M003)",
+        "prof": "Michael Santos Gonzales Gargate",
         "opt": "Não"
       }
     ]
@@ -421,123 +385,159 @@
     ]
   },
   {
-    "code": "CV42NB",
-    "name": "Cálculo Em Várias Variáveis Reais",
+    "code": "CA42NB",
+    "name": "Ciências Do Ambiente",
     "turmas": [
       {
-        "turma": "2CP",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2N1(M004)-2N2(M004)-4N1(M004)-4N2(M004)",
-        "prof": "Santos Richard Wieller Sanguino Bejarano",
-        "opt": "Não"
-      },
-      {
-        "turma": "2EL",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(L105)-2M5(L105)-4M4(L105)-4M5(L105)",
-        "prof": "Michael Santos Gonzales Gargate",
-        "opt": "Não"
-      },
-      {
-        "turma": "2MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T4(M004)-2T5(M004)-4T4(M004)-4T5(M004)",
-        "prof": "Santos Richard Wieller Sanguino Bejarano",
-        "opt": "Não"
-      },
-      {
-        "turma": "2QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M4(N011)-2M5(N011)-4M4(N011)-4M5(N011)",
-        "prof": "Marcio Alexandre De Oliveira Reis",
-        "opt": "Não"
-      },
-      {
-        "turma": "3CV",
+        "turma": "2CV",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
-        "h": "2M2(M003)-2M3(M003)-4M2(M003)-4M3(M003)",
-        "prof": "Michael Santos Gonzales Gargate",
+        "h": "3M2(M102)-3M3(M102)",
+        "prof": "Elizangela Marcelo Siliprandi",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "CV41NB",
-    "name": "Cálculo Em Uma Variável Real",
+    "code": "CA48CV",
+    "name": "Concreto Armado 1",
     "turmas": [
       {
-        "turma": "1CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
-      {
-        "turma": "1EL",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
-        "prof": "Larissa Hagedorn Vieira",
-        "opt": "Não"
-      },
-      {
-        "turma": "1MC",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
-      {
-        "turma": "1QB",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
-        "prof": "Larissa Hagedorn Vieira",
-        "opt": "Não"
-      },
-      {
-        "turma": "EXT",
+        "turma": "8CV",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
-        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
-        "prof": "Divanete Maria Bitdinger De Oliveira",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M2(M105)-2M3(M105)-5M2(M105)-5M3(M105)",
+        "prof": "Paola Regina Dalcanal",
+        "opt": "Não"
+      },
+      {
+        "turma": "8CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Paola Regina Dalcanal",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA29CV",
+    "name": "Concreto Armado 2",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M4(M103)-2M5(M103)-3M2(M103)-3M3(M103)",
+        "prof": "Gustavo Lacerda Dias",
+        "opt": "Não"
+      },
+      {
+        "turma": "9CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Gustavo Lacerda Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AA29CV",
+    "name": "Concreto Auto-Adensavel",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4M4(M103)-4M5(M103)-4M6(M103)",
+        "prof": "Priscila Ongaratto Trentin",
+        "opt": "Matriz:512"
+      }
+    ]
+  },
+  {
+    "code": "CS47CV",
+    "name": "Construções Sustentáveis",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4M2(O-202)-4M3(O-202)-4M4(O-202)-4M5(O-202)",
+        "prof": "Paulo Cezar Vitorio Junior",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
+    "code": "CT43MC",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "3MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Eng Mecânica",
+        "h": "4T2(Q007)-4T3(Q007)",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47NB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Engenharia Civil",
+        "h": "4T4(M107)-4T5(M107)",
+        "prof": "Wanda Luquine Elias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CT47QB",
+    "name": "Custos",
+    "turmas": [
+      {
+        "turma": "7QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N106)-2M5(N106)",
+        "prof": "Wanda Luquine Elias",
         "opt": "Não"
       }
     ]
@@ -577,7 +577,7 @@
       {
         "turma": "1GB",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Agronomia",
@@ -633,6 +633,23 @@
     ]
   },
   {
+    "code": "EM44QB",
+    "name": "Eletricidade E Magnetismo",
+    "turmas": [
+      {
+        "turma": "4QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N108)-2M5(N108)-4M4(N108)-4M5(N108)",
+        "prof": "Marcio Antonio Fiori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EM29MC",
     "name": "Empreendedorismo",
     "turmas": [
@@ -662,51 +679,6 @@
         "prio": "1 - Ciências Contábeis",
         "h": "6N2(O201)-6N3(O201)",
         "prof": "Elizandra Machado Follmann",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EF29CV",
-    "name": "Estruturas De Fundações",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4M2(M103)-4M3(M103)-6M2(M103)-6M3(M103)",
-        "prof": "Priscila Ongaratto Trentin",
-        "opt": "Não"
-      },
-      {
-        "turma": "9CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Priscila Ongaratto Trentin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM44QB",
-    "name": "Eletricidade E Magnetismo",
-    "turmas": [
-      {
-        "turma": "4QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M4(N108)-2M5(N108)-4M4(N108)-4M5(N108)",
-        "prof": "Marcio Antonio Fiori",
         "opt": "Não"
       }
     ]
@@ -870,6 +842,135 @@
     ]
   },
   {
+    "code": "ES44CV",
+    "name": "Estática",
+    "turmas": [
+      {
+        "turma": "4CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4M2(M102)-4M3(M102)-6M2(M102)-6M3(M102)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "4CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA47CV",
+    "name": "Estruturas De Aço",
+    "turmas": [
+      {
+        "turma": "7CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3M1(M107)-3M2(M107)-3M3(M107)",
+        "prof": "",
+        "opt": "Não"
+      },
+      {
+        "turma": "7CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EE47CV",
+    "name": "Estruturas De Edifícios",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3N1(M103)-3N2(M103)-3N3(M103)-3T6(M103)",
+        "prof": "Gustavo Lacerda Dias",
+        "opt": "Matriz:636"
+      }
+    ]
+  },
+  {
+    "code": "EF29CV",
+    "name": "Estruturas De Fundações",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4M2(M103)-4M3(M103)-6M2(M103)-6M3(M103)",
+        "prof": "Priscila Ongaratto Trentin",
+        "opt": "Não"
+      },
+      {
+        "turma": "9CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Priscila Ongaratto Trentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM47CV",
+    "name": "Estruturas De Madeira",
+    "turmas": [
+      {
+        "turma": "7CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T1(M107)-4T2(M107)-4T3(M107)",
+        "prof": "Gustavo Lacerda Dias",
+        "opt": "Não"
+      },
+      {
+        "turma": "7CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Gustavo Lacerda Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EH47CV",
     "name": "Estruturas Hiperestáticas",
     "turmas": [
@@ -926,107 +1027,6 @@
     ]
   },
   {
-    "code": "EA47CV",
-    "name": "Estruturas De Aço",
-    "turmas": [
-      {
-        "turma": "7CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3M1(M107)-3M2(M107)-3M3(M107)",
-        "prof": "",
-        "opt": "Não"
-      },
-      {
-        "turma": "7CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EE47CV",
-    "name": "Estruturas De Edifícios",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3N1(M103)-3N2(M103)-3N3(M103)-3T6(M103)",
-        "prof": "Gustavo Lacerda Dias",
-        "opt": "Matriz:636"
-      }
-    ]
-  },
-  {
-    "code": "EM47CV",
-    "name": "Estruturas De Madeira",
-    "turmas": [
-      {
-        "turma": "7CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4T1(M107)-4T2(M107)-4T3(M107)",
-        "prof": "Gustavo Lacerda Dias",
-        "opt": "Não"
-      },
-      {
-        "turma": "7CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Gustavo Lacerda Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ES44CV",
-    "name": "Estática",
-    "turmas": [
-      {
-        "turma": "4CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4M2(M102)-4M3(M102)-6M2(M102)-6M3(M102)",
-        "prof": "",
-        "opt": "Não"
-      },
-      {
-        "turma": "4CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EG41NB",
     "name": "Expressão Gráfica",
     "turmas": [
@@ -1044,68 +1044,12 @@
       {
         "turma": "1CVB",
         "enq": "Presencial",
-        "vt": "24",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "4T2(V003)-4T3(V003)-4T4(V003)-4T5(V003)",
         "prof": "Osmar Joao Consoli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FJ29CV",
-    "name": "Fundamentos Jurídicos Na Engenharia Civil",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2N1(S001)-2N2(S001)-2N3(S001)",
-        "prof": "Ney Lyzandro Tabalipa",
-        "opt": "Não"
-      },
-      {
-        "turma": "9CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Ney Lyzandro Tabalipa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FU28CV",
-    "name": "Fundações",
-    "turmas": [
-      {
-        "turma": "8CVE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3M4(M105)-3M5(M105)-4M4(M105)-4M5(M105)",
-        "prof": "Flavia Goncalves Pissinati Pelaquim",
-        "opt": "Não"
-      },
-      {
-        "turma": "8CVESP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Flavia Goncalves Pissinati Pelaquim",
         "opt": "Não"
       }
     ]
@@ -1152,34 +1096,6 @@
         "h": "2N4(M103)-2N5(M103)",
         "prof": "Nilson De Farias",
         "opt": "Matriz:641, Matriz:640, Matriz:643, Matriz:638"
-      }
-    ]
-  },
-  {
-    "code": "FE42NB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA4",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(M104)-3N3(M104)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
-      },
-      {
-        "turma": "HUMA5",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Cart Agrimensura",
-        "h": "2N4(N107)-2N5(N107)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
       }
     ]
   },
@@ -1333,6 +1249,17 @@
     "name": "Física Teórica I",
     "turmas": [
       {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
+        "prof": "Crislaine Da Cruz",
+        "opt": "Não"
+      },
+      {
         "turma": "1CP",
         "enq": "Presencial",
         "vt": "44",
@@ -1374,17 +1301,6 @@
         "prio": "1 - Engenharia Civil",
         "h": "3T2(M106)-3T3(M106)-5T2(M106)-5T3(M106)",
         "prof": "Cesar Augusto Refosco Yednak",
-        "opt": "Não"
-      },
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
-        "prof": "Crislaine Da Cruz",
         "opt": "Não"
       }
     ]
@@ -1479,8 +1395,64 @@
     ]
   },
   {
-    "code": "GO29CV",
-    "name": "Gerenciamento De Obras",
+    "code": "FU28CV",
+    "name": "Fundações",
+    "turmas": [
+      {
+        "turma": "8CVE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3M4(M105)-3M5(M105)-4M4(M105)-4M5(M105)",
+        "prof": "Flavia Goncalves Pissinati Pelaquim",
+        "opt": "Não"
+      },
+      {
+        "turma": "8CVESP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Flavia Goncalves Pissinati Pelaquim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FE42NB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "HUMA4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(M104)-3N3(M104)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
+      },
+      {
+        "turma": "HUMA5",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "2N4(N107)-2N5(N107)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
+      }
+    ]
+  },
+  {
+    "code": "FJ29CV",
+    "name": "Fundamentos Jurídicos Na Engenharia Civil",
     "turmas": [
       {
         "turma": "9CV",
@@ -1489,42 +1461,19 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
-        "h": "2M2(M103)-2M3(M103)-5M2(M103)-5M3(M103)",
-        "prof": "",
+        "h": "2N1(S001)-2N2(S001)-2N3(S001)",
+        "prof": "Ney Lyzandro Tabalipa",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GP29NB",
-    "name": "Gestão De Pessoas",
-    "turmas": [
+      },
       {
-        "turma": "9CV",
+        "turma": "9CVSP",
         "enq": "Presencial",
-        "vt": "6",
+        "vt": "1",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
-        "h": "3T4(M103)-3T5(M103)",
-        "prof": "Shalimar Gallon Canfield",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GS28EL",
-    "name": "Gestão De Pessoas",
-    "turmas": [
-      {
-        "turma": "8ELE",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4T4(L107)-4T5(L107)",
-        "prof": "Audrey Hausschildt Merlin",
+        "h": "",
+        "prof": "Ney Lyzandro Tabalipa",
         "opt": "Não"
       }
     ]
@@ -1550,6 +1499,17 @@
     "code": "GA41NB",
     "name": "Geometria Analítica",
     "turmas": [
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "3T4(N110)-3T5(N110)-6T4(N110)-6T5(N110)",
+        "prof": "Jessica Boschi",
+        "opt": "Não"
+      },
       {
         "turma": "1CP",
         "enq": "Presencial",
@@ -1593,17 +1553,6 @@
         "h": "3T4(Q001)-3T5(Q001)-6T4(Q001)-6T5(Q001)",
         "prof": "Marieli Musial Tumelero",
         "opt": "Não"
-      },
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "3T4(N110)-3T5(N110)-6T4(N110)-6T5(N110)",
-        "prof": "Jessica Boschi",
-        "opt": "Não"
       }
     ]
   },
@@ -1636,6 +1585,23 @@
     ]
   },
   {
+    "code": "GO29CV",
+    "name": "Gerenciamento De Obras",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M2(M103)-2M3(M103)-5M2(M103)-5M3(M103)",
+        "prof": "",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "GS46CV",
     "name": "Gestão Da Segurança Do Trabalho Na Construção Civil",
     "turmas": [
@@ -1648,6 +1614,40 @@
         "prio": "1 - Engenharia Civil",
         "h": "5M4(M106)-5M5(M106)-5M6(M106)",
         "prof": "Jose Miguel Etchalus",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP29NB",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T4(M103)-3T5(M103)",
+        "prof": "Shalimar Gallon Canfield",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GS28EL",
+    "name": "Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "8ELE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T4(L107)-4T5(L107)",
+        "prof": "Audrey Hausschildt Merlin",
         "opt": "Não"
       }
     ]
@@ -1687,23 +1687,6 @@
     ]
   },
   {
-    "code": "HA46CV",
-    "name": "Hidrologia",
-    "turmas": [
-      {
-        "turma": "6CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2T2(M106)-2T3(M106)-3M2(M106)-3M3(M106)",
-        "prof": "Rafael Jansen Mikami",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "HI47CV",
     "name": "Hidráulica",
     "turmas": [
@@ -1726,6 +1709,23 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "",
+        "prof": "Rafael Jansen Mikami",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HA46CV",
+    "name": "Hidrologia",
+    "turmas": [
+      {
+        "turma": "6CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T2(M106)-2T3(M106)-3M2(M106)-3M3(M106)",
         "prof": "Rafael Jansen Mikami",
         "opt": "Não"
       }
@@ -1794,23 +1794,6 @@
     ]
   },
   {
-    "code": "IE45EL",
-    "name": "Instalações Elétricas 1",
-    "turmas": [
-      {
-        "turma": "5EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4M4(I003)-4M5(I003)-6M4(I003)-6M5(I003)",
-        "prof": "Alexandre Batista De Jesus Soares",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "IE46CV",
     "name": "Instalações Elétricas Prediais",
     "turmas": [
@@ -1823,6 +1806,23 @@
         "prio": "1 - Engenharia Civil",
         "h": "2M4(M106)-2M5(M106)-3M4(M106)-3M5(M106)",
         "prof": "Herve Stangler Irion",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IE45EL",
+    "name": "Instalações Elétricas 1",
+    "turmas": [
+      {
+        "turma": "5EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M4(I003)-4M5(I003)-6M4(I003)-6M5(I003)",
+        "prof": "Alexandre Batista De Jesus Soares",
         "opt": "Não"
       }
     ]
@@ -1858,23 +1858,6 @@
         "h": "6M1(M105)-6M2(M105)-6M3(M105)",
         "prof": "Cesar Augusto Medeiros Destro",
         "opt": "Matriz:636"
-      }
-    ]
-  },
-  {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
       }
     ]
   },
@@ -1957,6 +1940,40 @@
     ]
   },
   {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MM42QB",
+    "name": "Matéria Em Movimento",
+    "turmas": [
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M2(N011)-2M3(N011)-4M2(N011)-4M3(N011)",
+        "prof": "Raquel Dosciatti Bini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MC43CV",
     "name": "Materiais De Construção 1",
     "turmas": [
@@ -2008,23 +2025,6 @@
     ]
   },
   {
-    "code": "MM42QB",
-    "name": "Matéria Em Movimento",
-    "turmas": [
-      {
-        "turma": "2QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M2(N011)-2M3(N011)-4M2(N011)-4M3(N011)",
-        "prof": "Raquel Dosciatti Bini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MF45NB",
     "name": "Mecânica Dos Fluidos 1",
     "turmas": [
@@ -2036,23 +2036,6 @@
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
         "h": "4M1(M104)-4M2(M104)-4M3(M104)",
-        "prof": "Josimar Souza Rosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MF46NB",
-    "name": "Mecânica Dos Fluidos 2",
-    "turmas": [
-      {
-        "turma": "6CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3T2(M105)-3T3(M105)",
         "prof": "Josimar Souza Rosa",
         "opt": "Não"
       }
@@ -2071,6 +2054,23 @@
         "prio": "1 - Eng Mecânica",
         "h": "4M3(H002)-4M4(H002)-4M5(H002)",
         "prof": "Francisco Augusto Aparecido Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MF46NB",
+    "name": "Mecânica Dos Fluidos 2",
+    "turmas": [
+      {
+        "turma": "6CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T2(M105)-3T3(M105)",
+        "prof": "Josimar Souza Rosa",
         "opt": "Não"
       }
     ]
@@ -2183,6 +2183,23 @@
     ]
   },
   {
+    "code": "PV48CV",
+    "name": "Pavimentação",
+    "turmas": [
+      {
+        "turma": "8CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T4(M105)-4T5(M105)-5T2(M105)-5T3(M105)",
+        "prof": "Danilo Rinaldi Bisconsini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PN29CV",
     "name": "Pontes",
     "turmas": [
@@ -2200,18 +2217,18 @@
     ]
   },
   {
-    "code": "PV48CV",
-    "name": "Pavimentação",
+    "code": "PC41NB",
+    "name": "Pré-Cálculo",
     "turmas": [
       {
-        "turma": "8CV",
+        "turma": "1CV",
         "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
+        "vt": "45",
+        "vc": "44",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
-        "h": "4T4(M105)-4T5(M105)-5T2(M105)-5T3(M105)",
-        "prof": "Danilo Rinaldi Bisconsini",
+        "h": "2T2(M004)-2T3(M004)-5T2(M004)-5T3(M004)",
+        "prof": "Cristina Spohr Fagundes",
         "opt": "Não"
       }
     ]
@@ -2351,37 +2368,9 @@
     ]
   },
   {
-    "code": "PC41NB",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "1CV",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2T2(M004)-2T3(M004)-5T2(M004)-5T3(M004)",
-        "prof": "Cristina Spohr Fagundes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "PA42NB",
     "name": "Psicologia Aplicada Ao Trabalho",
     "turmas": [
-      {
-        "turma": "5CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4T4(M104)-4T5(M104)",
-        "prof": "Sergio Paes De Barros",
-        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
-      },
       {
         "turma": "HUMA12",
         "enq": "Presencial",
@@ -2390,6 +2379,17 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "2N1(M103)-2N2(M103)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "5CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T4(M104)-4T5(M104)",
         "prof": "Sergio Paes De Barros",
         "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
       }
@@ -2492,7 +2492,7 @@
       {
         "turma": "1MCA",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",
@@ -2615,51 +2615,6 @@
     ]
   },
   {
-    "code": "TC29CV",
-    "name": "Trabalho De Conclusão De Curso 1",
-    "turmas": [
-      {
-        "turma": "9CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "5M4(M103)-5M5(M103)-6M4(M103)-6M5(M103)",
-        "prof": "Elizangela Marcelo Siliprandi",
-        "opt": "Não"
-      },
-      {
-        "turma": "9CVSP",
-        "enq": "Presencial",
-        "vt": "1",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Elizangela Marcelo Siliprandi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TC30CV",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "10CV",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Civil",
-        "h": "",
-        "prof": "Elizangela Marcelo Siliprandi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TC44CV",
     "name": "Tecnologia Da Construção 1",
     "turmas": [
@@ -2773,6 +2728,51 @@
         "prio": "4 - Eng Cart Agrimensura",
         "h": "4N1(N011)-4N2(N011)-4N3(N011)-7M4(S001)",
         "prof": "Kaue De Moraes Vestena",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC29CV",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "9CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "5M4(M103)-5M5(M103)-6M4(M103)-6M5(M103)",
+        "prof": "Elizangela Marcelo Siliprandi",
+        "opt": "Não"
+      },
+      {
+        "turma": "9CVSP",
+        "enq": "Presencial",
+        "vt": "1",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Elizangela Marcelo Siliprandi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC30CV",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "10CV",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Civil",
+        "h": "",
+        "prof": "Elizangela Marcelo Siliprandi",
         "opt": "Não"
       }
     ]

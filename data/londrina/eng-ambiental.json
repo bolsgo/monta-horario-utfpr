@@ -51,19 +51,19 @@
     ]
   },
   {
-    "code": "HU94N",
-    "name": "Libras 2",
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
     "turmas": [
       {
-        "turma": "EM21",
+        "turma": "ME81",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "2T4(A102)-2T5(A102)",
-        "prof": "Roberto Antonio Alves",
-        "opt": "Matriz:19"
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
       }
     ]
   },
@@ -85,19 +85,19 @@
     ]
   },
   {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
+    "code": "HU94N",
+    "name": "Libras 2",
     "turmas": [
       {
-        "turma": "ME81",
+        "turma": "EM21",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
+        "prio": "1 - Eng De Materiais",
+        "h": "2T4(A102)-2T5(A102)",
+        "prof": "Roberto Antonio Alves",
+        "opt": "Matriz:19"
       }
     ]
   }

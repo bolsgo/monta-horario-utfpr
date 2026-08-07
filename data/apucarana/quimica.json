@@ -119,74 +119,6 @@
     ]
   },
   {
-    "code": "LICO1A",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "COM1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Química, 2 - Engenharia Química",
-        "h": "3M4(N108)-3M5(N108)",
-        "prof": "Ana Cristina Fernandes Pereira Wolff",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CSLQ3A",
-    "name": "Ciência, Sociedade E Ensino De Química",
-    "turmas": [
-      {
-        "turma": "LQ3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "2N4(L002)-2N5(L002)",
-        "prof": "Angelica Cristina Rivelini Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CLEQ1A",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "EQ1A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "34",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química, 2 - Química, 2 - Engenharia Computação",
-        "h": "5M3(M004)-5M4(M004)",
-        "prof": "Ana Cristina Fernandes Pereira Wolff",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CLLQ1A",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "LQ1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Química, 2 - Engenharia Química, 2 - Engenharia Computação",
-        "h": "2N4(L001)-2N5(L001)",
-        "prof": "Oscar Fussato Nakasato",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CALQ2A",
     "name": "Cálculo A",
     "turmas": [
@@ -255,6 +187,74 @@
         "prio": "1 - Química",
         "h": "",
         "prof": "Adriana Camila Braga",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CSLQ3A",
+    "name": "Ciência, Sociedade E Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2N4(L002)-2N5(L002)",
+        "prof": "Angelica Cristina Rivelini Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LICO1A",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "COM1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Química, 2 - Engenharia Química",
+        "h": "3M4(N108)-3M5(N108)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CLEQ1A",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "EQ1A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "34",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química, 2 - Química, 2 - Engenharia Computação",
+        "h": "5M3(M004)-5M4(M004)",
+        "prof": "Ana Cristina Fernandes Pereira Wolff",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CLLQ1A",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "LQ1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Química, 2 - Engenharia Química, 2 - Engenharia Computação",
+        "h": "2N4(L001)-2N5(L001)",
+        "prof": "Oscar Fussato Nakasato",
         "opt": "Não"
       }
     ]
@@ -362,57 +362,6 @@
     ]
   },
   {
-    "code": "ESLQ3A",
-    "name": "Estatística Para Licenciatura Em Química",
-    "turmas": [
-      {
-        "turma": "LQ3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "5N1(L002)-5N2(L002)",
-        "prof": "Danielle Goncalves De Oliveira Prado",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECLQ2A",
-    "name": "Estudos Culturais Da Ciência E Educação",
-    "turmas": [
-      {
-        "turma": "LQ2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "4N1(L003A)-4N2(L003A)",
-        "prof": "Angelica Cristina Rivelini Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ERLQ7A",
-    "name": "Estágio Supervisionado Regência",
-    "turmas": [
-      {
-        "turma": "LQ7A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "2N1(L004B)-2N2(L004B)-2N3(L004B)-2N4(L004B)-2N5(L004B)-6N1(L003B)-6N2(L003B)-6N3(L003B)-6N4(L003B)-6N5(L003B)",
-        "prof": "Enio De Lorena Stanzani",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EOLQ5A",
     "name": "Estágio Supervisionado De Observação",
     "turmas": [
@@ -442,6 +391,57 @@
         "prio": "1 - Química",
         "h": "3N1(M008)-3N2(M008)-3N3(M008)-3N4(M008)-3N5(M008)-5N1(M008)-5N2(M008)-5N3(M008)-5N4(M008)-5N5(M008)",
         "prof": "Angelica Cristina Rivelini Da Silva, Sabrina Gabriela Klein",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ERLQ7A",
+    "name": "Estágio Supervisionado Regência",
+    "turmas": [
+      {
+        "turma": "LQ7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2N1(L004B)-2N2(L004B)-2N3(L004B)-2N4(L004B)-2N5(L004B)-6N1(L003B)-6N2(L003B)-6N3(L003B)-6N4(L003B)-6N5(L003B)",
+        "prof": "Enio De Lorena Stanzani",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ESLQ3A",
+    "name": "Estatística Para Licenciatura Em Química",
+    "turmas": [
+      {
+        "turma": "LQ3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5N1(L002)-5N2(L002)",
+        "prof": "Danielle Goncalves De Oliveira Prado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECLQ2A",
+    "name": "Estudos Culturais Da Ciência E Educação",
+    "turmas": [
+      {
+        "turma": "LQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "4N1(L003A)-4N2(L003A)",
+        "prof": "Angelica Cristina Rivelini Da Silva",
         "opt": "Não"
       }
     ]
@@ -515,91 +515,6 @@
     ]
   },
   {
-    "code": "FALQ6O",
-    "name": "Fundamentos De Astronomia E Astrofísica",
-    "turmas": [
-      {
-        "turma": "OPLQ6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "2N4(L004A)-2N5(L004A)",
-        "prof": "Rogers Caparroz",
-        "opt": "Matriz:38"
-      }
-    ]
-  },
-  {
-    "code": "FECO3A",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "COM3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "6M3(M101)-6M4(M101)",
-        "prof": "Michely Patricia Rosseto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FTCO2A",
-    "name": "Física Teórica 1",
-    "turmas": [
-      {
-        "turma": "COM2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2T4(N108)-2T5(N108)-5T2(N108)-5T3(N108)",
-        "prof": "Michely Patricia Rosseto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FTCO3B",
-    "name": "Física Teórica 2",
-    "turmas": [
-      {
-        "turma": "COM3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "4M1(N008)-4M2(N008)-5M1(N110)-5M2(N110)",
-        "prof": "Michely Patricia Rosseto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FTCO4C",
-    "name": "Física Teórica 3",
-    "turmas": [
-      {
-        "turma": "COM4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2T5(N010)-2T6(N010)-3T5(N010)-3T6(N010)",
-        "prof": "Rogers Caparroz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FSLQ3A",
     "name": "Física A",
     "turmas": [
@@ -646,6 +561,23 @@
         "prio": "1 - Química, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "4N1(M011)-4N2(M011)-4N3(M011)",
         "prof": "Rogers Caparroz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FECO3A",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "COM3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "6M3(M101)-6M4(M101)",
+        "prof": "Michely Patricia Rosseto",
         "opt": "Não"
       }
     ]
@@ -713,6 +645,23 @@
     ]
   },
   {
+    "code": "FTCO2A",
+    "name": "Física Teórica 1",
+    "turmas": [
+      {
+        "turma": "COM2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2T4(N108)-2T5(N108)-5T2(N108)-5T3(N108)",
+        "prof": "Michely Patricia Rosseto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FTEC2A",
     "name": "Física Teórica 1",
     "turmas": [
@@ -775,6 +724,23 @@
     ]
   },
   {
+    "code": "FTCO3B",
+    "name": "Física Teórica 2",
+    "turmas": [
+      {
+        "turma": "COM3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "4M1(N008)-4M2(N008)-5M1(N110)-5M2(N110)",
+        "prof": "Michely Patricia Rosseto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FTEC3B",
     "name": "Física Teórica 2",
     "turmas": [
@@ -826,6 +792,23 @@
     ]
   },
   {
+    "code": "FTCO4C",
+    "name": "Física Teórica 3",
+    "turmas": [
+      {
+        "turma": "COM4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2T5(N010)-2T6(N010)-3T5(N010)-3T6(N010)",
+        "prof": "Rogers Caparroz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FTEC4C",
     "name": "Física Teórica 3",
     "turmas": [
@@ -872,6 +855,23 @@
         "prio": "1 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica, 2 - Engenharia Computação",
         "h": "4T1(N107)-4T2(N107)-5T1(N107)-5T2(N107)",
         "prof": "Rodolfo Teixeira De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FXLQ7A",
+    "name": "Físico-Química Experimental",
+    "turmas": [
+      {
+        "turma": "LQ7A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5N1(L003B)-5N2(L003B)-5N3(L003B)",
+        "prof": "Andre Luiz Tessaro",
         "opt": "Não"
       }
     ]
@@ -973,19 +973,19 @@
     ]
   },
   {
-    "code": "FXLQ7A",
-    "name": "Físico-Química Experimental",
+    "code": "FALQ6O",
+    "name": "Fundamentos De Astronomia E Astrofísica",
     "turmas": [
       {
-        "turma": "LQ7A",
+        "turma": "OPLQ6A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Química",
-        "h": "5N1(L003B)-5N2(L003B)-5N3(L003B)",
-        "prof": "Andre Luiz Tessaro",
-        "opt": "Não"
+        "h": "2N4(L004A)-2N5(L004A)",
+        "prof": "Rogers Caparroz",
+        "opt": "Matriz:38"
       }
     ]
   },
@@ -1058,6 +1058,40 @@
     ]
   },
   {
+    "code": "IELQ1A",
+    "name": "Introdução À Estudos De Relações Étnicas, Raciais E Sociais",
+    "turmas": [
+      {
+        "turma": "LQ1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6N1(L001)-6N2(L001)",
+        "prof": "Tallyssa Izabella Machado Sirino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IFLQ2A",
+    "name": "Introdução À Físico-Química",
+    "turmas": [
+      {
+        "turma": "LQ2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "6N1(L002)-6N2(L002)-6N3(L002)",
+        "prof": "Helvia Nancy Fuzer Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "IPLQ3A",
     "name": "Introdução A Pesquisa Em Ensino De Química",
     "turmas": [
@@ -1070,6 +1104,23 @@
         "prio": "1 - Química",
         "h": "6N3(M008)-6N4(M008)-6N5(M008)",
         "prof": "Sabrina Gabriela Klein",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IQLQ2A",
+    "name": "Introdução À Química Analítica",
+    "turmas": [
+      {
+        "turma": "LQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "5N3(L003A)-5N4(L003A)-5N5(L003A)",
+        "prof": "Vanessa Vivian De Almeida",
         "opt": "Não"
       }
     ]
@@ -1132,57 +1183,6 @@
         "prio": "1 - Química",
         "h": "",
         "prof": "Gisely Luzia Stroher",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "IELQ1A",
-    "name": "Introdução À Estudos De Relações Étnicas, Raciais E Sociais",
-    "turmas": [
-      {
-        "turma": "LQ1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "6N1(L001)-6N2(L001)",
-        "prof": "Tallyssa Izabella Machado Sirino",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "IFLQ2A",
-    "name": "Introdução À Físico-Química",
-    "turmas": [
-      {
-        "turma": "LQ2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "6N1(L002)-6N2(L002)-6N3(L002)",
-        "prof": "Helvia Nancy Fuzer Lira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "IQLQ2A",
-    "name": "Introdução À Química Analítica",
-    "turmas": [
-      {
-        "turma": "LQ2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "5N3(L003A)-5N4(L003A)-5N5(L003A)",
-        "prof": "Vanessa Vivian De Almeida",
         "opt": "Não"
       }
     ]
@@ -1555,23 +1555,6 @@
     ]
   },
   {
-    "code": "QUCO4A",
-    "name": "Química Geral",
-    "turmas": [
-      {
-        "turma": "COM4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
-        "h": "2T1(N010)-2T2(N010)-5T4(N008)-5T5(N008)",
-        "prof": "Ana Claudia Pedrozo Da Silva Gasparetto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QALQ6A",
     "name": "Química Ambiental",
     "turmas": [
@@ -1668,6 +1651,51 @@
     ]
   },
   {
+    "code": "QCLQ3A",
+    "name": "Química De Coordenação 1",
+    "turmas": [
+      {
+        "turma": "LQ3A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "3N1(M002A)-3N2(M002A)-3N3(M002A)",
+        "prof": "Rafael Block Samulewski",
+        "opt": "Não"
+      },
+      {
+        "turma": "LQ3S",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "",
+        "prof": "Rafael Block Samulewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QCLQ4B",
+    "name": "Química De Coordenação 2",
+    "turmas": [
+      {
+        "turma": "LQ4A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Química",
+        "h": "2N3(M011)-2N4(M011)-2N5(M011)",
+        "prof": "Rafael Block Samulewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QDLQ2A",
     "name": "Química Descritiva",
     "turmas": [
@@ -1680,6 +1708,23 @@
         "prio": "1 - Química",
         "h": "2N1(L003A)-2N2(L003A)",
         "prof": "Lidia Brizola Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUCO4A",
+    "name": "Química Geral",
+    "turmas": [
+      {
+        "turma": "COM4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Computação, 2 - Engenharia Têxtil, 2 - Engenharia Química, 2 - Engenharia Civil, 2 - Engenharia Elétrica",
+        "h": "2T1(N010)-2T2(N010)-5T4(N008)-5T5(N008)",
+        "prof": "Ana Claudia Pedrozo Da Silva Gasparetto",
         "opt": "Não"
       }
     ]
@@ -1866,51 +1911,6 @@
         "prio": "1 - Química",
         "h": "",
         "prof": "Patricia Salomao Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QCLQ3A",
-    "name": "Química De Coordenação 1",
-    "turmas": [
-      {
-        "turma": "LQ3A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "3N1(M002A)-3N2(M002A)-3N3(M002A)",
-        "prof": "Rafael Block Samulewski",
-        "opt": "Não"
-      },
-      {
-        "turma": "LQ3S",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "",
-        "prof": "Rafael Block Samulewski",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QCLQ4B",
-    "name": "Química De Coordenação 2",
-    "turmas": [
-      {
-        "turma": "LQ4A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Química",
-        "h": "2N3(M011)-2N4(M011)-2N5(M011)",
-        "prof": "Rafael Block Samulewski",
         "opt": "Não"
       }
     ]

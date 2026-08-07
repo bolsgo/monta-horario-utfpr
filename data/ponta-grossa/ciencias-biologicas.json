@@ -17,23 +17,6 @@
     ]
   },
   {
-    "code": "BP64B",
-    "name": "Bioquímica De Micro-Organismos",
-    "turmas": [
-      {
-        "turma": "BP41A",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "4M4(L109)-4M5(L109)-4T2(C006)-4T3(C006)",
-        "prof": "Maria Carolina De Oliveira Ribeiro, Elisabete Hiromi Hashimoto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CB56E",
     "name": "Bioestatística",
     "turmas": [
@@ -385,23 +368,6 @@
     ]
   },
   {
-    "code": "CB52B",
-    "name": "Fundamentos Filosóficos E Sociológicos Da Educação",
-    "turmas": [
-      {
-        "turma": "CB21",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Ciências Biológicas",
-        "h": "5N1(L005)-5N2(L005)",
-        "prof": "Natalia De Lima Bueno",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CB51H",
     "name": "Fundamentos Da Matemática",
     "turmas": [
@@ -419,18 +385,18 @@
     ]
   },
   {
-    "code": "BP65C",
-    "name": "Genética De Micro-Organismos",
+    "code": "CB52B",
+    "name": "Fundamentos Filosóficos E Sociológicos Da Educação",
     "turmas": [
       {
-        "turma": "BP51A",
+        "turma": "CB21",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "5M2(L114)-5M3(L114)-5M4(H004)-5M5(H004)",
-        "prof": "Juliana Vitoria Messias Bittencourt",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "5N1(L005)-5N2(L005)",
+        "prof": "Natalia De Lima Bueno",
         "opt": "Não"
       }
     ]
@@ -533,23 +499,6 @@
         "prio": "1 - Ciências Biológicas",
         "h": "2T4(L011)-2T5(L011)",
         "prof": "Katya Cristina De Lima Picanco",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BP66D",
-    "name": "Imunologia Geral",
-    "turmas": [
-      {
-        "turma": "BP61",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "4M3(L106)-4M4(L106)-4M5(L106)",
-        "prof": "Simone Bowles",
         "opt": "Não"
       }
     ]
@@ -941,23 +890,6 @@
         "h": "4T4(L110)-4T5(L110)",
         "prof": "Katya Cristina De Lima Picanco",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BP60R",
-    "name": "Toxicologia",
-    "turmas": [
-      {
-        "turma": "OPBT",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M4(L106)-3M5(L106)",
-        "prof": "Elisabete Hiromi Hashimoto",
-        "opt": "Matriz:827"
       }
     ]
   },

@@ -153,40 +153,6 @@
     ]
   },
   {
-    "code": "CHS09B",
-    "name": "Estudos Sociais De Ciência E Tecnologia",
-    "turmas": [
-      {
-        "turma": "SI23",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Sistemas De Informação",
-        "h": "5N1(K305)-5N2(K305)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:72"
-      }
-    ]
-  },
-  {
-    "code": "CHS09P",
-    "name": "Estudos Sociais De Ciência E Tecnologia",
-    "turmas": [
-      {
-        "turma": "EP23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3N1(K205)-3N2(K205)",
-        "prof": "Alcioni Galdino Vieira",
-        "opt": "Matriz:61"
-      }
-    ]
-  },
-  {
     "code": "CHS007",
     "name": "Estudos Étnicos E Raciais",
     "turmas": [
@@ -217,6 +183,40 @@
         "h": "5T5(A106)-5T6(A106)",
         "prof": "Fernanda Di Flora Garcia",
         "opt": "Matriz:64"
+      }
+    ]
+  },
+  {
+    "code": "CHS09B",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "SI23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Sistemas De Informação",
+        "h": "5N1(K305)-5N2(K305)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:72"
+      }
+    ]
+  },
+  {
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
       }
     ]
   },

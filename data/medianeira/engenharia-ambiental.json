@@ -1,5 +1,55 @@
 [
   {
+    "code": "MAT1004",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
+        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1003",
     "name": "Avaliação De Impacto Ambiental",
     "turmas": [
@@ -492,84 +542,6 @@
     ]
   },
   {
-    "code": "FIS1002",
-    "name": "Fundamentos Da Termodinâmica",
-    "turmas": [
-      {
-        "turma": "ALI3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "5M4(H36)-5M5(H36)",
-        "prof": "Daiene De Mello Schaefer",
-        "opt": "Não"
-      },
-      {
-        "turma": "AMB3QUI3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
-        "h": "5N4(H37)-5N5(H37)",
-        "prof": "Daiene De Mello Schaefer",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP4",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção",
-        "h": "5M1(H35)-5M2(H35)",
-        "prof": "Daiene De Mello Schaefer",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT1001",
-    "name": "Fundamentos De Matemática",
-    "turmas": [
-      {
-        "turma": "ELE1",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
-        "prof": "Priscila Pigatto Gasparin",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP1",
-        "enq": "Presencial",
-        "vt": "58",
-        "vc": "48",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
-        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
-        "prof": "Jairo Marlon Correa",
-        "opt": "Não"
-      },
-      {
-        "turma": "TMI1",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
-        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
-        "prof": "Cleverson Goncalves Dos Santos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIS1001",
     "name": "Física Do Movimento",
     "turmas": [
@@ -659,6 +631,84 @@
     ]
   },
   {
+    "code": "FIS1002",
+    "name": "Fundamentos Da Termodinâmica",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M4(H36)-5M5(H36)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB3QUI3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária",
+        "h": "5N4(H37)-5N5(H37)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "5M1(H35)-5M2(H35)",
+        "prof": "Daiene De Mello Schaefer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT1001",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "ELE1",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(L22)-3T3(L22)-6T4(L22)-6T5(L22)",
+        "prof": "Priscila Pigatto Gasparin",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP1",
+        "enq": "Presencial",
+        "vt": "58",
+        "vc": "48",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Ciência Computação",
+        "h": "3M1(I26)-3M2(I26)-6M2(I26)-6M3(I26)",
+        "prof": "Jairo Marlon Correa",
+        "opt": "Não"
+      },
+      {
+        "turma": "TMI1",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Tecnol.Manut.Indl., 1 - Eng Amb/Sanitária",
+        "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
+        "prof": "Cleverson Goncalves Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB1015",
     "name": "Geologia E Pedologia",
     "turmas": [
@@ -710,23 +760,6 @@
     ]
   },
   {
-    "code": "AMB1022",
-    "name": "Hidrologia",
-    "turmas": [
-      {
-        "turma": "AMB5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Ambiental, 1 - Eng Amb/Sanitária",
-        "h": "5N4(H39)-5N5(H39)",
-        "prof": "Fabiana Costa De Araujo Schutz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AMB1031",
     "name": "Hidráulica",
     "turmas": [
@@ -738,6 +771,23 @@
         "res": "Aberta",
         "prio": "1 - Eng Amb/Sanitária",
         "h": "3T3(H38)-3T4(H39)-3T5(H39)",
+        "prof": "Fabiana Costa De Araujo Schutz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1022",
+    "name": "Hidrologia",
+    "turmas": [
+      {
+        "turma": "AMB5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "5N4(H39)-5N5(H39)",
         "prof": "Fabiana Costa De Araujo Schutz",
         "opt": "Não"
       }
@@ -1124,23 +1174,6 @@
     ]
   },
   {
-    "code": "AMB1019",
-    "name": "Microbiologia Ambiental",
-    "turmas": [
-      {
-        "turma": "AMB4",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
-        "h": "4N1(H34)-4N2(H34)-4N3(H34)",
-        "prof": "Marcia Antonia Bartolomeu Agustini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MAT1006",
     "name": "Métodos Aproximados Em Soluções Matemáticas",
     "turmas": [
@@ -1186,6 +1219,23 @@
         "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
         "h": "4M3(I26)-4M4(I26)-4M5(I26)",
         "prof": "Lucas Da Silva Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1019",
+    "name": "Microbiologia Ambiental",
+    "turmas": [
+      {
+        "turma": "AMB4",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária, 2 - Engenharia Ambiental",
+        "h": "4N1(H34)-4N2(H34)-4N3(H34)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
         "opt": "Não"
       }
     ]
@@ -1563,56 +1613,6 @@
         "prio": "1 - Engenharia Ambiental",
         "h": "3T1(I41)-3T2(I41)-3T3(I41)",
         "prof": "Ivonei Ottobelli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT1004",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "BQLQ3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
-        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
-        "prof": "Fausto Pinheiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "CC4",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
-        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
-        "prof": "Tatiane Cardoso Batista Flores",
-        "opt": "Não"
-      },
-      {
-        "turma": "ELE3",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
-        "prof": "Fausto Pinheiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP3",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
-        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
-        "prof": "Franciele Buss Frescki Kestring",
         "opt": "Não"
       }
     ]

@@ -1,5 +1,22 @@
 [
   {
+    "code": "ECP42A",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "OPCV012",
     "name": "Arquitetura Brasileira",
     "turmas": [
@@ -29,74 +46,6 @@
         "prio": "1 - Eng. Civil",
         "h": "3T1(C204)-3T2(C204)",
         "prof": "Lucia Bressiani",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV43B",
-    "name": "Ciências Do Ambiente",
-    "turmas": [
-      {
-        "turma": "CV34",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "6M4(E204)-6M5(E204)",
-        "prof": "Michelle Maria Detoni Zanette",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EBP41B",
-    "name": "Computação",
-    "turmas": [
-      {
-        "turma": "BP14",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng.  De Bioprocessos",
-        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
-        "prof": "Jones Erni Schmitz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV47D",
-    "name": "Concreto Armado 1",
-    "turmas": [
-      {
-        "turma": "CV74",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "2T3(C204)-2T4(C204)-5T3(C206)-5T4(C206)",
-        "prof": "Lucas Boabaid Ibrahim",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV48E",
-    "name": "Concreto Armado 2",
-    "turmas": [
-      {
-        "turma": "CV84",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "3M1(C204)-3M2(C204)-5M3(E204)-5M4(E204)",
-        "prof": "Rodnny Jesus Mendoza Fakhye",
         "opt": "Não"
       }
     ]
@@ -359,6 +308,74 @@
         "prio": "1 - Eng. Eletrônica",
         "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
         "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV43B",
+    "name": "Ciências Do Ambiente",
+    "turmas": [
+      {
+        "turma": "CV34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6M4(E204)-6M5(E204)",
+        "prof": "Michelle Maria Detoni Zanette",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EBP41B",
+    "name": "Computação",
+    "turmas": [
+      {
+        "turma": "BP14",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "4T1(C201LINF3)-4T2(C201LINF3)-6T1(E305LINF5)-6T2(E305LINF5)",
+        "prof": "Jones Erni Schmitz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV47D",
+    "name": "Concreto Armado 1",
+    "turmas": [
+      {
+        "turma": "CV74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2T3(C204)-2T4(C204)-5T3(C206)-5T4(C206)",
+        "prof": "Lucas Boabaid Ibrahim",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV48E",
+    "name": "Concreto Armado 2",
+    "turmas": [
+      {
+        "turma": "CV84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M1(C204)-3M2(C204)-5M3(E204)-5M4(E204)",
+        "prof": "Rodnny Jesus Mendoza Fakhye",
         "opt": "Não"
       }
     ]
@@ -651,142 +668,6 @@
     ]
   },
   {
-    "code": "EET45F",
-    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "EL54",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "3T2(03VIDEOCON)-3T3(03VIDEOCON)",
-        "prof": "Jaqueline Vargas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV42A",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "CV24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "2M3(C202LINF4)-3M3(C202LINF4)-3M4(C202LINF4)-3M5(C202LINF4)",
-        "prof": "Rosane Fatima Passarini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET42B",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "EL24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "4M4(C202LINF4)-4M5(C202LINF4)-6M3(C201LINF3)-6M4(C201LINF3)",
-        "prof": "Jefferson Gustavo Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP41C",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "CP14",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "5T5(E307LREDES)-5T6(E307LREDES)-6T5(E302LINF1)-6T6(E302LINF1)",
-        "prof": "Bruno Meneghel Zilli",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TSIN31A",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "SI13",
-        "enq": "Presencial",
-        "vt": "42",
-        "vc": "40",
-        "res": "Aberta",
-        "prio": "1 - Sist. Para Internet",
-        "h": "3N4(E302LINF1)-3N5(E302LINF1)-4N2(E302LINF1)-4N3(E302LINF1)-5N2(E302LINF1)-5N3(E302LINF1)",
-        "prof": "Rosane Fatima Passarini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV48A",
-    "name": "Fundamentos De Segurança No Trabalho",
-    "turmas": [
-      {
-        "turma": "CV84",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "2M1(C206)-2M2(C206)-2M3(C206)",
-        "prof": "Rafael Dors Sakata",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV48D",
-    "name": "Fundações 1",
-    "turmas": [
-      {
-        "turma": "CV84",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "4M1(C206)-4M2(C206)-5M1(C206)-5M2(C206)",
-        "prof": "Guilherme Alan Souza Costa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV48G",
-    "name": "Fundações Especiais",
-    "turmas": [
-      {
-        "turma": "CVES",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "6M1(C205)-6M2(C205)",
-        "prof": "Guilherme Alan Souza Costa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIS001",
     "name": "Física 1",
     "turmas": [
@@ -904,6 +785,142 @@
     ]
   },
   {
+    "code": "CV48G",
+    "name": "Fundações Especiais",
+    "turmas": [
+      {
+        "turma": "CVES",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "6M1(C205)-6M2(C205)",
+        "prof": "Guilherme Alan Souza Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV48D",
+    "name": "Fundações 1",
+    "turmas": [
+      {
+        "turma": "CV84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M1(C206)-4M2(C206)-5M1(C206)-5M2(C206)",
+        "prof": "Guilherme Alan Souza Costa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET45F",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "EL54",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3T2(03VIDEOCON)-3T3(03VIDEOCON)",
+        "prof": "Jaqueline Vargas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV42A",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "CV24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M3(C202LINF4)-3M3(C202LINF4)-3M4(C202LINF4)-3M5(C202LINF4)",
+        "prof": "Rosane Fatima Passarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET42B",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "4M4(C202LINF4)-4M5(C202LINF4)-6M3(C201LINF3)-6M4(C201LINF3)",
+        "prof": "Jefferson Gustavo Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP41C",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "CP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5T5(E307LREDES)-5T6(E307LREDES)-6T5(E302LINF1)-6T6(E302LINF1)",
+        "prof": "Bruno Meneghel Zilli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSIN31A",
+    "name": "Fundamentos De Programação",
+    "turmas": [
+      {
+        "turma": "SI13",
+        "enq": "Presencial",
+        "vt": "42",
+        "vc": "40",
+        "res": "Aberta",
+        "prio": "1 - Sist. Para Internet",
+        "h": "3N4(E302LINF1)-3N5(E302LINF1)-4N2(E302LINF1)-4N3(E302LINF1)-5N2(E302LINF1)-5N3(E302LINF1)",
+        "prof": "Rosane Fatima Passarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV48A",
+    "name": "Fundamentos De Segurança No Trabalho",
+    "turmas": [
+      {
+        "turma": "CV84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "2M1(C206)-2M2(C206)-2M3(C206)",
+        "prof": "Rafael Dors Sakata",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV44B",
     "name": "Geologia Aplicada À Engenharia",
     "turmas": [
@@ -1011,23 +1028,6 @@
     ]
   },
   {
-    "code": "ECV47A",
-    "name": "Hidrologia Aplicada",
-    "turmas": [
-      {
-        "turma": "CV74",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "5T1(C206)-5T2(C206)-6T2(C206)-6T3(C206)",
-        "prof": "Wagner Alessandro Pansera",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ECV46B",
     "name": "Hidráulica",
     "turmas": [
@@ -1039,6 +1039,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "5M4(C205)-5M5(C205)-6M4(C205)-6M5(C205)-6M6(C205)",
+        "prof": "Wagner Alessandro Pansera",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV47A",
+    "name": "Hidrologia Aplicada",
+    "turmas": [
+      {
+        "turma": "CV74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "5T1(C206)-5T2(C206)-6T2(C206)-6T3(C206)",
         "prof": "Wagner Alessandro Pansera",
         "opt": "Não"
       }
@@ -1791,23 +1808,6 @@
     ]
   },
   {
-    "code": "ECV48B",
-    "name": "Saneamento 1",
-    "turmas": [
-      {
-        "turma": "CV84",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "4M5(C206)-4M6(C206)-6M5(E203)-6M6(E203)",
-        "prof": "Silvana Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CV49C",
     "name": "Saneamento B",
     "turmas": [
@@ -1819,6 +1819,23 @@
         "res": "Aberta",
         "prio": "1 - Eng. Civil",
         "h": "4T3(C204)-4T4(C204)-6T3(C205)-6T4(C205)",
+        "prof": "Silvana Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV48B",
+    "name": "Saneamento 1",
+    "turmas": [
+      {
+        "turma": "CV84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M5(C206)-4M6(C206)-6M5(E203)-6M6(E203)",
         "prof": "Silvana Da Silva",
         "opt": "Não"
       }
@@ -1905,6 +1922,23 @@
         "h": "2M4(C206)-2M5(C206)-6M2(C206)-6M3(C206)",
         "prof": "Lucas Boabaid Ibrahim",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPCV021",
+    "name": "Tópicos Especiais Em Fundações",
+    "turmas": [
+      {
+        "turma": "OPCV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4T1(C204)-4T2(C204)-6T1(C204)-6T2(C204)",
+        "prof": "Guilherme Alan Souza Costa",
+        "opt": "Matriz:53"
       }
     ]
   },
@@ -2000,40 +2034,6 @@
         "prio": "1 - Eng. Civil",
         "h": "3T4(C201LINF3)-3T5(C201LINF3)-3T6(C201LINF3)",
         "prof": "Patricia Casarotto De Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "OPCV021",
-    "name": "Tópicos Especiais Em Fundações",
-    "turmas": [
-      {
-        "turma": "OPCV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "4T1(C204)-4T2(C204)-6T1(C204)-6T2(C204)",
-        "prof": "Guilherme Alan Souza Costa",
-        "opt": "Matriz:53"
-      }
-    ]
-  },
-  {
-    "code": "ECP42A",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "CP24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
-        "prof": "Suellen Ribeiro Pardo Garcia",
         "opt": "Não"
       }
     ]

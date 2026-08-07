@@ -1,8 +1,70 @@
 [
   {
+    "code": "LM15A",
+    "name": "Álgebra",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A038)-5N5(A038)-6N2(A038)-6N3(A038)",
+        "prof": "Tiago Henrique Dos Reis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13D",
+    "name": "Álgebra Linear 1",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A143)-2N5(A143)-3N4(A143)-3N5(A143)",
+        "prof": "Michele Cristina Valentino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14B",
+    "name": "Álgebra Linear 2",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A035)-2N5(A035)-3N4(A035)-3N5(A035)",
+        "prof": "Thiago Pinguello De Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LM16A",
     "name": "Análise Real 1",
     "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N1(A140)-5N2(A140)-5N3(A140)-6N4(A140)-6N5(A140)",
+        "prof": "Vinicius Araujo Peralta",
+        "opt": "Não"
+      },
       {
         "turma": "SPO",
         "enq": "Presencial",
@@ -12,6 +74,448 @@
         "prio": "",
         "h": "",
         "prof": "Debora Aparecida Francisco Albanez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14A",
+    "name": "Cálculo De Funções Reais De Várias Variáveis Reais",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N1(A035)-3N2(A035)-3N3(A035)-4N1(A035)-4N2(A035)-4N3(A035)",
+        "prof": "Evandro Estevao Marquesone",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12A",
+    "name": "Cálculo Diferencial",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N1(A144)-4N2(A144)-4N3(A144)-6N4(A144)-6N5(A144)",
+        "prof": "Rafael Prado Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13C",
+    "name": "Cálculo Integral",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A035)-5N5(A035)-6N4(A035)-6N5(A035)",
+        "prof": "Carlos Augusto Bassani Varea",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM16B",
+    "name": "Equações Diferenciais Ordinárias",
+    "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A140)-2N5(A140)-3N4(A140)-3N5(A140)",
+        "prof": "Thiago De Souza Pinto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM15B",
+    "name": "Física A",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(P104)-2N5(P104)-4N2(P104)-4N3(P104)",
+        "prof": "Ronaldo Penna Neves",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM16C",
+    "name": "Física B",
+    "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N2(A140)-2N3(A140)-4N2(A140)-4N3(A140)",
+        "prof": "Tiago Debarba",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM11D",
+    "name": "Funções Reais De Uma Variável Real",
+    "turmas": [
+      {
+        "turma": "L11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N1(A144)-2N2(A144)-2N3(A144)-3N1(A135)-3N2(A135)-3N3(A135)",
+        "prof": "Michele Cristina Valentino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12C",
+    "name": "Fundamentos Da Didática Geral",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A145)-5N5(A145)",
+        "prof": "Rosianne Silva Walter",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM11A",
+    "name": "Fundamentos Da Matemática",
+    "turmas": [
+      {
+        "turma": "L11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A146)-5N5(A146)-6N1(A146)-6N2(A146)-6N3(A146)",
+        "prof": "Debora Aparecida Francisco Albanez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14F",
+    "name": "Fundamentos Da Organização Do Trabalho Pedagógico E Gestão Escolar",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N1(A035)-5N2(A035)-5N3(A035)",
+        "prof": "Roberto Bondarik",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM11E",
+    "name": "Fundamentos De Filosofia E De História Da Educação",
+    "turmas": [
+      {
+        "turma": "L11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N1(A135)-4N2(A135)-4N3(A135)",
+        "prof": "Roberto Bondarik",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM15D",
+    "name": "Fundamentos Políticos E Normativos Da Educação",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N4(A136)-3N5(A136)",
+        "prof": "Roberto Bondarik",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13B",
+    "name": "Geometria Analítica",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N4(A143)-4N5(A143)-6N1(A143)-6N2(A143)-6N3(A143)",
+        "prof": "Rafael Prado Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12E",
+    "name": "Geometria 1",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N1(A134)-5N2(A134)-5N3(A134)-6N1(A134)-6N2(A134)-6N3(A134)",
+        "prof": "Anderson Paiao Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13A",
+    "name": "Geometria 2",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N2(A143)-2N3(A143)-3N2(A143)-3N3(A143)",
+        "prof": "Thiago Pinguello De Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13F",
+    "name": "Inclusão E Educação Matemática",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N1(A148)-4N2(A148)-4N3(A148)",
+        "prof": "Eliane Maria De Oliveira Araman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14D",
+    "name": "Laboratório De Matemática",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "6N1(A148)-6N2(A148)-6N3(A148)",
+        "prof": "Dayani Quero Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12F",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A145)-2N5(A145)",
+        "prof": "Debora Goncalves Ribeiro Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13G",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N1(A143)-3N1(A143)",
+        "prof": "Debora Goncalves Ribeiro Dias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM11C",
+    "name": "Lógica Matemática",
+    "turmas": [
+      {
+        "turma": "L11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N1(A038)-5N2(A038)-5N3(A038)-6N4(A038)-6N5(A038)",
+        "prof": "Tiago Henrique Dos Reis",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12B",
+    "name": "Matemática Computacional 1",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N1(LIM)-2N2(LIM)-2N3(LIM)",
+        "prof": "Thiago De Souza Pinto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM11B",
+    "name": "Matemática Elementar",
+    "turmas": [
+      {
+        "turma": "L11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N4(A135)-3N5(A135)-4N4(A135)-4N5(A135)",
+        "prof": "Maria Lucia De Carvalho Fontanini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM16D",
+    "name": "Metodologia Da Pesquisa",
+    "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "6N2(A140)-6N3(A140)",
+        "prof": "Elisangela Aparecida Da Silva Lizzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM12D",
+    "name": "Metodologia Do Ensino De Matemática",
+    "turmas": [
+      {
+        "turma": "L21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N2(A145)-3N3(A145)-3N4(A145)-3N5(A145)",
+        "prof": "Jader Otavio Dalto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM16F",
+    "name": "Prática B",
+    "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N4(A140)-4N5(A140)-5N4(A140)-5N5(A140)",
+        "prof": "Dayani Quero Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM15F",
+    "name": "Prática De Ensino A",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N1(P104)-3N2(P104)-3N3(P104)",
+        "prof": "Thiago De Souza Pinto",
         "opt": "Não"
       }
     ]
@@ -29,6 +533,108 @@
         "prio": "",
         "h": "",
         "prof": "Thiago De Souza Pinto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM15C",
+    "name": "Probabilidade E Estatística 1",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N2(A145)-5N3(A145)-6N4(A145)-6N5(A145)",
+        "prof": "Elisangela Aparecida Da Silva Lizzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM13E",
+    "name": "Psicologia Da Educação",
+    "turmas": [
+      {
+        "turma": "L31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N1(A143)-5N2(A143)-5N3(A143)",
+        "prof": "Rosianne Silva Walter",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM16E",
+    "name": "Tecnologias Digitais Da Informação E Comunicação",
+    "turmas": [
+      {
+        "turma": "L61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "3N1(LIM)-3N2(LIM)-3N3(LIM)",
+        "prof": "Armando Paulo Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14E",
+    "name": "Tendências Em Educação Matemática 1",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N2(A035)-2N3(A035)-4N4(A035)-4N5(A035)",
+        "prof": "Eliane Maria De Oliveira Araman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM15E",
+    "name": "Tendências Em Educação Matemática 2",
+    "turmas": [
+      {
+        "turma": "L51",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N2(A148)-2N3(A148)-4N4(A148)-4N5(A148)",
+        "prof": "Linlya Natassia Sachs Camerlengo De Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM14C",
+    "name": "Teoria Dos Números",
+    "turmas": [
+      {
+        "turma": "L41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A134)-5N5(A134)-6N4(A134)-6N5(A134)",
+        "prof": "Anderson Paiao Dos Santos",
         "opt": "Não"
       }
     ]

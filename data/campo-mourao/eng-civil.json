@@ -1,5 +1,88 @@
 [
   {
+    "code": "NCM002",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "IC3A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "5T4(D105)-5T5(D105)-6T4(B102)-6T5(B102)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(B107)-2T3(B107)-4T3(B103)-4T4(B103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
+        "prof": "Sara Coelho Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N4(B107)-2N5(B107)-5N2(B107)-5N3(B107)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
+        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EEL3003",
     "name": "Análise De Circuitos Elétricos 1",
     "turmas": [
@@ -75,231 +158,6 @@
         "h": "3N1(B105)-3N2(B105)-3N3(B105)-3T6(B105)",
         "prof": "Rodrigo Cesar Pierozan",
         "opt": "Matriz:43, Matriz:86"
-      }
-    ]
-  },
-  {
-    "code": "CA3XB",
-    "name": "Ciências Ambientais",
-    "turmas": [
-      {
-        "turma": "ILE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T4(D103)-3T5(D103)",
-        "prof": "Elizabete Satsuki Sekine",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV38D",
-    "name": "Concreto Armado 2",
-    "turmas": [
-      {
-        "turma": "IDE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2N2(F110)-2N3(F110)-3N1(F110)-3N2(F110)",
-        "prof": "Angelo Giovanni Bonfim Corelhano",
-        "opt": "Não"
-      },
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Angelo Giovanni Bonfim Corelhano",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV37C",
-    "name": "Concreto Armado1",
-    "turmas": [
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Douglas Fukunaga Surco",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV38E",
-    "name": "Construções Metálicas",
-    "turmas": [
-      {
-        "turma": "IDE",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3N2(F106)-3N3(F106)-5N2(F109)-5N3(F109)",
-        "prof": "Ronaldo Rigobello",
-        "opt": "Não"
-      },
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Ronaldo Rigobello",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL2003",
-    "name": "Circuitos Digitais Combinacionais",
-    "turmas": [
-      {
-        "turma": "IL2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B001)-3N2(B001)-3N3(B001)",
-        "prof": "Lucas Ricken Garcia",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL2B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B001)-3N4(B001)-3N5(B001)",
-        "prof": "Lucas Ricken Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EEL3002",
-    "name": "Circuitos Digitais Sequenciais",
-    "turmas": [
-      {
-        "turma": "IL3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5N1(B005)-5N2(B005)-5N3(B005)",
-        "prof": "Marcio Rodrigues Da Cunha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV1002",
-    "name": "Ciência Dos Materiais Aplicada À Engenharia Civil",
-    "turmas": [
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2N2(F101)-2N3(F101)-5N1(G008)-5N2(G008)",
-        "prof": "Humberto Hissashi Takeda, Paulo Roberto De Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV4001",
-    "name": "Ciências Do Ambiente",
-    "turmas": [
-      {
-        "turma": "ID4A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3T5(G105)-3T6(G105)",
-        "prof": "Paulo Agenor Alves Bueno",
-        "opt": "Matriz:85, Matriz:93"
-      }
-    ]
-  },
-  {
-    "code": "NCM001",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "IC1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "4T2(D108)-4T3(D108)",
-        "prof": "Alex Sandro De Medeiros",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N4(F101)-4N5(F101)",
-        "prof": "Mauricio Cesar Menon",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "48",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N4(F101)-4N5(F101)",
-        "prof": "Mauricio Cesar Menon",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV8005",
-    "name": "Concreto Armado 1",
-    "turmas": [
-      {
-        "turma": "ID8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2N1(B106)-2T6(B106)-3T4(D101)-3T5(D101)",
-        "prof": "Douglas Fukunaga Surco",
-        "opt": "Matriz:85, Matriz:93"
       }
     ]
   },
@@ -548,6 +406,231 @@
     ]
   },
   {
+    "code": "ECV1002",
+    "name": "Ciência Dos Materiais Aplicada À Engenharia Civil",
+    "turmas": [
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2N2(F101)-2N3(F101)-5N1(G008)-5N2(G008)",
+        "prof": "Humberto Hissashi Takeda, Paulo Roberto De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CA3XB",
+    "name": "Ciências Ambientais",
+    "turmas": [
+      {
+        "turma": "ILE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T4(D103)-3T5(D103)",
+        "prof": "Elizabete Satsuki Sekine",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV4001",
+    "name": "Ciências Do Ambiente",
+    "turmas": [
+      {
+        "turma": "ID4A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3T5(G105)-3T6(G105)",
+        "prof": "Paulo Agenor Alves Bueno",
+        "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
+    "code": "EEL2003",
+    "name": "Circuitos Digitais Combinacionais",
+    "turmas": [
+      {
+        "turma": "IL2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B001)-3N2(B001)-3N3(B001)",
+        "prof": "Lucas Ricken Garcia",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL2B",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B001)-3N4(B001)-3N5(B001)",
+        "prof": "Lucas Ricken Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EEL3002",
+    "name": "Circuitos Digitais Sequenciais",
+    "turmas": [
+      {
+        "turma": "IL3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5N1(B005)-5N2(B005)-5N3(B005)",
+        "prof": "Marcio Rodrigues Da Cunha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "NCM001",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "4T2(D108)-4T3(D108)",
+        "prof": "Alex Sandro De Medeiros",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "48",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N4(F101)-4N5(F101)",
+        "prof": "Mauricio Cesar Menon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV8005",
+    "name": "Concreto Armado 1",
+    "turmas": [
+      {
+        "turma": "ID8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2N1(B106)-2T6(B106)-3T4(D101)-3T5(D101)",
+        "prof": "Douglas Fukunaga Surco",
+        "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
+    "code": "CV38D",
+    "name": "Concreto Armado 2",
+    "turmas": [
+      {
+        "turma": "IDE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2N2(F110)-2N3(F110)-3N1(F110)-3N2(F110)",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV37C",
+    "name": "Concreto Armado1",
+    "turmas": [
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Douglas Fukunaga Surco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV38E",
+    "name": "Construções Metálicas",
+    "turmas": [
+      {
+        "turma": "IDE",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3N2(F106)-3N3(F106)-5N2(F109)-5N3(F109)",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV2001",
     "name": "Desenho Arquitetônico",
     "turmas": [
@@ -589,51 +672,6 @@
         "h": "5T4(D101)-5T5(D101)-5T6(D101)",
         "prof": "Adriana Aparecida Droval Arcain, Renata Hernandez Barros Fuchs",
         "opt": "Matriz:89"
-      }
-    ]
-  },
-  {
-    "code": "LT39B",
-    "name": "Engenharia Do Produto",
-    "turmas": [
-      {
-        "turma": "IL9A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "5T4(B009)-5T5(B009)-6T4(B009)-6T5(B009)",
-        "prof": "Leonardo Faria Costa",
-        "opt": "Matriz:43"
-      }
-    ]
-  },
-  {
-    "code": "CV39C",
-    "name": "Estruturas De Fundações",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T2(F108)-2T3(F108)-3T2(B107)-3T3(B107)",
-        "prof": "Angelo Giovanni Bonfim Corelhano",
-        "opt": "Não"
-      },
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Angelo Giovanni Bonfim Corelhano",
-        "opt": "Não"
       }
     ]
   },
@@ -761,6 +799,23 @@
     ]
   },
   {
+    "code": "LT39B",
+    "name": "Engenharia Do Produto",
+    "turmas": [
+      {
+        "turma": "IL9A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "5T4(B009)-5T5(B009)-6T4(B009)-6T5(B009)",
+        "prof": "Leonardo Faria Costa",
+        "opt": "Matriz:43"
+      }
+    ]
+  },
+  {
     "code": "NCM007",
     "name": "Equações Diferenciais Ordinárias",
     "turmas": [
@@ -817,6 +872,34 @@
     ]
   },
   {
+    "code": "CV39C",
+    "name": "Estruturas De Fundações",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(F108)-2T3(F108)-3T2(B107)-3T3(B107)",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      },
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Angelo Giovanni Bonfim Corelhano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV8006",
     "name": "Estruturas Em Madeira",
     "turmas": [
@@ -829,6 +912,74 @@
         "prio": "1 - Eng Civil",
         "h": "5T4(B101)-5T5(B101)-6T2(D101)-6T3(D101)",
         "prof": "Jorge Luis Nunes De Goes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EC32O",
+    "name": "Ética E Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "",
+        "prof": "Marcia Aparecida De Oliveira",
+        "opt": "Matriz:62, Matriz:44, Matriz:76, Matriz:43, Matriz:63, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "EA39A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "IF9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental",
+        "h": "3M4(B103)-3M5(B103)",
+        "prof": "Maria Cristina Rodrigues Halmeman",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP3XA",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T4(F110)-4T5(F110)",
+        "prof": "Jucelia Kuchla Vieira",
+        "opt": "Matriz:75, Matriz:63"
+      }
+    ]
+  },
+  {
+    "code": "ECV5005",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ID5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T4(F110)-4T5(F110)",
+        "prof": "Jucelia Kuchla Vieira",
         "opt": "Não"
       }
     ]
@@ -868,121 +1019,9 @@
     ]
   },
   {
-    "code": "HUM002",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(F109)-3N3(F109)",
-        "prof": "Frederico Lopes De Oliveira Diehl",
-        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
-      }
-    ]
-  },
-  {
-    "code": "ECV7006",
-    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "ID7A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "5T2(F109)-5T3(F109)",
-        "prof": "Paula Cristina De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "NCM015",
-    "name": "Fundamentos De Programação",
-    "turmas": [
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3N4(D108)-3N5(D108)-6N4(E001)-6N5(E001)",
-        "prof": "Willian Marques Freire",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
-        "h": "3N4(D108)-3N5(D108)-6N4(E001)-6N5(E001)",
-        "prof": "Willian Marques Freire",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG1A",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "3T4(G104)-3T5(G104)-5T1(B001)-5T2(B001)",
-        "prof": "Willian Marques Freire",
-        "opt": "Não"
-      },
-      {
-        "turma": "IQ1A",
-        "enq": "Presencial",
-        "vt": "23",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(G104)-3T5(G104)-5T1(B001)-5T2(B001)",
-        "prof": "Willian Marques Freire",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV8003",
-    "name": "Fundações",
-    "turmas": [
-      {
-        "turma": "ID8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T4(B105)-2T5(B105)-4T2(G101)-4T3(G101)",
-        "prof": "Ewerton Clayton Alves Da Fonseca",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "NCM012",
     "name": "Física 1",
     "turmas": [
-      {
-        "turma": "ID2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3T3(F110)-3T4(F110)-3T5(F110)-5T2(H004)-5T3(H004)",
-        "prof": "Paulo Willian Carvalho Sarvezuk",
-        "opt": "Não"
-      },
       {
         "turma": "IDE",
         "enq": "Presencial",
@@ -992,6 +1031,17 @@
         "prio": "",
         "h": "4N1(D101)-4N2(D101)-4N3(D101)-5N4(H004)-5N5(H004)",
         "prof": "Debora Ferreira Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3T3(F110)-3T4(F110)-3T5(F110)-5T2(H004)-5T3(H004)",
+        "prof": "Paulo Willian Carvalho Sarvezuk",
         "opt": "Não"
       },
       {
@@ -1185,42 +1235,8 @@
     ]
   },
   {
-    "code": "EA32E",
-    "name": "Geologia E Pedologia",
-    "turmas": [
-      {
-        "turma": "IF3A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "3T1(F105)-3T2(F105)-3T3(F105)-4M4(F002)-4M5(F002)",
-        "prof": "Maria Cleide Baldo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV39B",
-    "name": "Gerenciamento De Obras",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T4(D108)-2T5(D108)-3T4(F108)-3T5(F108)",
-        "prof": "Valdomiro Lubachevski Kurta",
-        "opt": "Matriz:30"
-      }
-    ]
-  },
-  {
-    "code": "CV38A",
-    "name": "Gestao Ambiental",
+    "code": "ECV8003",
+    "name": "Fundações",
     "turmas": [
       {
         "turma": "ID8A",
@@ -1229,42 +1245,92 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "4N1(D102)-4N2(D102)-4N3(D102)",
-        "prof": "Vanessa Medeiros Corneli",
+        "h": "2T4(B105)-2T5(B105)-4T2(G101)-4T3(G101)",
+        "prof": "Ewerton Clayton Alves Da Fonseca",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "CV39A",
-    "name": "Gestao De Projetos De Edificios",
+    "code": "HUM002",
+    "name": "Fundamentos Da Ética",
     "turmas": [
       {
-        "turma": "ID9A",
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(F109)-3N3(F109)",
+        "prof": "Frederico Lopes De Oliveira Diehl",
+        "opt": "Matriz:93, Matriz:84, Matriz:91, Matriz:85, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
+    "code": "ECV7006",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "ID7A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "5T2(F102)-5T3(F102)-6T4(F102)-6T5(F102)",
-        "prof": "Jucelia Kuchla Vieira",
+        "h": "5T2(F109)-5T3(F109)",
+        "prof": "Paula Cristina De Souza",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "EA36A",
-    "name": "Gestão Empresarial",
+    "code": "NCM015",
+    "name": "Fundamentos De Programação",
     "turmas": [
       {
-        "turma": "IFE",
+        "turma": "ID1A",
         "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
+        "vt": "23",
+        "vc": "22",
         "res": "Aberta",
-        "prio": "1 - Eng Ambiental",
-        "h": "3T2(B101)-3T3(B101)",
-        "prof": "Tanatiana Ferreira Guelbert",
+        "prio": "1 - Eng Civil",
+        "h": "3N4(D108)-3N5(D108)-6N4(E001)-6N5(E001)",
+        "prof": "Willian Marques Freire",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
+        "h": "3N4(D108)-3N5(D108)-6N4(E001)-6N5(E001)",
+        "prof": "Willian Marques Freire",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3T4(G104)-3T5(G104)-5T1(B001)-5T2(B001)",
+        "prof": "Willian Marques Freire",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "23",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "3T4(G104)-3T5(G104)-5T1(B001)-5T2(B001)",
+        "prof": "Willian Marques Freire",
         "opt": "Não"
       }
     ]
@@ -1282,6 +1348,23 @@
         "prio": "1 - Eng Civil",
         "h": "5T5(F105)-5T6(F105)-6T4(F105)-6T5(F105)",
         "prof": "Rodrigo Cesar Pierozan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EA32E",
+    "name": "Geologia E Pedologia",
+    "turmas": [
+      {
+        "turma": "IF3A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "3T1(F105)-3T2(F105)-3T3(F105)-4M4(F002)-4M5(F002)",
+        "prof": "Maria Cleide Baldo",
         "opt": "Não"
       }
     ]
@@ -1343,6 +1426,40 @@
         "prio": "1 - Engenharia Química",
         "h": "3T1(G104)-3T2(G104)-3T3(G104)",
         "prof": "Raquel Polizeli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV39B",
+    "name": "Gerenciamento De Obras",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T4(D108)-2T5(D108)-3T4(F108)-3T5(F108)",
+        "prof": "Valdomiro Lubachevski Kurta",
+        "opt": "Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "CV38A",
+    "name": "Gestao Ambiental",
+    "turmas": [
+      {
+        "turma": "ID8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(D102)-4N2(D102)-4N3(D102)",
+        "prof": "Vanessa Medeiros Corneli",
         "opt": "Não"
       }
     ]
@@ -1426,6 +1543,23 @@
     ]
   },
   {
+    "code": "CV39A",
+    "name": "Gestao De Projetos De Edificios",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5T2(F102)-5T3(F102)-6T4(F102)-6T5(F102)",
+        "prof": "Jucelia Kuchla Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EAS8006",
     "name": "Gestão De Recursos Hídricos",
     "turmas": [
@@ -1460,18 +1594,18 @@
     ]
   },
   {
-    "code": "ECV7001",
-    "name": "Hidrologia Aplicada",
+    "code": "EA36A",
+    "name": "Gestão Empresarial",
     "turmas": [
       {
-        "turma": "ID7A",
+        "turma": "IFE",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "6T2(H001)-6T3(H001)-6T4(H001)",
-        "prof": "Helton Rogerio Mazzer",
+        "prio": "1 - Eng Ambiental",
+        "h": "3T2(B101)-3T3(B101)",
+        "prof": "Tanatiana Ferreira Guelbert",
         "opt": "Não"
       }
     ]
@@ -1488,6 +1622,23 @@
         "res": "Aberta",
         "prio": "1 - Eng Civil",
         "h": "2T4(D102)-2T5(D102)-3T4(H001)-3T5(H001)",
+        "prof": "Helton Rogerio Mazzer",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV7001",
+    "name": "Hidrologia Aplicada",
+    "turmas": [
+      {
+        "turma": "ID7A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "6T2(H001)-6T3(H001)-6T4(H001)",
         "prof": "Helton Rogerio Mazzer",
         "opt": "Não"
       }
@@ -1562,23 +1713,6 @@
     ]
   },
   {
-    "code": "ECV8001",
-    "name": "Instalações Hidrosanitárias Prediais",
-    "turmas": [
-      {
-        "turma": "ID8A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T2(H001)-2T3(H001)-3T2(H001)-3T3(H001)",
-        "prof": "Helton Rogerio Mazzer",
-        "opt": "Matriz:85, Matriz:93"
-      }
-    ]
-  },
-  {
     "code": "EAL6006",
     "name": "Instalações Em Sistemas Industriais",
     "turmas": [
@@ -1608,6 +1742,23 @@
         "prio": "1 - Engenharia Química",
         "h": "4T1(D107)-4T2(D107)-4T3(D107)",
         "prof": "Raphael Menechini Neto",
+        "opt": "Matriz:85, Matriz:93"
+      }
+    ]
+  },
+  {
+    "code": "ECV8001",
+    "name": "Instalações Hidrosanitárias Prediais",
+    "turmas": [
+      {
+        "turma": "ID8A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T2(H001)-2T3(H001)-3T2(H001)-3T3(H001)",
+        "prof": "Helton Rogerio Mazzer",
         "opt": "Matriz:85, Matriz:93"
       }
     ]
@@ -1681,6 +1832,23 @@
     ]
   },
   {
+    "code": "HUM005",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4N2(D107)-4N3(D107)",
+        "prof": "Carlos Alberto Franco",
+        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
+      }
+    ]
+  },
+  {
     "code": "LBRS32Q",
     "name": "Libras 2",
     "turmas": [
@@ -1705,23 +1873,6 @@
         "h": "5N4(D108)-5N5(D108)",
         "prof": "Carlos Alberto Franco",
         "opt": "Matriz:75, Matriz:81, Matriz:43, Matriz:44, Matriz:30, Matriz:34, Matriz:63, Matriz:50"
-      }
-    ]
-  },
-  {
-    "code": "HUM005",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUMA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4N2(D107)-4N3(D107)",
-        "prof": "Carlos Alberto Franco",
-        "opt": "Matriz:93, Matriz:84, Matriz:89, Matriz:85, Matriz:87, Matriz:86, Matriz:88"
       }
     ]
   },
@@ -1794,18 +1945,18 @@
     ]
   },
   {
-    "code": "MG3XD",
-    "name": "Mecanica Geral 2",
+    "code": "EEL6004",
+    "name": "Máquinas Elétricas",
     "turmas": [
       {
-        "turma": "IDE",
+        "turma": "IL6A",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3N4(F109)-3N5(F109)-5N4(F109)-5N5(F109)",
-        "prof": "Ronaldo Rigobello",
+        "prio": "1 - Eng Eletrônica",
+        "h": "3N1(B009)-3N2(B009)-3N3(B009)",
+        "prof": "Marcelo Nanni",
         "opt": "Não"
       }
     ]
@@ -1840,6 +1991,57 @@
         "prio": "1 - Eng Civil",
         "h": "4T5(F002)-4T6(F002)-6T2(F105)-6T3(F105)",
         "prof": "Sergio Roberto Oberhauser Quintanilha Braga",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV5001",
+    "name": "Mecânica Dos Fluídos E Transferência De Calor",
+    "turmas": [
+      {
+        "turma": "ID5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5T4(G105)-5T5(G105)-5T6(G105)-6T4(H002)-6T5(H002)",
+        "prof": "Paula Cristina De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV6003",
+    "name": "Mecânica Dos Solos 1",
+    "turmas": [
+      {
+        "turma": "ID6A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4T5(D105)-4T6(D105)-5T1(D102)-5T2(D102)",
+        "prof": "Ewerton Clayton Alves Da Fonseca",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV7003",
+    "name": "Mecânica Dos Solos 2",
+    "turmas": [
+      {
+        "turma": "ID7A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "3T4(H104)-3T5(H104)-5T5(F106)-5T6(F106)",
+        "prof": "Ewerton Clayton Alves Da Fonseca",
         "opt": "Não"
       }
     ]
@@ -1895,52 +2097,18 @@
     ]
   },
   {
-    "code": "ECV5001",
-    "name": "Mecânica Dos Fluídos E Transferência De Calor",
+    "code": "MG3XD",
+    "name": "Mecanica Geral 2",
     "turmas": [
       {
-        "turma": "ID5A",
+        "turma": "IDE",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "5T4(G105)-5T5(G105)-5T6(G105)-6T4(H002)-6T5(H002)",
-        "prof": "Paula Cristina De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV6003",
-    "name": "Mecânica Dos Solos 1",
-    "turmas": [
-      {
-        "turma": "ID6A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4T5(D105)-4T6(D105)-5T1(D102)-5T2(D102)",
-        "prof": "Ewerton Clayton Alves Da Fonseca",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECV7003",
-    "name": "Mecânica Dos Solos 2",
-    "turmas": [
-      {
-        "turma": "ID7A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "3T4(H104)-3T5(H104)-5T5(F106)-5T6(F106)",
-        "prof": "Ewerton Clayton Alves Da Fonseca",
+        "h": "3N4(F109)-3N5(F109)-5N4(F109)-5N5(F109)",
+        "prof": "Ronaldo Rigobello",
         "opt": "Não"
       }
     ]
@@ -2058,23 +2226,6 @@
     ]
   },
   {
-    "code": "EEL6004",
-    "name": "Máquinas Elétricas",
-    "turmas": [
-      {
-        "turma": "IL6A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "3N1(B009)-3N2(B009)-3N3(B009)",
-        "prof": "Marcelo Nanni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OPT163",
     "name": "Níveis De Eficiência Energética Em Ambientes Construídos.",
     "turmas": [
@@ -2122,6 +2273,78 @@
         "h": "4M4(F110)-4M5(F110)",
         "prof": "Leonardo Da Silva Tomadon",
         "opt": "Matriz:86"
+      }
+    ]
+  },
+  {
+    "code": "NCM010",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "IC1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Ciênc Computação",
+        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
+        "prof": "Lilian Caroline Xavier Candido Schiavini",
+        "opt": "Não"
+      },
+      {
+        "turma": "ID1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IF1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IG1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
+      },
+      {
+        "turma": "IL1A",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
+        "prof": "Helio Vinicius Moreno Tozatti",
+        "opt": "Não"
+      },
+      {
+        "turma": "IQ1A",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "22",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Química",
+        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
+        "prof": "Thelma Pretel Brandao Vecchi",
+        "opt": "Não"
       }
     ]
   },
@@ -2204,23 +2427,6 @@
     ]
   },
   {
-    "code": "ECV5004",
-    "name": "Projeto Geométrico De Estradas",
-    "turmas": [
-      {
-        "turma": "ID5A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "5T1(F108)-5T2(F108)-5T3(F108)",
-        "prof": "Eliana Fernandes Dos Santos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ECV8004",
     "name": "Projeto De Pavimentação",
     "turmas": [
@@ -2232,6 +2438,23 @@
         "res": "Aberta",
         "prio": "1 - Eng Civil",
         "h": "4T4(D106)-4T5(D106)-4T6(D106)",
+        "prof": "Eliana Fernandes Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECV5004",
+    "name": "Projeto Geométrico De Estradas",
+    "turmas": [
+      {
+        "turma": "ID5A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5T1(F108)-5T2(F108)-5T3(F108)",
         "prof": "Eliana Fernandes Dos Santos",
         "opt": "Não"
       }
@@ -2251,78 +2474,6 @@
         "h": "5N1(F108)-5N2(F108)-5N3(F108)-5N4(F108)",
         "prof": "Douglas Fukunaga Surco",
         "opt": "Matriz:86"
-      }
-    ]
-  },
-  {
-    "code": "NCM010",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "IC1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "3T1(G103)-3T2(G103)-3T3(G103)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N1(F101)-4N2(F101)-4N3(F101)",
-        "prof": "Helio Vinicius Moreno Tozatti",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N1(D106)-4N2(D106)-4N3(D106)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG1A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL1A",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2N1(B102)-2N2(B102)-2N3(B102)",
-        "prof": "Helio Vinicius Moreno Tozatti",
-        "opt": "Não"
-      },
-      {
-        "turma": "IQ1A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "22",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "2T1(G104)-2T2(G104)-2T3(G104)",
-        "prof": "Thelma Pretel Brandao Vecchi",
-        "opt": "Não"
       }
     ]
   },
@@ -2395,91 +2546,6 @@
     ]
   },
   {
-    "code": "CV35D",
-    "name": "Teoria Das Estruturas 1",
-    "turmas": [
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Marcelo Rodrigo Carreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV36E",
-    "name": "Teoria Das Estruturas 2",
-    "turmas": [
-      {
-        "turma": "TSPO",
-        "enq": "Presencial",
-        "vt": "5",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "Ronaldo Rigobello",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM38O",
-    "name": "Topicos Especiais Em Estruturas De Madeira",
-    "turmas": [
-      {
-        "turma": "IDO",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N1(B106)-4N2(B106)-4N3(B106)-4N4(B106)",
-        "prof": "Jorge Luis Nunes De Goes",
-        "opt": "Matriz:43, Matriz:31"
-      }
-    ]
-  },
-  {
-    "code": "TCC1",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
-        "prof": "Vera Lucia Barradas Moreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TCC2",
-    "name": "Trabalho De Conclusão De Curso",
-    "turmas": [
-      {
-        "turma": "ID10A",
-        "enq": "Presencial",
-        "vt": "79",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Civil",
-        "h": "",
-        "prof": "",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ECV5002",
     "name": "Tecnologia Da Construção Civil 1",
     "turmas": [
@@ -2531,6 +2597,23 @@
     ]
   },
   {
+    "code": "CV35D",
+    "name": "Teoria Das Estruturas 1",
+    "turmas": [
+      {
+        "turma": "TSPO",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "Marcelo Rodrigo Carreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECV6005",
     "name": "Teoria Das Estruturas 1",
     "turmas": [
@@ -2548,20 +2631,26 @@
     ]
   },
   {
-    "code": "ECV7005",
+    "code": "CV36E",
     "name": "Teoria Das Estruturas 2",
     "turmas": [
       {
-        "turma": "ID7A",
+        "turma": "TSPO",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "5",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Eng Civil",
-        "h": "2T4(D106)-2T5(D106)-3T2(B101)-3T3(B101)",
+        "h": "",
         "prof": "Ronaldo Rigobello",
         "opt": "Não"
-      },
+      }
+    ]
+  },
+  {
+    "code": "ECV7005",
+    "name": "Teoria Das Estruturas 2",
+    "turmas": [
       {
         "turma": "IDE",
         "enq": "Presencial",
@@ -2572,6 +2661,34 @@
         "h": "3N4(F101)-3N5(F101)-5N4(F101)-5N5(F101)",
         "prof": "Ronaldo Rigobello",
         "opt": "Não"
+      },
+      {
+        "turma": "ID7A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T4(D106)-2T5(D106)-3T2(B101)-3T3(B101)",
+        "prof": "Ronaldo Rigobello",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EM38O",
+    "name": "Topicos Especiais Em Estruturas De Madeira",
+    "turmas": [
+      {
+        "turma": "IDO",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "4N1(B106)-4N2(B106)-4N3(B106)-4N4(B106)",
+        "prof": "Jorge Luis Nunes De Goes",
+        "opt": "Matriz:43, Matriz:31"
       }
     ]
   },
@@ -2599,6 +2716,40 @@
         "prio": "1 - Eng Civil",
         "h": "2N2(D106)-2N3(D106)-3N1(D104)-3N2(D104)",
         "prof": "Sergio Roberto Oberhauser Quintanilha Braga",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC1",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "ID9A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "5N1(F110)-5T6(F110)-6T2(D104)-6T3(D104)",
+        "prof": "Vera Lucia Barradas Moreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TCC2",
+    "name": "Trabalho De Conclusão De Curso",
+    "turmas": [
+      {
+        "turma": "ID10A",
+        "enq": "Presencial",
+        "vt": "79",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Civil",
+        "h": "",
+        "prof": "",
         "opt": "Não"
       }
     ]
@@ -2701,157 +2852,6 @@
         "h": "4T1(G103)-4T2(G103)",
         "prof": "Genilson Valotto Patuzzo",
         "opt": "Matriz:84"
-      }
-    ]
-  },
-  {
-    "code": "NCM002",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "IC3A",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciênc Computação",
-        "h": "5T4(D105)-5T5(D105)-6T4(B102)-6T5(B102)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T2(B107)-2T3(B107)-4T3(B103)-4T4(B103)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "ID2B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "IF2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4N4(D105)-4N5(D105)-6N2(D107)-6N3(D107)",
-        "prof": "Sara Coelho Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "IG2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Alimentos",
-        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
-        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
-        "opt": "Não"
-      },
-      {
-        "turma": "IL2A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "2N4(B107)-2N5(B107)-5N2(B107)-5N3(B107)",
-        "prof": "Lilian Caroline Xavier Candido Schiavini",
-        "opt": "Não"
-      },
-      {
-        "turma": "IQ2A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(D107)-3T5(D107)-5T1(D104)-5T2(D104)",
-        "prof": "Erika Patricia Dantas De Oliveira Guazzi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EC32O",
-    "name": "Ética E Sustentabilidade",
-    "turmas": [
-      {
-        "turma": "EAD",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Ambiental, 1 - Eng Amb/Sanitária",
-        "h": "",
-        "prof": "Marcia Aparecida De Oliveira",
-        "opt": "Matriz:62, Matriz:44, Matriz:76, Matriz:43, Matriz:63, Matriz:30"
-      }
-    ]
-  },
-  {
-    "code": "EA39A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "IF9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Ambiental",
-        "h": "3M4(B103)-3M5(B103)",
-        "prof": "Maria Cristina Rodrigues Halmeman",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP3XA",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ID9A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4T4(F110)-4T5(F110)",
-        "prof": "Jucelia Kuchla Vieira",
-        "opt": "Matriz:75, Matriz:63"
-      }
-    ]
-  },
-  {
-    "code": "ECV5005",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ID5A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "4T4(F110)-4T5(F110)",
-        "prof": "Jucelia Kuchla Vieira",
-        "opt": "Não"
       }
     ]
   }

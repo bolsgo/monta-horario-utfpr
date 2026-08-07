@@ -715,6 +715,23 @@
     ]
   },
   {
+    "code": "CS1022",
+    "name": "Gênese E Morfologia Do Solo",
+    "turmas": [
+      {
+        "turma": "AG2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4T2(N15)-4T3(N15)-4T4(N15)",
+        "prof": "Anderson Sandro Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "CB1036",
     "name": "Genética Agropecuária",
     "turmas": [
@@ -756,23 +773,6 @@
         "h": "2N1(L9)-2N2(L9)-2N3(L9)",
         "prof": "Anderson Sandro Da Rocha",
         "opt": "Matriz:12"
-      }
-    ]
-  },
-  {
-    "code": "CS1022",
-    "name": "Gênese E Morfologia Do Solo",
-    "turmas": [
-      {
-        "turma": "AG2",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Agronomia",
-        "h": "4T2(N15)-4T3(N15)-4T4(N15)",
-        "prof": "Anderson Sandro Da Rocha",
-        "opt": "Não"
       }
     ]
   },
@@ -1053,6 +1053,23 @@
     ]
   },
   {
+    "code": "ER1045",
+    "name": "Máquinas E Equipamentos Agrícolas",
+    "turmas": [
+      {
+        "turma": "AG4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "4M2(N13)-4M3(N13)-4M4(N13)",
+        "prof": "Franciele Morlin Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MA1018",
     "name": "Matemática Para A Agronomia",
     "turmas": [
@@ -1166,23 +1183,6 @@
         "prio": "1 - Agronomia",
         "h": "5T3(K2)-5T4(K2)-5T5(K2)-5T6(K2)",
         "prof": "Rejane Barbosa De Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ER1045",
-    "name": "Máquinas E Equipamentos Agrícolas",
-    "turmas": [
-      {
-        "turma": "AG4",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Agronomia",
-        "h": "4M2(N13)-4M3(N13)-4M4(N13)",
-        "prof": "Franciele Morlin Carneiro",
         "opt": "Não"
       }
     ]
@@ -1307,19 +1307,19 @@
     ]
   },
   {
-    "code": "ER1057",
-    "name": "Projetos Hidráulicos Na Agricultura",
+    "code": "OP1039",
+    "name": "Projetos, Avaliações E Perícias",
     "turmas": [
       {
-        "turma": "AG5",
+        "turma": "AG9",
         "enq": "Presencial",
-        "vt": "40",
+        "vt": "22",
         "vc": "0",
         "res": "Sem Reserva",
-        "prio": "1 - Agronomia",
-        "h": "4M2(N16)-4M3(N16)-4M4(N16)-4M5(N16)",
-        "prof": "Fabricio Correia De Oliveira",
-        "opt": "Não"
+        "prio": "",
+        "h": "3M4(N15)-3M5(N15)",
+        "prof": "Jose Tobias Marks Machado",
+        "opt": "Matriz:12"
       }
     ]
   },
@@ -1341,19 +1341,19 @@
     ]
   },
   {
-    "code": "OP1039",
-    "name": "Projetos, Avaliações E Perícias",
+    "code": "ER1057",
+    "name": "Projetos Hidráulicos Na Agricultura",
     "turmas": [
       {
-        "turma": "AG9",
+        "turma": "AG5",
         "enq": "Presencial",
-        "vt": "22",
+        "vt": "40",
         "vc": "0",
         "res": "Sem Reserva",
-        "prio": "",
-        "h": "3M4(N15)-3M5(N15)",
-        "prof": "Jose Tobias Marks Machado",
-        "opt": "Matriz:12"
+        "prio": "1 - Agronomia",
+        "h": "4M2(N16)-4M3(N16)-4M4(N16)-4M5(N16)",
+        "prof": "Fabricio Correia De Oliveira",
+        "opt": "Não"
       }
     ]
   },

@@ -1,5 +1,22 @@
 [
   {
+    "code": "ECP42A",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
+        "prof": "Suellen Ribeiro Pardo Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP42C",
     "name": "Algoritmos E Estrutura De Dados 1",
     "turmas": [
@@ -165,277 +182,6 @@
         "prio": "1 - Sist. Para Internet",
         "h": "2N2(E307LREDES)-2N3(E307LREDES)-2N4(E307LREDES)-2N5(E307LREDES)",
         "prof": "Sidgley Camargo De Andrade",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP45E",
-    "name": "Circuitos Digitais",
-    "turmas": [
-      {
-        "turma": "CP54A",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "3M2(E303LINF2)-3M3(E303LINF2)-4M2(E303LINF2)-4M3(E303LINF2)",
-        "prof": "Mauricio Zardo Oliveira",
-        "opt": "Não"
-      },
-      {
-        "turma": "CP54B",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "3T3(E205)-3T4(E205)-4T3(E305LINF5)-4T4(E305LINF5)",
-        "prof": "Mauricio Zardo Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP44B",
-    "name": "Circuitos Elétricos 1",
-    "turmas": [
-      {
-        "turma": "CP44A",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T1(E208LCEE)-2T2(E208LCEE)-4T1(E208LCEE)-4T2(E208LCEE)",
-        "prof": "Juliano Scholz Slongo",
-        "opt": "Não"
-      },
-      {
-        "turma": "CP44B",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T5(E208LCEE)-2T6(E208LCEE)-3T5(E208LCEE)-3T6(E208LCEE)",
-        "prof": "Juliano Scholz Slongo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP45C",
-    "name": "Circuitos Elétricos 2",
-    "turmas": [
-      {
-        "turma": "CP54A",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2M3(E203)-2M4(E203)-5M3(E203)-5M4(E203)",
-        "prof": "Cassius Rossi De Aguiar",
-        "opt": "Não"
-      },
-      {
-        "turma": "CP54B",
-        "enq": "Presencial",
-        "vt": "14",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "4T5(E208LCEE)-4T6(E208LCEE)-5T5(E208LCEE)-5T6(E208LCEE)",
-        "prof": "Juliano Scholz Slongo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP47E",
-    "name": "Compiladores",
-    "turmas": [
-      {
-        "turma": "CP74",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "5T5(E305LINF5)-5T6(E305LINF5)-6T1(E303LINF2)-6T2(E303LINF2)",
-        "prof": "Gustavo Henrique Paetzold",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET41B",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "EL14",
-        "enq": "Presencial",
-        "vt": "21",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2T2(C201LINF3)-2T3(C201LINF3)-5T5(E306LINF6)-5T6(E306LINF6)",
-        "prof": "Jefferson Gustavo Martins",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CP49A",
-    "name": "Computação Gráfica",
-    "turmas": [
-      {
-        "turma": "CP94",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "3T1(E305LINF5)-3T2(E305LINF5)-4T5(E305LINF5)-4T6(E305LINF5)",
-        "prof": "Evandro Da Silva Dos Santos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP46D",
-    "name": "Comunicação De Dados",
-    "turmas": [
-      {
-        "turma": "CP64",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T4(E207LSDE)-2T5(E207LSDE)-6T1(E207LSDE)-6T2(E207LSDE)",
-        "prof": "Luis Carlos Mathias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP46A",
-    "name": "Controle 1",
-    "turmas": [
-      {
-        "turma": "CP64",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "3M4(E303LINF2)-3M5(E303LINF2)-4M4(E303LINF2)-4M5(E303LINF2)",
-        "prof": "Mauricio Zardo Oliveira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP47A",
-    "name": "Controle 2",
-    "turmas": [
-      {
-        "turma": "CP74",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T3(E305LINF5)-2T4(E305LINF5)-3T3(E208LCEE)-3T4(E208LCEE)",
-        "prof": "Andres Eduardo Coca Salazar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET46B",
-    "name": "Controle De Sistemas Lineares 1",
-    "turmas": [
-      {
-        "turma": "EL64",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "5M1(A001LACCA)-5M2(A001LACCA)-6M1(A001LACCA)-6M2(A001LACCA)",
-        "prof": "Jose Dolores Vergara Dietrich",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET47B",
-    "name": "Controle De Sistemas Lineares 2",
-    "turmas": [
-      {
-        "turma": "EL74",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "5T5(A001LACCA)-5T6(A001LACCA)-6T3(A001LACCA)-6T4(A001LACCA)",
-        "prof": "Jose Dolores Vergara Dietrich",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "OPECP003",
-    "name": "Controle Digital",
-    "turmas": [
-      {
-        "turma": "OPEC",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T5(E305LINF5)-2T6(E305LINF5)-6T5(E307LREDES)-6T6(E307LREDES)",
-        "prof": "Andres Eduardo Coca Salazar",
-        "opt": "Matriz:55"
-      }
-    ]
-  },
-  {
-    "code": "ECP44A",
-    "name": "Cálculo 4",
-    "turmas": [
-      {
-        "turma": "CP44",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
-        "prof": "Karen Carrilho Da Silva Lira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EET44A",
-    "name": "Cálculo 4b",
-    "turmas": [
-      {
-        "turma": "ET44",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
-        "prof": "Karen Carrilho Da Silva Lira",
         "opt": "Não"
       }
     ]
@@ -665,6 +411,277 @@
         "prio": "1 - Eng. Eletrônica",
         "h": "3T3(C204)-3T4(C204)-4T1(C202LINF4)-4T2(C202LINF4)",
         "prof": "Gustavo Henrique Dalposso",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP44A",
+    "name": "Cálculo 4",
+    "turmas": [
+      {
+        "turma": "CP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T3(E205)-4T4(E205)-5T3(E205)-5T4(E205)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET44A",
+    "name": "Cálculo 4b",
+    "turmas": [
+      {
+        "turma": "ET44",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "3M5(C307)-3M6(C307)-4M5(C307)-4M6(C307)",
+        "prof": "Karen Carrilho Da Silva Lira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP45E",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "CP54A",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3M2(E303LINF2)-3M3(E303LINF2)-4M2(E303LINF2)-4M3(E303LINF2)",
+        "prof": "Mauricio Zardo Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "CP54B",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T3(E205)-3T4(E205)-4T3(E305LINF5)-4T4(E305LINF5)",
+        "prof": "Mauricio Zardo Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP44B",
+    "name": "Circuitos Elétricos 1",
+    "turmas": [
+      {
+        "turma": "CP44A",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T1(E208LCEE)-2T2(E208LCEE)-4T1(E208LCEE)-4T2(E208LCEE)",
+        "prof": "Juliano Scholz Slongo",
+        "opt": "Não"
+      },
+      {
+        "turma": "CP44B",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T5(E208LCEE)-2T6(E208LCEE)-3T5(E208LCEE)-3T6(E208LCEE)",
+        "prof": "Juliano Scholz Slongo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP45C",
+    "name": "Circuitos Elétricos 2",
+    "turmas": [
+      {
+        "turma": "CP54A",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2M3(E203)-2M4(E203)-5M3(E203)-5M4(E203)",
+        "prof": "Cassius Rossi De Aguiar",
+        "opt": "Não"
+      },
+      {
+        "turma": "CP54B",
+        "enq": "Presencial",
+        "vt": "14",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T5(E208LCEE)-4T6(E208LCEE)-5T5(E208LCEE)-5T6(E208LCEE)",
+        "prof": "Juliano Scholz Slongo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP47E",
+    "name": "Compiladores",
+    "turmas": [
+      {
+        "turma": "CP74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "5T5(E305LINF5)-5T6(E305LINF5)-6T1(E303LINF2)-6T2(E303LINF2)",
+        "prof": "Gustavo Henrique Paetzold",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CP49A",
+    "name": "Computação Gráfica",
+    "turmas": [
+      {
+        "turma": "CP94",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T1(E305LINF5)-3T2(E305LINF5)-4T5(E305LINF5)-4T6(E305LINF5)",
+        "prof": "Evandro Da Silva Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET41B",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "21",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T2(C201LINF3)-2T3(C201LINF3)-5T5(E306LINF6)-5T6(E306LINF6)",
+        "prof": "Jefferson Gustavo Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP46D",
+    "name": "Comunicação De Dados",
+    "turmas": [
+      {
+        "turma": "CP64",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T4(E207LSDE)-2T5(E207LSDE)-6T1(E207LSDE)-6T2(E207LSDE)",
+        "prof": "Luis Carlos Mathias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET46B",
+    "name": "Controle De Sistemas Lineares 1",
+    "turmas": [
+      {
+        "turma": "EL64",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5M1(A001LACCA)-5M2(A001LACCA)-6M1(A001LACCA)-6M2(A001LACCA)",
+        "prof": "Jose Dolores Vergara Dietrich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EET47B",
+    "name": "Controle De Sistemas Lineares 2",
+    "turmas": [
+      {
+        "turma": "EL74",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "5T5(A001LACCA)-5T6(A001LACCA)-6T3(A001LACCA)-6T4(A001LACCA)",
+        "prof": "Jose Dolores Vergara Dietrich",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OPECP003",
+    "name": "Controle Digital",
+    "turmas": [
+      {
+        "turma": "OPEC",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T5(E305LINF5)-2T6(E305LINF5)-6T5(E307LREDES)-6T6(E307LREDES)",
+        "prof": "Andres Eduardo Coca Salazar",
+        "opt": "Matriz:55"
+      }
+    ]
+  },
+  {
+    "code": "ECP46A",
+    "name": "Controle 1",
+    "turmas": [
+      {
+        "turma": "CP64",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "3M4(E303LINF2)-3M5(E303LINF2)-4M4(E303LINF2)-4M5(E303LINF2)",
+        "prof": "Mauricio Zardo Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP47A",
+    "name": "Controle 2",
+    "turmas": [
+      {
+        "turma": "CP74",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T3(E305LINF5)-2T4(E305LINF5)-3T3(E208LCEE)-3T4(E208LCEE)",
+        "prof": "Andres Eduardo Coca Salazar",
         "opt": "Não"
       }
     ]
@@ -1003,6 +1020,123 @@
     ]
   },
   {
+    "code": "FIS001",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "BP34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CP14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "4T1(E203)-4T2(E203)-6T2(E203)-6T3(E203)-6T4(E203)",
+        "prof": "Danuce Marcele Dudek",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CV24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "4M1(E203)-4M2(E203)-4M3(E203)-5M1(E203)-5M2(E203)",
+        "prof": "Marcello Antonio Alves Talarico",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL14",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T4(E106)-2T5(E106)-2T6(E106)-5T1(E106)-5T2(E106)",
+        "prof": "Danuce Marcele Dudek",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS002",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "BP44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.  De Bioprocessos",
+        "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "CP24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Computação",
+        "h": "2T4(E204)-2T5(E204)-2T6(E204)-5T5(E204)-5T6(E204)",
+        "prof": "Leonardo De Lima",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL24",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2M2(E106)-2M3(E106)-5M1(E106)-5M2(E106)-5M3(E106)",
+        "prof": "Douglas Jose Coutinho",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
+    "code": "FIS003",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "CV44",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Civil",
+        "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
+      },
+      {
+        "turma": "EL34",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Eletrônica",
+        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
+        "prof": "Rafael Bertolini Frigori",
+        "opt": "Matriz:56"
+      }
+    ]
+  },
+  {
     "code": "ECP44C",
     "name": "Fundamentos De Orientação A Objetos",
     "turmas": [
@@ -1135,123 +1269,6 @@
         "h": "5N2(E307LREDES)-5N3(E307LREDES)",
         "prof": "Fabio Alexandre Spanhol",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS001",
-    "name": "Física 1",
-    "turmas": [
-      {
-        "turma": "BP34",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  De Bioprocessos",
-        "h": "3T1(E204)-3T2(E204)-3T3(E204)-4T4(E104)-4T5(E104)",
-        "prof": "Marcello Antonio Alves Talarico",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "CP14",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "4T1(E203)-4T2(E203)-6T2(E203)-6T3(E203)-6T4(E203)",
-        "prof": "Danuce Marcele Dudek",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "CV24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "4M1(E203)-4M2(E203)-4M3(E203)-5M1(E203)-5M2(E203)",
-        "prof": "Marcello Antonio Alves Talarico",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "EL14",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2T4(E106)-2T5(E106)-2T6(E106)-5T1(E106)-5T2(E106)",
-        "prof": "Danuce Marcele Dudek",
-        "opt": "Matriz:56"
-      }
-    ]
-  },
-  {
-    "code": "FIS002",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "BP44",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.  De Bioprocessos",
-        "h": "2M4(E104)-2M5(E104)-4M1(E104)-4M2(E104)-4M3(E104)",
-        "prof": "Douglas Jose Coutinho",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "CP24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Computação",
-        "h": "2T4(E204)-2T5(E204)-2T6(E204)-5T5(E204)-5T6(E204)",
-        "prof": "Leonardo De Lima",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "EL24",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2M2(E106)-2M3(E106)-5M1(E106)-5M2(E106)-5M3(E106)",
-        "prof": "Douglas Jose Coutinho",
-        "opt": "Matriz:56"
-      }
-    ]
-  },
-  {
-    "code": "FIS003",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "CV44",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Civil",
-        "h": "3M3(C204)-3M4(C204)-5M3(C206)-5M4(C206)-5M5(C206)",
-        "prof": "Rafael Bertolini Frigori",
-        "opt": "Matriz:56"
-      },
-      {
-        "turma": "EL34",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Eletrônica",
-        "h": "2T1(C205)-2T2(C205)-5T1(C205)-5T2(C205)-5T3(C205)",
-        "prof": "Rafael Bertolini Frigori",
-        "opt": "Matriz:56"
       }
     ]
   },
@@ -1641,6 +1658,23 @@
     ]
   },
   {
+    "code": "ECP47F",
+    "name": "Pré-Tcc",
+    "turmas": [
+      {
+        "turma": "CP74",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. De Computação",
+        "h": "3T5(E205)-3T6(E205)-4T3(C205)-4T4(C205)-4T5(C205)",
+        "prof": "Bruno Meneghel Zilli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ECP43A",
     "name": "Probabilidade E Estatística",
     "turmas": [
@@ -1755,23 +1789,6 @@
         "prio": "1 - Sist. Para Internet",
         "h": "3N2(E305LINF5)-3N3(E305LINF5)",
         "prof": "Vilson Luiz Dalle Mole",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP47F",
-    "name": "Pré-Tcc",
-    "turmas": [
-      {
-        "turma": "CP74",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. De Computação",
-        "h": "3T5(E205)-3T6(E205)-4T3(C205)-4T4(C205)-4T5(C205)",
-        "prof": "Bruno Meneghel Zilli",
         "opt": "Não"
       }
     ]
@@ -2166,57 +2183,6 @@
     ]
   },
   {
-    "code": "ECP49A",
-    "name": "Trabalho De Conclusão De Curso 1",
-    "turmas": [
-      {
-        "turma": "EC94",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. De Computação",
-        "h": "4T1(E305LINF5)-4T2(E305LINF5)-6T3(E305LINF5)-6T4(E305LINF5)-6T5(E305LINF5)",
-        "prof": "Luis Carlos Mathias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CP40I",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "CP04",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. De Computação",
-        "h": "",
-        "prof": "Luis Carlos Mathias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ECP410A",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "CP04",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. De Computação",
-        "h": "",
-        "prof": "Luis Carlos Mathias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OPEET028",
     "name": "Tópicos Especiais Em Computação 1",
     "turmas": [
@@ -2268,18 +2234,52 @@
     ]
   },
   {
-    "code": "ECP42A",
-    "name": "Álgebra Linear",
+    "code": "ECP49A",
+    "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
       {
-        "turma": "CP24",
+        "turma": "EC94",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "20",
         "vc": "0",
-        "res": "Aberta",
+        "res": "Fechada",
         "prio": "1 - Eng. De Computação",
-        "h": "2T2(E204)-2T3(E204)-4T3(E204)-4T4(E204)",
-        "prof": "Suellen Ribeiro Pardo Garcia",
+        "h": "4T1(E305LINF5)-4T2(E305LINF5)-6T3(E305LINF5)-6T4(E305LINF5)-6T5(E305LINF5)",
+        "prof": "Luis Carlos Mathias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CP40I",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CP04",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. De Computação",
+        "h": "",
+        "prof": "Luis Carlos Mathias",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ECP410A",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "CP04",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. De Computação",
+        "h": "",
+        "prof": "Luis Carlos Mathias",
         "opt": "Não"
       }
     ]

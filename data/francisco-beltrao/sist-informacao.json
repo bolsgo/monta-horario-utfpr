@@ -51,6 +51,40 @@
     ]
   },
   {
+    "code": "MAT015",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "2EQ",
+        "enq": "Presencial",
+        "vt": "69",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M2(G203)-2M3(G203)-3M5(G203)-3M6(G203)",
+        "prof": "Liliane Hellmann",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "MAT016",
+    "name": "Cálculo 2",
+    "turmas": [
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M1(G204)-2M2(G204)-3M1(G204)-3M2(G204)",
+        "prof": "Tereza Rachel Mafioleti",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
     "code": "ART007",
     "name": "Canto Coral",
     "turmas": [
@@ -98,40 +132,6 @@
         "h": "3N2(Q106)-3N3(Q106)-3N4(Q106)-3N5(Q106)",
         "prof": "Gustavo Yuji Sato",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT015",
-    "name": "Cálculo 1",
-    "turmas": [
-      {
-        "turma": "2EQ",
-        "enq": "Presencial",
-        "vt": "69",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2M2(G203)-2M3(G203)-3M5(G203)-3M6(G203)",
-        "prof": "Liliane Hellmann",
-        "opt": "Matriz:45, Matriz:38"
-      }
-    ]
-  },
-  {
-    "code": "MAT016",
-    "name": "Cálculo 2",
-    "turmas": [
-      {
-        "turma": "3EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2M1(G204)-2M2(G204)-3M1(G204)-3M2(G204)",
-        "prof": "Tereza Rachel Mafioleti",
-        "opt": "Matriz:45, Matriz:38"
       }
     ]
   },
@@ -208,17 +208,6 @@
     "name": "Eletrotécnica E Instrumentação",
     "turmas": [
       {
-        "turma": "6EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Química",
-        "h": "3T2(G204)-3T3(G204)-4T2(G204)-4T3(G204)",
-        "prof": "Meire Cristina Fugihara",
-        "opt": "Matriz:45"
-      },
-      {
         "turma": "OPBSI",
         "enq": "Presencial",
         "vt": "44",
@@ -227,6 +216,17 @@
         "prio": "1 - Sist. Informação",
         "h": "3N2(Q210)-3N3(Q210)-3N4(Q210)-3N5(Q210)",
         "prof": "Guilherme Bertoldo",
+        "opt": "Matriz:45"
+      },
+      {
+        "turma": "6EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Química",
+        "h": "3T2(G204)-3T3(G204)-4T2(G204)-4T3(G204)",
+        "prof": "Meire Cristina Fugihara",
         "opt": "Matriz:45"
       }
     ]
@@ -356,6 +356,23 @@
     ]
   },
   {
+    "code": "MAT034",
+    "name": "Fundamentos De Álgebra Linear Para Computação",
+    "turmas": [
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(R203)-2N3(R203)-5N2(R203)-5N3(R203)",
+        "prof": "Stefane Layana Gaffuri",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT020",
     "name": "Fundamentos De Geometria Analítica E Álgebra Linear Para Engenharias",
     "turmas": [
@@ -368,23 +385,6 @@
         "prio": "",
         "h": "2T3(G202)-2T4(G202)-6M4(G202)-6M5(G202)",
         "prof": "Stefane Layana Gaffuri",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FSO204",
-    "name": "Fundamentos De Sistemas Operacionais",
-    "turmas": [
-      {
-        "turma": "2SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "6N2(Q104)-6N3(Q104)",
-        "prof": "Wellton Costa De Oliveira",
         "opt": "Não"
       }
     ]
@@ -407,8 +407,8 @@
     ]
   },
   {
-    "code": "MAT034",
-    "name": "Fundamentos De Álgebra Linear Para Computação",
+    "code": "FSO204",
+    "name": "Fundamentos De Sistemas Operacionais",
     "turmas": [
       {
         "turma": "2SI",
@@ -417,8 +417,8 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Sist. Informação",
-        "h": "2N2(R203)-2N3(R203)-5N2(R203)-5N3(R203)",
-        "prof": "Stefane Layana Gaffuri",
+        "h": "6N2(Q104)-6N3(Q104)",
+        "prof": "Wellton Costa De Oliveira",
         "opt": "Não"
       }
     ]
@@ -454,45 +454,6 @@
         "h": "4N2(Q202)-4N3(Q202)",
         "prof": "Rafael Angelin",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HSA003",
-    "name": "Gestão Econômica E Financeira",
-    "turmas": [
-      {
-        "turma": "3EAS",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. Sanitária",
-        "h": "3M1(Q105)-3M2(Q105)-3M3(Q105)",
-        "prof": "Andriele De Pra Carvalho",
-        "opt": "Matriz:24, Matriz:21"
-      },
-      {
-        "turma": "3SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N1(Q103)-3N2(Q103)-3N3(Q103)",
-        "prof": "Myller Augusto Santos Gomes",
-        "opt": "Matriz:24, Matriz:21"
-      },
-      {
-        "turma": "4AGR",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "4N1(G204)-4N2(G204)-4N3(G204)",
-        "prof": "Andriele De Pra Carvalho",
-        "opt": "Matriz:24, Matriz:21"
       }
     ]
   },
@@ -538,6 +499,45 @@
         "h": "2M3(Q107)-2M4(Q107)-2M5(Q107)",
         "prof": "Myller Augusto Santos Gomes",
         "opt": "Matriz:24, Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "HSA003",
+    "name": "Gestão Econômica E Financeira",
+    "turmas": [
+      {
+        "turma": "3EAS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. Sanitária",
+        "h": "3M1(Q105)-3M2(Q105)-3M3(Q105)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N1(Q103)-3N2(Q103)-3N3(Q103)",
+        "prof": "Myller Augusto Santos Gomes",
+        "opt": "Matriz:24, Matriz:21"
+      },
+      {
+        "turma": "4AGR",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "4N1(G204)-4N2(G204)-4N3(G204)",
+        "prof": "Andriele De Pra Carvalho",
+        "opt": "Matriz:24, Matriz:21"
       }
     ]
   },
@@ -750,17 +750,6 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "3EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "6T2(G202)-6T3(G202)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "OPBSI",
         "enq": "Presencial",
         "vt": "44",
@@ -768,6 +757,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Informação",
         "h": "6N2(R206)-6N3(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T2(G202)-6T3(G202)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
       }
@@ -778,17 +778,6 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "6EA",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "2T1(R202)-2T2(R202)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "OPBSI",
         "enq": "Presencial",
         "vt": "44",
@@ -798,51 +787,17 @@
         "h": "3N1(R206)-3T6(R206)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      }
-    ]
-  },
-  {
-    "code": "LIP201",
-    "name": "Linguagem De Programação",
-    "turmas": [
-      {
-        "turma": "2SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "2N4(Q201)-2N5(Q201)-3N2(Q201)-3N3(Q201)-3N4(Q201)-3N5(Q201)",
-        "prof": "Jurandi Daleffe Junior",
-        "opt": "Não"
       },
       {
-        "turma": "SPO",
+        "turma": "6EA",
         "enq": "Presencial",
-        "vt": "40",
+        "vt": "0",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Lic. Informática, 1 - Sist. Informação",
-        "h": "",
-        "prof": "Jurandi Daleffe Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HLA001",
-    "name": "Linguagem, Tecnologia E Sujeito",
-    "turmas": [
-      {
-        "turma": "5SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "2N4(Q105)-2N5(Q105)-3N2(R205)-3N3(R205)",
-        "prof": "Meggie Rosar Fornazari",
-        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T1(R202)-2T2(R202)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
       }
     ]
   },
@@ -877,6 +832,51 @@
         "h": "2T1(G102B)-2T2(G102B)-4T2(G102B)-4T3(G102B)",
         "prof": "Meggie Rosar Fornazari",
         "opt": "Matriz:45, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30, Matriz:24, Matriz:21, Matriz:18"
+      }
+    ]
+  },
+  {
+    "code": "LIP201",
+    "name": "Linguagem De Programação",
+    "turmas": [
+      {
+        "turma": "SPO",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Informática, 1 - Sist. Informação",
+        "h": "",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q201)-2N5(Q201)-3N2(Q201)-3N3(Q201)-3N4(Q201)-3N5(Q201)",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA001",
+    "name": "Linguagem, Tecnologia E Sujeito",
+    "turmas": [
+      {
+        "turma": "5SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q105)-2N5(Q105)-3N2(R205)-3N3(R205)",
+        "prof": "Meggie Rosar Fornazari",
+        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
       }
     ]
   },
@@ -944,6 +944,85 @@
         "prio": "1 - Sist. Informação",
         "h": "6N2(Q210)-6N3(Q210)-6N4(Q210)-6N5(Q210)",
         "prof": "Francisco Antonio Fernandes Reinaldo",
+        "opt": "Matriz:45, Matriz:38"
+      }
+    ]
+  },
+  {
+    "code": "ART004",
+    "name": "Prática De Orquestra",
+    "turmas": [
+      {
+        "turma": "3EQ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N1(BLOCOB)-3N2(BLOCOB)-3N3(BLOCOB)",
+        "prof": "Mauro Cesar Cislaghi",
+        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:44, Matriz:25, Matriz:31, Matriz:38, Matriz:21, Matriz:30"
+      }
+    ]
+  },
+  {
+    "code": "PEX304",
+    "name": "Práticas Extensionistas 1",
+    "turmas": [
+      {
+        "turma": "3SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "4N2(Q105)-4N3(Q105)",
+        "prof": "Rafael Wild",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PEX405",
+    "name": "Práticas Extensionistas 2",
+    "turmas": [
+      {
+        "turma": "4SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "6N2(Q106)-6N3(Q106)-6N4(Q106)-6N5(Q106)",
+        "prof": "Maici Duarte Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT012",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "1AGR",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Agronomia",
+        "h": "3N4(G201)-3N5(G201)-5N2(G201)-5N3(G201)",
+        "prof": "Renato Hallal",
+        "opt": "Matriz:45, Matriz:38"
+      },
+      {
+        "turma": "1EA",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "3M3(Q103)-3M4(Q103)-5M4(Q107)-5M5(Q107)",
+        "prof": "Liliane Hellmann",
         "opt": "Matriz:45, Matriz:38"
       }
     ]
@@ -1050,85 +1129,6 @@
     ]
   },
   {
-    "code": "ART004",
-    "name": "Prática De Orquestra",
-    "turmas": [
-      {
-        "turma": "3EQ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N1(BLOCOB)-3N2(BLOCOB)-3N3(BLOCOB)",
-        "prof": "Mauro Cesar Cislaghi",
-        "opt": "Matriz:24, Matriz:45, Matriz:41, Matriz:37, Matriz:44, Matriz:25, Matriz:31, Matriz:38, Matriz:21, Matriz:30"
-      }
-    ]
-  },
-  {
-    "code": "PEX304",
-    "name": "Práticas Extensionistas 1",
-    "turmas": [
-      {
-        "turma": "3SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "4N2(Q105)-4N3(Q105)",
-        "prof": "Rafael Wild",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PEX405",
-    "name": "Práticas Extensionistas 2",
-    "turmas": [
-      {
-        "turma": "4SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "6N2(Q106)-6N3(Q106)-6N4(Q106)-6N5(Q106)",
-        "prof": "Maici Duarte Leite",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT012",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "1AGR",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Agronomia",
-        "h": "3N4(G201)-3N5(G201)-5N2(G201)-5N3(G201)",
-        "prof": "Renato Hallal",
-        "opt": "Matriz:45, Matriz:38"
-      },
-      {
-        "turma": "1EA",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "3M3(Q103)-3M4(Q103)-5M4(Q107)-5M5(Q107)",
-        "prof": "Liliane Hellmann",
-        "opt": "Matriz:45, Matriz:38"
-      }
-    ]
-  },
-  {
     "code": "RED202",
     "name": "Redes De Computadores",
     "turmas": [
@@ -1197,40 +1197,6 @@
     ]
   },
   {
-    "code": "TCC704",
-    "name": "Trabalho De Conclusão De Curso 1",
-    "turmas": [
-      {
-        "turma": "7SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N2(Q202)-3N3(Q202)-3N4(Q202)-3N5(Q202)",
-        "prof": "Flavio De Almeida E Silva, Adair Jose Rohling",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HCH021",
-    "name": "Trabalho, Tecnologia E Sociedade",
-    "turmas": [
-      {
-        "turma": "1SI",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "3N4(Q105)-3N5(Q105)-4N4(Q105)-4N5(Q105)",
-        "prof": "Mayara Cristina Pereira Yamanoe",
-        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
-      }
-    ]
-  },
-  {
     "code": "MAT032",
     "name": "Tópicos De Pesquisa Operacional",
     "turmas": [
@@ -1261,6 +1227,40 @@
         "h": "5N1(R206)-5N2(R206)-5N3(R206)",
         "prof": "Celso Hotz",
         "opt": "Matriz:24, Matriz:45, Matriz:37, Matriz:41, Matriz:25, Matriz:31, Matriz:38, Matriz:21"
+      }
+    ]
+  },
+  {
+    "code": "TCC704",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "7SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N2(Q202)-3N3(Q202)-3N4(Q202)-3N5(Q202)",
+        "prof": "Flavio De Almeida E Silva, Adair Jose Rohling",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HCH021",
+    "name": "Trabalho, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "1SI",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "3N4(Q105)-3N5(Q105)-4N4(Q105)-4N5(Q105)",
+        "prof": "Mayara Cristina Pereira Yamanoe",
+        "opt": "Matriz:24, Matriz:37, Matriz:25, Matriz:41, Matriz:31, Matriz:21"
       }
     ]
   }

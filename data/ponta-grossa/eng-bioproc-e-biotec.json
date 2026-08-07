@@ -1,5 +1,77 @@
 [
   {
+    "code": "MAT122",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BP21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "2T2(L010)-2T2(L010)-2T2(L010)-2T2(L010)-2T3(L010)-2T3(L010)-2T3(L010)-2T3(L010)-4T2(L103)-4T2(L103)-4T2(L103)-4T2(L103)-4T3(L103)-4T3(L103)-4T3(L103)-4T3(L103)",
+        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "CC21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-3T2(L006)-3T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
+        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "EE21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "2M4(L102)-2M4(L102)-2M5(L102)-2M5(L102)-4M4(L112)-4M4(L112)-4M5(L112)-4M5(L112)",
+        "prof": "Marcos Cesar Verges, Rodrigo Frehse Pereira",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2M4(L108)-2M4(L108)-2M5(L108)-2M5(L108)-4M4(L108)-4M4(L108)-4M5(L108)-4M5(L108)",
+        "prof": "Marcos Cesar Verges, Rodrigo Frehse Pereira",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "EP31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T2(L104)-2T2(L104)-2T2(L104)-2T2(L104)-2T3(L104)-2T3(L104)-2T3(L104)-2T3(L104)-4T2(L104)-4T2(L104)-4T2(L104)-4T2(L104)-4T3(L104)-4T3(L104)-4T3(L104)-4T3(L104)",
+        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "EQ21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T2(L108)-2T2(L108)-2T2(L108)-2T2(L108)-2T3(L108)-2T3(L108)-2T3(L108)-2T3(L108)-4T2(L004)-4T2(L004)-4T2(L004)-4T2(L004)-4T3(L004)-4T3(L004)-4T3(L004)-4T3(L004)",
+        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
+        "opt": "Matriz:844, Matriz:814"
+      }
+    ]
+  },
+  {
     "code": "AS60A",
     "name": "Análise Sensorial",
     "turmas": [
@@ -8,7 +80,7 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M4(C009)-5M5(C009)",
         "prof": "Safi Amaro Monteiro",
@@ -21,33 +93,11 @@
     "name": "Atividade Física E Qualidade De Vida",
     "turmas": [
       {
-        "turma": "EE11A",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "30",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5M4(GINÁSIO)-5M5(GINÁSIO)",
-        "prof": "Jose Alves De Faria Filho",
-        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
-      },
-      {
-        "turma": "EE11B",
-        "enq": "Presencial",
-        "vt": "26",
-        "vc": "23",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5M2(GINÁSIO)-5M3(GINÁSIO)",
-        "prof": "Jose Alves De Faria Filho",
-        "opt": "Matriz:844, Matriz:826, Matriz:819, Matriz:827, Matriz:821, Matriz:814, Matriz:822"
-      },
-      {
         "turma": "OPTH",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "2T2(GINÁSIO)-2T3(GINÁSIO)",
         "prof": "Jose Alves De Faria Filho",
@@ -56,9 +106,9 @@
       {
         "turma": "OPTHB",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T4(GINÁSIO)-3T5(GINÁSIO)",
         "prof": "Jose Alves De Faria Filho",
@@ -75,7 +125,7 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M4(D001)-3M4(C114)-3M4(L-013)-3M5(L-013)-3M5(C114)-3M5(D001)-5T2(D001)-5T2(L114)-5T3(L114)-5T3(D001)-5T4(D001)-5T4(L114)-5T5(D001)-5T5(L114)-6M2(L012)-6M3(L012)",
         "prof": "Sabrina Avila Rodrigues, Elis Regina Duarte, Paulo Cesar De Souza Kirnev",
@@ -92,7 +142,7 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "6M2(L008)-6M3(L008)",
         "prof": "Mariana Machado Fidelis Do Nascimento",
@@ -109,7 +159,7 @@
         "enq": "Presencial",
         "vt": "45",
         "vc": "44",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3T2(L012)-3T3(L012)",
         "prof": "Luis Alberto Chavez Ayala",
@@ -126,7 +176,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M1(L113)-3M2(L113)",
         "prof": "Mariana Machado Fidelis Do Nascimento",
@@ -143,7 +193,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M1(L001)-4M2(L001)",
         "prof": "Rozane De Fatima Turchiello Gomez",
@@ -160,7 +210,7 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2T2(C013C)-2T2(L002)-2T3(L002)-2T3(C013C)-2T4(L002)-2T4(C013C)-2T5(L002)-2T5(C013C)-4T1(K102)-4T2(K102)-5T4(K106)-5T5(K106)",
         "prof": "Mariana Machado Fidelis Do Nascimento, Emanuele Elisa Hernandes, Paulo Cesar De Souza Kirnev",
@@ -175,10 +225,10 @@
       {
         "turma": "BP81",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M2(L101)-4M2(D001)-4M3(D001)-4M3(L101)-4M4(L101)-4M4(D001)-4M5(L101)-4M5(D001)-4T2(L107)-4T2(D001)-4T3(L107)-4T3(D001)-4T4(D001)-4T4(L107)-4T5(L107)-4T5(D001)",
         "prof": "Safi Amaro Monteiro, Luis Alberto Chavez Ayala, Allan Valcareggi Morcelli",
         "opt": "Não"
@@ -194,7 +244,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2M4(L111)-2M5(L111)",
         "prof": "Elisabete Hiromi Hashimoto",
@@ -209,9 +259,9 @@
       {
         "turma": "BP41A",
         "enq": "Presencial",
-        "vt": "14",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M4(L109)-4M5(L109)-4T2(C006)-4T3(C006)",
         "prof": "Maria Carolina De Oliveira Ribeiro, Elisabete Hiromi Hashimoto",
@@ -220,7 +270,7 @@
       {
         "turma": "BP41B",
         "enq": "Presencial",
-        "vt": "14",
+        "vt": "10",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
@@ -237,9 +287,9 @@
       {
         "turma": "BP31A",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M2(C004)-5M3(C004)",
         "prof": "Emanuele Elisa Hernandes",
@@ -248,9 +298,9 @@
       {
         "turma": "BP31B",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M4(C004)-5M5(C004)",
         "prof": "Emanuele Elisa Hernandes",
@@ -265,10 +315,10 @@
       {
         "turma": "BP81",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M4(K102)-3M5(K102)",
         "prof": "Juliana Vitoria Messias Bittencourt",
         "opt": "Não"
@@ -276,108 +326,41 @@
     ]
   },
   {
-    "code": "BP65B",
-    "name": "Compostos Bioativos",
+    "code": "MAT141",
+    "name": "Cálculo Numérico",
     "turmas": [
       {
-        "turma": "BP51A",
+        "turma": "BP51",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "5T1(L105)-5T2(L105)-5T3(L105)",
-        "prof": "Alessandra Cristine Novak Sydney",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "INF101",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "EE31",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "2M4(C103)-2M5(C103)-3M4(C103)-3M5(C103)",
-        "prof": "Itamar Iliuk",
-        "opt": "Não"
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "2M4(L011)-2M5(L011)-4M2(L011)-4M3(L011)",
+        "prof": "Angelo Marcelo Tusset",
+        "opt": "Matriz:843"
       },
       {
-        "turma": "EP21",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T4(C103)-2T5(C103)-4T2(C103)-4T3(C103)",
-        "prof": "Augusto Foronda",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ31",
+        "turma": "EE41",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Elétrica, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "3M2(C202)-3M3(C202)-4M2(C202)-4M3(C202)",
-        "prof": "Mauren Louise Sguario Coelho De Andrade",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CL101",
-    "name": "Comunicação Linguística",
-    "turmas": [
-      {
-        "turma": "BP11",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "5T2(L005)-5T3(L005)",
-        "prof": "Flavio Madalosso Vieira",
-        "opt": "Não"
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "2M2(L011)-2M3(L011)-4M2(L104)-4M3(L104)",
+        "prof": "Rodrigo Frehse Pereira",
+        "opt": "Matriz:843"
       },
       {
-        "turma": "EE11",
+        "turma": "EP61",
         "enq": "Presencial",
-        "vt": "47",
-        "vc": "46",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4T2(L011)-4T3(L011)",
-        "prof": "Eloiza Aparecida Silva Avila De Matos",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP11",
-        "enq": "Presencial",
-        "vt": "53",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "3M4(L002)-3M5(L002)",
-        "prof": "Eloiza Aparecida Silva Avila De Matos",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ11",
-        "enq": "Presencial",
-        "vt": "67",
-        "vc": "66",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "5M4(L-013)-5M5(L-013)",
-        "prof": "Flavio Madalosso Vieira",
-        "opt": "Não"
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T2(K106)-2T3(K106)-3T2(L103)-3T3(L103)",
+        "prof": "Angelo Marcelo Tusset",
+        "opt": "Matriz:843"
       }
     ]
   },
@@ -390,7 +373,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
         "h": "3T2(L113)-3T2(L113)-3T2(L113)-3T2(L113)-3T2(L113)-3T3(L113)-3T3(L113)-3T3(L113)-3T3(L113)-3T3(L113)-5T2(L113)-5T2(L113)-5T2(L113)-5T2(L113)-5T2(L113)-5T3(L113)-5T3(L113)-5T3(L113)-5T3(L113)-5T3(L113)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Marcos Tadeu Andrade Cordeiro, Carlos Eduardo Krassinski Soares, Jocenei Antonio Teodoro De Oliveira",
@@ -401,7 +384,7 @@
         "enq": "Presencial",
         "vt": "80",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2M4(L112)-2M4(L112)-2M4(L112)-2M5(L112)-2M5(L112)-2M5(L112)-4M4(L005)-4M4(L005)-4M4(L005)-4M5(L005)-4M5(L005)-4M5(L005)",
         "prof": "Thiago Gilberto Do Prado, Jussara Rodrigues Ciappina, Ana Paula Milanez",
@@ -412,7 +395,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "3T2(L108)-3T2(L108)-3T2(L108)-3T2(L108)-3T2(L108)-3T3(L108)-3T3(L108)-3T3(L108)-3T3(L108)-3T3(L108)-5T2(L108)-5T2(L108)-5T2(L108)-5T2(L108)-5T2(L108)-5T3(L108)-5T3(L108)-5T3(L108)-5T3(L108)-5T3(L108)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Marcos Tadeu Andrade Cordeiro, Carlos Eduardo Krassinski Soares, Jocenei Antonio Teodoro De Oliveira",
@@ -434,7 +417,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2M4(K106)-2M4(K106)-2M4(K106)-2M5(K106)-2M5(K106)-2M5(K106)-4M4(K106)-4M4(K106)-4M4(K106)-4M5(K106)-4M5(K106)-4M5(K106)",
         "prof": "Thiago Gilberto Do Prado, Jussara Rodrigues Ciappina, Ana Paula Milanez",
@@ -445,7 +428,7 @@
         "enq": "Presencial",
         "vt": "11",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2M4(L103)-2M4(L103)-2M4(L103)-2M5(L103)-2M5(L103)-2M5(L103)-4M4(L103)-4M4(L103)-4M4(L103)-4M5(L103)-4M5(L103)-4M5(L103)",
         "prof": "Thiago Gilberto Do Prado, Jussara Rodrigues Ciappina, Ana Paula Milanez",
@@ -456,7 +439,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T2(L011)-3T2(L011)-3T2(L011)-3T2(L011)-3T2(L011)-3T3(L011)-3T3(L011)-3T3(L011)-3T3(L011)-3T3(L011)-5T2(L011)-5T2(L112)-5T2(L011)-5T2(L011)-5T2(L011)-5T3(L011)-5T3(L011)-5T3(L011)-5T3(L112)-5T3(L011)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Marcos Tadeu Andrade Cordeiro, Carlos Eduardo Krassinski Soares, Jocenei Antonio Teodoro De Oliveira",
@@ -467,8 +450,8 @@
         "enq": "Presencial",
         "vt": "0",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T2(L111)-3T2(L111)-3T2(L111)-3T2(L111)-3T2(L111)-3T3(L111)-3T3(L111)-3T3(L111)-3T3(L111)-3T3(L111)-5T2(L111)-5T2(L111)-5T2(L111)-5T2(L111)-5T2(L111)-5T3(L111)-5T3(L111)-5T3(L111)-5T3(L111)-5T3(L111)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Marcos Tadeu Andrade Cordeiro, Carlos Eduardo Krassinski Soares, Jocenei Antonio Teodoro De Oliveira",
         "opt": "Não"
@@ -478,8 +461,8 @@
         "enq": "Presencial",
         "vt": "0",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T4(L111)-3T5(L111)-5T4(L111)-5T5(L111)",
         "prof": "Carlos Eduardo Krassinski Soares",
         "opt": "Não"
@@ -559,41 +542,75 @@
     ]
   },
   {
-    "code": "MAT141",
-    "name": "Cálculo Numérico",
+    "code": "BP65B",
+    "name": "Compostos Bioativos",
     "turmas": [
       {
-        "turma": "BP51",
+        "turma": "BP51A",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "2M4(L011)-2M5(L011)-4M2(L011)-4M3(L011)",
-        "prof": "Angelo Marcelo Tusset",
-        "opt": "Matriz:843"
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5T1(L105)-5T2(L105)-5T3(L105)",
+        "prof": "Alessandra Cristine Novak Sydney",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "INF101",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "EE31",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "2M4(C103)-2M5(C103)-3M4(C103)-3M5(C103)",
+        "prof": "Itamar Iliuk",
+        "opt": "Não"
       },
       {
-        "turma": "EE41",
+        "turma": "EP21",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "2M2(L011)-2M3(L011)-4M2(L104)-4M3(L104)",
-        "prof": "Rodrigo Frehse Pereira",
-        "opt": "Matriz:843"
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T4(C103)-2T5(C103)-4T2(C103)-4T3(C103)",
+        "prof": "Augusto Foronda",
+        "opt": "Não"
       },
       {
-        "turma": "EP61",
+        "turma": "EQ31",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(K106)-2T3(K106)-3T2(L103)-3T3(L103)",
-        "prof": "Angelo Marcelo Tusset",
-        "opt": "Matriz:843"
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3M2(C202)-3M3(C202)-4M2(C202)-4M3(C202)",
+        "prof": "Mauren Louise Sguario Coelho De Andrade",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CL101",
+    "name": "Comunicação Linguística",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5T2(L005)-5T3(L005)",
+        "prof": "Flavio Madalosso Vieira",
+        "opt": "Não"
       }
     ]
   },
@@ -606,8 +623,8 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção",
         "h": "4M2(L109)-4M3(L109)",
         "prof": "Tiago Lima De Sousa",
         "opt": "Não"
@@ -617,21 +634,21 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção",
         "h": "4M2(K003)-4M2(L110)-4M3(K003)-4M3(L110)",
         "prof": "Francisco Emilio Dusi",
         "opt": "Não"
       },
       {
-        "turma": "EP21A",
+        "turma": "EM21A",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Mecânica",
-        "h": "5M4(L002)-5M4(L111)-5M5(L111)-5M5(L002)",
-        "prof": "Francisco Emilio Dusi",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "6T1(K003)-6T1(L104)-6T2(K003)-6T2(L104)",
+        "prof": "Felipe Barreto Campelo Cruz",
         "opt": "Não"
       },
       {
@@ -639,20 +656,9 @@
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Mecânica",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec",
         "h": "5M2(L111)-5M3(L111)",
-        "prof": "Francisco Emilio Dusi",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ11A",
-        "enq": "Presencial",
-        "vt": "21",
-        "vc": "20",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "3M2(L104)-3M3(L104)",
         "prof": "Francisco Emilio Dusi",
         "opt": "Não"
       }
@@ -718,7 +724,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2M4(L114)-2M5(L114)-3T2(L114)-3T3(L114)",
         "prof": "Paulo Cesar De Souza Kirnev",
@@ -744,86 +750,284 @@
     ]
   },
   {
-    "code": "FEP00H",
-    "name": "Fundamentos Da Ética Profissional",
+    "code": "FIS131",
+    "name": "Física Experimental 1",
     "turmas": [
       {
-        "turma": "CC21",
+        "turma": "BP21A",
         "enq": "Presencial",
-        "vt": "44",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Tec. Mecânica - 2g, 1 - Engenharia Química, 1 - Ciência Da Computação, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
-        "h": "5T4(L110)-5T5(L110)",
-        "prof": "Katya Cristina De Lima Picanco",
-        "opt": "Matriz:827, Matriz:821, Matriz:820"
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "3M4(K110)-3M5(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP21B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção",
+        "h": "3M2(K110)-3M3(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "EE21A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "4T2(K110)-4T3(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "EE21B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "4T4(K110)-4T5(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "EM21A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "6T3(K110)-6T4(K110)",
+        "prof": "Gilvan Chaves Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "EM21B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "6T1(K110)-6T2(K110)",
+        "prof": "Gilvan Chaves Filho",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP21A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "5M2(K110)-5M3(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP21B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "5M4(K110)-5M5(K110)",
+        "prof": "Maria Selia Blonski",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ21A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3T4(K101)-3T5(K101)",
+        "prof": "Gilvan Chaves Filho",
+        "opt": "Não"
       }
     ]
   },
   {
-    "code": "FIS101",
-    "name": "Fundamentos De Física",
+    "code": "FIS132",
+    "name": "Física Experimental 2",
     "turmas": [
       {
-        "turma": "BP11",
+        "turma": "BP31A",
         "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M2(L012)-3M3(L012)",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "5M4(K101)-5M5(K101)",
+        "prof": "Jose Ricardo Galvao",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP31B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "5M2(K101)-5M3(K101)",
+        "prof": "Jose Ricardo Galvao",
+        "opt": "Não"
+      },
+      {
+        "turma": "EE31A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "2M2(K101)-2M3(K101)",
         "prof": "Adriano Doff Sotta Gomes",
         "opt": "Não"
       },
       {
-        "turma": "EE11",
+        "turma": "EE31B",
         "enq": "Presencial",
-        "vt": "47",
-        "vc": "46",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4M4(L008)-4M5(L008)",
-        "prof": "Gilvan Chaves Filho",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "3T1(K101)-3T2(K101)",
+        "prof": "Adriano Doff Sotta Gomes",
         "opt": "Não"
       },
       {
-        "turma": "EP11",
+        "turma": "EP31A",
         "enq": "Presencial",
-        "vt": "53",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "3M2(L103)-3M3(L103)",
-        "prof": "Mario Jose Van Thienen Da Silva",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3M2(K101)-3M3(K101)",
+        "prof": "Jose Ricardo Galvao",
         "opt": "Não"
       },
       {
-        "turma": "EQ11",
+        "turma": "EP31B",
         "enq": "Presencial",
-        "vt": "67",
-        "vc": "66",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "2M4(L-013)-2M5(L-013)",
-        "prof": "Gilvan Chaves Filho",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3M4(K101)-3M5(K101)",
+        "prof": "Jose Ricardo Galvao",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ31A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "4M4(K101)-4M5(K101)",
+        "prof": "Adriano Doff Sotta Gomes",
+        "opt": "Não"
+      },
+      {
+        "turma": "EQ31B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2M4(K101)-2M5(K101)",
+        "prof": "Adriano Doff Sotta Gomes",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "BP60G",
-    "name": "Fundamentos De Produtos Lácteos Fermentados",
+    "code": "FIS133",
+    "name": "Física Experimental 3",
     "turmas": [
       {
-        "turma": "OPBT",
+        "turma": "BP41B",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "5M1(L006)-5M2(L006)-5M2(C010)-5M3(C010)",
-        "prof": "Luis Alberto Chavez Ayala",
-        "opt": "Matriz:827, Matriz:821"
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
+        "h": "5M4(K108)-5M5(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "EE31B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "h": "4M2(K108)-4M3(K108)",
+        "prof": "Jose Ricardo Galvao",
+        "opt": "Não"
+      },
+      {
+        "turma": "EM41A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "4T2(K108)-4T3(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "EM41B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "4T4(K108)-4T5(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP41A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3M2(K108)-3M3(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP41B",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "3M4(K108)-3M5(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
+      },
+      {
+        "turma": "RE42A",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica, 2 - Engenharia De Produção",
+        "h": "5M2(K108)-5M3(K108)",
+        "prof": "Daniele Toniolo Dias Ferreira Rosa",
+        "opt": "Não"
       }
     ]
   },
@@ -836,7 +1040,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
         "h": "4M1(L113)-4M2(L113)-4M3(L113)",
         "prof": "Mario Jose Van Thienen Da Silva",
@@ -847,7 +1051,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "5T4(L002)-5T5(L002)-5T6(L002)",
         "prof": "Luis Gustavo Vieira Goncalves",
@@ -869,7 +1073,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "4M1(L012)-4M2(L012)-4M3(L012)",
         "prof": "Romeu Miqueias Szmoski",
@@ -897,7 +1101,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Mecânica, 1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "5M2(K107)-5M3(K107)",
         "prof": "Gilvan Chaves Filho",
@@ -908,7 +1112,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "3T2(K107)-3T3(K107)",
         "prof": "Gilvan Chaves Filho",
@@ -925,7 +1129,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Eng Bioproc E Biotec, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
         "h": "3M4(L114)-3M5(L114)-3M6(L114)",
         "prof": "Mario Jose Van Thienen Da Silva",
@@ -936,8 +1140,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Elétrica, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "3M1(L114)-3M2(L114)-3M3(L114)",
         "prof": "Ezequiel Costa Siqueira",
         "opt": "Não"
@@ -948,291 +1152,9 @@
         "vt": "44",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2T1(L001)-2T2(L001)-2T3(L001)",
         "prof": "Ezequiel Costa Siqueira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS131",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "BP21A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "3M4(K110)-3M5(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "BP21B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica, 2 - Engenharia Mecânica, 2 - Engenharia De Produção",
-        "h": "3M2(K110)-3M3(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE21A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "4T2(K110)-4T3(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE21B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção",
-        "h": "4T4(K110)-4T5(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "EM21A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "6T3(K110)-6T4(K110)",
-        "prof": "Gilvan Chaves Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "EM21B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "6T1(K110)-6T2(K110)",
-        "prof": "Gilvan Chaves Filho",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP21A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "5M2(K110)-5M3(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP21B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "5M4(K110)-5M5(K110)",
-        "prof": "Maria Selia Blonski",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ21A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T4(K101)-3T5(K101)",
-        "prof": "Gilvan Chaves Filho",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS132",
-    "name": "Física Experimental 2",
-    "turmas": [
-      {
-        "turma": "BP31A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "5M4(K101)-5M5(K101)",
-        "prof": "Jose Ricardo Galvao",
-        "opt": "Não"
-      },
-      {
-        "turma": "BP31B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "5M2(K101)-5M3(K101)",
-        "prof": "Jose Ricardo Galvao",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE31A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "2M2(K101)-2M3(K101)",
-        "prof": "Adriano Doff Sotta Gomes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE31B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "3T1(K101)-3T2(K101)",
-        "prof": "Adriano Doff Sotta Gomes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP31A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3M2(K101)-3M3(K101)",
-        "prof": "Jose Ricardo Galvao",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP31B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3M4(K101)-3M5(K101)",
-        "prof": "Jose Ricardo Galvao",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ31A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "4M4(K101)-4M5(K101)",
-        "prof": "Adriano Doff Sotta Gomes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ31B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2M4(K101)-2M5(K101)",
-        "prof": "Adriano Doff Sotta Gomes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS133",
-    "name": "Física Experimental 3",
-    "turmas": [
-      {
-        "turma": "BP41B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "5M4(K108)-5M5(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE31B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "4M2(K108)-4M3(K108)",
-        "prof": "Jose Ricardo Galvao",
-        "opt": "Não"
-      },
-      {
-        "turma": "EM41A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "4T2(K108)-4T3(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
-        "opt": "Não"
-      },
-      {
-        "turma": "EM41B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "4T4(K108)-4T5(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP41A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3M2(K108)-3M3(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP41B",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3M4(K108)-3M5(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
-        "opt": "Não"
-      },
-      {
-        "turma": "RE42A",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica, 2 - Engenharia De Produção",
-        "h": "5M2(K108)-5M3(K108)",
-        "prof": "Daniele Toniolo Dias Ferreira Rosa",
         "opt": "Não"
       }
     ]
@@ -1246,7 +1168,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2T2(L114)-2T3(L114)-2T4(L114)",
         "prof": "Luis Octavio De Araujo",
@@ -1263,7 +1185,7 @@
         "enq": "Presencial",
         "vt": "16",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M3(C002)-3M4(C002)-3M5(C002)",
         "prof": "Luis Fernando Quintino Pereira Marchesi",
@@ -1274,11 +1196,73 @@
         "enq": "Presencial",
         "vt": "0",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "3T2(C002)-3T3(C002)-3T4(C002)",
         "prof": "Luis Fernando Quintino Pereira Marchesi",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FEP00H",
+    "name": "Fundamentos Da Ética Profissional",
+    "turmas": [
+      {
+        "turma": "CC21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "5T4(L110)-5T5(L110)",
+        "prof": "Katya Cristina De Lima Picanco",
+        "opt": "Matriz:827, Matriz:821, Matriz:820"
+      },
+      {
+        "turma": "EM21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "h": "2T2(L110)-2T3(L110)",
+        "prof": "Katya Cristina De Lima Picanco",
+        "opt": "Matriz:827, Matriz:821, Matriz:820"
+      }
+    ]
+  },
+  {
+    "code": "FIS101",
+    "name": "Fundamentos De Física",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M2(L012)-3M3(L012)",
+        "prof": "Adriano Doff Sotta Gomes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60G",
+    "name": "Fundamentos De Produtos Lácteos Fermentados",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M1(L006)-5M2(L006)-5M2(C010)-5M3(C010)",
+        "prof": "Luis Alberto Chavez Ayala",
+        "opt": "Matriz:827, Matriz:821"
       }
     ]
   },
@@ -1289,9 +1273,9 @@
       {
         "turma": "BP51A",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M2(L114)-5M3(L114)-5M4(H004)-5M5(H004)",
         "prof": "Juliana Vitoria Messias Bittencourt",
@@ -1308,7 +1292,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia Elétrica",
         "h": "6M4(L102)-6M5(L102)",
         "prof": "Daniel Poletto Tesser",
@@ -1330,8 +1314,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "5T2(K102)-5T3(K102)",
         "prof": "Fabio Neves Puglieri",
         "opt": "Matriz:844, Matriz:824, Matriz:814, Matriz:820"
@@ -1347,7 +1331,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T2(L112)-3T3(L112)-3T4(L112)",
         "prof": "Ana Maria Bueno",
@@ -1358,7 +1342,7 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3T4(L001)-3T5(L001)-3T6(L001)",
         "prof": "Claudia Tania Picinin",
@@ -1380,7 +1364,7 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "5T4(L107)-5T5(L107)-5T6(L107)",
         "prof": "Juan Carlos Claros Garcia",
@@ -1397,8 +1381,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia Elétrica",
         "h": "4T3(P204)-4T4(P204)-4T5(P204)",
         "prof": "Sergio Mazurek Tebcherani",
         "opt": "Matriz:844, Matriz:814"
@@ -1408,8 +1392,8 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec",
         "h": "3T4(L103)-3T5(L103)-3T6(L103)",
         "prof": "Shih Yung Chin",
         "opt": "Matriz:844, Matriz:814"
@@ -1420,7 +1404,7 @@
         "vt": "44",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "6T1(L102)-6T2(L102)-6T3(L102)",
         "prof": "Edilson Giffhorn",
         "opt": "Matriz:844, Matriz:814"
@@ -1430,8 +1414,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "4M1(L103)-4M2(L103)-4M3(L103)",
         "prof": "Joseane Pontes",
         "opt": "Matriz:844, Matriz:814"
@@ -1447,27 +1431,10 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M3(L106)-4M4(L106)-4M5(L106)",
         "prof": "Simone Bowles",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "SUS01H",
-    "name": "Introdução A Sustentabilidade",
-    "turmas": [
-      {
-        "turma": "BP11",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "4T4(L002)",
-        "prof": "Mariana Machado Fidelis Do Nascimento",
         "opt": "Não"
       }
     ]
@@ -1496,9 +1463,9 @@
       {
         "turma": "BP11",
         "enq": "Presencial",
-        "vt": "45",
+        "vt": "40",
         "vc": "39",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3T4(L003)-3T5(L003)",
         "prof": "Emanuele Elisa Hernandes",
@@ -1515,7 +1482,7 @@
         "enq": "Presencial",
         "vt": "25",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia Elétrica",
         "h": "5T5(LABOSP2)-5T6(LABOSP2)",
         "prof": "Fernanda Tavares Treinta",
@@ -1526,8 +1493,8 @@
         "enq": "Presencial",
         "vt": "25",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec",
         "h": "2T2(LABOSP2)-2T3(LABOSP2)",
         "prof": "Fabio Jose Ceron Branco",
         "opt": "Matriz:844, Matriz:814"
@@ -1548,11 +1515,28 @@
         "enq": "Presencial",
         "vt": "25",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "5T3(LABOSP2)-5T4(LABOSP2)",
         "prof": "Fernanda Tavares Treinta",
         "opt": "Matriz:844, Matriz:814"
+      }
+    ]
+  },
+  {
+    "code": "SUS01H",
+    "name": "Introdução A Sustentabilidade",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "4T4(L002)",
+        "prof": "Mariana Machado Fidelis Do Nascimento",
+        "opt": "Não"
       }
     ]
   },
@@ -1563,10 +1547,10 @@
       {
         "turma": "BP71",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "5T1(D001)-5T1(H105)-5T2(H105)-5T2(D001)-5T3(H105)-5T3(D001)",
         "prof": "Allan Valcareggi Morcelli",
         "opt": "Não"
@@ -1610,54 +1594,10 @@
         "enq": "Presencial",
         "vt": "45",
         "vc": "44",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5M1(L004)-5M2(L004)-5M3(L004)",
         "prof": "Nilceia Aparecida Maciel Pinheiro",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "CC11",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "5M1(L002)-5M2(L002)-5M3(L002)",
-        "prof": "Sani De Carvalho Rutz Da Silva",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EE11",
-        "enq": "Presencial",
-        "vt": "52",
-        "vc": "46",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3M1(L003)-3M2(L003)-3M3(L003)",
-        "prof": "Sani De Carvalho Rutz Da Silva",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EP21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "3M1(C210)-3M2(C210)-3M3(C210)",
-        "prof": "Jocenei Antonio Teodoro De Oliveira",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EQ11",
-        "enq": "Presencial",
-        "vt": "70",
-        "vc": "66",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "5M1(L-013)-5M2(L-013)-5M3(L-013)",
-        "prof": "",
         "opt": "Matriz:844, Matriz:814"
       },
       {
@@ -1665,7 +1605,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3N1(C210)-3N2(C210)-3T6(C210)",
         "prof": "",
@@ -1676,7 +1616,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3N1(L-013)-3N2(L-013)-3T6(L-013)",
         "prof": "Luis Henrique De Lima",
@@ -1693,56 +1633,11 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4T4(L004)-4T5(L004)",
         "prof": "Marcia De Andrade Pereira Bernardinis",
         "opt": "Matriz:844, Matriz:814"
-      }
-    ]
-  },
-  {
-    "code": "BP62A",
-    "name": "Microbiologia",
-    "turmas": [
-      {
-        "turma": "BP21A",
-        "enq": "Presencial",
-        "vt": "18",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M2(C006)-3M3(C006)-5M3(L113)",
-        "prof": "Maria Carolina De Oliveira Ribeiro",
-        "opt": "Não"
-      },
-      {
-        "turma": "BP21B",
-        "enq": "Presencial",
-        "vt": "18",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M4(C006)-3M5(C006)-5M3(L113)",
-        "prof": "Maria Carolina De Oliveira Ribeiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BP68C",
-    "name": "Modelagem E Simulação De Bioprocessos",
-    "turmas": [
-      {
-        "turma": "BP81A",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "5M2(C104)-5M2(L003)-5M3(C104)-5M3(L003)-5M4(L001)-5M4(C104)",
-        "prof": "Allan Valcareggi Morcelli",
-        "opt": "Não"
       }
     ]
   },
@@ -1753,9 +1648,9 @@
       {
         "turma": "BP41A",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "5T2(C114)-5T3(C114)-5T4(C114)",
         "prof": "Simone Bowles",
@@ -1764,7 +1659,7 @@
       {
         "turma": "BP41B",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
@@ -1781,9 +1676,9 @@
       {
         "turma": "BP51A",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M3(L105)-3M3(C005)-3M4(C005)-3M4(L105)-3M5(L105)-3M5(C005)",
         "prof": "Aline Coqueiro",
@@ -1792,12 +1687,57 @@
       {
         "turma": "BP51B",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "10",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3T2(C005)-3T2(K106)-3T3(C005)-3T3(K106)-3T4(K106)-3T4(C005)",
         "prof": "Aline Coqueiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP62A",
+    "name": "Microbiologia",
+    "turmas": [
+      {
+        "turma": "BP21A",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M2(C006)-3M3(C006)-5M3(L113)",
+        "prof": "Maria Carolina De Oliveira Ribeiro",
+        "opt": "Não"
+      },
+      {
+        "turma": "BP21B",
+        "enq": "Presencial",
+        "vt": "18",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(C006)-3M5(C006)-5M3(L113)",
+        "prof": "Maria Carolina De Oliveira Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP68C",
+    "name": "Modelagem E Simulação De Bioprocessos",
+    "turmas": [
+      {
+        "turma": "BP81A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "5M2(C104)-5M2(L003)-5M3(C104)-5M3(L003)-5M4(L001)-5M4(C104)",
+        "prof": "Allan Valcareggi Morcelli",
         "opt": "Não"
       }
     ]
@@ -1811,11 +1751,78 @@
         "enq": "Presencial",
         "vt": "25",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3T1(LABOSP1)-3T2(LABOSP1)",
         "prof": "Allan Valcareggi Morcelli",
         "opt": "Matriz:827"
+      }
+    ]
+  },
+  {
+    "code": "BP64D",
+    "name": "Práticas Extensionistas E Divulgação Científica",
+    "turmas": [
+      {
+        "turma": "BP41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3T4(C004)-3T4(K102)-3T5(C004)-3T5(K102)",
+        "prof": "Elisabete Hiromi Hashimoto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT101",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "BP11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3M4(L012)-3M5(L012)-5M4(L004)-5M5(L004)",
+        "prof": "Cristiane Toniolo Dias",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "RE42A",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3N1(L006)-3N1(L010)-3T6(L010)-3T6(L006)-5N1(L106)-5N1(L010)-5T6(L106)-5T6(L001)",
+        "prof": "Yara De Souza Tadano, Jocenei Antonio Teodoro De Oliveira",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "RE42B",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3M4(L006)-3M5(L006)-5M4(L112)-5M5(L112)",
+        "prof": "Carlos Eduardo Krassinski Soares",
+        "opt": "Matriz:844, Matriz:814"
+      },
+      {
+        "turma": "RE42C",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
+        "h": "3N1(L006)-3N1(L010)-3T6(L006)-3T6(L010)-5N1(L010)-5N1(L106)-5T6(L106)-5T6(L106)",
+        "prof": "Yara De Souza Tadano, Jocenei Antonio Teodoro De Oliveira",
+        "opt": "Matriz:844, Matriz:814"
       }
     ]
   },
@@ -1839,8 +1846,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia De Produção, 1 - Engenharia Elétrica, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec",
         "h": "4M2(L114)-4M3(L114)-6M2(L114)-6M3(L114)",
         "prof": "Marcos Tadeu Andrade Cordeiro",
         "opt": "Não"
@@ -1850,8 +1857,8 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Eng Bioproc E Biotec, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
         "h": "4M4(L004)-4M5(L004)-6M4(L004)-6M5(L004)",
         "prof": "Marcos Tadeu Andrade Cordeiro",
         "opt": "Não"
@@ -1867,7 +1874,7 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2N1(L113)-2N2(L113)",
         "prof": "Emanuele Elisa Hernandes",
@@ -1884,20 +1891,9 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2T1(L012)-2T2(L012)-2T3(L012)-4M4(L102)-4M5(L102)",
-        "prof": "Mariana Machado Fidelis Do Nascimento",
-        "opt": "Não"
-      },
-      {
-        "turma": "BP61",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T1(D003)-2T2(D003)-2T3(D003)-4M4(D003)-4M5(D003)",
         "prof": "Mariana Machado Fidelis Do Nascimento",
         "opt": "Não"
       }
@@ -1912,122 +1908,11 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "6M2(D002)-6M2(K107)-6M3(K107)-6M3(D002)-6M4(D002)-6M4(K107)-6M5(K107)-6M5(D002)-6T2(D002)-6T2(K107)-6T3(D002)-6T3(K107)-6T4(K107)-6T4(D002)-6T5(K107)-6T5(D002)",
         "prof": "Alessandra Cristine Novak Sydney",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BP64D",
-    "name": "Práticas Extensionistas E Divulgação Científica",
-    "turmas": [
-      {
-        "turma": "BP41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3T4(C004)-3T4(K102)-3T5(C004)-3T5(K102)",
-        "prof": "Elisabete Hiromi Hashimoto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT101",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "BP11",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M4(L012)-3M5(L012)-5M4(L004)-5M5(L004)",
-        "prof": "Cristiane Toniolo Dias",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "CC11",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação",
-        "h": "3M4(L107)-3M5(L107)-5M4(L108)-5M5(L108)",
-        "prof": "Yara De Souza Tadano",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EE11",
-        "enq": "Presencial",
-        "vt": "47",
-        "vc": "46",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M2(L008)-2M3(L008)-4M2(L008)-4M3(L008)",
-        "prof": "Thiago Gilberto Do Prado",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EP11",
-        "enq": "Presencial",
-        "vt": "51",
-        "vc": "44",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "2M2(L105)-2M3(L105)-4M2(L105)-4M3(L105)",
-        "prof": "Ana Paula Milanez",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EQ11",
-        "enq": "Presencial",
-        "vt": "67",
-        "vc": "66",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "2M2(L-013)-2M3(L-013)-4M2(L-013)-4M3(L-013)",
-        "prof": "Cristiane Toniolo Dias",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "RE42A",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
-        "h": "3N1(L006)-3N1(L010)-3T6(L010)-3T6(L006)-5N1(L106)-5N1(L010)-5T6(L106)-5T6(L001)",
-        "prof": "Yara De Souza Tadano, Jocenei Antonio Teodoro De Oliveira",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "RE42B",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
-        "h": "3M4(L006)-3M5(L006)-5M4(L112)-5M5(L112)",
-        "prof": "Carlos Eduardo Krassinski Soares",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "RE42C",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
-        "h": "3N1(L006)-3N1(L010)-3T6(L006)-3T6(L010)-5N1(L010)-5N1(L106)-5T6(L106)-5T6(L106)",
-        "prof": "Yara De Souza Tadano, Jocenei Antonio Teodoro De Oliveira",
-        "opt": "Matriz:844, Matriz:814"
       }
     ]
   },
@@ -2049,9 +1934,9 @@
       {
         "turma": "OPTB",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "2T4(GINÁSIO)-2T5(GINÁSIO)",
         "prof": "Adriana Aparecida Guimaraes",
@@ -2060,9 +1945,9 @@
       {
         "turma": "OPTC",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3M2(GINÁSIO)-3M3(GINÁSIO)",
         "prof": "Adriana Aparecida Guimaraes",
@@ -2071,9 +1956,9 @@
       {
         "turma": "OPTD",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "3M4(GINÁSIO)-3M5(GINÁSIO)",
         "prof": "Adriana Aparecida Guimaraes",
@@ -2082,9 +1967,9 @@
       {
         "turma": "OPTH",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
         "h": "2T2(CAMPO)-2T3(CAMPO)",
         "prof": "Adriana Aparecida Guimaraes",
@@ -2101,7 +1986,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química",
         "h": "2T4(L105)-2T5(L105)",
         "prof": "Matheus Pereira Postigo",
@@ -2112,7 +1997,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Eng Bioproc E Biotec",
         "h": "3M4(H104)-3M5(H104)",
         "prof": "Matheus Pereira Postigo",
@@ -2127,10 +2012,10 @@
       {
         "turma": "BP21A",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química",
         "h": "4M4(C003)-4M5(C003)-4M6(C003)",
         "prof": "Cinthia Eloise Domingues",
         "opt": "Não"
@@ -2138,9 +2023,9 @@
       {
         "turma": "EQ21A",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Eng Bioproc E Biotec",
         "h": "5M3(C003)-5M4(C003)-5M5(C003)",
         "prof": "Matheus Pereira Postigo",
@@ -2149,9 +2034,9 @@
       {
         "turma": "EQ21B",
         "enq": "Presencial",
-        "vt": "15",
+        "vt": "5",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Eng Bioproc E Biotec",
         "h": "5T2(C003)-5T3(C003)-5T4(C003)",
         "prof": "Matheus Pereira Postigo",
@@ -2166,9 +2051,9 @@
       {
         "turma": "BP11A",
         "enq": "Presencial",
-        "vt": "19",
-        "vc": "18",
-        "res": "Sem Reserva",
+        "vt": "6",
+        "vc": "5",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M2(H001)-4M3(H001)",
         "prof": "Ciro Mauricio Zimmermann",
@@ -2177,67 +2062,12 @@
       {
         "turma": "BP11B",
         "enq": "Presencial",
-        "vt": "19",
-        "vc": "18",
-        "res": "Sem Reserva",
+        "vt": "6",
+        "vc": "5",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "4M4(H001)-4M5(H001)",
         "prof": "Ciro Mauricio Zimmermann",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE11A",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "23",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5M2(H001)-5M3(H001)",
-        "prof": "Ciro Mauricio Zimmermann",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE11B",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "23",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5M4(H001)-5M5(H001)",
-        "prof": "Ciro Mauricio Zimmermann",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP11A",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "14",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "4T2(H001)-4T3(H001)",
-        "prof": "Luciano Fernandes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP11B",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "14",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "4T4(H001)-4T5(H001)",
-        "prof": "Luciano Fernandes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ11B",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "21",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "3M4(H001)-3M5(H001)",
-        "prof": "Simone Delezuk Inglez",
         "opt": "Não"
       }
     ]
@@ -2251,43 +2081,10 @@
         "enq": "Presencial",
         "vt": "50",
         "vc": "44",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2M2(L111)-2M3(L111)",
         "prof": "Luciano Fernandes",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE11",
-        "enq": "Presencial",
-        "vt": "52",
-        "vc": "46",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(L003)-2M5(L003)",
-        "prof": "Luis Octavio De Araujo",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP11",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "36",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "5T2(L110)-5T3(L110)",
-        "prof": "Luis Octavio De Araujo",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ11",
-        "enq": "Presencial",
-        "vt": "70",
-        "vc": "66",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "4M4(L-013)-4M5(L-013)",
-        "prof": "Graciela Leila Heep",
         "opt": "Não"
       }
     ]
@@ -2301,7 +2098,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2M4(H104)-2M5(H104)-5M4(L104)-5M5(L104)",
         "prof": "Luciano Fernandes",
@@ -2318,7 +2115,7 @@
         "enq": "Presencial",
         "vt": "16",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química",
         "h": "3T2(C113)-3T3(C113)-3T4(C113)",
         "prof": "Graciela Leila Heep",
@@ -2352,7 +2149,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec",
         "h": "2M4(L010)-2M4(J2-A)-2M5(L010)-2M5(J2-A)",
         "prof": "Ariel Orlei Michaloski",
@@ -2385,7 +2182,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "6M4(K102)-6M5(K102)",
         "prof": "Antonio Augusto De Paula Xavier",
@@ -2396,7 +2193,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "4M2(L004)-4M3(L004)",
         "prof": "Antonio Augusto De Paula Xavier",
@@ -2413,26 +2210,9 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3N1(L101)-3N2(L101)",
-        "prof": "Luis Alberto Chavez Ayala",
-        "opt": "Matriz:827, Matriz:821"
-      }
-    ]
-  },
-  {
-    "code": "BP60O",
-    "name": "Tecnologia Da Produção De Cervejas Artesanais",
-    "turmas": [
-      {
-        "turma": "OPBT",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T4(L114)-4T4(C010)-4T4(C008)-4T5(L114)-4T5(C010)-4T5(C008)",
         "prof": "Luis Alberto Chavez Ayala",
         "opt": "Matriz:827, Matriz:821"
       }
@@ -2447,11 +2227,28 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "2T4(L107)-2T5(L107)-4T2(L002)-4T3(L002)",
         "prof": "Maria Eduarda Kounaris Fuziki",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "BP60Q",
+    "name": "Tópicos Especiais Em Biotecnologia",
+    "turmas": [
+      {
+        "turma": "OPBT",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
+        "h": "3N1(SLVIRTUAL2)-3N2(SLVIRTUAL2)",
+        "prof": "Elis Regina Duarte",
+        "opt": "Matriz:827, Matriz:802"
       }
     ]
   },
@@ -2464,7 +2261,7 @@
         "enq": "Presencial",
         "vt": "30",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
         "h": "3M4(L106)-3M5(L106)",
         "prof": "Elisabete Hiromi Hashimoto",
@@ -2498,134 +2295,11 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Eng Bioproc E Biotec",
         "h": "",
         "prof": "Safi Amaro Monteiro",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "BP60Q",
-    "name": "Tópicos Especiais Em Biotecnologia",
-    "turmas": [
-      {
-        "turma": "OPBT",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3N1(SLVIRTUAL2)-3N2(SLVIRTUAL2)",
-        "prof": "Elis Regina Duarte",
-        "opt": "Matriz:827, Matriz:802"
-      }
-    ]
-  },
-  {
-    "code": "BP60T",
-    "name": "Tópicos Gerais De Biodegradação Ou Biotransformação",
-    "turmas": [
-      {
-        "turma": "OPBT",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(SLVIRTUAL1)-2N2(SLVIRTUAL1)",
-        "prof": "Safi Amaro Monteiro, Mariana Machado Fidelis Do Nascimento",
-        "opt": "Matriz:827"
-      }
-    ]
-  },
-  {
-    "code": "BP60X",
-    "name": "Tópicos Em Engenharia Multidisciplinar",
-    "turmas": [
-      {
-        "turma": "OPBT",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3T2(D001)-3T2(L001)-3T3(L001)-3T3(D001)",
-        "prof": "Elis Regina Duarte",
-        "opt": "Matriz:827"
-      }
-    ]
-  },
-  {
-    "code": "MAT122",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "BP21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "2T2(L010)-2T2(L010)-2T2(L010)-2T2(L010)-2T3(L010)-2T3(L010)-2T3(L010)-2T3(L010)-4T2(L103)-4T2(L103)-4T2(L103)-4T2(L103)-4T3(L103)-4T3(L103)-4T3(L103)-4T3(L103)",
-        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "CC21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-3T2(L006)-3T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
-        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EE21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "2M4(L102)-2M4(L102)-2M5(L102)-2M5(L102)-4M4(L112)-4M4(L112)-4M5(L112)-4M5(L112)",
-        "prof": "Marcos Cesar Verges, Rodrigo Frehse Pereira",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EM21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecânica, 2 - Engenharia Química, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2M4(L108)-2M4(L108)-2M5(L108)-2M5(L108)-4M4(L108)-4M4(L108)-4M5(L108)-4M5(L108)",
-        "prof": "Marcos Cesar Verges, Rodrigo Frehse Pereira",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EP31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(L104)-2T2(L104)-2T2(L104)-2T2(L104)-2T3(L104)-2T3(L104)-2T3(L104)-2T3(L104)-4T2(L104)-4T2(L104)-4T2(L104)-4T2(L104)-4T3(L104)-4T3(L104)-4T3(L104)-4T3(L104)",
-        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
-        "opt": "Matriz:844, Matriz:814"
-      },
-      {
-        "turma": "EQ21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(L108)-2T2(L108)-2T2(L108)-2T2(L108)-2T3(L108)-2T3(L108)-2T3(L108)-2T3(L108)-4T2(L004)-4T2(L004)-4T2(L004)-4T2(L004)-4T3(L004)-4T3(L004)-4T3(L004)-4T3(L004)",
-        "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
-        "opt": "Matriz:844, Matriz:814"
       }
     ]
   }

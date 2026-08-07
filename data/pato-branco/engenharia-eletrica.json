@@ -231,136 +231,6 @@
     ]
   },
   {
-    "code": "CD27EL",
-    "name": "Controle Digital",
-    "turmas": [
-      {
-        "turma": "7ELE",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3T4(I008)-3T5(I008)-6T4(V107)-6T5(V107)",
-        "prof": "Emerson Giovani Carati",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CD44EL",
-    "name": "Circuitos Digitais",
-    "turmas": [
-      {
-        "turma": "4ELNIC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T2(I003)-2T3(I003)-4T4(I003)-4T5(I003)",
-        "prof": "Fernando Jose Avancini Schenatto",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "CC43CP",
-    "name": "Circuitos De Corrente Contínua",
-    "turmas": [
-      {
-        "turma": "3CPA",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "5N1(V109)-5N2(V109)-5N3(V109)",
-        "prof": "Alexandre Batista De Jesus Soares",
-        "opt": "Não"
-      },
-      {
-        "turma": "3CPB",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "4N3(V103)-4N4(V103)-4N5(V103)",
-        "prof": "Alexandre Batista De Jesus Soares",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CA41EL",
-    "name": "Ciências Do Ambiente",
-    "turmas": [
-      {
-        "turma": "1EL",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T2(N105)-5T3(N105)",
-        "prof": "Jose Miguel Etchalus",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CT47EL",
-    "name": "Conservação E Tarifação De Energia Elétrica",
-    "turmas": [
-      {
-        "turma": "7ELTEC",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T1(I001)-2T2(I001)-2T3(I001)",
-        "prof": "Marcelo Goncalves Trentin",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "CA47EL",
-    "name": "Controle Automático De Processos",
-    "turmas": [
-      {
-        "turma": "7ELNIC",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3T2(I008)-3T3(I008)-6T2(V107)-6T3(V107)",
-        "prof": "Emerson Giovani Carati",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "CS45EL",
-    "name": "Controle De Sistemas Dinâmicos",
-    "turmas": [
-      {
-        "turma": "5ELTEC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T2(I005)-2T3(I005)-6T4(I005)-6T5(I005)",
-        "prof": "Kleiton De Morais Sousa",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
     "code": "CD42NB",
     "name": "Cálculo Diferencial E Integral",
     "turmas": [
@@ -384,6 +254,128 @@
         "prio": "1 - Engenharia Civil",
         "h": "2T4(M103)-2T5(M103)-5T4(M103)-5T5(M103)",
         "prof": "Marieli Musial Tumelero",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV41NB",
+    "name": "Cálculo Em Uma Variável Real",
+    "turmas": [
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
+        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
+        "prof": "Divanete Maria Bitdinger De Oliveira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1CP",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1EL",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
+        "prof": "Larissa Hagedorn Vieira",
+        "opt": "Não"
+      },
+      {
+        "turma": "1MC",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
+        "prof": "Fredy Maglorio Sobrado Suarez",
+        "opt": "Não"
+      },
+      {
+        "turma": "1QB",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "20",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
+        "prof": "Larissa Hagedorn Vieira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CV42NB",
+    "name": "Cálculo Em Várias Variáveis Reais",
+    "turmas": [
+      {
+        "turma": "2CP",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2N1(M004)-2N2(M004)-4N1(M004)-4N2(M004)",
+        "prof": "Santos Richard Wieller Sanguino Bejarano",
+        "opt": "Não"
+      },
+      {
+        "turma": "2EL",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(L105)-2M5(L105)-4M4(L105)-4M5(L105)",
+        "prof": "Michael Santos Gonzales Gargate",
+        "opt": "Não"
+      },
+      {
+        "turma": "2MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T4(M004)-2T5(M004)-4T4(M004)-4T5(M004)",
+        "prof": "Santos Richard Wieller Sanguino Bejarano",
+        "opt": "Não"
+      },
+      {
+        "turma": "2QB",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química",
+        "h": "2M4(N011)-2M5(N011)-4M4(N011)-4M5(N011)",
+        "prof": "Marcio Alexandre De Oliveira Reis",
+        "opt": "Não"
+      },
+      {
+        "turma": "3CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2M2(M003)-2M3(M003)-4M2(M003)-4M3(M003)",
+        "prof": "Michael Santos Gonzales Gargate",
         "opt": "Não"
       }
     ]
@@ -495,81 +487,9 @@
     ]
   },
   {
-    "code": "CV42NB",
-    "name": "Cálculo Em Várias Variáveis Reais",
+    "code": "CA41EL",
+    "name": "Ciências Do Ambiente",
     "turmas": [
-      {
-        "turma": "2CP",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2N1(M004)-2N2(M004)-4N1(M004)-4N2(M004)",
-        "prof": "Santos Richard Wieller Sanguino Bejarano",
-        "opt": "Não"
-      },
-      {
-        "turma": "2EL",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(L105)-2M5(L105)-4M4(L105)-4M5(L105)",
-        "prof": "Michael Santos Gonzales Gargate",
-        "opt": "Não"
-      },
-      {
-        "turma": "2MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T4(M004)-2T5(M004)-4T4(M004)-4T5(M004)",
-        "prof": "Santos Richard Wieller Sanguino Bejarano",
-        "opt": "Não"
-      },
-      {
-        "turma": "2QB",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M4(N011)-2M5(N011)-4M4(N011)-4M5(N011)",
-        "prof": "Marcio Alexandre De Oliveira Reis",
-        "opt": "Não"
-      },
-      {
-        "turma": "3CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2M2(M003)-2M3(M003)-4M2(M003)-4M3(M003)",
-        "prof": "Michael Santos Gonzales Gargate",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "CV41NB",
-    "name": "Cálculo Em Uma Variável Real",
-    "turmas": [
-      {
-        "turma": "1CP",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "3T4(M003)-3T5(M003)-5T4(M003)-5T5(M003)-6T4(M003)-6T5(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
       {
         "turma": "1EL",
         "enq": "Presencial",
@@ -577,58 +497,121 @@
         "vc": "44",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(N105)-2M5(N105)-3M4(N105)-3M5(N105)-5M4(N105)-5M5(N105)",
-        "prof": "Larissa Hagedorn Vieira",
-        "opt": "Não"
-      },
-      {
-        "turma": "1MC",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T2(M003)-3T3(M003)-5T2(M003)-5T3(M003)-6T2(M003)-6T3(M003)",
-        "prof": "Fredy Maglorio Sobrado Suarez",
-        "opt": "Não"
-      },
-      {
-        "turma": "1QB",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "20",
-        "res": "Aberta",
-        "prio": "1 - Química",
-        "h": "2M2(M004)-2M3(M004)-3M2(M004)-3M3(M004)-5M2(M004)-5M3(M004)",
-        "prof": "Larissa Hagedorn Vieira",
-        "opt": "Não"
-      },
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química, 1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Eng Mecânica",
-        "h": "3M2(M003)-3M3(M003)-5M2(M003)-5M3(M003)-6M2(M003)-6M3(M003)",
-        "prof": "Divanete Maria Bitdinger De Oliveira",
+        "h": "5T2(N105)-5T3(N105)",
+        "prof": "Jose Miguel Etchalus",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "DC29EL",
-    "name": "Dinâmica E Controle De Sistemas Elétricos De Potência",
+    "code": "CC43CP",
+    "name": "Circuitos De Corrente Contínua",
     "turmas": [
       {
-        "turma": "9EL",
+        "turma": "3CPA",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "5N1(V109)-5N2(V109)-5N3(V109)",
+        "prof": "Alexandre Batista De Jesus Soares",
+        "opt": "Não"
+      },
+      {
+        "turma": "3CPB",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "4N3(V103)-4N4(V103)-4N5(V103)",
+        "prof": "Alexandre Batista De Jesus Soares",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CD44EL",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "4ELNIC",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
-        "h": "2T4(N106)-2T5(N106)-4T4(N106)-4T5(N106)",
-        "prof": "Ricardo Vasques De Oliveira",
+        "h": "2T2(I003)-2T3(I003)-4T4(I003)-4T5(I003)",
+        "prof": "Fernando Jose Avancini Schenatto",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
+    "code": "CT47EL",
+    "name": "Conservação E Tarifação De Energia Elétrica",
+    "turmas": [
+      {
+        "turma": "7ELTEC",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T1(I001)-2T2(I001)-2T3(I001)",
+        "prof": "Marcelo Goncalves Trentin",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
+    "code": "CA47EL",
+    "name": "Controle Automático De Processos",
+    "turmas": [
+      {
+        "turma": "7ELNIC",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T2(I008)-3T3(I008)-6T2(V107)-6T3(V107)",
+        "prof": "Emerson Giovani Carati",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
+    "code": "CS45EL",
+    "name": "Controle De Sistemas Dinâmicos",
+    "turmas": [
+      {
+        "turma": "5ELTEC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(I005)-2T3(I005)-6T4(I005)-6T5(I005)",
+        "prof": "Kleiton De Morais Sousa",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
+    "code": "CD27EL",
+    "name": "Controle Digital",
+    "turmas": [
+      {
+        "turma": "7ELE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(I008)-3T5(I008)-6T4(V107)-6T5(V107)",
+        "prof": "Emerson Giovani Carati",
         "opt": "Não"
       }
     ]
@@ -640,7 +623,7 @@
       {
         "turma": "1MCA",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",
@@ -679,7 +662,7 @@
       {
         "turma": "1GB",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Agronomia",
@@ -752,6 +735,23 @@
     ]
   },
   {
+    "code": "DC29EL",
+    "name": "Dinâmica E Controle De Sistemas Elétricos De Potência",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T4(N106)-2T5(N106)-4T4(N106)-4T5(N106)",
+        "prof": "Ricardo Vasques De Oliveira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "DE47EL",
     "name": "Distribuição De Energia Elétrica",
     "turmas": [
@@ -781,40 +781,6 @@
         "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica",
         "h": "5T4(Q001)-5T5(Q001)",
         "prof": "Denise Rauber",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EM29MC",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "9MC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "3T4(Q005)-3T5(Q005)",
-        "prof": "Norma Brambilla",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP22B",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "2BS",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "6N2(O201)-6N3(O201)",
-        "prof": "Elizandra Machado Follmann",
         "opt": "Não"
       }
     ]
@@ -950,6 +916,23 @@
     ]
   },
   {
+    "code": "EP46EL",
+    "name": "Eletrônica De Potência",
+    "turmas": [
+      {
+        "turma": "6EL",
+        "enq": "Presencial",
+        "vt": "10",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3M2(I008)-3M3(I008)-5M2(I008)-5M3(I008)",
+        "prof": "Juliano De Pelegrini Lopes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ED44EL",
     "name": "Eletrônica Digital",
     "turmas": [
@@ -967,18 +950,35 @@
     ]
   },
   {
-    "code": "EP46EL",
-    "name": "Eletrônica De Potência",
+    "code": "EM29MC",
+    "name": "Empreendedorismo",
     "turmas": [
       {
-        "turma": "6EL",
+        "turma": "9MC",
         "enq": "Presencial",
-        "vt": "10",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3M2(I008)-3M3(I008)-5M2(I008)-5M3(I008)",
-        "prof": "Juliano De Pelegrini Lopes",
+        "prio": "1 - Eng Mecânica",
+        "h": "3T4(Q005)-3T5(Q005)",
+        "prof": "Norma Brambilla",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP22B",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "6N2(O201)-6N3(O201)",
+        "prof": "Elizandra Machado Follmann",
         "opt": "Não"
       }
     ]
@@ -1159,6 +1159,57 @@
     ]
   },
   {
+    "code": "EP29EL",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2T2(N105)-2T3(N105)",
+        "prof": "Everton Luiz De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EP29NB",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "9CP",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T2(N105)-2T3(N105)",
+        "prof": "Everton Luiz De Aguiar",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ET29NB",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "9MC",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T4(Q004)-5T5(Q004)",
+        "prof": "Adelino Carlos Maccarini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EG41NB",
     "name": "Expressão Gráfica",
     "turmas": [
@@ -1176,7 +1227,7 @@
       {
         "turma": "1CVB",
         "enq": "Presencial",
-        "vt": "24",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Engenharia Civil",
@@ -1245,68 +1296,6 @@
         "h": "2N4(M103)-2N5(M103)",
         "prof": "Nilson De Farias",
         "opt": "Matriz:641, Matriz:640, Matriz:643, Matriz:638"
-      }
-    ]
-  },
-  {
-    "code": "FE42NB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "HUMA4",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "3N2(M104)-3N3(M104)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
-      },
-      {
-        "turma": "HUMA5",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Cart Agrimensura",
-        "h": "2N4(N107)-2N5(N107)",
-        "prof": "Glademir Alves Trindade",
-        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "FE45EL",
-    "name": "Fundamentos De Eletrônica Analógica",
-    "turmas": [
-      {
-        "turma": "5ELTEC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4T4(I005)-4T5(I005)-6T2(I005)-6T3(I005)",
-        "prof": "Juliano De Pelegrini Lopes",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "FE47EL",
-    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "7EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T1(L106)-5T2(L106)-5T3(L106)",
-        "prof": "Gustavo Gomes Kuhn",
-        "opt": "Não"
       }
     ]
   },
@@ -1460,6 +1449,17 @@
     "name": "Física Teórica I",
     "turmas": [
       {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
+        "prof": "Crislaine Da Cruz",
+        "opt": "Não"
+      },
+      {
         "turma": "1CP",
         "enq": "Presencial",
         "vt": "44",
@@ -1501,17 +1501,6 @@
         "prio": "1 - Engenharia Civil",
         "h": "3T2(M106)-3T3(M106)-5T2(M106)-5T3(M106)",
         "prof": "Cesar Augusto Refosco Yednak",
-        "opt": "Não"
-      },
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "2T4(M005)-2T5(M005)-4T4(M005)-4T5(M005)",
-        "prof": "Crislaine Da Cruz",
         "opt": "Não"
       }
     ]
@@ -1606,52 +1595,63 @@
     ]
   },
   {
-    "code": "GP29NB",
-    "name": "Gestão De Pessoas",
+    "code": "FE42NB",
+    "name": "Fundamentos Da Ética",
     "turmas": [
       {
-        "turma": "9CV",
+        "turma": "HUMA4",
         "enq": "Presencial",
-        "vt": "6",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3N2(M104)-3N3(M104)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
+      },
+      {
+        "turma": "HUMA5",
+        "enq": "Presencial",
+        "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "3T4(M103)-3T5(M103)",
-        "prof": "Shalimar Gallon Canfield",
-        "opt": "Não"
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "2N4(N107)-2N5(N107)",
+        "prof": "Glademir Alves Trindade",
+        "opt": "Matriz:657, Matriz:489, Matriz:641, Matriz:642, Matriz:637, Matriz:636, Matriz:635"
       }
     ]
   },
   {
-    "code": "GS28EL",
-    "name": "Gestão De Pessoas",
+    "code": "FE45EL",
+    "name": "Fundamentos De Eletrônica Analógica",
     "turmas": [
       {
-        "turma": "8ELE",
+        "turma": "5ELTEC",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
-        "h": "4T4(L107)-4T5(L107)",
-        "prof": "Audrey Hausschildt Merlin",
-        "opt": "Não"
+        "h": "4T4(I005)-4T5(I005)-6T2(I005)-6T3(I005)",
+        "prof": "Juliano De Pelegrini Lopes",
+        "opt": "Matriz:641"
       }
     ]
   },
   {
-    "code": "GP28EL",
-    "name": "Gestão De Projetos",
+    "code": "FE47EL",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
     "turmas": [
       {
-        "turma": "8ELE",
+        "turma": "7EL",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Engenharia Elétrica",
-        "h": "3T4(L107)-3T5(L107)-5T4(L107)-5T5(L107)",
-        "prof": "Elizandra Machado Follmann",
+        "h": "5T1(L106)-5T2(L106)-5T3(L106)",
+        "prof": "Gustavo Gomes Kuhn",
         "opt": "Não"
       }
     ]
@@ -1660,6 +1660,17 @@
     "code": "GA41NB",
     "name": "Geometria Analítica",
     "turmas": [
+      {
+        "turma": "EXT",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
+        "h": "3T4(N110)-3T5(N110)-6T4(N110)-6T5(N110)",
+        "prof": "Jessica Boschi",
+        "opt": "Não"
+      },
       {
         "turma": "1CP",
         "enq": "Presencial",
@@ -1703,17 +1714,6 @@
         "h": "3T4(Q001)-3T5(Q001)-6T4(Q001)-6T5(Q001)",
         "prof": "Marieli Musial Tumelero",
         "opt": "Não"
-      },
-      {
-        "turma": "EXT",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 1 - Engenharia Elétrica, 1 - Engenharia Civil, 1 - Eng Mecânica, 1 - Eng Cart Agrimensura",
-        "h": "3T4(N110)-3T5(N110)-6T4(N110)-6T5(N110)",
-        "prof": "Jessica Boschi",
-        "opt": "Não"
       }
     ]
   },
@@ -1735,35 +1735,35 @@
     ]
   },
   {
-    "code": "GE46S",
-    "name": "Gestão Empresarial",
+    "code": "GP29NB",
+    "name": "Gestão De Pessoas",
     "turmas": [
       {
-        "turma": "6SI",
+        "turma": "9CV",
         "enq": "Presencial",
-        "vt": "24",
+        "vt": "6",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Tec Analise Des Sist",
-        "h": "5N4(V007)-5N5(V007)",
-        "prof": "Rafael Kuramoto Gonzalez",
+        "prio": "1 - Engenharia Civil",
+        "h": "3T4(M103)-3T5(M103)",
+        "prof": "Shalimar Gallon Canfield",
         "opt": "Não"
       }
     ]
   },
   {
-    "code": "GO48CA",
-    "name": "Gestão Empresarial",
+    "code": "GS28EL",
+    "name": "Gestão De Pessoas",
     "turmas": [
       {
-        "turma": "8CA",
+        "turma": "8ELE",
         "enq": "Presencial",
-        "vt": "5",
+        "vt": "22",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng Cart Agrimensura",
-        "h": "5N4(V007)-5N5(V007)",
-        "prof": "Rafael Kuramoto Gonzalez",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4T4(L107)-4T5(L107)",
+        "prof": "Audrey Hausschildt Merlin",
         "opt": "Não"
       }
     ]
@@ -1798,6 +1798,57 @@
         "prio": "1 - Química",
         "h": "3M4(N107)-3M5(N107)",
         "prof": "Audrey Hausschildt Merlin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GP28EL",
+    "name": "Gestão De Projetos",
+    "turmas": [
+      {
+        "turma": "8ELE",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T4(L107)-3T5(L107)-5T4(L107)-5T5(L107)",
+        "prof": "Elizandra Machado Follmann",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE46S",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tec Analise Des Sist",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GO48CA",
+    "name": "Gestão Empresarial",
+    "turmas": [
+      {
+        "turma": "8CA",
+        "enq": "Presencial",
+        "vt": "5",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Cart Agrimensura",
+        "h": "5N4(V007)-5N5(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
         "opt": "Não"
       }
     ]
@@ -1939,7 +1990,7 @@
       {
         "turma": "1ELB",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Fechada",
         "prio": "1 - Engenharia Elétrica",
@@ -1963,23 +2014,6 @@
         "h": "6M4(I010)-6M5(I010)",
         "prof": "Fabio Luiz Bertotti",
         "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
       }
     ]
   },
@@ -2079,6 +2113,74 @@
     ]
   },
   {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME46EL",
+    "name": "Máquinas Elétricas 1",
+    "turmas": [
+      {
+        "turma": "6EL",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "4M4(I001)-4M5(I001)-6T4(I001)-6T5(I001)",
+        "prof": "Edwin Choque Pillco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ME47EL",
+    "name": "Máquinas Elétricas 2",
+    "turmas": [
+      {
+        "turma": "7ELTEC",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M4(I001)-2M5(I001)-6M4(I001)-6M5(I001)",
+        "prof": "Jose Fabio Kolzer",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
+    "code": "ME48EL",
+    "name": "Máquinas Elétricas 3",
+    "turmas": [
+      {
+        "turma": "8ELTEC",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M2(I001)-2M3(I001)-6M2(I001)-6M3(I001)",
+        "prof": "Jose Fabio Kolzer",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
     "code": "MM42QB",
     "name": "Matéria Em Movimento",
     "turmas": [
@@ -2147,74 +2249,6 @@
     ]
   },
   {
-    "code": "ME46EL",
-    "name": "Máquinas Elétricas 1",
-    "turmas": [
-      {
-        "turma": "6EL",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "4M4(I001)-4M5(I001)-6T4(I001)-6T5(I001)",
-        "prof": "Edwin Choque Pillco",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ME47EL",
-    "name": "Máquinas Elétricas 2",
-    "turmas": [
-      {
-        "turma": "7ELTEC",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M4(I001)-2M5(I001)-6M4(I001)-6M5(I001)",
-        "prof": "Jose Fabio Kolzer",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "ME48EL",
-    "name": "Máquinas Elétricas 3",
-    "turmas": [
-      {
-        "turma": "8ELTEC",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M2(I001)-2M3(I001)-6M2(I001)-6M3(I001)",
-        "prof": "Jose Fabio Kolzer",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
-    "code": "OI29EL",
-    "name": "Organização Industrial",
-    "turmas": [
-      {
-        "turma": "9EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
-        "prof": "Rafael Kuramoto Gonzalez",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "OI47EL",
     "name": "Oficina De Integração",
     "turmas": [
@@ -2244,6 +2278,40 @@
         "prio": "1 - Engenharia Elétrica",
         "h": "2M4(I005)-2M5(I005)-4M2(I005)-4M3(I005)",
         "prof": "Fabio Brignol De Moraes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "OI29EL",
+    "name": "Organização Industrial",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "5T4(V007)-5T5(V007)-5T6(V007)",
+        "prof": "Rafael Kuramoto Gonzalez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PC41NB",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "1CV",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "2T2(M004)-2T3(M004)-5T2(M004)-5T3(M004)",
+        "prof": "Cristina Spohr Fagundes",
         "opt": "Não"
       }
     ]
@@ -2355,37 +2423,9 @@
     ]
   },
   {
-    "code": "PC41NB",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "1CV",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "2T2(M004)-2T3(M004)-5T2(M004)-5T3(M004)",
-        "prof": "Cristina Spohr Fagundes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "PA42NB",
     "name": "Psicologia Aplicada Ao Trabalho",
     "turmas": [
-      {
-        "turma": "5CV",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Civil",
-        "h": "4T4(M104)-4T5(M104)",
-        "prof": "Sergio Paes De Barros",
-        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
-      },
       {
         "turma": "HUMA12",
         "enq": "Presencial",
@@ -2394,6 +2434,17 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "2N1(M103)-2N2(M103)",
+        "prof": "Sergio Paes De Barros",
+        "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
+      },
+      {
+        "turma": "5CV",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Civil",
+        "h": "4T4(M104)-4T5(M104)",
         "prof": "Sergio Paes De Barros",
         "opt": "Matriz:560, Matriz:657, Matriz:489, Matriz:639, Matriz:641, Matriz:640, Matriz:642, Matriz:643, Matriz:638, Matriz:635"
       }
@@ -2496,7 +2547,7 @@
       {
         "turma": "1MCA",
         "enq": "Presencial",
-        "vt": "23",
+        "vt": "22",
         "vc": "22",
         "res": "Aberta",
         "prio": "1 - Eng Mecânica",
@@ -2535,6 +2586,23 @@
     ]
   },
   {
+    "code": "SC47EL",
+    "name": "Sistemas De Comunicação",
+    "turmas": [
+      {
+        "turma": "7ELNIC",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "2M2(I005)-2M3(I005)-4M4(I005)-4M5(I005)",
+        "prof": "Fabio Brignol De Moraes",
+        "opt": "Matriz:641"
+      }
+    ]
+  },
+  {
     "code": "SD45EL",
     "name": "Sistemas Digitais",
     "turmas": [
@@ -2569,23 +2637,6 @@
     ]
   },
   {
-    "code": "SC47EL",
-    "name": "Sistemas De Comunicação",
-    "turmas": [
-      {
-        "turma": "7ELNIC",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2M2(I005)-2M3(I005)-4M4(I005)-4M5(I005)",
-        "prof": "Fabio Brignol De Moraes",
-        "opt": "Matriz:641"
-      }
-    ]
-  },
-  {
     "code": "SE48EL",
     "name": "Subestações De Energia Elétrica",
     "turmas": [
@@ -2603,23 +2654,6 @@
     ]
   },
   {
-    "code": "TC29EL",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "9EL",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "",
-        "prof": "Johnny Werner",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TC48EL",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -2631,6 +2665,23 @@
         "res": "Fechada",
         "prio": "1 - Engenharia Elétrica",
         "h": "6T2(L104)-6T3(L104)-6T4(L104)",
+        "prof": "Johnny Werner",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TC29EL",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "9EL",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "",
         "prof": "Johnny Werner",
         "opt": "Não"
       }
@@ -2661,57 +2712,6 @@
         "h": "3T4(N108)-3T5(N108)",
         "prof": "Samoara Viacelli Da Luz",
         "opt": "Matriz:657, Matriz:489, Matriz:636, Matriz:641, Matriz:628, Matriz:643, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "EP29EL",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9EL",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "2T2(N105)-2T3(N105)",
-        "prof": "Everton Luiz De Aguiar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP29NB",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9CP",
-        "enq": "Presencial",
-        "vt": "12",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T2(N105)-2T3(N105)",
-        "prof": "Everton Luiz De Aguiar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ET29NB",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "9MC",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T4(Q004)-5T5(Q004)",
-        "prof": "Adelino Carlos Maccarini",
-        "opt": "Não"
       }
     ]
   }

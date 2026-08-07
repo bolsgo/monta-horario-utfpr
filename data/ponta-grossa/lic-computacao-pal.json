@@ -17,6 +17,74 @@
     ]
   },
   {
+    "code": "LC06B",
+    "name": "Abordagens Pedagógicas Em Ead 3",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Elaine Ferreira Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06E",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Geraldo Ranthum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06F",
+    "name": "Design Instrucional",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05B",
     "name": "Educação Inclusiva E Tecnologias Assistivas",
     "turmas": [
@@ -34,6 +102,23 @@
     ]
   },
   {
+    "code": "LC06C",
+    "name": "Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Camila Lopes Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05E",
     "name": "Engenharia De Software",
     "turmas": [
@@ -46,6 +131,23 @@
         "prio": "1 - Lic Computação - Pal",
         "h": "",
         "prof": "Eliana Claudia Mayumi Ishikawa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06D",
+    "name": "Programação De Aplicativos Móveis",
+    "turmas": [
+      {
+        "turma": "PAL6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Pal",
+        "h": "",
+        "prof": "Diego Roberto Antunes",
         "opt": "Não"
       }
     ]

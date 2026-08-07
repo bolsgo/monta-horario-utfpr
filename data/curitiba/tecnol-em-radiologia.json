@@ -1,5 +1,143 @@
 [
   {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FIS81C",
     "name": "Anatomia Humana 1",
     "turmas": [
@@ -85,6 +223,23 @@
     ]
   },
   {
+    "code": "FIS82D",
+    "name": "Bioética",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "4T1(CN-123)-4T2(CN-123)",
+        "prof": "Anna Silvia Penteado Setti Da Rocha",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QBI81B",
     "name": "Biologia Celular E Microbiologia",
     "turmas": [
@@ -115,112 +270,6 @@
         "h": "6T4(CN-123)-6T5(CN-123)-6T6(CN-123)",
         "prof": "Anna Silvia Penteado Setti Da Rocha",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS82D",
-    "name": "Bioética",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "4T1(CN-123)-4T2(CN-123)",
-        "prof": "Anna Silvia Penteado Setti Da Rocha",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS85D",
-    "name": "Cartas Técnicas",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "5T2(CA-101)-5T3(CA-101)",
-        "prof": "Jaqueline Kappke",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "COE70A",
-    "name": "Comunicação Oral E Escrita",
-    "turmas": [
-      {
-        "turma": "E11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
-        "h": "4N1(CE-108)-4N2(CE-108)",
-        "prof": "Jamea Cristina Batista Silva Franklin",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "3N2(CE-204)-3N3(CE-204)",
-        "prof": "Lucas Roecker Lazarin",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "2M5(CE-204)-2M6(CE-204)",
-        "prof": "Denise Regina Stacheski",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "5M3(CC-206)-5M4(CC-206)",
-        "prof": "Gabriella Hauber Pimentel",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4M3(CE-204)-4M4(CE-204)",
-        "prof": "Cora Catalina Gaete Quinteros",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "27",
-        "vc": "26",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "5T1(CE-205)-5T2(CE-205)",
-        "prof": "Gabriella Hauber Pimentel",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
       }
     ]
   },
@@ -315,6 +364,95 @@
         "h": "2T5(CE-207)-2T6(CE-207)-5T1(CE-207)-5T2(CE-207)-6T4(CE-108)-6T5(CE-108)",
         "prof": "Priscila Savulski Ferreira De Miranda",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS85D",
+    "name": "Cartas Técnicas",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "5T2(CA-101)-5T3(CA-101)",
+        "prof": "Jaqueline Kappke",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "27",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "5T1(CE-205)-5T2(CE-205)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
       }
     ]
   },
@@ -470,76 +608,8 @@
     ]
   },
   {
-    "code": "FIS82C",
-    "name": "Fisiologia Geral",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "2T4(CN-022)-2T5(CN-022)-3T1(CN-022)-3T2(CN-022)",
-        "prof": "Edney Milhoretto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS83B",
-    "name": "Formação De Imagens 1",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "2T1(CN-022)-2T2(CN-022)-6T2(CQ-304)-6T3(CQ-304)",
-        "prof": "Edney Milhoretto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS84F",
-    "name": "Formação De Imagens 2",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "3T1(CN-128)-3T2(CN-128)-3T3(CN-128)",
-        "prof": "Marcelo Antoniassi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE7A1",
-    "name": "Fundamentos De Administração",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "3T4(CA-202)-3T5(CA-202)-3T6(CA-202)",
-        "prof": "Ricardo Manica",
-        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "QBI81A",
-    "name": "Fundamentos De Bioquímica",
+    "code": "FIS81A",
+    "name": "Física Aplicada À Área Da Saúde 1",
     "turmas": [
       {
         "turma": "T81",
@@ -548,165 +618,8 @@
         "vc": "26",
         "res": "Fechada",
         "prio": "1 - Tecnol.Em Radiologia",
-        "h": "2T1(CE-306)-2T2(CE-306)-2T3(CE-306)",
-        "prof": "Sascha Habu",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E3",
-    "name": "Fundamentos De Economia",
-    "turmas": [
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
-        "h": "2T4(*EK-201)-2T5(*EK-201)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
-        "h": "3T4(CE-206)-3T5(CE-206)",
-        "prof": "Andrea De Souza",
-        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E1",
-    "name": "Fundamentos De Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
-        "h": "4N2(CE-204)-4N3(CE-204)",
-        "prof": "Paulo Apelles Camboim De Oliveira",
-        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
-      },
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "3T2(CA-203)-3T3(CA-203)",
-        "prof": "Rejane Cioli",
-        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
-      }
-    ]
-  },
-  {
-    "code": "GEE7F1",
-    "name": "Fundamentos De Finanças",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
-        "prof": "Armando Rasoto",
-        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7G1",
-    "name": "Fundamentos De Gestão De Pessoas",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      },
-      {
-        "turma": "S02",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Administração",
-        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
-        "prof": "Rejane Cioli",
-        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "GEE7M1",
-    "name": "Fundamentos De Marketing",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Química Ambiental",
-        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
-        "prof": "",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S95",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Comunic Organizacional",
-        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
-        "prof": "Ney Nakazato Miyahira",
-        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "FIS82A",
-    "name": "Física Aplicada À Area De Saúde 2",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "4T3(CN-128)-4T4(CN-128)-5T1(CE-104)-5T2(CE-104)",
-        "prof": "Danyel Scheidegger Soboll",
+        "h": "3T1(CE-102)-3T2(CE-102)-3T3(CE-102)-3T4(CE-102)",
+        "prof": "Charlie Antoni Miquelin",
         "opt": "Não"
       }
     ]
@@ -729,18 +642,18 @@
     ]
   },
   {
-    "code": "FIS81A",
-    "name": "Física Aplicada À Área Da Saúde 1",
+    "code": "FIS82A",
+    "name": "Física Aplicada À Area De Saúde 2",
     "turmas": [
       {
         "turma": "T81",
         "enq": "Presencial",
-        "vt": "44",
-        "vc": "26",
+        "vt": "22",
+        "vc": "0",
         "res": "Fechada",
         "prio": "1 - Tecnol.Em Radiologia",
-        "h": "3T1(CE-102)-3T2(CE-102)-3T3(CE-102)-3T4(CE-102)",
-        "prof": "Charlie Antoni Miquelin",
+        "h": "4T3(CN-128)-4T4(CN-128)-5T1(CE-104)-5T2(CE-104)",
+        "prof": "Danyel Scheidegger Soboll",
         "opt": "Não"
       }
     ]
@@ -1354,6 +1267,231 @@
     ]
   },
   {
+    "code": "FIS82C",
+    "name": "Fisiologia Geral",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "2T4(CN-022)-2T5(CN-022)-3T1(CN-022)-3T2(CN-022)",
+        "prof": "Edney Milhoretto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS83B",
+    "name": "Formação De Imagens 1",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "2T1(CN-022)-2T2(CN-022)-6T2(CQ-304)-6T3(CQ-304)",
+        "prof": "Edney Milhoretto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS84F",
+    "name": "Formação De Imagens 2",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "3T1(CN-128)-3T2(CN-128)-3T3(CN-128)",
+        "prof": "Marcelo Antoniassi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7A1",
+    "name": "Fundamentos De Administração",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "3T4(CA-202)-3T5(CA-202)-3T6(CA-202)",
+        "prof": "Ricardo Manica",
+        "opt": "Matriz:957, Matriz:973, Matriz:976, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "QBI81A",
+    "name": "Fundamentos De Bioquímica",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "26",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "2T1(CE-306)-2T2(CE-306)-2T3(CE-306)",
+        "prof": "Sascha Habu",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E3",
+    "name": "Fundamentos De Economia",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica, 2 - Eng Mecatrônica, 2 - Química Ambiental",
+        "h": "2T4(*EK-201)-2T5(*EK-201)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Eng De Computação, 2 - Eng Eletrônica",
+        "h": "3T4(CE-206)-3T5(CE-206)",
+        "prof": "Andrea De Souza",
+        "opt": "Matriz:960, Matriz:980, Matriz:982, Matriz:957, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:972"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      },
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "3T2(CA-203)-3T3(CA-203)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "GEE7F1",
+    "name": "Fundamentos De Finanças",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "2T2(*EB-210)-2T3(*EB-210)-2T4(*EB-210)-2T5(*EB-210)",
+        "prof": "Armando Rasoto",
+        "opt": "Matriz:973, Matriz:957, Matriz:906, Matriz:920, Matriz:968, Matriz:985, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7G1",
+    "name": "Fundamentos De Gestão De Pessoas",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(CC-206)-3N2(CC-206)-3N3(CC-206)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      },
+      {
+        "turma": "S02",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3T4(CE-303)-3T5(CE-303)-3T6(CE-303)",
+        "prof": "Rejane Cioli",
+        "opt": "Matriz:960, Matriz:957, Matriz:973, Matriz:920, Matriz:981, Matriz:968, Matriz:985, Matriz:982, Matriz:906, Matriz:948, Matriz:962, Matriz:972, Matriz:980"
+      }
+    ]
+  },
+  {
+    "code": "GEE7M1",
+    "name": "Fundamentos De Marketing",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Química Ambiental",
+        "h": "3N1(*EB-303)-3N2(*EB-303)-3N3(*EB-303)",
+        "prof": "",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S95",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "1 - Comunic Organizacional",
+        "h": "2N1(CE-205)-2N2(CE-205)-2N3(CE-205)",
+        "prof": "Ney Nakazato Miyahira",
+        "opt": "Matriz:960, Matriz:973, Matriz:957, Matriz:976, Matriz:920, Matriz:968, Matriz:985, Matriz:906, Matriz:948, Matriz:961, Matriz:962, Matriz:972, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
     "code": "FIS81B",
     "name": "Introdução À Radiologia",
     "turmas": [
@@ -1556,6 +1694,23 @@
     ]
   },
   {
+    "code": "CAART04",
+    "name": "Prática Artística Musical: Grupos Instrumentais 1",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
+        "prof": "Matheus Theodorovitz Prust",
+        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
+      }
+    ]
+  },
+  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -1620,23 +1775,6 @@
         "h": "6T4(CN-128)-6T5(CN-128)",
         "prof": "Akemi Yagui",
         "opt": "Matriz:920"
-      }
-    ]
-  },
-  {
-    "code": "CAART04",
-    "name": "Prática Artística Musical: Grupos Instrumentais 1",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N1(CT-016)-2N2(CT-016)-2N3(CT-016)-4N1(CT-016)-4N2(CT-016)-4N3(CT-016)",
-        "prof": "Matheus Theodorovitz Prust",
-        "opt": "Matriz:973, Matriz:920, Matriz:968, Matriz:906, Matriz:957, Matriz:961, Matriz:962, Matriz:972"
       }
     ]
   },
@@ -1932,40 +2070,6 @@
     ]
   },
   {
-    "code": "FIS85E",
-    "name": "Trabalho De Conclusão 1",
-    "turmas": [
-      {
-        "turma": "T81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "5T4(CN-123)-5T5(CN-123)",
-        "prof": "Marcelo Antoniassi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS86E",
-    "name": "Trabalho De Conclusão 2",
-    "turmas": [
-      {
-        "turma": "E01",
-        "enq": "Presencial",
-        "vt": "50",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol.Em Radiologia",
-        "h": "",
-        "prof": "Marcelo Antoniassi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MAT7T1",
     "name": "Tópicos Matemáticos 1",
     "turmas": [
@@ -2011,6 +2115,40 @@
     ]
   },
   {
+    "code": "FIS85E",
+    "name": "Trabalho De Conclusão 1",
+    "turmas": [
+      {
+        "turma": "T81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "5T4(CN-123)-5T5(CN-123)",
+        "prof": "Marcelo Antoniassi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS86E",
+    "name": "Trabalho De Conclusão 2",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "50",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol.Em Radiologia",
+        "h": "",
+        "prof": "Marcelo Antoniassi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FIS86D",
     "name": "Ultrassom",
     "turmas": [
@@ -2023,144 +2161,6 @@
         "prio": "1 - Tecnol.Em Radiologia",
         "h": "3T4(CC-203)-3T5(CC-203)",
         "prof": "Edney Milhoretto",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7AL",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S73",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist De Informação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
         "opt": "Não"
       }
     ]

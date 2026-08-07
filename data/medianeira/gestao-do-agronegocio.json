@@ -884,6 +884,23 @@
     ]
   },
   {
+    "code": "MEC1007",
+    "name": "Máquinas E Mecanização",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N4(J42)-4N5(J42)",
+        "prof": "Dirceu De Melo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ALM1040",
     "name": "Microbiologia Geral",
     "turmas": [
@@ -907,23 +924,6 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "5N3(L39C)-5N4(L39C)-5N5(L39C)",
         "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MEC1007",
-    "name": "Máquinas E Mecanização",
-    "turmas": [
-      {
-        "turma": "AGR5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "4N4(J42)-4N5(J42)",
-        "prof": "Dirceu De Melo",
         "opt": "Não"
       }
     ]

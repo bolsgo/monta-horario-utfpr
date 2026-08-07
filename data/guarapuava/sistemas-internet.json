@@ -153,23 +153,6 @@
     ]
   },
   {
-    "code": "TSI35A",
-    "name": "Desenvolvimento De Projetos Para Dispositivos Móveis",
-    "turmas": [
-      {
-        "turma": "EAD",
-        "enq": "EaD",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Andres Jesse Porfirio",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TSI32B",
     "name": "Desenvolvimento De Páginas Web Com Framework E Css",
     "turmas": [
@@ -199,6 +182,23 @@
         "prio": "1 - Sistemas Internet",
         "h": "4N3(LABC1)-4N4(LABC1)-5N3(LABC1)-5N4(LABC1)",
         "prof": "Denis Lucas Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "TSI35A",
+    "name": "Desenvolvimento De Projetos Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Andres Jesse Porfirio",
         "opt": "Não"
       }
     ]
@@ -251,6 +251,23 @@
         "h": "2N3(SALAF6)-2N4(SALAF6)",
         "prof": "Adriano Martins De Souza",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
       }
     ]
   },
@@ -549,6 +566,23 @@
     ]
   },
   {
+    "code": "TSI36A",
+    "name": "Tópicos Especiais",
+    "turmas": [
+      {
+        "turma": "EAD",
+        "enq": "EaD",
+        "vt": "20",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "",
+        "prof": "Roni Fabio Banaszewski",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "TSI35F",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -596,40 +630,6 @@
         "h": "",
         "prof": "Diego Marczal",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "TSI36A",
-    "name": "Tópicos Especiais",
-    "turmas": [
-      {
-        "turma": "EAD",
-        "enq": "EaD",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Roni Fabio Banaszewski",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HUM1A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "HUME",
-        "enq": "Presencial",
-        "vt": "6",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecânica",
-        "h": "3M2(SALAH306)-3M3(SALAH306)",
-        "prof": "Priscila Meier De Andrade Tribeck",
-        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
       }
     ]
   }

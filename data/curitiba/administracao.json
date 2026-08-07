@@ -739,40 +739,6 @@
     ]
   },
   {
-    "code": "GEE73H",
-    "name": "Introdução Ao Mundo Do Trabalho I",
-    "turmas": [
-      {
-        "turma": "S63",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Administração",
-        "h": "",
-        "prof": "Gean Carlos Tomazzoni",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE74H",
-    "name": "Introdução Ao Mundo Do Trabalho Ii",
-    "turmas": [
-      {
-        "turma": "S63",
-        "enq": "EaD",
-        "vt": "60",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Administração",
-        "h": "",
-        "prof": "Andrea De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EST70A",
     "name": "Introdução À Estatística",
     "turmas": [
@@ -934,6 +900,40 @@
         "prio": "1 - Sist De Informação",
         "h": "2N1(CA-003)-2N2(CA-003)-2N3(CA-003)-2N4(CA-003)",
         "prof": "Luiz Ledo Mota Melo Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE73H",
+    "name": "Introdução Ao Mundo Do Trabalho I",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Gean Carlos Tomazzoni",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE74H",
+    "name": "Introdução Ao Mundo Do Trabalho Ii",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Andrea De Souza",
         "opt": "Não"
       }
     ]
@@ -1175,6 +1175,23 @@
     ]
   },
   {
+    "code": "GEE7AJ",
+    "name": "Planejamento Tributário",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "",
+        "prof": "Katia Regina Hopfer",
+        "opt": "Matriz:967"
+      }
+    ]
+  },
+  {
     "code": "GEE75A",
     "name": "Processos E Gestão Da Qualidade",
     "turmas": [
@@ -1293,23 +1310,6 @@
         "h": "6T4(CE-303)-6T5(CE-303)",
         "prof": "Maria Luisa Carvalho",
         "opt": "Matriz:990, Matriz:957, Matriz:948, Matriz:976, Matriz:978, Matriz:979, Matriz:960, Matriz:982, Matriz:968, Matriz:985, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:980, Matriz:973, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "GEE7AJ",
-    "name": "Planejamento Tributário",
-    "turmas": [
-      {
-        "turma": "S63",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Administração",
-        "h": "",
-        "prof": "Katia Regina Hopfer",
-        "opt": "Matriz:967"
       }
     ]
   },
@@ -1489,23 +1489,6 @@
     ]
   },
   {
-    "code": "GE78M",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "S63",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Administração",
-        "h": "7M3(D-PTO)-7M4(D-PTO)-7M5(D-PTO)-7M6(D-PTO)",
-        "prof": "Rayane Camila Da Silva Sousa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MAT7T1",
     "name": "Tópicos Matemáticos 1",
     "turmas": [
@@ -1518,6 +1501,23 @@
         "prio": "1 - Administração",
         "h": "2M3(CE-108)-2M4(CE-108)-2M5(CE-108)-3M3(CE-307)-3M4(CE-307)-3M5(CE-307)",
         "prof": "Gustavo Henrique Labegalini Boska",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GE78M",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "S63",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Administração",
+        "h": "7M3(D-PTO)-7M4(D-PTO)-7M5(D-PTO)-7M6(D-PTO)",
+        "prof": "Rayane Camila Da Silva Sousa",
         "opt": "Não"
       }
     ]

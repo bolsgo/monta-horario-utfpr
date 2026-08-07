@@ -1,5 +1,39 @@
 [
   {
+    "code": "MAT07P",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
+        "prof": "Pricila Da Silva Barbosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT07S",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
+        "prof": "Andre Luis Trevisan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB026",
     "name": "Auditoria Ambiental",
     "turmas": [
@@ -80,6 +114,74 @@
         "prio": "1 - Eng. Amb. E Sanit.",
         "h": "4M5(A106)-4M6(A106)",
         "prof": "Claudio Takeo Ueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06P",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "EP23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT06S",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
+        "prof": "Karina Alessandra Pessoa Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT014",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "EP33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT08S",
+    "name": "Cálculo Diferencial E Integral 2b",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
+        "prof": "Cristiane Aparecida Pendeza Martinez",
         "opt": "Não"
       }
     ]
@@ -182,74 +284,6 @@
         "prio": "1 - Eng. Amb. E Sanit.",
         "h": "3M5(A103)-3M6(A103)-4M1(K102)-4M2(K102)",
         "prof": "Alexandre Sordi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT06P",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "EP23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3T5(K208)-3T6(K208)-4T5(K208)-4T6(K208)",
-        "prof": "Regina Sayuri Kainuma Yamada",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT06S",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "5M5(K206)-5M6(K206)-6M5(K206)-6M6(K206)",
-        "prof": "Karina Alessandra Pessoa Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT014",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K210)-2N2(K210)-6T5(K210)-6T6(K210)",
-        "prof": "Luis Felipe Goncalves Carneiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT08S",
-    "name": "Cálculo Diferencial E Integral 2b",
-    "turmas": [
-      {
-        "turma": "AS31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "2M5(A106)-2M6(A106)-4M1(A106)-4M2(A106)",
-        "prof": "Cristiane Aparecida Pendeza Martinez",
         "opt": "Não"
       }
     ]
@@ -470,23 +504,6 @@
     ]
   },
   {
-    "code": "CHS09P",
-    "name": "Estudos Sociais De Ciência E Tecnologia",
-    "turmas": [
-      {
-        "turma": "EP23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "3N1(K205)-3N2(K205)",
-        "prof": "Alcioni Galdino Vieira",
-        "opt": "Matriz:61"
-      }
-    ]
-  },
-  {
     "code": "CHS007",
     "name": "Estudos Étnicos E Raciais",
     "turmas": [
@@ -521,137 +538,52 @@
     ]
   },
   {
-    "code": "MAT002",
-    "name": "Fundamentos De Cálculo Para Engenharia",
+    "code": "CHS09P",
+    "name": "Estudos Sociais De Ciência E Tecnologia",
     "turmas": [
       {
-        "turma": "AS11",
+        "turma": "EP23",
         "enq": "Presencial",
         "vt": "44",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "4M3(K308)-4M4(K308)-5M2(K308)-5M3(K308)",
-        "prof": "Regina Sayuri Kainuma Yamada",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB020",
-    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "AS61",
-        "enq": "Presencial",
-        "vt": "20",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit., 2 - Eng De Materiais",
-        "h": "5M1(A103)-5M2(A103)-5M3(A103)",
-        "prof": "Sueli Tavares De Melo Souza",
-        "opt": "Não"
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "3N1(K205)-3N2(K205)",
+        "prof": "Alcioni Galdino Vieira",
+        "opt": "Matriz:61"
       }
     ]
   },
   {
-    "code": "AMB013",
-    "name": "Fundamentos De Geomática",
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
     "turmas": [
       {
-        "turma": "AS51",
+        "turma": "ME81",
         "enq": "Presencial",
         "vt": "22",
         "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "3M3(K305)-3M4(K305)-5M3(K113)-5M4(K113)",
-        "prof": "Ligia Flavia Antunes Batista",
-        "opt": "Não"
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
       }
     ]
   },
   {
-    "code": "FIS03S",
-    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
     "turmas": [
       {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "3M1(K206)-3M2(K206)-3M3(K206)",
-        "prof": "Joao Paulo Camargo De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS010",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "EP43",
+        "turma": "EM91",
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
         "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS05S",
-    "name": "Física 2 Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
-    "turmas": [
-      {
-        "turma": "AS31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "3M3(A106)-3M4(A106)-3M5(A106)",
-        "prof": "Admir Creso De Lima Targino",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS011",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "EP53",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS07S",
-    "name": "Física 3 Fundamentos Do Eletromagnetismo",
-    "turmas": [
-      {
-        "turma": "AS41",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
-        "prof": "Jorge Alberto Martins",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
         "opt": "Não"
       }
     ]
@@ -814,6 +746,91 @@
     ]
   },
   {
+    "code": "FIS03S",
+    "name": "Física 1: Fundamentos De Cinemática E Dinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(K206)-3M2(K206)-3M3(K206)",
+        "prof": "Joao Paulo Camargo De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS010",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "EP43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K207)-2N2(K207)-2N3(K207)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS05S",
+    "name": "Física 2 Fundamentos De Ondas, Fluidos E Termodinâmica Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(A106)-3M4(A106)-3M5(A106)",
+        "prof": "Admir Creso De Lima Targino",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS011",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "EP53",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Produção",
+        "h": "2N1(K209)-2N2(K209)-2N3(K209)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS07S",
+    "name": "Física 3 Fundamentos Do Eletromagnetismo",
+    "turmas": [
+      {
+        "turma": "AS41",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "6M1(A102)-6M2(A102)-6M3(A102)",
+        "prof": "Jorge Alberto Martins",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI02S",
     "name": "Físico-Química Aplicada",
     "turmas": [
@@ -826,6 +843,57 @@
         "prio": "1 - Eng. Amb. E Sanit.",
         "h": "6M4(K305)-6M5(K305)-6M6(K305)",
         "prof": "Alexei Lorenzetti Novaes Pinheiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT002",
+    "name": "Fundamentos De Cálculo Para Engenharia",
+    "turmas": [
+      {
+        "turma": "AS11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M3(K308)-4M4(K308)-5M2(K308)-5M3(K308)",
+        "prof": "Regina Sayuri Kainuma Yamada",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB020",
+    "name": "Fundamentos De Engenharia De Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit., 2 - Eng De Materiais",
+        "h": "5M1(A103)-5M2(A103)-5M3(A103)",
+        "prof": "Sueli Tavares De Melo Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB013",
+    "name": "Fundamentos De Geomática",
+    "turmas": [
+      {
+        "turma": "AS51",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M3(K305)-3M4(K305)-5M3(K113)-5M4(K113)",
+        "prof": "Ligia Flavia Antunes Batista",
         "opt": "Não"
       }
     ]
@@ -933,6 +1001,23 @@
     ]
   },
   {
+    "code": "EA69B",
+    "name": "Gerenciamento E Tratamento De Água",
+    "turmas": [
+      {
+        "turma": "AS91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "4M1(A105)-4M2(A105)-5M1(A105)-5M2(A105)",
+        "prof": "Edilaine Regina Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EA69D",
     "name": "Gerenciamento E Tratamento De Efluentes Industriais",
     "turmas": [
@@ -984,23 +1069,6 @@
     ]
   },
   {
-    "code": "EA69B",
-    "name": "Gerenciamento E Tratamento De Água",
-    "turmas": [
-      {
-        "turma": "AS91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "4M1(A105)-4M2(A105)-5M1(A105)-5M2(A105)",
-        "prof": "Edilaine Regina Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AMB017",
     "name": "Gestão Ambiental",
     "turmas": [
@@ -1018,23 +1086,6 @@
     ]
   },
   {
-    "code": "AMB024",
-    "name": "Hidrologia Aplicada",
-    "turmas": [
-      {
-        "turma": "AS61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "3M1(A103)-3M2(A103)-4M5(A103)-4M6(A103)",
-        "prof": "Edilaine Regina Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AMB023",
     "name": "Hidráulica Aplicada",
     "turmas": [
@@ -1047,6 +1098,23 @@
         "prio": "1 - Eng. Amb. E Sanit.",
         "h": "2M1(A103)-2M2(A103)-3M3(A103)-3M4(A103)",
         "prof": "Orlando De Carvalho Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB024",
+    "name": "Hidrologia Aplicada",
+    "turmas": [
+      {
+        "turma": "AS61",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "3M1(A103)-3M2(A103)-4M5(A103)-4M6(A103)",
+        "prof": "Edilaine Regina Pereira",
         "opt": "Não"
       }
     ]
@@ -1629,23 +1697,6 @@
     ]
   },
   {
-    "code": "AMB039",
-    "name": "Trabalho De Conclusão 1",
-    "turmas": [
-      {
-        "turma": "AS81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "7M2(A104)-7M3(A104)-7M4(A104)-7M5(A104)",
-        "prof": "Thiago Melanda Mendes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "TC69A",
     "name": "Trabalho De Conclusão De Curso 1",
     "turmas": [
@@ -1680,6 +1731,23 @@
     ]
   },
   {
+    "code": "AMB039",
+    "name": "Trabalho De Conclusão 1",
+    "turmas": [
+      {
+        "turma": "AS81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Amb. E Sanit.",
+        "h": "7M2(A104)-7M3(A104)-7M4(A104)-7M5(A104)",
+        "prof": "Thiago Melanda Mendes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AMB025",
     "name": "Transferência De Calor E De Massa",
     "turmas": [
@@ -1693,74 +1761,6 @@
         "h": "5M4(A103)-5M5(A103)-5M6(A103)",
         "prof": "Joseane Debora Peruco Theodoro",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07P",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "EP33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Produção",
-        "h": "5N1(K210)-5N2(K210)-5N3(K210)",
-        "prof": "Pricila Da Silva Barbosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT07S",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "AS21",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Amb. E Sanit.",
-        "h": "4M1(K206)-4M2(K206)-4M3(K206)",
-        "prof": "Andre Luis Trevisan",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HU99A",
-    "name": "Ética Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "EM91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "4T5(K207)-4T6(K207)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
       }
     ]
   }

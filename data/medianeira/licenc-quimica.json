@@ -1,5 +1,55 @@
 [
   {
+    "code": "MAT1004",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "BQLQ3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
+        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "CC4",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
+        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
+        "prof": "Tatiane Cardoso Batista Flores",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
+        "prof": "Fausto Pinheiro Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
+        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
+        "prof": "Franciele Buss Frescki Kestring",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1013",
     "name": "Análises Químicas Envolvendo Equilíbrios Iônicos Em Sistemas Aquosos",
     "turmas": [
@@ -34,6 +84,23 @@
     ]
   },
   {
+    "code": "AMB1006",
+    "name": "Biologia Celular E Princípios De Biologia Molecular",
+    "turmas": [
+      {
+        "turma": "BQ5",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "2N1(I16)-2N2(I16)-2N3(I16)",
+        "prof": "Larissa De Bortolli Chiamolera Sabbi",
+        "opt": "Matriz:657"
+      }
+    ]
+  },
+  {
     "code": "ALM1046",
     "name": "Bioquímica De Alimentos",
     "turmas": [
@@ -46,6 +113,23 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "2N1(H33)-2N2(H33)-2N3(H33)",
         "prof": "Flavio Dias Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1035",
+    "name": "Bioquímica: Estrutura, Propriedade E Funções De Biomoléculas",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N1(I44)-6N2(I44)-6N3(I44)",
+        "prof": "Tainara Orlando",
         "opt": "Não"
       }
     ]
@@ -74,40 +158,6 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "3N3(L21)-3N4(L21)-3N5(L21)",
         "prof": "Flavio Dias Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AMB1006",
-    "name": "Biologia Celular E Princípios De Biologia Molecular",
-    "turmas": [
-      {
-        "turma": "BQ5",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química Industrial",
-        "h": "2N1(I16)-2N2(I16)-2N3(I16)",
-        "prof": "Larissa De Bortolli Chiamolera Sabbi",
-        "opt": "Matriz:657"
-      }
-    ]
-  },
-  {
-    "code": "QUI1035",
-    "name": "Bioquímica: Estrutura, Propriedade E Funções De Biomoléculas",
-    "turmas": [
-      {
-        "turma": "BQLQ6",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Química Industrial",
-        "h": "6N1(I44)-6N2(I44)-6N3(I44)",
-        "prof": "Tainara Orlando",
         "opt": "Não"
       }
     ]
@@ -392,6 +442,23 @@
     ]
   },
   {
+    "code": "QUI1037",
+    "name": "Estudos Experimentais De Cinética, Eletroquímica E Fenômenos De Superfície",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N4(L25B)-2N5(L25B)",
+        "prof": "Renata Mello Giona",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1020",
     "name": "Estudos Experimentais De Compostos De Coordenação",
     "turmas": [
@@ -455,23 +522,6 @@
         "prio": "1 - Licenc.Química, 1 - Química Industrial",
         "h": "5N1(L25B)-5N2(L25B)",
         "prof": "Michelle Budke Costa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1037",
-    "name": "Estudos Experimentais De Cinética, Eletroquímica E Fenômenos De Superfície",
-    "turmas": [
-      {
-        "turma": "BQLQ6",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Química Industrial",
-        "h": "2N4(L25B)-2N5(L25B)",
-        "prof": "Renata Mello Giona",
         "opt": "Não"
       }
     ]
@@ -544,6 +594,84 @@
     ]
   },
   {
+    "code": "FIS1001",
+    "name": "Física Do Movimento",
+    "turmas": [
+      {
+        "turma": "ALI3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Alimentos",
+        "h": "5M1(H37)-5M2(H37)-5M3(H37)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "AMB2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2N1(L43)-2N2(L43)-2N3(L43)",
+        "prof": "Fabricio Tronco Dalmolin",
+        "opt": "Não"
+      },
+      {
+        "turma": "BQLQ2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "6N3(I15)-6N4(I15)-6N5(I15)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      },
+      {
+        "turma": "ELE3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Engenharia Elétrica",
+        "h": "3T1(L27)-3T2(L27)-3T3(L27)",
+        "prof": "Ricardo Augusto Mascarello Gotardo",
+        "opt": "Não"
+      },
+      {
+        "turma": "EP3",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng.Produção",
+        "h": "6M1(L23)-6M2(L23)-6M3(L23)",
+        "prof": "Leandro Herculano Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1047",
+    "name": "Fundamento De Química Do Estado Sólido E Materiais",
+    "turmas": [
+      {
+        "turma": "BQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "6N4(I42)-6N5(I42)",
+        "prof": "Roger Borges",
+        "opt": "Matriz:657"
+      }
+    ]
+  },
+  {
     "code": "HLA1012",
     "name": "Fundamentos Da Didática E Educação",
     "turmas": [
@@ -557,6 +685,23 @@
         "h": "5N1(H37)-5N2(H37)",
         "prof": "Shiderlene Vieira De Almeida Araujo",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1007",
+    "name": "Fundamentos Da Química Dos Minerais",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "6N4(I43)-6N5(I43)",
+        "prof": "Ana Cristina Trindade Cursino",
+        "opt": "Matriz:660"
       }
     ]
   },
@@ -635,6 +780,23 @@
         "h": "2N1(L42)-2N2(L42)-6N4(L42)-6N5(L42)",
         "prof": "Cleverson Goncalves Dos Santos",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AMB1066",
+    "name": "Fundamentos De Microbiologia Geral E Industrial",
+    "turmas": [
+      {
+        "turma": "BQ6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Química Industrial",
+        "h": "3N1(I12)-3N2(I12)-3N3(I12)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
+        "opt": "Matriz:657"
       }
     ]
   },
@@ -723,23 +885,6 @@
     ]
   },
   {
-    "code": "QUI1047",
-    "name": "Fundamento De Química Do Estado Sólido E Materiais",
-    "turmas": [
-      {
-        "turma": "BQ4",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química Industrial",
-        "h": "6N4(I42)-6N5(I42)",
-        "prof": "Roger Borges",
-        "opt": "Matriz:657"
-      }
-    ]
-  },
-  {
     "code": "QUI1054",
     "name": "Fundamentos Químicos Em Processos Industriais",
     "turmas": [
@@ -753,101 +898,6 @@
         "h": "2N4(I12)-2N5(I12)",
         "prof": "Eduardo Eyng",
         "opt": "Matriz:657"
-      }
-    ]
-  },
-  {
-    "code": "AMB1007",
-    "name": "Fundamentos Da Química Dos Minerais",
-    "turmas": [
-      {
-        "turma": "BQLQ5",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química",
-        "h": "6N4(I43)-6N5(I43)",
-        "prof": "Ana Cristina Trindade Cursino",
-        "opt": "Matriz:660"
-      }
-    ]
-  },
-  {
-    "code": "AMB1066",
-    "name": "Fundamentos De Microbiologia Geral E Industrial",
-    "turmas": [
-      {
-        "turma": "BQ6",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Química Industrial",
-        "h": "3N1(I12)-3N2(I12)-3N3(I12)",
-        "prof": "Marcia Antonia Bartolomeu Agustini",
-        "opt": "Matriz:657"
-      }
-    ]
-  },
-  {
-    "code": "FIS1001",
-    "name": "Física Do Movimento",
-    "turmas": [
-      {
-        "turma": "ALI3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Alimentos",
-        "h": "5M1(H37)-5M2(H37)-5M3(H37)",
-        "prof": "Leandro Herculano Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "AMB2",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2N1(L43)-2N2(L43)-2N3(L43)",
-        "prof": "Fabricio Tronco Dalmolin",
-        "opt": "Não"
-      },
-      {
-        "turma": "BQLQ2",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Química Industrial",
-        "h": "6N3(I15)-6N4(I15)-6N5(I15)",
-        "prof": "Leandro Herculano Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "ELE3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "3T1(L27)-3T2(L27)-3T3(L27)",
-        "prof": "Ricardo Augusto Mascarello Gotardo",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção",
-        "h": "6M1(L23)-6M2(L23)-6M3(L23)",
-        "prof": "Leandro Herculano Da Silva",
-        "opt": "Não"
       }
     ]
   },
@@ -975,23 +1025,6 @@
     ]
   },
   {
-    "code": "HLA1015",
-    "name": "Introdução À Língua Brasileira De Sinais",
-    "turmas": [
-      {
-        "turma": "BQLQ4",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química",
-        "h": "3N1(H38)",
-        "prof": "Silvana Mendonca Lopes Valentin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QUI1039",
     "name": "Instrumentação Para O Ensino De Química Ii: Práticas Investigativas E Experimentação Na Educação Básica",
     "turmas": [
@@ -1004,6 +1037,23 @@
         "prio": "1 - Licenc.Química",
         "h": "4N4(I44)-4N5(I44)",
         "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1015",
+    "name": "Introdução À Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "BQLQ4",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(H38)",
+        "prof": "Silvana Mendonca Lopes Valentin",
         "opt": "Não"
       }
     ]
@@ -1181,51 +1231,6 @@
     ]
   },
   {
-    "code": "ALM1043",
-    "name": "Microbiologia De Alimentos",
-    "turmas": [
-      {
-        "turma": "TAL3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "4N3(L39C)-4N4(L39C)-4N5(L39C)",
-        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ALM1040",
-    "name": "Microbiologia Geral",
-    "turmas": [
-      {
-        "turma": "AGR3",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "2N1(H39)-2N2(H39)-2N3(H39)",
-        "prof": "Marcia Antonia Bartolomeu Agustini",
-        "opt": "Não"
-      },
-      {
-        "turma": "TAL2",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol Em Alimentos",
-        "h": "5N3(L39C)-5N4(L39C)-5N5(L39C)",
-        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "QUI1038",
     "name": "Metodologias Da Pesquisa Em Educação Química",
     "turmas": [
@@ -1311,6 +1316,51 @@
     ]
   },
   {
+    "code": "ALM1043",
+    "name": "Microbiologia De Alimentos",
+    "turmas": [
+      {
+        "turma": "TAL3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "4N3(L39C)-4N4(L39C)-4N5(L39C)",
+        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM1040",
+    "name": "Microbiologia Geral",
+    "turmas": [
+      {
+        "turma": "AGR3",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "2N1(H39)-2N2(H39)-2N3(H39)",
+        "prof": "Marcia Antonia Bartolomeu Agustini",
+        "opt": "Não"
+      },
+      {
+        "turma": "TAL2",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos",
+        "h": "5N3(L39C)-5N4(L39C)-5N5(L39C)",
+        "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1014",
     "name": "Organização E Funcionamento Da Educação Básica",
     "turmas": [
@@ -1323,6 +1373,125 @@
         "prio": "1 - Licenc.Química",
         "h": "3N4(H37)-3N5(H37)",
         "prof": "Jacqueline Lidiane De Souza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1042",
+    "name": "Pesquisa E Extensão No Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N3(G06A)-4N4(G06A)-4N5(G06A)",
+        "prof": "Rodrigo Ruschel Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E2LQ1",
+    "name": "Prática De Ensino E Estágio Curricular Supervisionado Ii",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "5N1(G4)-5N2(G4)-5N3(G4)-5N4(G4)-5N5(G4)-6T3(G4)-6T4(G4)-6T5(G4)-6T6(G4)",
+        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1036",
+    "name": "Princípios De Cinética, Eletroquímica E Fenômenos De Superfície",
+    "turmas": [
+      {
+        "turma": "BQLQ6",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "2N1(I44)-2N2(I44)-2N3(I44)",
+        "prof": "Renata Mello Giona",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1028",
+    "name": "Princípios De Termodinâmica Em Substâncias Puras, Misturas E Equilíbrios",
+    "turmas": [
+      {
+        "turma": "BQLQ5",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc.Química, 1 - Química Industrial",
+        "h": "3N1(I43)-3N2(I43)-3N3(I43)",
+        "prof": "Paulo Rodrigo Stival Bittencourt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1044",
+    "name": "Projeto De Trabalho De Conclusão De Curso Em Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ7",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "2N1(I42)-2N2(I42)-2N3(I42)",
+        "prof": "Juliane Maria Bergamin Bocardi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1040",
+    "name": "Projeto Integrador 2: Prática Investigativa E Experimental De Fenômenos E Processos Químicos No Contexto Educativo",
+    "turmas": [
+      {
+        "turma": "LQ6",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N3(I44)",
+        "prof": "Ismael Laurindo Costa Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1045",
+    "name": "Projeto Integrador 3: Oficinas Temáticas E Extensionistas Visando A Integração No Espaço Escolar.",
+    "turmas": [
+      {
+        "turma": "LQ8",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "4N1(G4)-4N2(G4)",
+        "prof": "Ismael Laurindo Costa Junior",
         "opt": "Não"
       }
     ]
@@ -1369,125 +1538,6 @@
         "h": "5N4(H33)-5N5(H33)",
         "prof": "Shiderlene Vieira De Almeida Araujo",
         "opt": "Matriz:665, Matriz:655, Matriz:653, Matriz:656, Matriz:660, Matriz:657, Matriz:654, Matriz:659, Matriz:658, Matriz:662"
-      }
-    ]
-  },
-  {
-    "code": "QUI1042",
-    "name": "Pesquisa E Extensão No Ensino De Química",
-    "turmas": [
-      {
-        "turma": "LQ7",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Licenc.Química",
-        "h": "4N3(G06A)-4N4(G06A)-4N5(G06A)",
-        "prof": "Rodrigo Ruschel Nunes",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1036",
-    "name": "Princípios De Cinética, Eletroquímica E Fenômenos De Superfície",
-    "turmas": [
-      {
-        "turma": "BQLQ6",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Química Industrial",
-        "h": "2N1(I44)-2N2(I44)-2N3(I44)",
-        "prof": "Renata Mello Giona",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1028",
-    "name": "Princípios De Termodinâmica Em Substâncias Puras, Misturas E Equilíbrios",
-    "turmas": [
-      {
-        "turma": "BQLQ5",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Química Industrial",
-        "h": "3N1(I43)-3N2(I43)-3N3(I43)",
-        "prof": "Paulo Rodrigo Stival Bittencourt",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1040",
-    "name": "Projeto Integrador 2: Prática Investigativa E Experimental De Fenômenos E Processos Químicos No Contexto Educativo",
-    "turmas": [
-      {
-        "turma": "LQ6",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Licenc.Química",
-        "h": "4N3(I44)",
-        "prof": "Ismael Laurindo Costa Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1045",
-    "name": "Projeto Integrador 3: Oficinas Temáticas E Extensionistas Visando A Integração No Espaço Escolar.",
-    "turmas": [
-      {
-        "turma": "LQ8",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Licenc.Química",
-        "h": "4N1(G4)-4N2(G4)",
-        "prof": "Ismael Laurindo Costa Junior",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI1044",
-    "name": "Projeto De Trabalho De Conclusão De Curso Em Ensino De Química",
-    "turmas": [
-      {
-        "turma": "LQ7",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Licenc.Química",
-        "h": "2N1(I42)-2N2(I42)-2N3(I42)",
-        "prof": "Juliane Maria Bergamin Bocardi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "E2LQ1",
-    "name": "Prática De Ensino E Estágio Curricular Supervisionado Ii",
-    "turmas": [
-      {
-        "turma": "LQ7",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Licenc.Química",
-        "h": "5N1(G4)-5N2(G4)-5N3(G4)-5N4(G4)-5N5(G4)-6T3(G4)-6T4(G4)-6T5(G4)-6T6(G4)",
-        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
-        "opt": "Não"
       }
     ]
   },
@@ -1572,56 +1622,6 @@
         "prio": "1 - Licenc.Química",
         "h": "4N3(I45)",
         "prof": "Juliane Maria Bergamin Bocardi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT1004",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "BQLQ3",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Licenc.Química, 1 - Eng Amb/Sanitária, 1 - Química Industrial",
-        "h": "4N1(L22)-4N2(L22)-4N3(L22)",
-        "prof": "Fausto Pinheiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "CC4",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciência Computação, 1 - Engenharia Elétrica",
-        "h": "6T3(L21)-6T4(L21)-6T5(L21)",
-        "prof": "Tatiane Cardoso Batista Flores",
-        "opt": "Não"
-      },
-      {
-        "turma": "ELE3",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6T3(L27)-6T4(L27)-6T5(L27)",
-        "prof": "Fausto Pinheiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP3",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
-        "h": "3M1(L21)-3M2(L21)-3M3(L21)",
-        "prof": "Franciele Buss Frescki Kestring",
         "opt": "Não"
       }
     ]

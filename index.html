@@ -38,7 +38,17 @@
   <div class="header-title-row">
     <h1>Monta<span>Horário</span> <span id="brandUtfpr">UTFPR 2026/2</span></h1>
     <div class="header-extras">
-      <button type="button" class="compact-toggle" id="compactToggle" title="Modo compacto para melhor visualização da lista" aria-label="Modo compacto" aria-pressed="true">Desativar modo compacto</button>
+      <button type="button" class="compact-toggle icon-btn" id="compactToggle" title="Modo compacto para melhor visualização da lista" aria-label="Modo compacto" aria-pressed="true">
+        <svg class="ct-icon ct-icon-compact" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+          <line x1="2" y1="4" x2="14" y2="4"></line>
+          <line x1="2" y1="8" x2="14" y2="8"></line>
+          <line x1="2" y1="12" x2="14" y2="12"></line>
+        </svg>
+        <svg class="ct-icon ct-icon-expanded" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+          <rect x="2" y="2.5" width="12" height="4" rx="1"></rect>
+          <rect x="2" y="9.5" width="12" height="4" rx="1"></rect>
+        </svg>
+      </button>
       <button type="button" class="theme-toggle" id="themeToggle" title="Alternar tema" aria-label="Alternar tema" aria-pressed="false">
         <span class="tt-track">
           <span class="tt-thumb" id="ttThumb"></span>
@@ -58,8 +68,19 @@
     <button id="btnRedo" class="icon-btn" title="Refazer (Ctrl+Y)" aria-label="Refazer" disabled>
       <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
     </button>
-    <button id="btnCopy" title="Copiar seleção (Ctrl+C)">Copiar Turmas</button>
-    <button id="btnPaste" title="Colar seleção (Ctrl+V)">Colar Turmas</button>
+    <button id="btnCopy" title="Copiar seleção (Ctrl+C)"><span class="btn-label-full">Copiar Turmas</span><span class="btn-label-short">Copiar</span></button>
+    <button id="btnPaste" title="Colar seleção (Ctrl+V)"><span class="btn-label-full">Colar Turmas</span><span class="btn-label-short">Colar</span></button>
+    <div class="enrolled-dropdown-wrap" id="enrolledDropdownWrap">
+      <button type="button" class="enrolled-toggle icon-btn" id="enrolledToggle" title="Ver turmas selecionadas" aria-label="Ver turmas selecionadas" aria-haspopup="true" aria-expanded="false">
+        <svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M3 5h10"></path>
+          <path d="M3 8h10"></path>
+          <path d="M3 11h6"></path>
+          <path d="M12 10.5l1.5 1.5 2-2.5"></path>
+        </svg>
+      </button>
+      <div class="enrolled-dropdown" id="enrolledDropdown" role="menu" aria-label="Turmas selecionadas" hidden></div>
+    </div>
     <button id="btnClear" class="danger icon-btn" title="Limpar tudo (Delete)" aria-label="Limpar tudo">
       <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"></path><path d="M10 11v6"></path><path d="M14 11v6"></path><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"></path></svg>
     </button>

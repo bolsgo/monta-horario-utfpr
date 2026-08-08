@@ -78,6 +78,7 @@
   button{cursor:pointer;border:none;background:var(--panel2);color:var(--text);
     padding:9px 14px;border-radius:4px;font-size:12.5px;font-weight:600;font-family:var(--font-body);
     transition:.15s;display:flex;align-items:center;gap:6px;}
+  .btn-label-short{display:none;}
   button:hover{background:var(--hover-bg);}
   button.primary{background:var(--accent);color:var(--on-accent);}
   button.primary:hover{background:var(--accent-hover);}
@@ -429,7 +430,7 @@
   .filter-row .filter-pin-btn.active{background:var(--accent2);color:var(--on-accent);}
   .icon-btn{padding:9px;width:34px;height:34px;justify-content:center;}
   .icon-btn svg{flex-shrink:0;}
-  .github-link{background:var(--panel2);color:var(--text);border-radius:4px;text-decoration:none;display:inline-flex;box-sizing:border-box;transition:.15s;}
+  .github-link{background:var(--panel2);color:var(--text);border-radius:4px;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;transition:.15s;}
   .github-link:hover{background:var(--hover-bg);}
 
   /* ============== SLIDER DE TEMA (claro/escuro), com "sistema" oculto ==============
@@ -437,9 +438,37 @@
      continua funcionando em segundo plano (ver app.js) e, quando ativa, este
      controle exibe o sol ou a lua conforme a aparência atual do SO. Um clique
      define uma preferência explícita (claro ou escuro), saindo do modo sistema. */
-  .compact-toggle{font-size:11.5px;padding:8px 11px;flex-shrink:0;}
+  .compact-toggle{flex-shrink:0;position:relative;color:var(--text);}
   .compact-toggle:hover{background:var(--hover-bg);}
-  .compact-toggle[aria-pressed="true"]{background:var(--accent2);color:var(--on-accent);}
+  .compact-toggle[aria-pressed="false"]{background:var(--accent2);color:var(--on-accent);}
+  .compact-toggle .ct-icon{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);transition:opacity .15s ease,transform .15s ease;}
+  .compact-toggle .ct-icon-expanded{opacity:0;transform:translate(-50%,-50%) scale(.7);}
+  .compact-toggle[aria-pressed="true"] .ct-icon-compact{opacity:1;transform:translate(-50%,-50%) scale(1);}
+  .compact-toggle[aria-pressed="true"] .ct-icon-expanded{opacity:0;transform:translate(-50%,-50%) scale(.7);}
+  .compact-toggle[aria-pressed="false"] .ct-icon-compact{opacity:0;transform:translate(-50%,-50%) scale(.7);}
+  .compact-toggle[aria-pressed="false"] .ct-icon-expanded{opacity:1;transform:translate(-50%,-50%) scale(1);}
+
+  /* Lista de turmas selecionadas, formato do Ctrl+C. Conteúdo gerado por
+     renderEnrolledDropdown() em app.js a cada abertura. */
+  .enrolled-dropdown-wrap{position:relative;flex-shrink:0;}
+  .enrolled-toggle{color:var(--text);}
+  .enrolled-toggle:hover{background:var(--hover-bg);}
+  .enrolled-toggle[aria-expanded="true"]{background:var(--accent2);color:var(--on-accent);}
+  .enrolled-dropdown{position:absolute;top:calc(100% + 6px);right:0;min-width:190px;max-width:280px;
+    max-height:320px;overflow-y:auto;background:var(--panel);border-radius:8px;
+    box-shadow:0 4px 18px rgba(0,0,0,.18),0 0 0 1px var(--border);z-index:150;padding:5px;}
+  .enrolled-dropdown[hidden]{display:none;}
+  .enrolled-dropdown-empty{padding:10px 9px;font-size:12px;color:var(--muted);text-align:center;}
+  .enrolled-dropdown-item{display:flex;align-items:center;justify-content:space-between;gap:6px;width:100%;}
+  .enrolled-dropdown-item .edi-code,.enrolled-dropdown-item .edi-turma{
+    font-family:inherit;background:transparent;border:none;cursor:pointer;color:var(--text);
+    padding:6px 9px;border-radius:5px;font-size:12.5px;transition:.12s;
+    font-variant-numeric:tabular-nums;}
+  .enrolled-dropdown-item .edi-code{font-weight:600;flex:1 1 auto;text-align:left;}
+  .enrolled-dropdown-item .edi-turma{color:var(--muted);flex:0 0 auto;}
+  .enrolled-dropdown-item .edi-code:hover,.enrolled-dropdown-item .edi-code:focus-visible,
+  .enrolled-dropdown-item .edi-turma:hover,.enrolled-dropdown-item .edi-turma:focus-visible{
+    background:var(--hover-bg);outline:none;color:var(--accent2);}
 
   .theme-toggle{background:transparent;padding:0;width:56px;height:30px;border-radius:999px;flex-shrink:0;}
   .theme-toggle:hover{background:transparent;}
@@ -730,8 +759,18 @@
      precisam vir depois no arquivo. */
   @media(max-width:700px){
     main{padding:12px 10px;gap:12px;}
-    .header-title-row{width:100%;justify-content:space-between;flex-wrap:wrap;}
-    header h1{white-space:normal;font-size:17px;line-height:1.25;}
+    .header-title-row{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:6px;}
+    header h1{white-space:nowrap;font-size:19px;line-height:1.25;overflow:hidden;text-overflow:ellipsis;min-width:0;}
+    header h1 #brandUtfpr{font-size:5.9px;}
+    .header-extras{gap:5px;flex-shrink:0;}
+    .header-extras .icon-btn,.header-extras .compact-toggle,
+    .header-extras .github-link{width:32px;height:32px;padding:0;}
+    .header-extras .ct-icon{width:15px;height:15px;}
+    .header-extras .github-link svg{width:15px;height:15px;}
+    .header-extras .theme-toggle,.header-extras .tt-track{width:48px;height:26px;}
+    .header-extras .tt-thumb{width:20px;height:20px;top:3px;left:3px;}
+    html[data-theme="dark"] .header-extras .tt-thumb{transform:translateX(22px);}
+    .header-extras .tt-thumb svg{width:12px;height:12px;}
 
     /* Exceção do celular: aqui o aviso de conflito volta a aparecer em
        cima da grade (ordem original), diferente do PC/tablet acima, onde
@@ -750,14 +789,26 @@
     .legend{order:5;}
     .footer-note{order:6;}
 
-    /* Botões de ação (desfazer/refazer, copiar/colar, limpar) na barra fixa
-       (.action-bar, sticky no topo). Em vez de rolar horizontalmente,
-       agora quebram para uma segunda linha se faltar espaço — assim a
-       barra nunca ganha scroll lateral, só cresce um pouco em altura. */
-    .action-bar{padding:8px 10px;gap:6px;}
-    .action-bar .toolbar{flex-wrap:wrap;row-gap:6px;}
-    .action-bar .toolbar button{padding:7px 10px;font-size:11.5px;}
-    .action-bar .toolbar .icon-btn{width:30px;height:30px;padding:0;}
+    /* Ícones/texto usam clamp() para escalar com a largura da tela e
+       sempre caber numa linha só, sem scroll lateral. */
+    .action-bar{padding:8px 3vw;gap:1.5vw;}
+    .action-bar .toolbar{flex-wrap:nowrap;gap:1.5vw;width:100%;justify-content:space-between;
+      container-type:inline-size;container-name:toolbar;}
+    .action-bar .toolbar button{padding:clamp(6px,2.2vw,11px) clamp(4px,1.6vw,10px);
+      font-size:clamp(10px,3.1vw,13px);white-space:nowrap;}
+    .action-bar .toolbar .icon-btn{width:clamp(26px,9vw,38px);height:clamp(26px,9vw,38px);
+      padding:0;flex-shrink:0;}
+    .action-bar .toolbar .icon-btn svg{width:clamp(14px,4.2vw,18px);height:clamp(14px,4.2vw,18px);}
+    .action-bar .toolbar .enrolled-dropdown-wrap{flex-shrink:0;}
+    .action-bar .toolbar #btnCopy,.action-bar .toolbar #btnPaste{flex:1 1 0;min-width:0;justify-content:center;}
+    /* Label curta por padrão; volta para "Copiar/Colar Turmas" quando a
+       toolbar tem espaço (@container, não viewport). */
+    .action-bar .toolbar .btn-label-full{display:none;}
+    .action-bar .toolbar .btn-label-short{display:inline;}
+    @container toolbar (min-width:360px){
+      .action-bar .toolbar .btn-label-full{display:inline;}
+      .action-bar .toolbar .btn-label-short{display:none;}
+    }
 
     /* Nomes dos dias reduzidos a uma única letra (S, T, Q...) e a tabela
        forçada a ocupar exatamente 100% da largura disponível, para caber

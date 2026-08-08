@@ -1112,6 +1112,87 @@ function subjectColor(code, contextCodes) {
   document.getElementById("btnPaste").onclick = doPasteSelection;
   document.getElementById("btnClear").onclick = doClearAll;
 
+  // Lista de turmas selecionadas (formato do Ctrl+C). Reconstruída a
+  // partir de State.getSelected() a cada abertura.
+  const enrolledWrap = document.getElementById("enrolledDropdownWrap");
+  const enrolledToggleBtn = document.getElementById("enrolledToggle");
+  const enrolledDropdownEl = document.getElementById("enrolledDropdown");
+
+  function renderEnrolledDropdown() {
+    const items = Object.values(State.getSelected());
+    enrolledDropdownEl.innerHTML = "";
+    if (!items.length) {
+      const empty = document.createElement("div");
+      empty.className = "enrolled-dropdown-empty";
+      empty.textContent = "Nenhuma turma selecionada.";
+      enrolledDropdownEl.appendChild(empty);
+      return;
+    }
+    items.forEach(s => {
+      const row = document.createElement("div");
+      row.className = "enrolled-dropdown-item";
+      row.setAttribute("role", "group");
+      row.setAttribute("aria-label", `${s.code}, ${s.turma}`);
+
+      const codeBtn = document.createElement("button");
+      codeBtn.type = "button";
+      codeBtn.className = "edi-code";
+      codeBtn.setAttribute("role", "menuitem");
+      codeBtn.title = "Clique para copiar só o código";
+      codeBtn.textContent = s.code;
+      codeBtn.addEventListener("click", async (e) => {
+        e.stopPropagation();
+        try {
+          await navigator.clipboard.writeText(s.code);
+          toast(`${s.code} copiado para a área de transferência.`);
+        } catch (err) {
+          toast("Não foi possível copiar automaticamente.");
+        }
+      });
+
+      const turmaBtn = document.createElement("button");
+      turmaBtn.type = "button";
+      turmaBtn.className = "edi-turma";
+      turmaBtn.setAttribute("role", "menuitem");
+      turmaBtn.title = "Clique para copiar só a turma";
+      turmaBtn.textContent = s.turma;
+      turmaBtn.addEventListener("click", async (e) => {
+        e.stopPropagation();
+        try {
+          await navigator.clipboard.writeText(s.turma);
+          toast(`${s.turma} copiada para a área de transferência.`);
+        } catch (err) {
+          toast("Não foi possível copiar automaticamente.");
+        }
+      });
+
+      row.appendChild(codeBtn);
+      row.appendChild(turmaBtn);
+      enrolledDropdownEl.appendChild(row);
+    });
+  }
+
+  function openEnrolledDropdown() {
+    renderEnrolledDropdown();
+    enrolledDropdownEl.hidden = false;
+    enrolledToggleBtn.setAttribute("aria-expanded", "true");
+  }
+  function closeEnrolledDropdown() {
+    enrolledDropdownEl.hidden = true;
+    enrolledToggleBtn.setAttribute("aria-expanded", "false");
+  }
+  enrolledToggleBtn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    if (enrolledDropdownEl.hidden) openEnrolledDropdown();
+    else closeEnrolledDropdown();
+  });
+  document.addEventListener("click", (e) => {
+    if (!enrolledDropdownEl.hidden && !enrolledWrap.contains(e.target)) closeEnrolledDropdown();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !enrolledDropdownEl.hidden) closeEnrolledDropdown();
+  });
+
   // Botões de template (1/2/3): cada um guarda sua própria grade (ver
   // State.switchTemplate). O botão ativo é só reflexo visual do estado.
   const templateBtns = document.querySelectorAll(".template-btn");
@@ -1259,7 +1340,7 @@ function subjectColor(code, contextCodes) {
     const btn = document.getElementById("compactToggle");
     if (btn) {
       btn.setAttribute("aria-pressed", on ? "true" : "false");
-      btn.textContent = on ? "Desativar modo compacto" : "Ativar modo compacto";
+      btn.title = on ? "Desativar modo compacto" : "Ativar modo compacto";
     }
   }
   const compactToggleBtn = document.getElementById("compactToggle");
@@ -1271,6 +1352,7 @@ function subjectColor(code, contextCodes) {
       localStorage.setItem(COMPACT_KEY, next ? "1" : "0");
       applyCompact(next);
       renderAll(); // recalcula o layout de 2 colunas da lista (ver renderSubjectList)
+      toast(next ? "Modo compacto ativado." : "Modo compacto desativado.");
     });
   }
 

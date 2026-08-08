@@ -2423,6 +2423,23 @@
     ]
   },
   {
+    "code": "EAL2002",
+    "name": "Química Orgânica",
+    "turmas": [
+      {
+        "turma": "IG2A",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Alimentos",
+        "h": "3N4(D107)-3N5(D107)-5N4(D106)-5N5(D106)",
+        "prof": "Manuel Salvador Vicente Plata Oviedo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EAL5004",
     "name": "Química De Alimentos",
     "turmas": [

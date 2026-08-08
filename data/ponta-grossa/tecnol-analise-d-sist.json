@@ -70,8 +70,8 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Análise D.Sist",
         "h": "6N1(K102)-6N2(K102)-6N3(K102)-6N4(K102)",
         "prof": "Tarcizio Alexandre Bini",
         "opt": "Não"
@@ -181,23 +181,6 @@
     ]
   },
   {
-    "code": "QM38F",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "EQ82",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(L003)-3T5(L003)",
-        "prof": "Joao Luiz Kovaleski",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AD34B",
     "name": "Engenharia De Software",
     "turmas": [
@@ -228,23 +211,6 @@
         "h": "2N1(C103)-2N2(C103)-5N3(C103)-5N4(C103)",
         "prof": "Saulo Jorge Beltrao De Queiroz",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ETICAPC00H",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "OPTAI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Automação Ind., 1 - Tecnol. Análise D.Sist",
-        "h": "4N1(L002)-4N2(L002)",
-        "prof": "Rafael De Araujo E Viana Leite",
-        "opt": "Matriz:844, Matriz:820, Matriz:824, Matriz:814"
       }
     ]
   },
@@ -444,7 +410,7 @@
         "enq": "Presencial",
         "vt": "35",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Tecnol. Análise D.Sist",
         "h": "3N3(C103)-3N4(C103)-4N3(C103)-4N4(C103)",
         "prof": "Vinicius Camargo Andrade",
@@ -529,8 +495,8 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Análise D.Sist",
         "h": "3N1(C104)-3N2(C104)-5N3(C104)-5N4(C104)",
         "prof": "Rogerio Ranthum",
         "opt": "Matriz:844, Matriz:814"
@@ -614,8 +580,8 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Análise D.Sist",
         "h": "4N1(C103)-4N2(C103)-5N1(C104)-5N2(C104)",
         "prof": "Erikson Freitas De Morais",
         "opt": "Matriz:844, Matriz:814"
@@ -631,11 +597,28 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Análise D.Sist",
         "h": "3N3(C207)-3N4(C207)-5N1(C207)-5N2(C207)",
         "prof": "Lourival Aparecido De Gois",
         "opt": "Matriz:844, Matriz:814"
+      }
+    ]
+  },
+  {
+    "code": "ETICAPC00H",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "OPTAI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Automação Ind., 1 - Tecnol. Análise D.Sist",
+        "h": "4N1(L002)-4N2(L002)",
+        "prof": "Rafael De Araujo E Viana Leite",
+        "opt": "Matriz:844, Matriz:820, Matriz:824, Matriz:814"
       }
     ]
   }

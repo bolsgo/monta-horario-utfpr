@@ -17,23 +17,6 @@
     ]
   },
   {
-    "code": "MMT13B",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "MCT3",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3N3(SALAF10)-3N4(SALAF10)-3N5(SALAF10)",
-        "prof": "Bruno Leonardo Macedo Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MCT17D",
     "name": "Automação Industrial",
     "turmas": [
@@ -46,6 +29,125 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "4T5(LABA6)-4T6(LABA6)-6T5(LABA6)-6T6(LABA6)",
         "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT16E",
+    "name": "Circuitos Digitais",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N3(LABA11)-4N4(LABA11)-4N5(LABA11)",
+        "prof": "Hilson Henrique Daum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT13G",
+    "name": "Circuitos Eletricos",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "4N4(SALAF10)-4N5(SALAF10)-5N2(SALAF10)-5N3(SALAF10)",
+        "prof": "Arthur Hirata Bertachi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT12E",
+    "name": "Ciência Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAF11)-3T6(SALAF11)-4N4(SALAF11)-4N5(SALAF11)",
+        "prof": "Martha Tussolini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HMT16G",
+    "name": "Ciência, Tecnologia E Sociedade",
+    "turmas": [
+      {
+        "turma": "MCT6",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAB11)-3N2(SALAB11)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT17C",
+    "name": "Comando Numérico Computadorizado",
+    "turmas": [
+      {
+        "turma": "MCT7",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3T4(LABE1)-3T5(LABE1)-3T6(LABE1)",
+        "prof": "Guilherme Felipe Abibe Machado",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LMT11G",
+    "name": "Comunicação Em Engenharia",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "49",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N1(SALAF12)-3N2(SALAF12)",
+        "prof": "Luan Jose Vaz Chagas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14E",
+    "name": "Corrosão E Tratamento Dos Materiais",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "2N1(SALAH307)-2N2(SALAH307)",
+        "prof": "Marilei De Fatima Oliveira",
         "opt": "Não"
       }
     ]
@@ -108,125 +210,6 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "2N1(LABA6)-2N2(LABA6)-4N1(LABA6)-4N2(LABA6)",
         "prof": "Elvis Manuel Rodriguez Torrealba",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MCT12E",
-    "name": "Ciência Dos Materiais",
-    "turmas": [
-      {
-        "turma": "MCT2",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3N1(SALAF11)-3T6(SALAF11)-4N4(SALAF11)-4N5(SALAF11)",
-        "prof": "Martha Tussolini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HMT16G",
-    "name": "Ciência, Tecnologia E Sociedade",
-    "turmas": [
-      {
-        "turma": "MCT6",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3N1(SALAB11)-3N2(SALAB11)",
-        "prof": "Priscila Meier De Andrade Tribeck",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MCT16E",
-    "name": "Circuitos Digitais",
-    "turmas": [
-      {
-        "turma": "MCT6",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "4N3(LABA11)-4N4(LABA11)-4N5(LABA11)",
-        "prof": "Hilson Henrique Daum",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MCT13G",
-    "name": "Circuitos Eletricos",
-    "turmas": [
-      {
-        "turma": "MCT3",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "4N4(SALAF10)-4N5(SALAF10)-5N2(SALAF10)-5N3(SALAF10)",
-        "prof": "Arthur Hirata Bertachi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MCT17C",
-    "name": "Comando Numérico Computadorizado",
-    "turmas": [
-      {
-        "turma": "MCT7",
-        "enq": "Presencial",
-        "vt": "25",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3T4(LABE1)-3T5(LABE1)-3T6(LABE1)",
-        "prof": "Guilherme Felipe Abibe Machado",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LMT11G",
-    "name": "Comunicação Em Engenharia",
-    "turmas": [
-      {
-        "turma": "MCT1",
-        "enq": "Presencial",
-        "vt": "49",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3N1(SALAF12)-3N2(SALAF12)",
-        "prof": "Luan Jose Vaz Chagas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MCT14E",
-    "name": "Corrosão E Tratamento Dos Materiais",
-    "turmas": [
-      {
-        "turma": "MCT4",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "2N1(SALAH307)-2N2(SALAH307)",
-        "prof": "Marilei De Fatima Oliveira",
         "opt": "Não"
       }
     ]
@@ -436,23 +419,6 @@
     ]
   },
   {
-    "code": "HUM1A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "HUME",
-        "enq": "Presencial",
-        "vt": "6",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecânica",
-        "h": "3M2(SALAH306)-3M3(SALAH306)",
-        "prof": "Priscila Meier De Andrade Tribeck",
-        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
-      }
-    ]
-  },
-  {
     "code": "MCT15B",
     "name": "Fenômenos De Transporte",
     "turmas": [
@@ -465,6 +431,40 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "6N3(SALAH307)-6N4(SALAH307)-6N5(SALAH307)",
         "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GMT12D",
+    "name": "Fundamentos De Engenharia E Segurança Do Trabalho",
+    "turmas": [
+      {
+        "turma": "MCT2",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "6N1(SALAF11)-6N2(SALAF11)",
+        "prof": "Guilherme Fernando Ribeiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PMT11E",
+    "name": "Fundamentos De Programação E Algoritmos",
+    "turmas": [
+      {
+        "turma": "MCT1",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N1(LABA6)-5N2(LABA6)-6N1(LABA6)-6N2(LABA6)",
+        "prof": "Marcelo Marcos Vichar Junior",
         "opt": "Não"
       }
     ]
@@ -584,40 +584,6 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "5N1(SALAF10)-5T6(SALAF10)",
         "prof": "Ana Lucia Ferreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GMT12D",
-    "name": "Fundamentos De Engenharia E Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "MCT2",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "6N1(SALAF11)-6N2(SALAF11)",
-        "prof": "Guilherme Fernando Ribeiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PMT11E",
-    "name": "Fundamentos De Programação E Algoritmos",
-    "turmas": [
-      {
-        "turma": "MCT1",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "5N1(LABA6)-5N2(LABA6)-6N1(LABA6)-6N2(LABA6)",
-        "prof": "Marcelo Marcos Vichar Junior",
         "opt": "Não"
       }
     ]
@@ -798,23 +764,6 @@
     ]
   },
   {
-    "code": "MCT14G",
-    "name": "Máquinas Elétricas",
-    "turmas": [
-      {
-        "turma": "MCT4",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "5N2(LABA9)-5N3(LABA9)-6N3(LABA9)-6N4(LABA9)",
-        "prof": "Lilian Rosana Kremer Schultz",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MMT14B",
     "name": "Matemática Para Engenharia Mecatrônica",
     "turmas": [
@@ -832,23 +781,6 @@
     ]
   },
   {
-    "code": "MCT14C",
-    "name": "Mecânica Dos Sólidos",
-    "turmas": [
-      {
-        "turma": "MCT4",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. Mecatrônica",
-        "h": "3N3(SALAH307)-3N4(SALAH307)-3N5(SALAH307)-4N2(SALAH307)-4N3(SALAH307)",
-        "prof": "Filipe Macedo Moreira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "MCT16C",
     "name": "Mecanismos",
     "turmas": [
@@ -861,6 +793,23 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "5N2(LABA10)-5N3(LABA10)-6N1(LABA10)-6N2(LABA10)",
         "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14C",
+    "name": "Mecânica Dos Sólidos",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(SALAH307)-3N4(SALAH307)-3N5(SALAH307)-4N2(SALAH307)-4N3(SALAH307)",
+        "prof": "Filipe Macedo Moreira",
         "opt": "Não"
       }
     ]
@@ -895,6 +844,23 @@
         "prio": "1 - Eng. Mecatrônica",
         "h": "5N4(SALAH307)-5N5(SALAH307)",
         "prof": "Luiz Fernando Rigatti",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MCT14G",
+    "name": "Máquinas Elétricas",
+    "turmas": [
+      {
+        "turma": "MCT4",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "5N2(LABA9)-5N3(LABA9)-6N3(LABA9)-6N4(LABA9)",
+        "prof": "Lilian Rosana Kremer Schultz",
         "opt": "Não"
       }
     ]
@@ -1049,6 +1015,40 @@
         "h": "2N3(LABA12)-2N4(LABA12)-4N3(LABA12)-4N4(LABA12)",
         "prof": "Rafael Felipe Van Kan",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MMT13B",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "MCT3",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecatrônica",
+        "h": "3N3(SALAF10)-3N4(SALAF10)-3N5(SALAF10)",
+        "prof": "Bruno Leonardo Macedo Ferreira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HUM1A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "HUME",
+        "enq": "Presencial",
+        "vt": "6",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. Mecânica",
+        "h": "3M2(SALAH306)-3M3(SALAH306)",
+        "prof": "Priscila Meier De Andrade Tribeck",
+        "opt": "Matriz:20, Matriz:27, Matriz:16, Matriz:15, Matriz:19"
       }
     ]
   }

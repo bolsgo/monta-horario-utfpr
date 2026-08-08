@@ -21,7 +21,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-3T2(L006)-3T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
+        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
         "opt": "Matriz:844, Matriz:814"
       },
@@ -239,7 +239,7 @@
       {
         "turma": "RE42A",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
@@ -250,7 +250,7 @@
       {
         "turma": "RE42B",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
@@ -280,7 +280,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2T2(L109)-2T2(L109)-2T3(L109)-2T3(L109)-4T2(L109)-4T2(L109)-4T3(L109)-4T3(L109)",
         "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
@@ -291,7 +291,7 @@
         "enq": "Presencial",
         "vt": "32",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "2T2(L003)-2T2(L003)-2T3(L003)-2T3(L003)-4T2(L003)-4T2(L003)-4T3(L003)-4T3(L003)",
         "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
@@ -313,7 +313,7 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "3T4(L008)-3T4(L008)-3T5(L008)-3T5(L008)-5T4(L102)-5T4(L102)-5T5(L102)-5T5(L102)",
         "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
@@ -324,7 +324,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "3T4(L114)-3T4(L114)-3T5(L114)-3T5(L114)-5T4(L106)-5T4(L106)-5T5(L106)-5T5(L106)",
         "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
@@ -367,10 +367,10 @@
       {
         "turma": "EE51",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "41",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Engenharia De Produção, 1 - Engenharia Elétrica",
         "h": "2M2(L002)-2M3(L002)-3M2(L002)-3M3(L002)",
         "prof": "Reginaldo De Oliveira",
         "opt": "Matriz:843"
@@ -423,10 +423,10 @@
       {
         "turma": "EMRE",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "15",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica",
         "h": "2N2(K102)-2N3(K102)-2N4(K102)",
         "prof": "Pericles Secco Cancian",
         "opt": "Não"
@@ -748,23 +748,6 @@
         "prio": "1 - Engenharia Mecânica",
         "h": "5T4(L011)-5T5(L011)-6T4(L011)-6T5(L011)",
         "prof": "Marcio Mendes Casaro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QM38F",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "EQ82",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(L003)-3T5(L003)",
-        "prof": "Joao Luiz Kovaleski",
         "opt": "Não"
       }
     ]
@@ -1594,10 +1577,10 @@
       {
         "turma": "OPT1",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica",
         "h": "3N1(L001)-3N2(L001)-3N3(L001)",
         "prof": "Andre Hekermann Buss",
         "opt": "Matriz:822"
@@ -1937,10 +1920,10 @@
       {
         "turma": "OPT1",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "22",
         "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecânica",
         "h": "3N2(K106)-3N3(K106)-3N4(K106)-3N5(K106)",
         "prof": "Pericles Secco Cancian",
         "opt": "Matriz:822, Matriz:790"
@@ -2302,7 +2285,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica",
         "h": "4T2(L012)-4T3(L012)-4T4(L012)-4T5(L012)",
         "prof": "Juliana Martins Teixeira De Abreu Pietrobelli",

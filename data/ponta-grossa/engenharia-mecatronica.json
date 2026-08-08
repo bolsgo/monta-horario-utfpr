@@ -1,117 +1,5 @@
 [
   {
-    "code": "MAT122",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "MC31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Engenharia Mecatrônica",
-        "h": "3N1(L012)-3N2(L012)-5N1(L012)-5N2(L012)",
-        "prof": "Jose Carlos Alberto De Pontes",
-        "opt": "Matriz:844, Matriz:814"
-      }
-    ]
-  },
-  {
-    "code": "MAT131",
-    "name": "Cálculo 1",
-    "turmas": [
-      {
-        "turma": "MC21",
-        "enq": "Presencial",
-        "vt": "12",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Automação Ind., 1 - Engenharia Mecatrônica",
-        "h": "2N1(L006)-2N2(L006)-4N1(L006)-4N2(L006)",
-        "prof": "Luis Henrique De Lima",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT132",
-    "name": "Cálculo 2",
-    "turmas": [
-      {
-        "turma": "AI31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Tecnol. Automação Ind., 1 - Engenharia Mecatrônica",
-        "h": "2N1(L-013)-2N2(L-013)-4N1(L-013)-4N2(L-013)",
-        "prof": "Jose Carlos Alberto De Pontes",
-        "opt": "Não"
-      },
-      {
-        "turma": "CC31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(L109)-2T2(L109)-2T3(L109)-2T3(L109)-4T2(L109)-4T2(L109)-4T3(L109)-4T3(L109)",
-        "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EE31",
-        "enq": "Presencial",
-        "vt": "32",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
-        "h": "2T2(L003)-2T2(L003)-2T3(L003)-2T3(L003)-4T2(L003)-4T2(L003)-4T3(L003)-4T3(L003)",
-        "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP31",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3T4(L008)-3T4(L008)-3T5(L008)-3T5(L008)-5T4(L102)-5T4(L102)-5T5(L102)-5T5(L102)",
-        "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
-        "opt": "Não"
-      },
-      {
-        "turma": "EQ31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "3T4(L114)-3T4(L114)-3T5(L114)-3T5(L114)-5T4(L106)-5T4(L106)-5T5(L106)-5T5(L106)",
-        "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT134",
-    "name": "Cálculo 4",
-    "turmas": [
-      {
-        "turma": "EE51",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2M2(L002)-2M3(L002)-3M2(L002)-3M3(L002)",
-        "prof": "Reginaldo De Oliveira",
-        "opt": "Matriz:843"
-      }
-    ]
-  },
-  {
     "code": "MC03C",
     "name": "Ciência De Dados",
     "turmas": [
@@ -146,23 +34,6 @@
     ]
   },
   {
-    "code": "MEC68A",
-    "name": "Comando Numérico Computadorizado",
-    "turmas": [
-      {
-        "turma": "EMRE",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "2N2(K102)-2N3(K102)-2N4(K102)",
-        "prof": "Pericles Secco Cancian",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "INF101",
     "name": "Computação 1",
     "turmas": [
@@ -192,6 +63,40 @@
         "prio": "1 - Engenharia Mecatrônica",
         "h": "6N1(L-013)-6N2(L-013)",
         "prof": "Diego Gomes Do Valle",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT131",
+    "name": "Cálculo 1",
+    "turmas": [
+      {
+        "turma": "MC21",
+        "enq": "Presencial",
+        "vt": "12",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Automação Ind., 1 - Engenharia Mecatrônica",
+        "h": "2N1(L006)-2N2(L006)-4N1(L006)-4N2(L006)",
+        "prof": "Luis Henrique De Lima",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT132",
+    "name": "Cálculo 2",
+    "turmas": [
+      {
+        "turma": "AI31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecnol. Automação Ind., 1 - Engenharia Mecatrônica",
+        "h": "2N1(L-013)-2N2(L-013)-4N1(L-013)-4N2(L-013)",
+        "prof": "Jose Carlos Alberto De Pontes",
         "opt": "Não"
       }
     ]
@@ -248,45 +153,17 @@
     ]
   },
   {
-    "code": "FT101",
-    "name": "Fenômenos De Transporte",
+    "code": "FIS101",
+    "name": "Fundamentos De Física",
     "turmas": [
       {
-        "turma": "EE41",
+        "turma": "MC11",
         "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Elétrica",
-        "h": "6M3(L010)-6M4(L010)-6M5(L010)",
-        "prof": "Luiz Eduardo Melo Lima",
-        "opt": "Não"
-      },
-      {
-        "turma": "EP61",
-        "enq": "Presencial",
-        "vt": "43",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção, 2 - Engenharia Elétrica",
-        "h": "2M4(L002)-2M5(L002)-2M6(L002)",
-        "prof": "Gilberto Zammar",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS131",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "MC21",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
+        "vt": "40",
+        "vc": "35",
         "res": "Fechada",
         "prio": "1 - Engenharia Mecatrônica",
-        "h": "6N1(K110)-6N2(K110)",
+        "h": "4N1(L010)-4N2(L010)",
         "prof": "Jose Carlos Alves Galvao",
         "opt": "Não"
       }
@@ -310,17 +187,17 @@
     ]
   },
   {
-    "code": "FIS101",
-    "name": "Fundamentos De Física",
+    "code": "FIS131",
+    "name": "Física Experimental 1",
     "turmas": [
       {
-        "turma": "MC11",
+        "turma": "MC21",
         "enq": "Presencial",
-        "vt": "40",
-        "vc": "35",
+        "vt": "20",
+        "vc": "0",
         "res": "Fechada",
         "prio": "1 - Engenharia Mecatrônica",
-        "h": "4N1(L010)-4N2(L010)",
+        "h": "6N1(K110)-6N2(K110)",
         "prof": "Jose Carlos Alves Galvao",
         "opt": "Não"
       }
@@ -474,23 +351,6 @@
     ]
   },
   {
-    "code": "QM65E",
-    "name": "Resistência Dos Materiais",
-    "turmas": [
-      {
-        "turma": "EQ51",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "5T1(L010)-5T2(L010)-5T3(L010)",
-        "prof": "Tiago Lima De Sousa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "SESAT00H",
     "name": "Segurança E Saúde Do Trabalho",
     "turmas": [
@@ -538,6 +398,23 @@
         "h": "2N1(C212)-2N1(SOLD)-2N2(C212)-2N2(SOLD)-2N3(SOLD)",
         "prof": "Roger Navarro Verastegui",
         "opt": "Matriz:843"
+      }
+    ]
+  },
+  {
+    "code": "MAT122",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "MC31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Engenharia Mecatrônica",
+        "h": "3N1(L012)-3N2(L012)-5N1(L012)-5N2(L012)",
+        "prof": "Jose Carlos Alberto De Pontes",
+        "opt": "Matriz:844, Matriz:814"
       }
     ]
   }

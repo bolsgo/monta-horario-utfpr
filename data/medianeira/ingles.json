@@ -1,0 +1,53 @@
+[
+  {
+    "code": "IN11L",
+    "name": "Inglês - Basico 1",
+    "turmas": [
+      {
+        "turma": "INGL1",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "15",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2T2(H34)-2T3(H34)-4T2(H34)-4T3(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IN12L",
+    "name": "Inglês - Basico 2",
+    "turmas": [
+      {
+        "turma": "INGL2",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "3T2(H34)-3T3(H34)-5T2(H34)-5T3(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "IN13L",
+    "name": "Inglês - Basico 3",
+    "turmas": [
+      {
+        "turma": "INGL3",
+        "enq": "Presencial",
+        "vt": "25",
+        "vc": "25",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "2M4(H34)-2M5(H34)-4M4(H34)-4M5(H34)",
+        "prof": "Joice Maria Maltauro Juliano",
+        "opt": "Não"
+      }
+    ]
+  }
+]

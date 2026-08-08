@@ -6,6 +6,23 @@
       {
         "turma": "ALM3",
         "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Língua Alemã - Calem",
+        "h": "4N2(C306)-4N3(C306)-7M4(C306)-7M5(C306)",
+        "prof": "Ernesto Osvaldo Wrasse",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ALM4",
+    "name": "Alemão 4",
+    "turmas": [
+      {
+        "turma": "ALM4",
+        "enq": "Presencial",
         "vt": "10",
         "vc": "0",
         "res": "Aberta",

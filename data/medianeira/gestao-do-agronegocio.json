@@ -884,23 +884,6 @@
     ]
   },
   {
-    "code": "MEC1007",
-    "name": "Máquinas E Mecanização",
-    "turmas": [
-      {
-        "turma": "AGR5",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Gestão Do Agronegócio",
-        "h": "4N4(J42)-4N5(J42)",
-        "prof": "Dirceu De Melo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ALM1040",
     "name": "Microbiologia Geral",
     "turmas": [
@@ -924,6 +907,40 @@
         "prio": "1 - Tecnol Em Alimentos",
         "h": "5N3(L39C)-5N4(L39C)-5N5(L39C)",
         "prof": "William Arthur Philip L Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MEC1007",
+    "name": "Máquinas E Mecanização",
+    "turmas": [
+      {
+        "turma": "AGR5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Gestão Do Agronegócio",
+        "h": "4N4(J42)-4N5(J42)",
+        "prof": "Dirceu De Melo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1017",
+    "name": "Noções Linguísticas E Culturais Da Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Licenc.Química",
+        "h": "4N3(I43)",
+        "prof": "Silvana Mendonca Lopes Valentin",
         "opt": "Não"
       }
     ]
@@ -986,7 +1003,7 @@
       {
         "turma": "MEIU1",
         "enq": "Presencial",
-        "vt": "5",
+        "vt": "0",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Eng.Produção",
@@ -1086,7 +1103,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Gestão Do Agronegócio",
-        "h": "3N1(I44)-3N2(I44)-3N3(I44)",
+        "h": "3N1(I15)-3N2(I15)-3N3(I15)",
         "prof": "Carla Daniela Camara",
         "opt": "Matriz:660"
       }

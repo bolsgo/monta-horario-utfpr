@@ -1,22 +1,5 @@
 [
   {
-    "code": "AL26M",
-    "name": "Àlgebra Linear",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "4N4(N110)-4N5(N110)-6N1(S001)-6N2(N110)-6N3(N110)",
-        "prof": "Jessica Boschi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "AM28M",
     "name": "Análise Matemática",
     "turmas": [
@@ -85,6 +68,23 @@
     ]
   },
   {
+    "code": "EA28M",
+    "name": "Estruturas Algébricas",
+    "turmas": [
+      {
+        "turma": "8ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N107)-3N3(N107)-6N4(N107)-6N5(N107)",
+        "prof": "Mateus Eduardo Salomao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ES25M",
     "name": "Estágio Curricular Supervisionado Obrigatório 1",
     "turmas": [
@@ -148,23 +148,6 @@
         "prio": "1 - Lic. Matemática (Sem)",
         "h": "",
         "prof": "Janecler Aparecida Amorin Colombo",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EA28M",
-    "name": "Estruturas Algébricas",
-    "turmas": [
-      {
-        "turma": "8ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N107)-3N3(N107)-6N4(N107)-6N5(N107)",
-        "prof": "Mateus Eduardo Salomao",
         "opt": "Não"
       }
     ]
@@ -272,23 +255,6 @@
     ]
   },
   {
-    "code": "LI42NB",
-    "name": "Libras 1",
-    "turmas": [
-      {
-        "turma": "HUMA13",
-        "enq": "Presencial",
-        "vt": "35",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
-      }
-    ]
-  },
-  {
     "code": "LB26M",
     "name": "Libras 2",
     "turmas": [
@@ -302,6 +268,23 @@
         "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
         "prof": "Mirelia Flausino Vogel, Aline Brancalione",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LI42NB",
+    "name": "Libras 1",
+    "turmas": [
+      {
+        "turma": "HUMA13",
+        "enq": "Presencial",
+        "vt": "35",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
       }
     ]
   },
@@ -340,6 +323,23 @@
     ]
   },
   {
+    "code": "PE36M",
+    "name": "Probabilidade E Estatistica",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "2N1(S001)-2N2(N110)-2N3(N110)-2N4(N110)-2N5(N110)",
+        "prof": "Beatriz Regina Brum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "PM26M",
     "name": "Prática Do Ensino De Matemática 2",
     "turmas": [
@@ -369,23 +369,6 @@
         "prio": "1 - Lic. Matemática (Sem)",
         "h": "2N1(S001)-2N4(N101)-2N5(N101)-3N4(N101)-3N5(N101)-5N1(S001)",
         "prof": "Elida Maiara Velozo De Castro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "PE36M",
-    "name": "Probabilidade E Estatistica",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "2N1(S001)-2N2(N110)-2N3(N110)-2N4(N110)-2N5(N110)",
-        "prof": "Beatriz Regina Brum",
         "opt": "Não"
       }
     ]
@@ -454,6 +437,23 @@
         "prio": "1 - Lic. Matemática (Sem)",
         "h": "6T2(S001)-6T3(S001)-6T4(S001)-6T5(S001)",
         "prof": "Edineia Zarpelon",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AL26M",
+    "name": "Àlgebra Linear",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "4N4(N110)-4N5(N110)-6N1(S001)-6N2(N110)-6N3(N110)",
+        "prof": "Jessica Boschi",
         "opt": "Não"
       }
     ]

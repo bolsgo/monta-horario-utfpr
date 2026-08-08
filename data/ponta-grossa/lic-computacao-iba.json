@@ -1,5 +1,22 @@
 [
   {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "IBA6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Iba",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05C",
     "name": "Abordagens Pedagógicas Em Ead 2",
     "turmas": [
@@ -34,34 +51,6 @@
     ]
   },
   {
-    "code": "LC06A",
-    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
-    "turmas": [
-      {
-        "turma": "IBA6",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Iba",
-        "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
-        "opt": "Não"
-      },
-      {
-        "turma": "IIBA6",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Iba",
-        "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "LC06E",
     "name": "Desenvolvimento De Jogos",
     "turmas": [
@@ -74,6 +63,23 @@
         "prio": "1 - Lic Computação - Iba",
         "h": "",
         "prof": "Geraldo Ranthum",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LC06F",
+    "name": "Design Instrucional",
+    "turmas": [
+      {
+        "turma": "IBA6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Iba",
+        "h": "",
+        "prof": "Awdry Feisser Miquelin",
         "opt": "Não"
       }
     ]

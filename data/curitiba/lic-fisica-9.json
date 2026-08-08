@@ -1,5 +1,143 @@
 [
   {
+    "code": "MAT7AL",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S11",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Eletrônica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S15",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecatrônica",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
+        "prof": "Kennedy Martins Pedroso",
+        "opt": "Não"
+      },
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S51",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Civil",
+        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
+        "prof": "Mari Sano",
+        "opt": "Não"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
+        "prof": "Paula Olga Gneri",
+        "opt": "Não"
+      },
+      {
+        "turma": "S71",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Computação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S73",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist De Informação",
+        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      },
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
+        "prof": "Patricia Sanez Pacheco",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "FIS7AG",
     "name": "Biofísica",
     "turmas": [
@@ -13,129 +151,6 @@
         "h": "4N1(CN-104)-4N2(CN-104)-6N1(CN-104)-6N2(CN-104)",
         "prof": "Adilson Camilo De Barros",
         "opt": "Matriz:995, Matriz:983"
-      }
-    ]
-  },
-  {
-    "code": "INF71A",
-    "name": "Computação 1",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "EaD",
-        "vt": "40",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "4T2(CB-105)-4T3(CB-105)-4T4(CB-105)-4T5(CB-105)",
-        "prof": "Silvia Amelia Bim",
-        "opt": "Matriz:995, Matriz:983"
-      }
-    ]
-  },
-  {
-    "code": "FIS74B",
-    "name": "Computação Para O Ensino De Física",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "4T1(CN-105)-4T2(CN-105)-5T1(CN-105)-5T2(CN-105)",
-        "prof": "Angela Emilia De Almeida Coral",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "COE70A",
-    "name": "Comunicação Oral E Escrita",
-    "turmas": [
-      {
-        "turma": "E11",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
-        "h": "4N1(CE-108)-4N2(CE-108)",
-        "prof": "Jamea Cristina Batista Silva Franklin",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "3N2(CE-204)-3N3(CE-204)",
-        "prof": "Lucas Roecker Lazarin",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "2M5(CE-204)-2M6(CE-204)",
-        "prof": "Denise Regina Stacheski",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "5M3(CC-206)-5M4(CC-206)",
-        "prof": "Gabriella Hauber Pimentel",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "4M3(CE-204)-4M4(CE-204)",
-        "prof": "Cora Catalina Gaete Quinteros",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
-      }
-    ]
-  },
-  {
-    "code": "EDU70F",
-    "name": "Currículo E Conhecimento Escolar",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
-        "h": "3T4(CE-203)-3T5(CE-203)",
-        "prof": "Solange Freundel Filvock",
-        "opt": "Matriz:985, Matriz:974, Matriz:980"
-      },
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
-        "h": "4M1(CC-205)-4M2(CC-205)",
-        "prof": "Solange Freundel Filvock",
-        "opt": "Matriz:985, Matriz:974, Matriz:980"
       }
     ]
   },
@@ -411,6 +426,129 @@
     ]
   },
   {
+    "code": "FIS74B",
+    "name": "Computação Para O Ensino De Física",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "4T1(CN-105)-4T2(CN-105)-5T1(CN-105)-5T2(CN-105)",
+        "prof": "Angela Emilia De Almeida Coral",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "INF71A",
+    "name": "Computação 1",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "EaD",
+        "vt": "40",
+        "vc": "0",
+        "res": "Sem Reserva",
+        "prio": "",
+        "h": "4T2(CB-105)-4T3(CB-105)-4T4(CB-105)-4T5(CB-105)",
+        "prof": "Silvia Amelia Bim",
+        "opt": "Matriz:995, Matriz:983"
+      }
+    ]
+  },
+  {
+    "code": "COE70A",
+    "name": "Comunicação Oral E Escrita",
+    "turmas": [
+      {
+        "turma": "E11",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol. Sist. Telec., 2 - Eng De Computação, 2 - Eng Mecatrônica",
+        "h": "4N1(CE-108)-4N2(CE-108)",
+        "prof": "Jamea Cristina Batista Silva Franklin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S21",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "3N2(CE-204)-3N3(CE-204)",
+        "prof": "Lucas Roecker Lazarin",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica",
+        "h": "2M5(CE-204)-2M6(CE-204)",
+        "prof": "Denise Regina Stacheski",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S25",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Contr/Automação",
+        "h": "5M3(CC-206)-5M4(CC-206)",
+        "prof": "Gabriella Hauber Pimentel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      },
+      {
+        "turma": "S55",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Amb/Sanitária",
+        "h": "4M3(CE-204)-4M4(CE-204)",
+        "prof": "Cora Catalina Gaete Quinteros",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:985, Matriz:959, Matriz:962, Matriz:970, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "EDU70F",
+    "name": "Currículo E Conhecimento Escolar",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "3T4(CE-203)-3T5(CE-203)",
+        "prof": "Solange Freundel Filvock",
+        "opt": "Matriz:985, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português, 2 - Lic Fisica 9",
+        "h": "4M1(CC-205)-4M2(CC-205)",
+        "prof": "Solange Freundel Filvock",
+        "opt": "Matriz:985, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
     "code": "EDU70E",
     "name": "Didática",
     "turmas": [
@@ -680,40 +818,6 @@
     ]
   },
   {
-    "code": "FIS75A",
-    "name": "Fluidos E Termodinâmica",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "4T3(CE-202)-4T4(CE-202)-6T3(CA-202)-6T4(CA-202)",
-        "prof": "Diogenes Borges Vasconcelos",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EDU70C",
-    "name": "Fundamentos Sociológicos Da Educação",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
-        "h": "4T1(CN-022)-4T2(CN-022)-4T3(CN-022)",
-        "prof": "Lauro Rafael Cruz",
-        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
-      }
-    ]
-  },
-  {
     "code": "FIS77B",
     "name": "Física E Tecnologia",
     "turmas": [
@@ -812,6 +916,40 @@
         "h": "2T1(CA-202)-2T2(CA-202)-4T3(CN-104)-4T4(CN-104)-5T3(CN-104)-5T4(CN-104)",
         "prof": "Ricardo Canute Kamikawachi",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS75A",
+    "name": "Fluidos E Termodinâmica",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "4T3(CE-202)-4T4(CE-202)-6T3(CA-202)-6T4(CA-202)",
+        "prof": "Diogenes Borges Vasconcelos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70C",
+    "name": "Fundamentos Sociológicos Da Educação",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "4T1(CN-022)-4T2(CN-022)-4T3(CN-022)",
+        "prof": "Lauro Rafael Cruz",
+        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
       }
     ]
   },
@@ -1006,23 +1144,6 @@
     ]
   },
   {
-    "code": "FIS76C",
-    "name": "Laboratório De Fluidos E Termodinâmica",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "3T3(CN-133)-3T4(CN-133)",
-        "prof": "Marcia Muller",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIS79C",
     "name": "Laboratório De Física Moderna",
     "turmas": [
@@ -1035,6 +1156,23 @@
         "prio": "1 - Lic Física, 1 - Lic Fisica 9",
         "h": "5T4(CN-120)-5T5(CN-120)",
         "prof": "Jorge Alberto Lenz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS76C",
+    "name": "Laboratório De Fluidos E Termodinâmica",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "3T3(CN-133)-3T4(CN-133)",
+        "prof": "Marcia Muller",
         "opt": "Não"
       }
     ]
@@ -1259,6 +1397,23 @@
     ]
   },
   {
+    "code": "FIS77A",
+    "name": "Ótica",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "3T5(CN-104)-3T6(CN-104)-4T3(CC-205)-4T4(CC-205)",
+        "prof": "Jose Luis Fabris",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EDU70B",
     "name": "Pesquisa Em Educação",
     "turmas": [
@@ -1421,6 +1576,23 @@
     ]
   },
   {
+    "code": "MAT7PC",
+    "name": "Pré-Cálculo",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "60",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Lic Fisica 9",
+        "h": "2T3(CE-207)-2T4(CE-207)-5T3(CE-207)-5T4(CE-207)",
+        "prof": "Moises Aparecido Do Nascimento",
+        "opt": "Matriz:985"
+      }
+    ]
+  },
+  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -1472,23 +1644,6 @@
     ]
   },
   {
-    "code": "FIS76E",
-    "name": "Projetos De Ensino Em Fluidos E Termodinâmica",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "3T5(CN-105)-3T6(CN-105)-4T1(CN-109)-4T2(CN-109)",
-        "prof": "Joao Amadeus Pereira Alves",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FIS79E",
     "name": "Projetos De Ensino Em Física Moderna",
     "turmas": [
@@ -1501,6 +1656,23 @@
         "prio": "1 - Lic Física, 1 - Lic Fisica 9",
         "h": "2T5(CN-109)-2T6(CN-109)-6T3(CN-109)-6T4(CN-109)",
         "prof": "Nestor Cortez Saavedra Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS76E",
+    "name": "Projetos De Ensino Em Fluidos E Termodinâmica",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
+        "h": "3T5(CN-105)-3T6(CN-105)-4T1(CN-109)-4T2(CN-109)",
+        "prof": "Joao Amadeus Pereira Alves",
         "opt": "Não"
       }
     ]
@@ -1553,23 +1725,6 @@
         "h": "2T1(CE-203)-2T2(CE-203)-6T1(CC-203)-6T2(CC-203)",
         "prof": "Leandro De Oliveira Rabelo",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7PC",
-    "name": "Pré-Cálculo",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "60",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T3(CE-207)-2T4(CE-207)-5T3(CE-207)-5T4(CE-207)",
-        "prof": "Moises Aparecido Do Nascimento",
-        "opt": "Matriz:985"
       }
     ]
   },
@@ -1714,18 +1869,18 @@
     ]
   },
   {
-    "code": "FIS77F",
-    "name": "Trabalho De Conclusão 1",
+    "code": "FIS73B",
+    "name": "Tópicos De Informática Para O Ensino De Física",
     "turmas": [
       {
         "turma": "S81",
         "enq": "Presencial",
-        "vt": "20",
+        "vt": "25",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "2T3(CN-105)-2T4(CN-105)-2T5(CN-105)-2T6(CN-105)",
-        "prof": "Noemi Sutil",
+        "h": "3T3(CN-102)-3T4(CN-102)-6T1(CN-102)-6T2(CN-102)",
+        "prof": "Fausto Hideki Matsunaga",
         "opt": "Não"
       }
     ]
@@ -1748,173 +1903,18 @@
     ]
   },
   {
-    "code": "FIS73B",
-    "name": "Tópicos De Informática Para O Ensino De Física",
+    "code": "FIS77F",
+    "name": "Trabalho De Conclusão 1",
     "turmas": [
       {
         "turma": "S81",
         "enq": "Presencial",
-        "vt": "25",
+        "vt": "20",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "3T3(CN-102)-3T4(CN-102)-6T1(CN-102)-6T2(CN-102)",
-        "prof": "Fausto Hideki Matsunaga",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7AL",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "S11",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Eletrônica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S15",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecatrônica",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S21",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4T4(CE-208)-4T5(CE-208)-6N2(CE-308)-6N3(CE-308)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S23",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S25",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Contr/Automação",
-        "h": "4M1(CE-308)-4M2(CE-308)-6T2(CE-307)-6T3(CE-307)",
-        "prof": "Kennedy Martins Pedroso",
-        "opt": "Não"
-      },
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S51",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Civil",
-        "h": "2T1(*EK-307)-2T2(*EK-307)-4T1(*EK-307)-4T2(*EK-307)",
-        "prof": "Mari Sano",
-        "opt": "Não"
-      },
-      {
-        "turma": "S55",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Amb/Sanitária",
-        "h": "2M2(*EK-307)-2M3(*EK-307)-5M2(*EK-307)-5M3(*EK-307)",
-        "prof": "Paula Olga Gneri",
-        "opt": "Não"
-      },
-      {
-        "turma": "S71",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Computação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S73",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist De Informação",
-        "h": "2T5(CE-308)-2T6(CE-308)-5T4(CE-208)-5T5(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      },
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic Fisica 9",
-        "h": "2T3(CE-208)-2T4(CE-208)-4T1(CE-208)-4T2(CE-208)",
-        "prof": "Patricia Sanez Pacheco",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS77A",
-    "name": "Ótica",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Física, 1 - Lic Fisica 9",
-        "h": "3T5(CN-104)-3T6(CN-104)-4T3(CC-205)-4T4(CC-205)",
-        "prof": "Jose Luis Fabris",
+        "h": "2T3(CN-105)-2T4(CN-105)-2T5(CN-105)-2T6(CN-105)",
+        "prof": "Noemi Sutil",
         "opt": "Não"
       }
     ]

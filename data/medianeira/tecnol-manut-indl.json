@@ -856,6 +856,23 @@
     ]
   },
   {
+    "code": "HLA1017",
+    "name": "Noções Linguísticas E Culturais Da Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Licenc.Química",
+        "h": "4N3(I43)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MEC1022",
     "name": "Processos De Fabricação Mecânica",
     "turmas": [
@@ -879,7 +896,7 @@
       {
         "turma": "MEIU1",
         "enq": "Presencial",
-        "vt": "5",
+        "vt": "0",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Eng.Produção",

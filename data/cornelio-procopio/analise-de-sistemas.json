@@ -22,7 +22,7 @@
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -30,6 +30,23 @@
         "h": "",
         "prof": "Silvio Ricardo Rodrigues Sanches",
         "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "ES48M",
+    "name": "Aprendizagem Profunda",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Silvio Ricardo Rodrigues Sanches",
+        "opt": "Matriz:175"
       }
     ]
   },
@@ -90,7 +107,7 @@
     "turmas": [
       {
         "turma": "N14",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -107,13 +124,13 @@
     "turmas": [
       {
         "turma": "N16",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Analise De Sistemas",
         "h": "",
-        "prof": "Francisco Pereira Junior",
+        "prof": "Francisco Pereira Junior, Camila Dias De Oliveira Sestito",
         "opt": "Não"
       }
     ]
@@ -124,7 +141,7 @@
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -164,6 +181,74 @@
     ]
   },
   {
+    "code": "AS65N",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48N",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:191, Matriz:173"
+      }
+    ]
+  },
+  {
+    "code": "ES48J",
+    "name": "Desenvolvimento De Jogos",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Paulo Augusto Nardi",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS61A",
+    "name": "Desenvolvimento Sem Código",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas",
+        "h": "2N2(A040)-2N3(A040)",
+        "prof": "Antonio Carlos Fernandes Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AS63C",
     "name": "Desenvolvimento Ágil",
     "turmas": [
@@ -193,57 +278,6 @@
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "4T2(P005)-4T3(P005)-5T2(P005)-5T3(P005)",
         "prof": "Erica Ferreira De Souza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "AS65N",
-    "name": "Desenvolvimento De Jogos",
-    "turmas": [
-      {
-        "turma": "N15",
-        "enq": "Presencial",
-        "vt": "13",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Paulo Augusto Nardi",
-        "opt": "Matriz:171"
-      }
-    ]
-  },
-  {
-    "code": "EC48N",
-    "name": "Desenvolvimento De Jogos",
-    "turmas": [
-      {
-        "turma": "C81",
-        "enq": "Presencial",
-        "vt": "13",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
-        "h": "",
-        "prof": "Paulo Augusto Nardi",
-        "opt": "Matriz:191, Matriz:173"
-      }
-    ]
-  },
-  {
-    "code": "AS61A",
-    "name": "Desenvolvimento Sem Código",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "39",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Analise De Sistemas",
-        "h": "2N2(A040)-2N3(A040)",
-        "prof": "Antonio Carlos Fernandes Da Silva",
         "opt": "Não"
       }
     ]
@@ -305,7 +339,7 @@
     "turmas": [
       {
         "turma": "C71",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -424,7 +458,7 @@
     "turmas": [
       {
         "turma": "C71",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -458,13 +492,13 @@
     "turmas": [
       {
         "turma": "C71",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
-        "prof": "Danilo Sipoli Sanches",
+        "prof": "Silvio Ricardo Rodrigues Sanches, Claiton De Oliveira, Lucas Dias Hiera Sampaio, Natassya Barlate Floro Da Silva",
         "opt": "Não"
       }
     ]
@@ -487,12 +521,29 @@
     ]
   },
   {
+    "code": "ES48P",
+    "name": "Internet Of Things",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Lucas Dias Hiera Sampaio",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
     "code": "AS65M",
     "name": "Internet Das Coisas",
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -509,7 +560,7 @@
     "turmas": [
       {
         "turma": "C81",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -517,23 +568,6 @@
         "h": "",
         "prof": "Lucas Dias Hiera Sampaio",
         "opt": "Matriz:191, Matriz:173"
-      }
-    ]
-  },
-  {
-    "code": "AS61E",
-    "name": "Introdução À Análise E Desenvolvimento De Sistemas",
-    "turmas": [
-      {
-        "turma": "N11",
-        "enq": "Presencial",
-        "vt": "39",
-        "vc": "30",
-        "res": "Fechada",
-        "prio": "1 - Analise De Sistemas",
-        "h": "3N2(P002)-3N3(P002)",
-        "prof": "Antonio Carlos Fernandes Da Silva",
-        "opt": "Não"
       }
     ]
   },
@@ -550,6 +584,23 @@
         "prio": "1 - Analise De Sistemas",
         "h": "6N2(P001)-6N3(P001)",
         "prof": "Andre Luiz Przybysz",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS61E",
+    "name": "Introdução À Análise E Desenvolvimento De Sistemas",
+    "turmas": [
+      {
+        "turma": "N11",
+        "enq": "Presencial",
+        "vt": "39",
+        "vc": "30",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas",
+        "h": "3N2(P002)-3N3(P002)",
+        "prof": "Antonio Carlos Fernandes Da Silva",
         "opt": "Não"
       }
     ]
@@ -577,7 +628,7 @@
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -594,7 +645,7 @@
     "turmas": [
       {
         "turma": "C81",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -606,12 +657,29 @@
     ]
   },
   {
+    "code": "ES48E",
+    "name": "Mineração De Dados",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Giovani Volnei Meinerz",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
     "code": "AS65F",
     "name": "Processamento De Imagens",
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -628,7 +696,7 @@
     "turmas": [
       {
         "turma": "C81",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -640,19 +708,19 @@
     ]
   },
   {
-    "code": "AS65U",
-    "name": "Programação De Banco De Dados",
+    "code": "ES48D",
+    "name": "Processamento De Imagens",
     "turmas": [
       {
-        "turma": "N15",
-        "enq": "Presencial",
+        "turma": "ES81",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
-        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
         "h": "",
-        "prof": "Eduardo Cotrin Teixeira",
-        "opt": "Matriz:171"
+        "prof": "Claiton De Oliveira",
+        "opt": "Matriz:175"
       }
     ]
   },
@@ -691,69 +759,18 @@
     ]
   },
   {
-    "code": "AS65D",
-    "name": "Programação Para Dispositivos Móveis",
-    "turmas": [
-      {
-        "turma": "N15",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Eduarda Maganha De Almeida",
-        "opt": "Matriz:171"
-      }
-    ]
-  },
-  {
-    "code": "EC48C",
-    "name": "Programação Para Dispositivos Móveis",
-    "turmas": [
-      {
-        "turma": "C81",
-        "enq": "Presencial",
-        "vt": "39",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
-        "h": "",
-        "prof": "Alexandre Romolo Moreira Feitosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ES47A",
-    "name": "Programação Para Dispositivos Móveis",
-    "turmas": [
-      {
-        "turma": "ES71",
-        "enq": "Presencial",
-        "vt": "39",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
-        "h": "",
-        "prof": "Alexandre Romolo Moreira Feitosa",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "EC48B",
     "name": "Programação Web Back-End",
     "turmas": [
       {
         "turma": "C81",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
         "h": "",
-        "prof": "Monique Emidio De Oliveira, Willian Massami Watanabe",
+        "prof": "Tatianne Costa Negri Rocha",
         "opt": "Não"
       }
     ]
@@ -781,7 +798,7 @@
     "turmas": [
       {
         "turma": "C71",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -827,12 +844,114 @@
     ]
   },
   {
+    "code": "ES47B",
+    "name": "Programação Web Fullstack",
+    "turmas": [
+      {
+        "turma": "ES71",
+        "enq": "EaD",
+        "vt": "39",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Juliana Costa Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AS65U",
+    "name": "Programação De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "ES48H",
+    "name": "Programação De Banco De Dados",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Cotrin Teixeira",
+        "opt": "Matriz:175"
+      }
+    ]
+  },
+  {
+    "code": "AS65D",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "N15",
+        "enq": "EaD",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Analise De Sistemas, 2 - Bach Eng De Software, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduarda Maganha De Almeida",
+        "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "EC48C",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "C81",
+        "enq": "EaD",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Eng. Computação, 2 - Bach Eng De Software, 3 - Analise De Sistemas",
+        "h": "",
+        "prof": "Alexandre Romolo Moreira Feitosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "ES47A",
+    "name": "Programação Para Dispositivos Móveis",
+    "turmas": [
+      {
+        "turma": "ES71",
+        "enq": "EaD",
+        "vt": "39",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Alexandre Romolo Moreira Feitosa",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "AS65Q",
     "name": "Realidade Estendida",
     "turmas": [
       {
         "turma": "N15",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "13",
         "vc": "0",
         "res": "Fechada",
@@ -840,6 +959,23 @@
         "h": "",
         "prof": "Eduardo Filgueiras Damasceno",
         "opt": "Matriz:171"
+      }
+    ]
+  },
+  {
+    "code": "ES48L",
+    "name": "Realidade Estendida",
+    "turmas": [
+      {
+        "turma": "ES81",
+        "enq": "EaD",
+        "vt": "13",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Bach Eng De Software, 2 - Analise De Sistemas, 3 - Eng. Computação",
+        "h": "",
+        "prof": "Eduardo Filgueiras Damasceno",
+        "opt": "Matriz:175"
       }
     ]
   },
@@ -866,7 +1002,7 @@
     "turmas": [
       {
         "turma": "C71",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",
@@ -883,7 +1019,7 @@
     "turmas": [
       {
         "turma": "C81",
-        "enq": "Presencial",
+        "enq": "EaD",
         "vt": "39",
         "vc": "0",
         "res": "Fechada",

@@ -1,5 +1,22 @@
 [
   {
+    "code": "MAT74C",
+    "name": "Álgebra Linear",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "2M4(CE-304)-2M5(CE-304)-5M1(CE-205)-5M2(CE-205)-5M3(CE-205)",
+        "prof": "Diane Rizzotto Rossetto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT7FZ",
     "name": "Análise De Fourier E Transformada Z",
     "turmas": [
@@ -30,6 +47,85 @@
         "h": "5M1(CA-106)-5M2(CA-106)-5M3(CA-106)",
         "prof": "Edna Sakon Banin",
         "opt": "Matriz:845"
+      }
+    ]
+  },
+  {
+    "code": "MAT75B",
+    "name": "Cálculo De Funções De Várias Variáveis Reais",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "4M2(CE-106)-4M3(CE-106)-4M4(CE-106)-5M2(CE-106)-5M3(CE-106)",
+        "prof": "Marielle Aparecida Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT73B",
+    "name": "Cálculo Diferencial",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "2M4(CE-101)-2M5(CE-101)-2M6(CE-101)-5M4(CE-204)-5M5(CE-204)",
+        "prof": "Fabio Antonio Dorini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT74B",
+    "name": "Cálculo Integral",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "4M1(CE-102)-4M2(CE-102)-5M4(CE-305)-5M5(CE-305)-5M6(CE-305)",
+        "prof": "George Arruda Gomm",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT7N1",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "S41",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T1(*EK-307)-5T2(*EK-307)-6T5(*EK-307)-6T6(*EK-307)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
+      },
+      {
+        "turma": "S43",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "5T1(*EK-303)-5T2(*EK-303)-6T5(*EK-303)-6T6(*EK-303)",
+        "prof": "Luiz Pedro Palacio Daniel",
+        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
       }
     ]
   },
@@ -181,85 +277,6 @@
         "h": "4M1(CC-205)-4M2(CC-205)",
         "prof": "Solange Freundel Filvock",
         "opt": "Matriz:985, Matriz:974, Matriz:980"
-      }
-    ]
-  },
-  {
-    "code": "MAT75B",
-    "name": "Cálculo De Funções De Várias Variáveis Reais",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "4M2(CE-106)-4M3(CE-106)-4M4(CE-106)-5M2(CE-106)-5M3(CE-106)",
-        "prof": "Marielle Aparecida Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT73B",
-    "name": "Cálculo Diferencial",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "2M4(CE-101)-2M5(CE-101)-2M6(CE-101)-5M4(CE-204)-5M5(CE-204)",
-        "prof": "Fabio Antonio Dorini",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT74B",
-    "name": "Cálculo Integral",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "4M1(CE-102)-4M2(CE-102)-5M4(CE-305)-5M5(CE-305)-5M6(CE-305)",
-        "prof": "George Arruda Gomm",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7N1",
-    "name": "Cálculo Numérico",
-    "turmas": [
-      {
-        "turma": "S41",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T1(*EK-307)-5T2(*EK-307)-6T5(*EK-307)-6T6(*EK-307)",
-        "prof": "Luiz Pedro Palacio Daniel",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
-      },
-      {
-        "turma": "S43",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "5T1(*EK-303)-5T2(*EK-303)-6T5(*EK-303)-6T6(*EK-303)",
-        "prof": "Luiz Pedro Palacio Daniel",
-        "opt": "Matriz:995, Matriz:983, Matriz:981, Matriz:959, Matriz:962"
       }
     ]
   },
@@ -817,158 +834,6 @@
     ]
   },
   {
-    "code": "FCH7FB",
-    "name": "Fundamentos Da Ética",
-    "turmas": [
-      {
-        "turma": "S31",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design, 1 - Química Ambiental",
-        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
-        "prof": "Marcio Luiz Miotto",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      },
-      {
-        "turma": "S32",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Design",
-        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
-        "prof": "Andrea Maila Voss",
-        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
-      }
-    ]
-  },
-  {
-    "code": "MAT77C",
-    "name": "Fundamentos De Análise",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "4M1(CE-103)-4M2(CE-103)-6M1(CE-102)-6M2(CE-102)-6M3(CE-102)-6M4(CE-102)",
-        "prof": "Lilian Cordeiro Brambila",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT73E",
-    "name": "Fundamentos De Aritmética",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "2M1(CE-202)-2M2(CE-202)-2M3(CE-202)-4M3(CE-103)-4M4(CE-103)",
-        "prof": "Lilian Cordeiro Brambila",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "GEE7E1",
-    "name": "Fundamentos De Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "S01",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
-        "h": "4N2(CE-204)-4N3(CE-204)",
-        "prof": "Paulo Apelles Camboim De Oliveira",
-        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
-      }
-    ]
-  },
-  {
-    "code": "MAT71B",
-    "name": "Fundamentos De Matemática",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "2M1(CE-206)-2M2(CE-206)-2M3(CE-206)-3M2(CE-206)-3M3(CE-206)",
-        "prof": "Patricia Aparecida Manholi",
-        "opt": "Não"
-      },
-      {
-        "turma": "S84",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "22",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "2M4(CE-302)-2M5(CE-302)-2M6(CE-302)-3M4(CE-302)-3M5(CE-302)",
-        "prof": "Patricia Aparecida Manholi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT76C",
-    "name": "Fundamentos De Álgebra",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "3M1(CE-306)-3M2(CE-306)-3M3(CE-306)-4M3(CE-203)-4M4(CE-203)",
-        "prof": "Ronie Peterson Dario",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EDU70C",
-    "name": "Fundamentos Sociológicos Da Educação",
-    "turmas": [
-      {
-        "turma": "S81",
-        "enq": "Presencial",
-        "vt": "46",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
-        "h": "4T1(CN-022)-4T2(CN-022)-4T3(CN-022)",
-        "prof": "Lauro Rafael Cruz",
-        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
-      },
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática, 2 - Lic Física, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
-        "h": "4M3(CA-101)-4M4(CA-101)-4M5(CA-101)",
-        "prof": "Lauro Rafael Cruz",
-        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
-      }
-    ]
-  },
-  {
     "code": "FIS7E1",
     "name": "Física Experimental 1",
     "turmas": [
@@ -1460,6 +1325,158 @@
     ]
   },
   {
+    "code": "FCH7FB",
+    "name": "Fundamentos Da Ética",
+    "turmas": [
+      {
+        "turma": "S31",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design, 1 - Química Ambiental",
+        "h": "6M1(CE-108)-6M2(CE-108)-6M3(CE-108)",
+        "prof": "Marcio Luiz Miotto",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      },
+      {
+        "turma": "S32",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Design",
+        "h": "5T2(CE-204)-5T3(CE-204)-5T4(CE-204)",
+        "prof": "Andrea Maila Voss",
+        "opt": "Matriz:957, Matriz:948, Matriz:981, Matriz:972, Matriz:978, Matriz:979, Matriz:960, Matriz:985, Matriz:982, Matriz:945, Matriz:959, Matriz:961, Matriz:962, Matriz:970, Matriz:974, Matriz:980, Matriz:977"
+      }
+    ]
+  },
+  {
+    "code": "MAT76C",
+    "name": "Fundamentos De Álgebra",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "3M1(CE-306)-3M2(CE-306)-3M3(CE-306)-4M3(CE-203)-4M4(CE-203)",
+        "prof": "Ronie Peterson Dario",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT77C",
+    "name": "Fundamentos De Análise",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "4M1(CE-103)-4M2(CE-103)-6M1(CE-102)-6M2(CE-102)-6M3(CE-102)-6M4(CE-102)",
+        "prof": "Lilian Cordeiro Brambila",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT73E",
+    "name": "Fundamentos De Aritmética",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "2M1(CE-202)-2M2(CE-202)-2M3(CE-202)-4M3(CE-103)-4M4(CE-103)",
+        "prof": "Lilian Cordeiro Brambila",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "GEE7E1",
+    "name": "Fundamentos De Empreendedorismo",
+    "turmas": [
+      {
+        "turma": "S01",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Elétrica, 1 - Eng Contr/Automação",
+        "h": "4N2(CE-204)-4N3(CE-204)",
+        "prof": "Paulo Apelles Camboim De Oliveira",
+        "opt": "Matriz:976, Matriz:982, Matriz:959, Matriz:948, Matriz:961, Matriz:972, Matriz:974"
+      }
+    ]
+  },
+  {
+    "code": "MAT71B",
+    "name": "Fundamentos De Matemática",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "2M1(CE-206)-2M2(CE-206)-2M3(CE-206)-3M2(CE-206)-3M3(CE-206)",
+        "prof": "Patricia Aparecida Manholi",
+        "opt": "Não"
+      },
+      {
+        "turma": "S84",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "22",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "2M4(CE-302)-2M5(CE-302)-2M6(CE-302)-3M4(CE-302)-3M5(CE-302)",
+        "prof": "Patricia Aparecida Manholi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EDU70C",
+    "name": "Fundamentos Sociológicos Da Educação",
+    "turmas": [
+      {
+        "turma": "S81",
+        "enq": "Presencial",
+        "vt": "46",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Lic Fisica 9, 2 - Lic Matemática, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "4T1(CN-022)-4T2(CN-022)-4T3(CN-022)",
+        "prof": "Lauro Rafael Cruz",
+        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
+      },
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática, 2 - Lic Física, 2 - Lic Química, 2 - Lic Letras Inglês, 2 - Lic Letras Português",
+        "h": "4M3(CA-101)-4M4(CA-101)-4M5(CA-101)",
+        "prof": "Lauro Rafael Cruz",
+        "opt": "Matriz:990, Matriz:976, Matriz:974, Matriz:980"
+      }
+    ]
+  },
+  {
     "code": "MAT73C",
     "name": "Geometria Analítica",
     "turmas": [
@@ -1666,7 +1683,7 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "",
-        "prof": "Roberto Molina De Souza",
+        "prof": "Angelica Maria Tortola Ribeiro",
         "opt": "Não"
       },
       {
@@ -1677,7 +1694,7 @@
         "res": "Sem Reserva",
         "prio": "",
         "h": "",
-        "prof": "Roberto Molina De Souza",
+        "prof": "Angelica Maria Tortola Ribeiro",
         "opt": "Não"
       },
       {
@@ -2112,6 +2129,23 @@
     ]
   },
   {
+    "code": "MAT7E1",
+    "name": "Práticas Extensionistas 1",
+    "turmas": [
+      {
+        "turma": "S83",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "4M5(CA-106)-4M6(CA-106)-6M3(CA-106)-6M4(CA-106)-6M5(CA-106)-6M6(CA-106)",
+        "prof": "Maria Lucia Panossian",
+        "opt": "Matriz:959"
+      }
+    ]
+  },
+  {
     "code": "FCH7XC",
     "name": "Presença Africana No Brasil",
     "turmas": [
@@ -2142,23 +2176,6 @@
         "h": "3M4(CE-306)-3M5(CE-306)-5M1(CD-001)-5M2(CD-001)-5M3(CD-001)",
         "prof": "Patricia Sanez Pacheco",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT7E1",
-    "name": "Práticas Extensionistas 1",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "4M5(CA-106)-4M6(CA-106)-6M3(CA-106)-6M4(CA-106)-6M5(CA-106)-6M6(CA-106)",
-        "prof": "Maria Lucia Panossian",
-        "opt": "Matriz:959"
       }
     ]
   },
@@ -2464,6 +2481,23 @@
     ]
   },
   {
+    "code": "MAT78E",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "E01",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Matemática",
+        "h": "",
+        "prof": "Marielle Aparecida Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MA77H",
     "name": "Trabalho De Conclusão De Curso 2",
     "turmas": [
@@ -2493,40 +2527,6 @@
         "prio": "1 - Lic Matemática",
         "h": "",
         "prof": "Marielle Aparecida Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT78E",
-    "name": "Trabalho De Conclusão De Curso 2",
-    "turmas": [
-      {
-        "turma": "E01",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "",
-        "prof": "Marielle Aparecida Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT74C",
-    "name": "Álgebra Linear",
-    "turmas": [
-      {
-        "turma": "S83",
-        "enq": "Presencial",
-        "vt": "30",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Matemática",
-        "h": "2M4(CE-304)-2M5(CE-304)-5M1(CE-205)-5M2(CE-205)-5M3(CE-205)",
-        "prof": "Diane Rizzotto Rossetto",
         "opt": "Não"
       }
     ]

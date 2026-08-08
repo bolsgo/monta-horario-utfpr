@@ -1,5 +1,22 @@
 [
   {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "CLA6",
+        "enq": "EaD",
+        "vt": "60",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Cla",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05C",
     "name": "Abordagens Pedagógicas Em Ead 2",
     "turmas": [
@@ -23,29 +40,12 @@
       {
         "turma": "CLA6",
         "enq": "EaD",
-        "vt": "44",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Computação - Cla",
         "h": "",
         "prof": "Elaine Ferreira Machado",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LC06A",
-    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
-    "turmas": [
-      {
-        "turma": "CLA6",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Cla",
-        "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
         "opt": "Não"
       }
     ]
@@ -57,7 +57,7 @@
       {
         "turma": "CLA6",
         "enq": "EaD",
-        "vt": "44",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Computação - Cla",
@@ -74,7 +74,7 @@
       {
         "turma": "CLA6",
         "enq": "EaD",
-        "vt": "44",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Computação - Cla",
@@ -108,7 +108,7 @@
       {
         "turma": "CLA6",
         "enq": "EaD",
-        "vt": "44",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Computação - Cla",
@@ -142,7 +142,7 @@
       {
         "turma": "CLA6",
         "enq": "EaD",
-        "vt": "44",
+        "vt": "60",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Computação - Cla",

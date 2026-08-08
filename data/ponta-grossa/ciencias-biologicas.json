@@ -123,7 +123,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
-        "h": "2T2(K102)-2T3(K102)-2T4(K102)-2T5(K102)-4T2(C015)-4T3(C015)-4T4(C015)-4T5(C015)",
+        "h": "4T2(C015)-4T3(C015)-4T4(C015)-4T5(C015)",
         "prof": "Fernanda Ferrari",
         "opt": "Matriz:830"
       }
@@ -155,7 +155,7 @@
         "enq": "Presencial",
         "vt": "40",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
         "h": "3T4(L101)-3T5(L101)",
         "prof": "Fernanda Ferrari",
@@ -174,7 +174,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
-        "h": "2T2(C017)-2T3(C017)-4T2(L113)-4T3(L113)-4T4(L113)-4T5(L113)",
+        "h": "2T2(K102)-2T2(C017)-2T3(C017)-2T3(K102)-4T2(L010)-4T2(L113)-4T3(L010)-4T3(L113)-4T4(L010)-4T4(L113)-4T5(L113)-4T5(L010)",
         "prof": "Lorena Julia Gali Rodrigues",
         "opt": "Não"
       }
@@ -266,23 +266,6 @@
     ]
   },
   {
-    "code": "CB03B",
-    "name": "Ecologia Avançada",
-    "turmas": [
-      {
-        "turma": "LICB",
-        "enq": "Presencial",
-        "vt": "10",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "",
-        "prof": "Igor De Paiva Affonso",
-        "opt": "Matriz:804"
-      }
-    ]
-  },
-  {
     "code": "CB53C",
     "name": "Educação, Ciência, Tecnologia, Sociedade E Ambiente",
     "turmas": [
@@ -328,7 +311,7 @@
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
         "h": "4T2(L105)-4T2(L105)-4T3(L105)-4T3(L105)-4T4(L105)-4T4(L105)-4T5(L105)-4T5(L105)",
-        "prof": "Danislei Bertoni, Elaine Ferreira Machado",
+        "prof": "Elaine Ferreira Machado, Gizele Iank Leite",
         "opt": "Não"
       }
     ]
@@ -368,23 +351,6 @@
     ]
   },
   {
-    "code": "CB51H",
-    "name": "Fundamentos Da Matemática",
-    "turmas": [
-      {
-        "turma": "CB11",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Fechada",
-        "prio": "1 - Ciências Biológicas",
-        "h": "3T2(L004)-3T3(L004)",
-        "prof": "Cristiane Toniolo Dias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CB52B",
     "name": "Fundamentos Filosóficos E Sociológicos Da Educação",
     "turmas": [
@@ -397,6 +363,23 @@
         "prio": "1 - Ciências Biológicas",
         "h": "5N1(L005)-5N2(L005)",
         "prof": "Natalia De Lima Bueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "CB51H",
+    "name": "Fundamentos Da Matemática",
+    "turmas": [
+      {
+        "turma": "CB11",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Fechada",
+        "prio": "1 - Ciências Biológicas",
+        "h": "3T2(L004)-3T3(L004)",
+        "prof": "Cristiane Toniolo Dias",
         "opt": "Não"
       }
     ]
@@ -707,7 +690,7 @@
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
         "h": "5N1(L104)-5N2(L104)",
-        "prof": "Danislei Bertoni",
+        "prof": "Gizele Iank Leite",
         "opt": "Não"
       }
     ]
@@ -741,7 +724,7 @@
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
         "h": "6T2(L007)-6T3(L007)-6T4(L007)-6T5(L007)-6T6(L007)",
-        "prof": "Danislei Bertoni",
+        "prof": "Gizele Iank Leite",
         "opt": "Não"
       }
     ]
@@ -845,17 +828,6 @@
         "h": "3T4(L110)-3T5(L110)-3T6(L110)",
         "prof": "Lorena Julia Gali Rodrigues",
         "opt": "Não"
-      },
-      {
-        "turma": "CB55",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Ciências Biológicas",
-        "h": "3T4(L110)-3T5(L110)-3T6(L110)",
-        "prof": "Jacqueline Peixoto Neves",
-        "opt": "Não"
       }
     ]
   },
@@ -938,8 +910,8 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Ciências Biológicas",
-        "h": "2T4(C015)-2T4(C015)-2T5(C015)-2T5(C015)-3T2(L105)-3T2(L105)-3T3(L105)-3T3(L105)-3T4(L105)-3T4(L105)-3T5(L105)-3T5(L105)",
-        "prof": "Leticia Cuccolo Karling, Igor De Paiva Affonso",
+        "h": "3T2(L105)-3T3(L105)-3T4(L105)-3T5(L105)",
+        "prof": "Leticia Cuccolo Karling",
         "opt": "Não"
       }
     ]

@@ -1,5 +1,22 @@
 [
   {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "TBO6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Tbo",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05C",
     "name": "Abordagens Pedagógicas Em Ead 2",
     "turmas": [
@@ -29,40 +46,6 @@
         "prio": "1 - Lic Computação - Tbo",
         "h": "",
         "prof": "Elaine Ferreira Machado",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LC06A",
-    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
-    "turmas": [
-      {
-        "turma": "TBO6",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Tbo",
-        "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LC04D",
-    "name": "Banco De Dados",
-    "turmas": [
-      {
-        "turma": "TBO4",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Tbo",
-        "h": "",
-        "prof": "Simone De Almeida",
         "opt": "Não"
       }
     ]

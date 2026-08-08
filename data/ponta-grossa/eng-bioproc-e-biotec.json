@@ -21,7 +21,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
-        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-3T2(L006)-3T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
+        "h": "2T2(L006)-2T2(L006)-2T2(L006)-2T2(L006)-2T3(L006)-2T3(L006)-2T3(L006)-2T3(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T2(L006)-4T3(L006)-4T3(L006)-4T3(L006)-4T3(L006)",
         "prof": "Rafael Ribaski Borges, Marcos Cesar Verges, Rodrigo Frehse Pereira, Ana Paula Milanez",
         "opt": "Matriz:844, Matriz:814"
       },
@@ -448,7 +448,7 @@
       {
         "turma": "RE42A",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
@@ -459,7 +459,7 @@
       {
         "turma": "RE42B",
         "enq": "Presencial",
-        "vt": "0",
+        "vt": "44",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia Mecânica, 1 - Ciência Da Computação, 1 - Engenharia De Produção, 1 - Eng Bioproc E Biotec, 1 - Engenharia Elétrica",
@@ -489,7 +489,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Ciência Da Computação, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "2T2(L109)-2T2(L109)-2T3(L109)-2T3(L109)-4T2(L109)-4T2(L109)-4T3(L109)-4T3(L109)",
         "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
@@ -500,7 +500,7 @@
         "enq": "Presencial",
         "vt": "32",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Elétrica, 2 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec",
         "h": "2T2(L003)-2T2(L003)-2T3(L003)-2T3(L003)-4T2(L003)-4T2(L003)-4T3(L003)-4T3(L003)",
         "prof": "Jussara Rodrigues Ciappina, Iara Da Cunha Ribeiro Da Silva",
@@ -522,7 +522,7 @@
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 1 - Engenharia De Produção, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "3T4(L008)-3T4(L008)-3T5(L008)-3T5(L008)-5T4(L102)-5T4(L102)-5T5(L102)-5T5(L102)",
         "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
@@ -533,7 +533,7 @@
         "enq": "Presencial",
         "vt": "44",
         "vc": "0",
-        "res": "Sem Reserva",
+        "res": "Fechada",
         "prio": "1 - Engenharia Química, 2 - Engenharia Mecânica, 2 - Ciência Da Computação, 2 - Engenharia De Produção, 2 - Eng Bioproc E Biotec, 2 - Engenharia Elétrica",
         "h": "3T4(L114)-3T4(L114)-3T5(L114)-3T5(L114)-5T4(L106)-5T4(L106)-5T5(L106)-5T5(L106)",
         "prof": "Rafael Ribaski Borges, David Alexander Chipana Mollinedo",
@@ -678,23 +678,6 @@
         "h": "5T4(L104)-5T5(L104)",
         "prof": "Regina Negri Pagani",
         "opt": "Matriz:844, Matriz:826, Matriz:827, Matriz:821, Matriz:814"
-      }
-    ]
-  },
-  {
-    "code": "QM38F",
-    "name": "Empreendedorismo",
-    "turmas": [
-      {
-        "turma": "EQ82",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia Química",
-        "h": "3T4(L003)-3T5(L003)",
-        "prof": "Joao Luiz Kovaleski",
-        "opt": "Não"
       }
     ]
   },
@@ -1187,7 +1170,7 @@
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Eng Bioproc E Biotec",
-        "h": "3M3(C002)-3M4(C002)-3M5(C002)",
+        "h": "3M3(C002)-3M3(L004)-3M4(L004)-3M4(C002)-3M5(C002)-3M5(L004)",
         "prof": "Luis Fernando Quintino Pereira Marchesi",
         "opt": "Não"
       },
@@ -2119,23 +2102,6 @@
         "prio": "1 - Eng Bioproc E Biotec, 2 - Engenharia Química",
         "h": "3T2(C113)-3T3(C113)-3T4(C113)",
         "prof": "Graciela Leila Heep",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EP56C",
-    "name": "Segurança Do Trabalho",
-    "turmas": [
-      {
-        "turma": "EP61",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "1 - Engenharia De Produção",
-        "h": "2M2(L109)-2M3(L109)",
-        "prof": "Ariel Orlei Michaloski",
         "opt": "Não"
       }
     ]

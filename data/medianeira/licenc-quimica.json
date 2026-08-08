@@ -1,5 +1,22 @@
 [
   {
+    "code": "QUI1032",
+    "name": "Abordagens Metodológicas Para O Ensino De Química Na Educação Básica",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "2N1(I43)-2N2(I43)-2N3(I43)",
+        "prof": "Suelen Specht Calegaro Milioli",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1004",
     "name": "Álgebra Linear",
     "turmas": [
@@ -180,6 +197,23 @@
     ]
   },
   {
+    "code": "QUI1025",
+    "name": "Currículos, Marcos Legais E Ensino De Química",
+    "turmas": [
+      {
+        "turma": "LQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "2N4(G06A)-2N5(G06A)",
+        "prof": "Rodrigo Ruschel Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "MAT1008",
     "name": "Descrição E Inferência Estatística De Dados",
     "turmas": [
@@ -236,6 +270,23 @@
         "prio": "1 - Eng.Produção, 1 - Engenharia Alimentos",
         "h": "4M1(L12A)-4M2(L12A)-4M3(L12A)",
         "prof": "Samuel Bellido Rodrigues",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI1026",
+    "name": "Didáticas Das Ciências E Educação Química",
+    "turmas": [
+      {
+        "turma": "LQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "6N4(H38)-6N5(H38)",
+        "prof": "Suelen Specht Calegaro Milioli",
         "opt": "Não"
       }
     ]
@@ -1025,6 +1076,23 @@
     ]
   },
   {
+    "code": "QUI1033",
+    "name": "Instrumentação Para O Ensino De Química I: Análise, Proposição E Elaboração De Materiais Didáticos E Projetos",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "6N1(I43)-6N2(I43)",
+        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1039",
     "name": "Instrumentação Para O Ensino De Química Ii: Práticas Investigativas E Experimentação Na Educação Básica",
     "turmas": [
@@ -1361,6 +1429,23 @@
     ]
   },
   {
+    "code": "HLA1017",
+    "name": "Noções Linguísticas E Culturais Da Língua Brasileira De Sinais",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "30",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Tecnol Em Alimentos, 1 - Licenc.Química",
+        "h": "4N3(I43)",
+        "prof": "Silvana Mendonca Lopes Valentin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "HLA1014",
     "name": "Organização E Funcionamento Da Educação Básica",
     "turmas": [
@@ -1395,6 +1480,23 @@
     ]
   },
   {
+    "code": "E1LQ1",
+    "name": "Prática De Ensino E Estágio Curricular Supervisionado I",
+    "turmas": [
+      {
+        "turma": "LQ6",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "3N1(G06A)-3N2(G06A)-3N3(G06A)-3N4(G06A)-3N5(G06A)-3T4(G06A)-3T5(G06A)",
+        "prof": "Rodrigo Ruschel Nunes",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "E2LQ1",
     "name": "Prática De Ensino E Estágio Curricular Supervisionado Ii",
     "turmas": [
@@ -1407,6 +1509,40 @@
         "prio": "1 - Licenc.Química",
         "h": "5N1(G4)-5N2(G4)-5N3(G4)-5N4(G4)-5N5(G4)-6T3(G4)-6T4(G4)-6T5(G4)-6T6(G4)",
         "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "E3LQ1",
+    "name": "Prática De Ensino E Estágio Curricular Supervisionado Iii",
+    "turmas": [
+      {
+        "turma": "LQ8",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "5T1(G4)-5T2(G4)-5T3(G4)-5T4(G4)-5T5(G4)-5T6(G4)-6N1(G4)-6N2(G4)-6N3(G4)-6T5(G4)-6T6(G4)",
+        "prof": "Ismael Laurindo Costa Junior",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HLA1016",
+    "name": "Práticas Escolares Em Educação Especial E Inclusiva",
+    "turmas": [
+      {
+        "turma": "LQ5",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "5N4(I43)-5N5(I43)",
+        "prof": "Jacqueline Lidiane De Souza",
         "opt": "Não"
       }
     ]
@@ -1463,6 +1599,23 @@
     ]
   },
   {
+    "code": "QUI1027",
+    "name": "Projeto Integrador 1: Prática Investigativa E Experimental Para Solução De Problemas Reais",
+    "turmas": [
+      {
+        "turma": "LQ4",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Licenc.Química",
+        "h": "3N2(H38)",
+        "prof": "Henry Charles Albert D Naidoo Terroso De Mendonca Brandao",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI1040",
     "name": "Projeto Integrador 2: Prática Investigativa E Experimental De Fenômenos E Processos Químicos No Contexto Educativo",
     "turmas": [
@@ -1503,7 +1656,7 @@
       {
         "turma": "MEIU1",
         "enq": "Presencial",
-        "vt": "5",
+        "vt": "0",
         "vc": "0",
         "res": "Sem Reserva",
         "prio": "1 - Eng.Produção",

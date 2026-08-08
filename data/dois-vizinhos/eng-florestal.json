@@ -1998,23 +1998,6 @@
     ]
   },
   {
-    "code": "QV19SW",
-    "name": "Qualidade De Vida",
-    "turmas": [
-      {
-        "turma": "ESOPT",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Sem Reserva",
-        "prio": "",
-        "h": "5N4(B7-S7)-5N5(B7-S7)",
-        "prof": "Marisangela Pacheco Brittes",
-        "opt": "Matriz:56"
-      }
-    ]
-  },
-  {
     "code": "QF13AG",
     "name": "Química E Física Do Solo",
     "turmas": [

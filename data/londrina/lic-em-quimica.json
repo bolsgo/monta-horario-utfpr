@@ -1,5 +1,22 @@
 [
   {
+    "code": "MAT020",
+    "name": "Álgebra Vetorial",
+    "turmas": [
+      {
+        "turma": "Q23",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N3(K203)-6N1(K203)-6N2(K203)-6N3(K203)",
+        "prof": "Luis Felipe Goncalves Carneiro",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI045",
     "name": "Análise Instrumental",
     "turmas": [
@@ -46,6 +63,40 @@
         "prio": "1 - Lic Em Química",
         "h": "6N1(A106)-6N2(A106)-6N3(A106)-6N4(A305)-6N5(A305)",
         "prof": "Claudio Takeo Ueno",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT021",
+    "name": "Cálculo Diferencial E Integral 1",
+    "turmas": [
+      {
+        "turma": "Q23",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "2N3(K203)-2N4(K203)-4N3(K203)-4N4(K203)",
+        "prof": "Manuel Francisco Zuloeta Jimenez",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT022",
+    "name": "Cálculo Diferencial E Integral 2",
+    "turmas": [
+      {
+        "turma": "Q33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N4(B204)-3N5(B204)-6N1(K210)-6N2(K210)",
+        "prof": "Manuel Francisco Zuloeta Jimenez",
         "opt": "Não"
       }
     ]
@@ -119,40 +170,6 @@
     ]
   },
   {
-    "code": "MAT021",
-    "name": "Cálculo Diferencial E Integral 1",
-    "turmas": [
-      {
-        "turma": "Q23",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "2N3(K203)-2N4(K203)-4N3(K203)-4N4(K203)",
-        "prof": "Manuel Francisco Zuloeta Jimenez",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT022",
-    "name": "Cálculo Diferencial E Integral 2",
-    "turmas": [
-      {
-        "turma": "Q33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N4(B204)-3N5(B204)-6N1(K210)-6N2(K210)",
-        "prof": "Manuel Francisco Zuloeta Jimenez",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "CHS025",
     "name": "Didática Geral",
     "turmas": [
@@ -187,23 +204,6 @@
     ]
   },
   {
-    "code": "MAT05L",
-    "name": "Estatística",
-    "turmas": [
-      {
-        "turma": "Q43",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "4N4(B205)-4N5(B205)-5N4(B205)-5N5(B205)",
-        "prof": "Joelmir Andre Borssoi",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "ESTLC1",
     "name": "Estágio Curricular Obrigatório 1",
     "turmas": [
@@ -215,23 +215,6 @@
         "res": "Fechada",
         "prio": "1 - Lic Em Química",
         "h": "3N4(K102)-3N5(K102)-5M3(ZSV04)-5M4(ZSV04)-5M5(ZSV04)-5N1(ZSV04)-5N2(ZSV04)-5N3(ZSV04)-5N4(ZSV04)-5N5(ZSV04)",
-        "prof": "Cristiane Beatriz Dal Bosco Rezzadori",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "ES87A",
-    "name": "Estágio Curricular Obrigatório 2",
-    "turmas": [
-      {
-        "turma": "Q73",
-        "enq": "Presencial",
-        "vt": "15",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N1(B203)-3N2(B203)-3N3(B203)-3T6(ZSV04)-5M1(ZSV04)-5M2(ZSV04)-5N1(ZSV02)-5N2(ZSV02)-5N3(ZSV02)-5N4(ZSV02)",
         "prof": "Cristiane Beatriz Dal Bosco Rezzadori",
         "opt": "Não"
       }
@@ -255,6 +238,23 @@
     ]
   },
   {
+    "code": "ES87A",
+    "name": "Estágio Curricular Obrigatório 2",
+    "turmas": [
+      {
+        "turma": "Q73",
+        "enq": "Presencial",
+        "vt": "15",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N1(B203)-3N2(B203)-3N3(B203)-3T6(ZSV04)-5M1(ZSV04)-5M2(ZSV04)-5N1(ZSV02)-5N2(ZSV02)-5N3(ZSV02)-5N4(ZSV02)",
+        "prof": "Cristiane Beatriz Dal Bosco Rezzadori",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "ES88A",
     "name": "Estágio Curricular Obrigatório 3",
     "turmas": [
@@ -267,6 +267,210 @@
         "prio": "1 - Lic Em Química",
         "h": "2M1(ZSV08)-2M2(ZSV08)-3N1(ZSV01)-3N2(ZSV01)-3N3(ZSV01)-3N4(ZSV01)-5N1(A106)-5N2(A106)-5N3(A106)-5N4(A106)",
         "prof": "Marcia Camilo Figueiredo",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "MAT05L",
+    "name": "Estatística",
+    "turmas": [
+      {
+        "turma": "Q43",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "4N4(B205)-4N5(B205)-5N4(B205)-5N5(B205)",
+        "prof": "Joelmir Andre Borssoi",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "HU67A",
+    "name": "Ética, Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "ME81",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng Mecânica",
+        "h": "2M4(K214)-2M5(K214)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Matriz:48"
+      }
+    ]
+  },
+  {
+    "code": "HU99A",
+    "name": "Ética Profissão E Cidadania",
+    "turmas": [
+      {
+        "turma": "EM91",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng De Materiais",
+        "h": "4T5(K207)-4T6(K207)",
+        "prof": "Fernanda Di Flora Garcia",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS019",
+    "name": "Física Experimental 1",
+    "turmas": [
+      {
+        "turma": "Q33",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "4N4(K201)-4N5(K201)",
+        "prof": "Paulo Sergio De Camargo Filho",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS021",
+    "name": "Física Experimental 2",
+    "turmas": [
+      {
+        "turma": "Q43",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N4(K204)-3N5(K204)",
+        "prof": "Marco Aurelio Toledo Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS023",
+    "name": "Física Experimental 3",
+    "turmas": [
+      {
+        "turma": "Q53",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "6N1(K301)-6N2(K301)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS018",
+    "name": "Física 1",
+    "turmas": [
+      {
+        "turma": "Q33",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "6N3(B204)-6N4(B204)-6N5(B204)",
+        "prof": "Luiz Carlos Pocas",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS020",
+    "name": "Física 2",
+    "turmas": [
+      {
+        "turma": "Q43",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "6N3(B205)-6N4(B205)-6N5(B205)",
+        "prof": "Matheus Lucas Gumieri Pereira",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FIS022",
+    "name": "Física 3",
+    "turmas": [
+      {
+        "turma": "Q53",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N1(B206)-3N2(B206)-3N3(B206)",
+        "prof": "Luis Henrique Cardozo Amorin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QM87E",
+    "name": "Físico Química Experimental 1",
+    "turmas": [
+      {
+        "turma": "Q73",
+        "enq": "Presencial",
+        "vt": "22",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "2N1(B305)-2N2(B305)-2N3(B305)",
+        "prof": "Marcos Antonio Piza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QUI044",
+    "name": "Físico-Química 1",
+    "turmas": [
+      {
+        "turma": "Q63",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "2N4(B203)-2N5(B203)-6N1(B203)-6N2(B203)-6N3(B203)",
+        "prof": "Marcos Antonio Piza",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "QM86E",
+    "name": "Físico-Química 2",
+    "turmas": [
+      {
+        "turma": "DP63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "3N4(B205)-3N5(B205)-4N3(A106)-4N4(A106)-4N5(A106)",
+        "prof": "Marcos Antonio Piza",
         "opt": "Não"
       }
     ]
@@ -335,159 +539,6 @@
         "prio": "1 - Lic Em Química",
         "h": "2N4(K212)-2N5(K212)-3N1(K212)-3N2(K212)",
         "prof": "Ricardo De Sa Teles",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS018",
-    "name": "Física 1",
-    "turmas": [
-      {
-        "turma": "Q33",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "6N3(B204)-6N4(B204)-6N5(B204)",
-        "prof": "Luiz Carlos Pocas",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS020",
-    "name": "Física 2",
-    "turmas": [
-      {
-        "turma": "Q43",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "6N3(B205)-6N4(B205)-6N5(B205)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS022",
-    "name": "Física 3",
-    "turmas": [
-      {
-        "turma": "Q53",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N1(B206)-3N2(B206)-3N3(B206)",
-        "prof": "Luis Henrique Cardozo Amorin",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS019",
-    "name": "Física Experimental 1",
-    "turmas": [
-      {
-        "turma": "Q33",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "4N4(K201)-4N5(K201)",
-        "prof": "Paulo Sergio De Camargo Filho",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS021",
-    "name": "Física Experimental 2",
-    "turmas": [
-      {
-        "turma": "Q43",
-        "enq": "Presencial",
-        "vt": "24",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N4(K204)-3N5(K204)",
-        "prof": "Marco Aurelio Toledo Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FIS023",
-    "name": "Física Experimental 3",
-    "turmas": [
-      {
-        "turma": "Q53",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "6N1(K301)-6N2(K301)",
-        "prof": "Matheus Lucas Gumieri Pereira",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QM87E",
-    "name": "Físico Química Experimental 1",
-    "turmas": [
-      {
-        "turma": "Q73",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "2N1(B305)-2N2(B305)-2N3(B305)",
-        "prof": "Marcos Antonio Piza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI044",
-    "name": "Físico-Química 1",
-    "turmas": [
-      {
-        "turma": "Q63",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "2N4(B203)-2N5(B203)-6N1(B203)-6N2(B203)-6N3(B203)",
-        "prof": "Marcos Antonio Piza",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QM86E",
-    "name": "Físico-Química 2",
-    "turmas": [
-      {
-        "turma": "DP63",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N4(B205)-3N5(B205)-4N3(A106)-4N4(A106)-4N5(A106)",
-        "prof": "Marcos Antonio Piza",
         "opt": "Não"
       }
     ]
@@ -816,6 +867,23 @@
     ]
   },
   {
+    "code": "QM86D",
+    "name": "Química Inorgânica Experimental 1",
+    "turmas": [
+      {
+        "turma": "DP63",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Em Química",
+        "h": "5N1(B303)-5N2(B303)-5N3(B303)",
+        "prof": "Cristiano Torres Miranda",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "QUI037",
     "name": "Química Inorgânica 1",
     "turmas": [
@@ -850,18 +918,18 @@
     ]
   },
   {
-    "code": "QM86D",
-    "name": "Química Inorgânica Experimental 1",
+    "code": "QUI043",
+    "name": "Química Orgânica Experimental",
     "turmas": [
       {
-        "turma": "DP63",
+        "turma": "Q63",
         "enq": "Presencial",
         "vt": "20",
         "vc": "0",
         "res": "Fechada",
         "prio": "1 - Lic Em Química",
-        "h": "5N1(B303)-5N2(B303)-5N3(B303)",
-        "prof": "Cristiano Torres Miranda",
+        "h": "2N1(K008)-2N2(K008)-2N3(K008)",
+        "prof": "Luis Fernando Cabeca",
         "opt": "Não"
       }
     ]
@@ -895,23 +963,6 @@
         "res": "Fechada",
         "prio": "1 - Lic Em Química",
         "h": "2N4(B206)-2N5(B206)-4N1(B206)-4N2(B206)",
-        "prof": "Luis Fernando Cabeca",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "QUI043",
-    "name": "Química Orgânica Experimental",
-    "turmas": [
-      {
-        "turma": "Q63",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "2N1(K008)-2N2(K008)-2N3(K008)",
         "prof": "Luis Fernando Cabeca",
         "opt": "Não"
       }
@@ -965,57 +1016,6 @@
         "h": "2N5(K310)-4T6(ZSV01)",
         "prof": "Alessandra Stevanato",
         "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "MAT020",
-    "name": "Álgebra Vetorial",
-    "turmas": [
-      {
-        "turma": "Q23",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Em Química",
-        "h": "3N3(K203)-6N1(K203)-6N2(K203)-6N3(K203)",
-        "prof": "Luis Felipe Goncalves Carneiro",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HU99A",
-    "name": "Ética Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "EM91",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng De Materiais",
-        "h": "4T5(K207)-4T6(K207)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "HU67A",
-    "name": "Ética, Profissão E Cidadania",
-    "turmas": [
-      {
-        "turma": "ME81",
-        "enq": "Presencial",
-        "vt": "22",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng Mecânica",
-        "h": "2M4(K214)-2M5(K214)",
-        "prof": "Fernanda Di Flora Garcia",
-        "opt": "Matriz:48"
       }
     ]
   }

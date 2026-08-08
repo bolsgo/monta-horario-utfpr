@@ -943,6 +943,17 @@
     "name": "Projeto De Embalagens",
     "turmas": [
       {
+        "turma": "M31",
+        "enq": "Presencial",
+        "vt": "24",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Tecn Design Gráfico, 2 - Design",
+        "h": "5M2(CC-207)-5M3(CC-207)-5M4(CC-207)-5M5(CC-207)",
+        "prof": "Andre De Souza Lucca",
+        "opt": "Não"
+      },
+      {
         "turma": "N31",
         "enq": "Presencial",
         "vt": "28",

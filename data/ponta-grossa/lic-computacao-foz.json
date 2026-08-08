@@ -1,5 +1,22 @@
 [
   {
+    "code": "LC06A",
+    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
+    "turmas": [
+      {
+        "turma": "FOZ6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Foz",
+        "h": "",
+        "prof": "Mario Jose Van Thienen Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05C",
     "name": "Abordagens Pedagógicas Em Ead 2",
     "turmas": [
@@ -28,24 +45,7 @@
         "res": "Fechada",
         "prio": "1 - Lic Computação - Foz",
         "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "LC06A",
-    "name": "Appc 6 – Tdic Em Projetos Educacionais 2",
-    "turmas": [
-      {
-        "turma": "FOZ6",
-        "enq": "EaD",
-        "vt": "44",
-        "vc": "0",
-        "res": "Fechada",
-        "prio": "1 - Lic Computação - Foz",
-        "h": "",
-        "prof": "Mario Jose Van Thienen Da Silva",
+        "prof": "Elaine Ferreira Machado",
         "opt": "Não"
       }
     ]

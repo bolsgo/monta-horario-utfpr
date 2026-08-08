@@ -360,17 +360,6 @@
     "name": "Libras 1",
     "turmas": [
       {
-        "turma": "3EA",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "6T2(G202)-6T3(G202)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "OPBSI",
         "enq": "Presencial",
         "vt": "44",
@@ -378,6 +367,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Informação",
         "h": "6N2(R206)-6N3(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "3EA",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "6T2(G202)-6T3(G202)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
       }
@@ -388,17 +388,6 @@
     "name": "Libras 2",
     "turmas": [
       {
-        "turma": "6EA",
-        "enq": "Presencial",
-        "vt": "0",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Eng. De Alimentos",
-        "h": "2T1(R202)-2T2(R202)",
-        "prof": "Vanderleia Maria Castoldi Andrade",
-        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
-      },
-      {
         "turma": "OPBSI",
         "enq": "Presencial",
         "vt": "44",
@@ -406,6 +395,17 @@
         "res": "Aberta",
         "prio": "1 - Sist. Informação",
         "h": "3N1(R206)-3T6(R206)",
+        "prof": "Vanderleia Maria Castoldi Andrade",
+        "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
+      },
+      {
+        "turma": "6EA",
+        "enq": "Presencial",
+        "vt": "0",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Eng. De Alimentos",
+        "h": "2T1(R202)-2T2(R202)",
         "prof": "Vanderleia Maria Castoldi Andrade",
         "opt": "Matriz:45, Matriz:37, Matriz:44, Matriz:25, Matriz:41, Matriz:31, Matriz:38, Matriz:30"
       }
@@ -416,17 +416,6 @@
     "name": "Linguagem De Programação",
     "turmas": [
       {
-        "turma": "2SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "2N4(Q201)-2N5(Q201)-3N2(Q201)-3N3(Q201)-3N4(Q201)-3N5(Q201)",
-        "prof": "Jurandi Daleffe Junior",
-        "opt": "Não"
-      },
-      {
         "turma": "SPO",
         "enq": "Presencial",
         "vt": "40",
@@ -434,6 +423,17 @@
         "res": "Aberta",
         "prio": "1 - Lic. Informática, 1 - Sist. Informação",
         "h": "",
+        "prof": "Jurandi Daleffe Junior",
+        "opt": "Não"
+      },
+      {
+        "turma": "2SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N4(Q201)-2N5(Q201)-3N2(Q201)-3N3(Q201)-3N4(Q201)-3N5(Q201)",
         "prof": "Jurandi Daleffe Junior",
         "opt": "Não"
       }
@@ -558,23 +558,6 @@
     ]
   },
   {
-    "code": "PIN603",
-    "name": "Projeto Integrador Ct&I 2",
-    "turmas": [
-      {
-        "turma": "6SI",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Sist. Informação",
-        "h": "2N2(Q207)-2N3(Q207)",
-        "prof": "Adair Jose Rohling",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "PS36L",
     "name": "Projeto De Software Educacional",
     "turmas": [
@@ -587,6 +570,23 @@
         "prio": "1 - Lic. Informática",
         "h": "5T5(Q104)-5T6(Q104)-6T5(Q104)-6T6(Q104)",
         "prof": "Maici Duarte Leite",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "PIN603",
+    "name": "Projeto Integrador Ct&I 2",
+    "turmas": [
+      {
+        "turma": "6SI",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Sist. Informação",
+        "h": "2N2(Q207)-2N3(Q207)",
+        "prof": "Adair Jose Rohling",
         "opt": "Não"
       }
     ]

@@ -79,6 +79,23 @@
     ]
   },
   {
+    "code": "LM17A",
+    "name": "Análise Real 2",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(A136)-5N5(A136)-6N1(A136)-6N2(A136)-6N3(A136)",
+        "prof": "Vinicius Araujo Peralta",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LM14A",
     "name": "Cálculo De Funções Reais De Várias Variáveis Reais",
     "turmas": [
@@ -126,6 +143,40 @@
         "h": "5N4(A035)-5N5(A035)-6N4(A035)-6N5(A035)",
         "prof": "Carlos Augusto Bassani Varea",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM18E",
+    "name": "Cálculo Numérico",
+    "turmas": [
+      {
+        "turma": "L81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N2(P104)-5N3(P104)-6N2(P104)-6N3(P104)",
+        "prof": "Glaucia Maria Bressan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM19L",
+    "name": "Educação Estatística E Educação Matemática",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N1(I202)-5N1(I202)",
+        "prof": "Dayani Quero Da Silva",
+        "opt": "Matriz:189"
       }
     ]
   },
@@ -334,6 +385,23 @@
     ]
   },
   {
+    "code": "LM17C",
+    "name": "História Da Matemática",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A134)-2N5(A134)-3N2(A134)-3N3(A134)",
+        "prof": "Maria Lucia De Carvalho Fontanini",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LM13F",
     "name": "Inclusão E Educação Matemática",
     "turmas": [
@@ -429,7 +497,7 @@
         "vc": "0",
         "res": "Aberta",
         "prio": "1 - Licenc. Matemática",
-        "h": "2N1(LIM)-2N2(LIM)-2N3(LIM)",
+        "h": "2N1(I204)-2N2(I204)-2N3(I204)",
         "prof": "Thiago De Souza Pinto",
         "opt": "Não"
       }
@@ -516,6 +584,40 @@
         "prio": "1 - Licenc. Matemática",
         "h": "3N1(P104)-3N2(P104)-3N3(P104)",
         "prof": "Thiago De Souza Pinto",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM17D",
+    "name": "Prática De Ensino C",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "4N2(I202)-4N3(I202)-5N2(I202)-5N3(I202)",
+        "prof": "Dayani Quero Da Silva",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM18C",
+    "name": "Prática De Ensino D",
+    "turmas": [
+      {
+        "turma": "L81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N4(A148)-2N5(A148)-4N2(A146)-4N3(A146)",
+        "prof": "Linlya Natassia Sachs Camerlengo De Barbosa",
         "opt": "Não"
       }
     ]
@@ -635,6 +737,57 @@
         "prio": "1 - Licenc. Matemática",
         "h": "5N4(A134)-5N5(A134)-6N4(A134)-6N5(A134)",
         "prof": "Anderson Paiao Dos Santos",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM19N",
+    "name": "Tópicos Especiais Em Educação",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "2N2(LIM)-2N3(LIM)-3N4(LIM)-3N5(LIM)",
+        "prof": "Armando Paulo Da Silva",
+        "opt": "Matriz:189"
+      }
+    ]
+  },
+  {
+    "code": "LM17B",
+    "name": "Trabalho De Conclusão De Curso 1",
+    "turmas": [
+      {
+        "turma": "L71",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "6N4(P104)-6N5(P104)",
+        "prof": "Glaucia Maria Bressan",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "LM18B",
+    "name": "Trabalho De Conclusão De Curso 2",
+    "turmas": [
+      {
+        "turma": "L81",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Licenc. Matemática",
+        "h": "5N4(P203)-5N5(P203)",
+        "prof": "Glaucia Maria Bressan",
         "opt": "Não"
       }
     ]

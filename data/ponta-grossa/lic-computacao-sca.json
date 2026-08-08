@@ -51,6 +51,23 @@
     ]
   },
   {
+    "code": "LC06F",
+    "name": "Design Instrucional",
+    "turmas": [
+      {
+        "turma": "SCA6",
+        "enq": "EaD",
+        "vt": "44",
+        "vc": "0",
+        "res": "Fechada",
+        "prio": "1 - Lic Computação - Sca",
+        "h": "",
+        "prof": "Awdry Feisser Miquelin",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LC05B",
     "name": "Educação Inclusiva E Tecnologias Assistivas",
     "turmas": [

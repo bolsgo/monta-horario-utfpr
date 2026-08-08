@@ -300,6 +300,40 @@
     ]
   },
   {
+    "code": "EA22B",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2BS",
+        "enq": "Presencial",
+        "vt": "40",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "2N4(O201)-2N5(O201)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "EB22A",
+    "name": "Estatística Básica",
+    "turmas": [
+      {
+        "turma": "2AS",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Administração",
+        "h": "3N2(O001)-3N3(O001)",
+        "prof": "Luiz Carlos Scheitt",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "EE45S",
     "name": "Empreendedorismo",
     "turmas": [
@@ -402,40 +436,6 @@
     ]
   },
   {
-    "code": "EA22B",
-    "name": "Estatística Básica",
-    "turmas": [
-      {
-        "turma": "2BS",
-        "enq": "Presencial",
-        "vt": "40",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "2N4(O201)-2N5(O201)",
-        "prof": "Luiz Carlos Scheitt",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "EB22A",
-    "name": "Estatística Básica",
-    "turmas": [
-      {
-        "turma": "2AS",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Administração",
-        "h": "3N2(O001)-3N3(O001)",
-        "prof": "Luiz Carlos Scheitt",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
     "code": "FI22B",
     "name": "Filosofia",
     "turmas": [
@@ -447,23 +447,6 @@
         "res": "Aberta",
         "prio": "1 - Ciências Contábeis",
         "h": "4N2(O201)-4N3(O201)",
-        "prof": "Nilson De Farias",
-        "opt": "Não"
-      }
-    ]
-  },
-  {
-    "code": "FL41G",
-    "name": "Filosofia",
-    "turmas": [
-      {
-        "turma": "1G",
-        "enq": "Presencial",
-        "vt": "45",
-        "vc": "44",
-        "res": "Aberta",
-        "prio": "1 - Agronomia",
-        "h": "5M4(O001)-5M5(O001)",
         "prof": "Nilson De Farias",
         "opt": "Não"
       }
@@ -482,6 +465,23 @@
         "prio": "1 - Ciências Contábeis",
         "h": "2N4(O-202)-2N5(O-202)-4N4(O-202)-4N5(O-202)",
         "prof": "Oldair Roberto Giasson",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "FL41G",
+    "name": "Filosofia",
+    "turmas": [
+      {
+        "turma": "1G",
+        "enq": "Presencial",
+        "vt": "45",
+        "vc": "44",
+        "res": "Aberta",
+        "prio": "1 - Agronomia",
+        "h": "5M4(O001)-5M5(O001)",
+        "prof": "Nilson De Farias",
         "opt": "Não"
       }
     ]
@@ -668,6 +668,23 @@
     ]
   },
   {
+    "code": "LB26M",
+    "name": "Libras 2",
+    "turmas": [
+      {
+        "turma": "6ZZ",
+        "enq": "Presencial",
+        "vt": "44",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Lic. Matemática (Sem)",
+        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
+        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
+        "opt": "Não"
+      }
+    ]
+  },
+  {
     "code": "LB43L",
     "name": "Libras",
     "turmas": [
@@ -698,23 +715,6 @@
         "h": "5N2(M007)-5N2(M007)-5N3(M007)-5N3(M007)",
         "prof": "Mirelia Flausino Vogel, Aline Brancalione",
         "opt": "Matriz:657, Matriz:489, Matriz:639, Matriz:636, Matriz:641, Matriz:640, Matriz:637, Matriz:642, Matriz:638, Matriz:635"
-      }
-    ]
-  },
-  {
-    "code": "LB26M",
-    "name": "Libras 2",
-    "turmas": [
-      {
-        "turma": "6ZZ",
-        "enq": "Presencial",
-        "vt": "44",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Lic. Matemática (Sem)",
-        "h": "3N2(N104)-3N2(N104)-3N3(N104)-3N3(N104)",
-        "prof": "Mirelia Flausino Vogel, Aline Brancalione",
-        "opt": "Não"
       }
     ]
   },
@@ -781,23 +781,6 @@
     ]
   },
   {
-    "code": "AE27B",
-    "name": "Métodos De Avaliação De Empresas",
-    "turmas": [
-      {
-        "turma": "6BS",
-        "enq": "Presencial",
-        "vt": "20",
-        "vc": "0",
-        "res": "Aberta",
-        "prio": "1 - Ciências Contábeis",
-        "h": "3N4(O-202)-3N5(O-202)",
-        "prof": "Eliandro Schvirck",
-        "opt": "Matriz:627"
-      }
-    ]
-  },
-  {
     "code": "ME22B",
     "name": "Microeconomia",
     "turmas": [
@@ -811,6 +794,23 @@
         "h": "2N2(O201)-2N3(O201)-4N4(O201)-4N5(O201)",
         "prof": "Elizangela Mara Carvalheiro",
         "opt": "Não"
+      }
+    ]
+  },
+  {
+    "code": "AE27B",
+    "name": "Métodos De Avaliação De Empresas",
+    "turmas": [
+      {
+        "turma": "6BS",
+        "enq": "Presencial",
+        "vt": "20",
+        "vc": "0",
+        "res": "Aberta",
+        "prio": "1 - Ciências Contábeis",
+        "h": "3N4(O-202)-3N5(O-202)",
+        "prof": "Eliandro Schvirck",
+        "opt": "Matriz:627"
       }
     ]
   },

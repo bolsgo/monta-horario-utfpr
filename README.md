@@ -7,6 +7,8 @@ Aplicação web desenvolvida para simplificar a organização semestral dos estu
 
 Feito para uso pessoal, sem vínculo com a UTFPR.
 
+Dúvidas, problemas com dados ou pedido de remoção: montahorario@gmail.com
+
 ## Estrutura dos dados (por sede e por curso)
 
 Os dados são organizados
